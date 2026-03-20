@@ -1,4 +1,48 @@
-# Lesson 1: Attend this Class
+# Biblical Hermeneutics
+
+## Table of contents
+
+- [Lesson 1: Early Beginnings (Part 1)](#lesson-1-early-beginnings-part-1)
+- [Lesson 2: Early Beginnings (Part 2)](#lesson-2-early-beginnings-part-2)
+- [Lesson 3: Hermeneutical Issues (Part 1)](#lesson-3-hermeneutical-issues-part-1)
+- [Lesson 4: Hermeneutical Issues (Part 2)](#lesson-4-hermeneutical-issues-part-2)
+- [Lesson 5: Various Issues in Hermeneutics](#lesson-5-various-issues-in-hermeneutics)
+- [Lesson 6: Introduction to Hermeneutics (Part 1)](#lesson-6-introduction-to-hermeneutics-part-1)
+- [Lesson 7: Introduction to Hermeneutics (Part 2)](#lesson-7-introduction-to-hermeneutics-part-2)
+- [Lesson 8: Vocabulary for Interpretation (Part 1)](#lesson-8-vocabulary-for-interpretation-part-1)
+- [Lesson 9: Vocabulary for Interpretation (Part 2)](#lesson-9-vocabulary-for-interpretation-part-2)
+- [Lesson 10: Role of the Holy Spirit (Part 1)](#lesson-10-role-of-the-holy-spirit-part-1)
+- [Lesson 11: Role of the Holy Spirit (Part 2)](#lesson-11-role-of-the-holy-spirit-part-2)
+- [Lesson 12: The Miraculous in Scripture](#lesson-12-the-miraculous-in-scripture)
+- [Lesson 13: Implications of Genre](#lesson-13-implications-of-genre)
+- [Lesson 14: Hermeneutics for Prophecy (Part 1)](#lesson-14-hermeneutics-for-prophecy-part-1)
+- [Lesson 15: Hermeneutics for Prophecy (Part 2)](#lesson-15-hermeneutics-for-prophecy-part-2)
+- [Lesson 16: Hermeneutics for Prophecy (Part 3)](#lesson-16-hermeneutics-for-prophecy-part-3)
+- [Lesson 17: Hermeneutics for Poetry (Part 1)](#lesson-17-hermeneutics-for-poetry-part-1)
+- [Lesson 18: Hermeneutics for Poetry (Part 2)](#lesson-18-hermeneutics-for-poetry-part-2)
+- [Lesson 19: Hermeneutics for Exaggeration (Part 1)](#lesson-19-hermeneutics-for-exaggeration-part-1)
+- [Lesson 20: Hermeneutics for Exaggeration (Part 2)](#lesson-20-hermeneutics-for-exaggeration-part-2)
+- [Lesson 21: Hermeneutics for Parables (Part 1)](#lesson-21-hermeneutics-for-parables-part-1)
+- [Lesson 22: Hermeneutics for Parables (Part 2)](#lesson-22-hermeneutics-for-parables-part-2)
+- [Lesson 23: Hermeneutics for Parables (Part 3)](#lesson-23-hermeneutics-for-parables-part-3)
+- [Lesson 24: Hermeneutics for Parables (Part 4)](#lesson-24-hermeneutics-for-parables-part-4)
+- [Lesson 25: Allegory in Parables (Part 1)](#lesson-25-allegory-in-parables-part-1)
+- [Lesson 26: Allegory in Parables (Part 2)](#lesson-26-allegory-in-parables-part-2)
+- [Lesson 27: Hermeneutics for Historical Narrative (Part 1)](#lesson-27-hermeneutics-for-historical-narrative-part-1)
+- [Lesson 28: Hermeneutics for Historical Narrative (Part 2)](#lesson-28-hermeneutics-for-historical-narrative-part-2)
+- [Lesson 29: Hermeneutics for Epistles (Part 1)](#lesson-29-hermeneutics-for-epistles-part-1)
+- [Lesson 30: Hermeneutics for Epistles (Part 2)](#lesson-30-hermeneutics-for-epistles-part-2)
+- [Lesson 31: Hermeneutics for Epistles (Part 3)](#lesson-31-hermeneutics-for-epistles-part-3)
+- [Lesson 32: Hermeneutics for Epistles (Part 4)](#lesson-32-hermeneutics-for-epistles-part-4)
+- [Lesson 33: Genre of Covenant (Part 1)](#lesson-33-genre-of-covenant-part-1)
+- [Lesson 34: Genre of Covenant (Part 2)](#lesson-34-genre-of-covenant-part-2)
+- [Lesson 35: Genre of Psalms](#lesson-35-genre-of-psalms)
+- [Lesson 36: Hermeneutics and the Canon of Scripture (Part 1)](#lesson-36-hermeneutics-and-the-canon-of-scripture-part-1)
+- [Lesson 37: Hermeneutics and the Canon of Scripture (Part 2)](#lesson-37-hermeneutics-and-the-canon-of-scripture-part-2)
+
+---
+
+# Lesson 1: Early Beginnings (Part 1)
 
 The purpose of our course is to introduce students to a brief history of the English Bible. Nowhere in the curriculum before we organized the hermeneutics class, was there a place where every student would be getting an introduction to the history of the English Bible.  It seemed incredible that a person could graduate from seminary without  having some overview of, “How did we get  this English Bible of ours?” So we will begin that.  It is also a helpful introduction to the issue of hermeneutics.
 We start tonight with a brief history of the English Bible and then we are going to seek to understand the goal of interpretation, what part presuppositions play in interpretation, the role of genre in interpretation, how to arrive at the meaning of an ancient text, as well as the present significance. The major goal of this course will be to master the technical hermeneutical vocabulary found in R. H. Stein’s,  A Basic Guide to Interpreting the Bible.

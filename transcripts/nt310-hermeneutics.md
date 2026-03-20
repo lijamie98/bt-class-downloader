@@ -1,4 +1,6 @@
-# Table of contents
+# Hermeneutics
+
+## Table of contents
 
 - [Lesson 1: Example of Hermeneutics](#lesson-1-example-of-hermeneutics)
 - [Lesson 2: Introduction to Hermeneutics](#lesson-2-introduction-to-hermeneutics)

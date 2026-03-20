@@ -1,4 +1,6 @@
-# Table of contents
+# Greek Tools for Bible Study
+
+## Table of contents
 
 - [Lesson 1: Introduction to Greek Tools](#lesson-1-introduction-to-greek-tools)
 - [Lesson 2: Greek Alphabet](#lesson-2-greek-alphabet)

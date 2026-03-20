@@ -1,4 +1,6 @@
-# Table of contents
+# Biblical Greek
+
+## Table of contents
 
 - [Lesson 1: The Greek Language](#lesson-1-the-greek-language)
 - [Lesson 2: Learning Greek](#lesson-2-learning-greek)
