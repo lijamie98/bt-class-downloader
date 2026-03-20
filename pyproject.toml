@@ -16,7 +16,7 @@ dev = [
 ]
 
 [project.scripts]
-biblicaltraining-transcripts = "biblicaltraining.cli:main"
+biblicaltraining-transcripts = "bt.cli:main"
 
 [build-system]
 requires = ["setuptools>=69.0.0", "wheel"]
@@ -30,5 +30,5 @@ select = ["E", "F", "W"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
-include = ["biblicaltraining*"]
+include = ["bt*"]
 

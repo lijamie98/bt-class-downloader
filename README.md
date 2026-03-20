@@ -31,7 +31,7 @@ python -m playwright install chromium
 **Required:** the course URL as the first argument.
 
 ```bash
-python -m biblicaltraining.cli \
+python -m bt.cli \
   "https://www.biblicaltraining.org/learn/institute/nt201-biblical-greek"
 ```
 
@@ -40,7 +40,7 @@ Default output: `transcripts/<course-slug>.md` (e.g. `transcripts/nt201-biblical
 Custom output file:
 
 ```bash
-python -m biblicaltraining.cli \
+python -m bt.cli \
   "https://www.biblicaltraining.org/learn/institute/nt605-textual-criticism" \
   --out transcripts/nt605.md
 ```
@@ -56,7 +56,7 @@ biblicaltraining-transcripts "https://www.biblicaltraining.org/learn/institute/n
 If pages return a Cloudflare challenge or you need to be logged in, use cookies (Playwright export format) and `auto` fetcher:
 
 ```bash
-python -m biblicaltraining.cli "COURSE_URL" --cookies-json /path/to/cookies.json --fetcher auto
+python -m bt.cli "COURSE_URL" --cookies-json /path/to/cookies.json --fetcher auto
 ```
 
 ### Options
@@ -69,7 +69,7 @@ python -m biblicaltraining.cli "COURSE_URL" --cookies-json /path/to/cookies.json
 
 1. Fetches the **course** page and collects links whose path is exactly one segment under the course path (each **lesson** page).
 2. Fetches each lesson page and extracts the **Transcription** section as plain text.
-3. Writes one Markdown file with a **table of contents** at the top, then `# Lesson {n}: {title}` per lesson.
+3. Writes one Markdown file with the **class title** (from the course page), a **table of contents**, then `# Lesson {n}: {title}` per lesson.
 
 ## Notes
 
