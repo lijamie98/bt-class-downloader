@@ -1,4 +1,4 @@
-# class-downloader
+# bt-class-downloader
 
 Download **lesson transcription** text from [BiblicalTraining.org](https://www.biblicaltraining.org/) for **any class**, given the **course (class) overview URL**.
 
