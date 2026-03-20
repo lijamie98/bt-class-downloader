@@ -1,4 +1,23 @@
-# Lesson 1: Attend this Class
+# Table of contents
+
+- [Lesson 1: Introduction to Greek Tools](#lesson-1-introduction-to-greek-tools)
+- [Lesson 2: Greek Alphabet](#lesson-2-greek-alphabet)
+- [Lesson 3: What Are Translations?](#lesson-3-what-are-translations)
+- [Lesson 4: English Grammar](#lesson-4-english-grammar)
+- [Lesson 5: Introduction to Phrasing](#lesson-5-introduction-to-phrasing)
+- [Lesson 6: Conjunctions, Phrases, Etc.](#lesson-6-conjunctions-phrases-etc)
+- [Lesson 7: Fine-tuning Phrasing](#lesson-7-fine-tuning-phrasing)
+- [Lesson 8: Greek Verbs](#lesson-8-greek-verbs)
+- [Lesson 9: English Tools](#lesson-9-english-tools)
+- [Lesson 10: Greek Verbs (Non-indicative)](#lesson-10-greek-verbs-non-indicative)
+- [Lesson 11: Greek Word Studies](#lesson-11-greek-word-studies)
+- [Lesson 12: English Noun System](#lesson-12-english-noun-system)
+- [Lesson 13: Commentaries](#lesson-13-commentaries)
+- [Lesson 14: History of the Bible](#lesson-14-history-of-the-bible)
+
+---
+
+# Lesson 1: Introduction to Greek Tools
 
 Welcome! We have some introductory material in this session, some things to try to give you a feel for what the course is going to be like. Then we are going to learn the Greek alphabet and talk about translations. Let’s start with prayer.
 Our Father, we thank you for the opportunity to sit down with our brothers and sisters and look at issues related to studying Your word. Father, we pray that You will use the material presented and the material learned in our own Bible studies and our own lives to help us go a little deeper, to be a little more sure of what we believe. We thank You for the chance to get together and do this.  In Jesus' name, amen.

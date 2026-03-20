@@ -1,4 +1,45 @@
-# Lesson 1: Attend this Class
+# Table of contents
+
+- [Lesson 1: The Greek Language](#lesson-1-the-greek-language)
+- [Lesson 2: Learning Greek](#lesson-2-learning-greek)
+- [Lesson 3: The Alphabet and Pronunciation](#lesson-3-the-alphabet-and-pronunciation)
+- [Lesson 4: Punctuation and Syllabification](#lesson-4-punctuation-and-syllabification)
+- [Lesson 5: Introduction to English Nouns](#lesson-5-introduction-to-english-nouns)
+- [Lesson 6: Nominative and Accusative; Definite Article](#lesson-6-nominative-and-accusative-definite-article)
+- [Lesson 7: Genitive and Dative](#lesson-7-genitive-and-dative)
+- [Lesson 8: Prepositions](#lesson-8-prepositions)
+- [Lesson 9: Adjectives](#lesson-9-adjectives)
+- [Lesson 10: Third Declension](#lesson-10-third-declension)
+- [Lesson 11: First and Second Person Personal Pronouns](#lesson-11-first-and-second-person-personal-pronouns)
+- [Lesson 12: αὐτός](#lesson-12-αὐτός)
+- [Lesson 13: Demonstrative Pronouns/Adjectives](#lesson-13-demonstrative-pronounsadjectives)
+- [Lesson 14: Relative Pronouns](#lesson-14-relative-pronouns)
+- [Lesson 15: Introduction to Verbs](#lesson-15-introduction-to-verbs)
+- [Lesson 16: Present Active Indicative](#lesson-16-present-active-indicative)
+- [Lesson 17: Contract Verbs](#lesson-17-contract-verbs)
+- [Lesson 18: Present Middle/Passive Indicative](#lesson-18-present-middlepassive-indicative)
+- [Lesson 19: Future Active/Middle Indicative](#lesson-19-future-activemiddle-indicative)
+- [Lesson 20: Verbal Roots and Other Forms of the Future](#lesson-20-verbal-roots-and-other-forms-of-the-future)
+- [Lesson 21: Imperfect Indicative](#lesson-21-imperfect-indicative)
+- [Lesson 22: Second Aorist Active/Middle Indicative](#lesson-22-second-aorist-activemiddle-indicative)
+- [Lesson 23: First Aorist Active/Middle Indicative](#lesson-23-first-aorist-activemiddle-indicative)
+- [Lesson 24: Aorist and Future Passive Indicative](#lesson-24-aorist-and-future-passive-indicative)
+- [Lesson 25: Perfect Indicative](#lesson-25-perfect-indicative)
+- [Lesson 26: Introduction to Participles](#lesson-26-introduction-to-participles)
+- [Lesson 27: Present (Continuous) Adverbial Participles](#lesson-27-present-continuous-adverbial-participles)
+- [Lesson 28: Aorist (Undefined) Adverbial Participles](#lesson-28-aorist-undefined-adverbial-participles)
+- [Lesson 29: Adjectival Participles](#lesson-29-adjectival-participles)
+- [Lesson 30: Perfect Participles and Genitive Absolutes](#lesson-30-perfect-participles-and-genitive-absolutes)
+- [Lesson 31: Subjunctive Mood](#lesson-31-subjunctive-mood)
+- [Lesson 32: Infinitive](#lesson-32-infinitive)
+- [Lesson 33: Imperative](#lesson-33-imperative)
+- [Lesson 34: μι Verbs (Active Indicative of δίδωμι)](#lesson-34-μι-verbs-active-indicative-of-δίδωμι)
+- [Lesson 35: Nonindicative of δίδωμι and Conditional Sentences](#lesson-35-nonindicative-of-δίδωμι-and-conditional-sentences)
+- [Lesson 36: ἵστημι, τίθημι, δείκνυμι and Odds 'n Ends](#lesson-36-ἵστημι-τίθημι-δείκνυμι-and-odds-n-ends)
+
+---
+
+# Lesson 1: The Greek Language
 
 Well, good morning. I'm Dr. Death. Welcome to Greek Finance Week. The days I'll have the wheelbarrows and the aisles going up and down saying, Bring out your dead now. Welcome to Greek. My name is Dr. Mounts, otherwise known as Bill. I don't care what you call me. Politely, I guess. I've always been called Bill my whole life. I'm kind of partial to the name, but I know for some of you that's difficult. So choose which name or title you're comfortable with. No fear. A lot of what some of you are going to have to deal with is not real. It's fictional. Romeo and Juliet wasn't real. And Greek is not that hard. It's not. Now, you've probably been told that by a lot of people who are looking for an excuse for the fact they no longer null their Greek and the alphabets different. And so it kind of gives the appearance of being hard. But in terms of modern languages, it's much easier than German. If you've had German, it's probably a little harder than French, although it's extremely regular. And in that sense, it's easier than French. Nothing is as easy to learn as Spanish, though. So if you are. Most of you probably know who have learned in the second language have learned Spanish. You'll find Greek a little more challenging than Spanish, but not a lot. And the reason it's not is that we're such good teachers. No, the reason it's not is that it's a beautifully regular language. Very, very few exceptions. Technically, there's not any, but you kind of need to get over the hurdle. I talked to one of you at the retreat on Wednesday and just scared. It's not that hard. It really isn't. The secret, as you'll find out, is to study regularly every day.
 And if you can block out the time and do that and not get behind, you'll find that the language is quite enjoyable. I got a letter from a prisoner the other day and I wanted to read it to you. Send me his picture and let me just tell you what he he said. He identifies it, gives his name, and he said, I am a convicted felon, doing time in an Ohio prison for simple robbery. And I am a sinner saved by the grace of God in Jesus Christ, your Lord and mine. I am writing this letter to Thank you, sir doesn't know me for what you taught me. And then he lists the Greek books. Thank you very much. This guy is a felon in an Ohio prison. Okay, sir. I wish you wouldn't call me that. But in prison, what usually makes it in is the health and wealth. Name it and claim it error. It becomes heresy when they say Christians are, quote, little gods or that our Lord took on the nature of Satan on the cross. Now, listen to this. It was because of my study of Greek and the sounds theology. It pointed me to that. I was not taken in by the above. Also, I now teach a small Greek class so that other men in here will not. The best of all is the Gospel. Jesus Christ and Him crucified and knowing that I am called in Him from before the foundation of the world. In him is where lies the peace that passes understanding. I possess that peace because he possesses me. I do not need a theology of glory. To see the naked God. As Luther put it, I have the theology of the cross where Jesus died in my place and raised again.

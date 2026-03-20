@@ -69,7 +69,7 @@ python -m biblicaltraining.cli "COURSE_URL" --cookies-json /path/to/cookies.json
 
 1. Fetches the **course** page and collects links whose path is exactly one segment under the course path (each **lesson** page).
 2. Fetches each lesson page and extracts the **Transcription** section as plain text.
-3. Writes one Markdown file with `# Lesson {n}: {title}` per lesson.
+3. Writes one Markdown file with a **table of contents** at the top, then `# Lesson {n}: {title}` per lesson.
 
 ## Notes
 

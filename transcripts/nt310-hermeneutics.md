@@ -1,4 +1,39 @@
-# Lesson 1: Attend this Class
+# Table of contents
+
+- [Lesson 1: Example of Hermeneutics](#lesson-1-example-of-hermeneutics)
+- [Lesson 2: Introduction to Hermeneutics](#lesson-2-introduction-to-hermeneutics)
+- [Lesson 3: Description of Revelation](#lesson-3-description-of-revelation)
+- [Lesson 4: Special Revelation](#lesson-4-special-revelation)
+- [Lesson 5: Where Does the Meaning Lie?](#lesson-5-where-does-the-meaning-lie)
+- [Lesson 6: Thinking Theologically About Meaning](#lesson-6-thinking-theologically-about-meaning)
+- [Lesson 7: Hermeneutical Issues in Translation](#lesson-7-hermeneutical-issues-in-translation)
+- [Lesson 8: Principles of Hermeneutics](#lesson-8-principles-of-hermeneutics)
+- [Lesson 9: Context in Redemptive History](#lesson-9-context-in-redemptive-history)
+- [Lesson 10: Biblical Theology](#lesson-10-biblical-theology)
+- [Lesson 11: Historical and Cultural Context](#lesson-11-historical-and-cultural-context)
+- [Lesson 12: Cultural Context](#lesson-12-cultural-context)
+- [Lesson 13: Word Meanings and Word Studies](#lesson-13-word-meanings-and-word-studies)
+- [Lesson 14: Implications of Genre](#lesson-14-implications-of-genre)
+- [Lesson 15: Interpreting Biblical Narrative (Part 1)](#lesson-15-interpreting-biblical-narrative-part-1)
+- [Lesson 16: Interpreting Biblical Narrative (Part 2)](#lesson-16-interpreting-biblical-narrative-part-2)
+- [Lesson 17: Hermeneutics and Law](#lesson-17-hermeneutics-and-law)
+- [Lesson 18: Importance of Prophecy](#lesson-18-importance-of-prophecy)
+- [Lesson 19: Challenges of Interpreting Prophecy](#lesson-19-challenges-of-interpreting-prophecy)
+- [Lesson 20: Hermeneutics and Typology](#lesson-20-hermeneutics-and-typology)
+- [Lesson 21: Hermeneutics and Poetry (Part 1)](#lesson-21-hermeneutics-and-poetry-part-1)
+- [Lesson 22: Hermeneutics and Poetry (Part 2)](#lesson-22-hermeneutics-and-poetry-part-2)
+- [Lesson 23: Hermeneutics and Figures of Speech](#lesson-23-hermeneutics-and-figures-of-speech)
+- [Lesson 24: Hermeneutics and Parables](#lesson-24-hermeneutics-and-parables)
+- [Lesson 25: Proverbs and the Wisdom Literature](#lesson-25-proverbs-and-the-wisdom-literature)
+- [Lesson 26: Hermeneutics and Epistles](#lesson-26-hermeneutics-and-epistles)
+- [Lesson 27: Hermeneutics and Apocalyptic Literature](#lesson-27-hermeneutics-and-apocalyptic-literature)
+- [Lesson 28: Hermeneutics and Perspicuity](#lesson-28-hermeneutics-and-perspicuity)
+- [Lesson 29: Application Guidelines](#lesson-29-application-guidelines)
+- [Lesson 30: Role of the Holy Spirit](#lesson-30-role-of-the-holy-spirit)
+
+---
+
+# Lesson 1: Example of Hermeneutics
 
 Hermeneutics
 Dr. Todd Miles

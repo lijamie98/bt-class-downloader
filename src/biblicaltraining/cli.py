@@ -172,6 +172,44 @@ def _order_from_lesson_slug(slug: str) -> int:
     return 9999
 
 
+# Course pages often link the same lesson twice (e.g. hero "Attend this class" + lesson list
+# "1. Title"). Prefer the numbered lesson title over generic CTAs.
+_GENERIC_LESSON_LINK_LABELS = frozenset(
+    {
+        "attend this class",
+        "attending the class",
+        "attend the class",
+        "take this class",
+        "start class",
+        "watch now",
+        "watch lesson",
+    }
+)
+
+
+def _lesson_link_text_priority(raw_text: str) -> tuple[int, int]:
+    """Higher tuple sorts later; prefer '1. Lesson title' over marketing link text."""
+    t = (raw_text or "").strip()
+    if not t:
+        return (-1, 0)
+    if re.match(r"^\s*\d+\.\s+", t):
+        return (2, len(t))
+    if t.lower() in _GENERIC_LESSON_LINK_LABELS:
+        return (0, 0)
+    return (1, len(t))
+
+
+def _lesson_from_link(raw_text: str, suffix: str, full_url: str) -> Lesson:
+    m2 = re.match(r"^\s*(\d+)\.\s*(.+?)\s*$", raw_text)
+    if m2:
+        order = int(m2.group(1))
+        title = m2.group(2).strip()
+    else:
+        order = _order_from_lesson_slug(suffix)
+        title = raw_text.strip() or suffix.replace("-", " ").title()
+    return Lesson(order=order, title=title, url=full_url)
+
+
 def parse_lessons_from_course_html(html: str, course_url: str) -> list[Lesson]:
     """
     Find lesson links: same host, path must be /{course_path}/{lesson_slug}
@@ -184,8 +222,8 @@ def parse_lessons_from_course_html(html: str, course_url: str) -> list[Lesson]:
         course_path = "/"
     origin = f"{parsed.scheme}://{parsed.netloc}"
 
-    lessons: list[Lesson] = []
-    seen_urls: set[str] = set()
+    # Same lesson URL can appear multiple times (hero CTA vs lesson list). Keep best title.
+    best: dict[str, tuple[Lesson, tuple[int, int]]] = {}
 
     for a in soup.find_all("a", href=True):
         href = (a.get("href") or "").split("#", 1)[0].split("?", 1)[0].strip()
@@ -209,21 +247,14 @@ def parse_lessons_from_course_html(html: str, course_url: str) -> list[Lesson]:
             continue
 
         full_url = f"{origin}{path}"
-        if full_url in seen_urls:
-            continue
-        seen_urls.add(full_url)
-
         raw_text = a.get_text(" ", strip=True)
-        m2 = re.match(r"^\s*(\d+)\.\s*(.+?)\s*$", raw_text)
-        if m2:
-            order = int(m2.group(1))
-            title = m2.group(2).strip()
-        else:
-            order = _order_from_lesson_slug(suffix)
-            title = raw_text or suffix.replace("-", " ").title()
+        pri = _lesson_link_text_priority(raw_text)
+        lesson = _lesson_from_link(raw_text, suffix, full_url)
+        prev = best.get(full_url)
+        if prev is None or pri > prev[1]:
+            best[full_url] = (lesson, pri)
 
-        lessons.append(Lesson(order=order, title=title, url=full_url))
-
+    lessons = [pair[0] for pair in best.values()]
     lessons.sort(key=lambda x: (x.order, x.title))
     return lessons
 
@@ -272,11 +303,57 @@ def iter_progress(msg: str) -> None:
     print(msg, file=sys.stderr, flush=True)
 
 
+def _gfm_heading_anchor(heading_plain: str) -> str:
+    """Slug for GitHub-style heading anchors (ASCII titles)."""
+    s = heading_plain.strip().lower()
+    parts: list[str] = []
+    prev_hyphen = True
+    for ch in s:
+        if ch.isalnum():
+            parts.append(ch)
+            prev_hyphen = False
+        elif ch in " \t\n\r-_":
+            if not prev_hyphen and parts:
+                parts.append("-")
+                prev_hyphen = True
+    anchor = "".join(parts).strip("-")
+    anchor = re.sub(r"-+", "-", anchor)
+    return anchor
+
+
+def _lesson_heading_plain(lesson: Lesson) -> str:
+    return f"Lesson {lesson.order}: {lesson.title}"
+
+
+def _assign_heading_anchors(lessons: list[Lesson]) -> list[tuple[Lesson, str]]:
+    """Return each lesson with a unique GFM-style anchor for its H1."""
+    counts: dict[str, int] = {}
+    out: list[tuple[Lesson, str]] = []
+    for lesson in lessons:
+        base = _gfm_heading_anchor(_lesson_heading_plain(lesson))
+        if not base:
+            base = f"lesson-{lesson.order}"
+        n = counts.get(base, 0)
+        # Match GitHub slugger: foo, foo-1, foo-2, ...
+        anchor = base if n == 0 else f"{base}-{n}"
+        counts[base] = n + 1
+        out.append((lesson, anchor))
+    return out
+
+
 def write_markdown(lessons: Iterable[Lesson], transcripts: dict[str, str], outpath: str) -> None:
     _ensure_dir(outpath)
+    lesson_list = list(lessons)
+    with_anchors = _assign_heading_anchors(lesson_list)
     with open(outpath, "w", encoding="utf-8") as f:
-        for lesson in lessons:
-            f.write(f"# Lesson {lesson.order}: {lesson.title}\n\n")
+        f.write("# Table of contents\n\n")
+        for lesson, anchor in with_anchors:
+            line = _lesson_heading_plain(lesson)
+            f.write(f"- [{line}](#{anchor})\n")
+        f.write("\n---\n\n")
+
+        for lesson, _anchor in with_anchors:
+            f.write(f"# {_lesson_heading_plain(lesson)}\n\n")
             text = transcripts.get(lesson.url, "").strip()
             if not text:
                 text = "[Transcript not found or extraction failed.]\n"
