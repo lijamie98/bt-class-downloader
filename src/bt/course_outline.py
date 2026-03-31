@@ -205,6 +205,13 @@ def build_course_outline_markdown(
     Single embedded outline is prefixed with ``## Lesson 1: {course_title}`` when ``course_title``
     is set (otherwise "Class").
     """
+    href = class_jsonapi_self_href(html)
+    if href:
+        agg = aggregate_outline_markdown_from_class_jsonapi(href, timeout_s=timeout_s).strip()
+        # Prefer per-lesson outlines when available.
+        if agg:
+            return agg
+
     oh = extract_outline_html_from_course_page(html)
     if oh:
         md = html_outline_to_markdown(oh).strip()
@@ -212,18 +219,9 @@ def build_course_outline_markdown(
             head = course_title or "Class"
             return f"## Lesson 1: {head}\n\n{md}"
 
-    href = class_jsonapi_self_href(html)
-    if not href:
-        raise OutlineExtractionError(
-            "No outline in embedded __NEXT_DATA__ and no class JSON:API link on the page."
-        )
-
-    agg = aggregate_outline_markdown_from_class_jsonapi(href, timeout_s=timeout_s).strip()
-    if not agg:
-        raise OutlineExtractionError(
-            "No lesson outlines in embedded data or JSON:API (field_lessons.field_outline empty)."
-        )
-    return agg
+    raise OutlineExtractionError(
+        "No per-lesson outlines via JSON:API and no outline in embedded __NEXT_DATA__."
+    )
 
 
 def _outline_dict_from_page_props(page_props: dict[str, Any]) -> Optional[dict[str, Any]]:
@@ -355,6 +353,9 @@ def html_outline_to_markdown(html_fragment: str) -> str:
 
 
 def default_outline_path(transcript_path: str) -> str:
-    """transcripts/foo.md -> transcripts/foo.outline.md"""
+    """Course transcript path -> outlines/<basename>.outline.md (alongside default transcripts/)."""
     root, ext = os.path.splitext(transcript_path)
-    return f"{root}.outline{ext if ext else '.md'}"
+    base = os.path.basename(root)
+    if not ext:
+        ext = ".md"
+    return os.path.join("outlines", f"{base}.outline{ext}")
