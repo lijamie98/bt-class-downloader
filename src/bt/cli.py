@@ -21,6 +21,8 @@ from urllib.parse import urlparse, urlunparse
 import requests
 from bs4 import BeautifulSoup
 
+from bt.transcript_clean import strip_appended_lesson_catalog, strip_transcript_ui_noise
+
 
 @dataclass(frozen=True)
 class Lesson:
@@ -392,33 +394,7 @@ def write_markdown(
             f.write("\n\n")
 
 
-def main() -> int:
-    parser = argparse.ArgumentParser(
-        description="Download lesson transcriptions for a BiblicalTraining.org class (course URL)."
-    )
-    parser.add_argument(
-        "course_url",
-        help="Class/course page URL, e.g. https://www.biblicaltraining.org/learn/institute/nt201-biblical-greek",
-    )
-    parser.add_argument(
-        "--out",
-        default=None,
-        help="Output Markdown file (default: transcripts/<course-slug>.md)",
-    )
-    parser.add_argument("--cookies-json", default=None, help="Optional Playwright-format cookies JSON.")
-    parser.add_argument(
-        "--fetcher",
-        default="auto",
-        choices=["auto", "requests", "playwright"],
-        help="How to fetch pages (auto falls back to Playwright on Cloudflare).",
-    )
-    parser.add_argument("--timeout-s", type=int, default=30)
-    parser.add_argument("--playwright-timeout-ms", type=int, default=60000)
-    parser.add_argument("--headless", action="store_true")
-    parser.add_argument("--sleep-seconds", type=float, default=1.2)
-    parser.add_argument("--fail-fast", action="store_true")
-    args = parser.parse_args()
-
+def cmd_download(args: argparse.Namespace) -> int:
     try:
         course_url = normalize_course_url(args.course_url)
     except ValueError as e:
@@ -466,7 +442,8 @@ def main() -> int:
         )
         transcript = extract_transcription_from_lesson_html(html)
         if transcript:
-            transcripts[lesson.url] = transcript
+            t = strip_transcript_ui_noise(transcript)
+            transcripts[lesson.url] = strip_appended_lesson_catalog(t)
         else:
             failures.append(lesson.url)
             iter_progress(f"  Transcript extraction failed for: {lesson.title}")
@@ -481,6 +458,102 @@ def main() -> int:
     if failures:
         iter_progress(f"Failed transcripts: {len(failures)}")
     return 0
+
+
+def cmd_outline(args: argparse.Namespace) -> int:
+    from bt import outline as outline_mod
+
+    if args.in_place and args.out:
+        iter_progress("Error: use only one of --in-place and --out.")
+        return 2
+
+    api_key = (args.api_key or "").strip() or outline_mod.resolve_api_key()
+    if not api_key:
+        iter_progress("Error: Set GEMINI_API_KEY (or pass --api-key) for the outline command.")
+        return 2
+
+    in_path = args.markdown_file
+    if args.in_place:
+        out_path = in_path
+    elif args.out:
+        out_path = args.out
+    else:
+        root, ext = os.path.splitext(in_path)
+        out_path = f"{root}.outlined{ext if ext else '.md'}"
+
+    return outline_mod.run_outline(
+        in_path,
+        out_path,
+        model=args.model,
+        api_key=api_key,
+        sleep_seconds=args.sleep_seconds,
+    )
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(
+        description="BiblicalTraining.org transcripts: download or add Gemini outlines."
+    )
+    sub = parser.add_subparsers(dest="command", required=True)
+
+    d = sub.add_parser("download", help="Download course transcripts to a Markdown file.")
+    d.add_argument(
+        "course_url",
+        help="Class/course page URL, e.g. https://www.biblicaltraining.org/learn/institute/nt201-biblical-greek",
+    )
+    d.add_argument(
+        "--out",
+        default=None,
+        help="Output Markdown file (default: transcripts/<course-slug>.md)",
+    )
+    d.add_argument("--cookies-json", default=None, help="Optional Playwright-format cookies JSON.")
+    d.add_argument(
+        "--fetcher",
+        default="auto",
+        choices=["auto", "requests", "playwright"],
+        help="How to fetch pages (auto falls back to Playwright on Cloudflare).",
+    )
+    d.add_argument("--timeout-s", type=int, default=30)
+    d.add_argument("--playwright-timeout-ms", type=int, default=60000)
+    d.add_argument("--headless", action="store_true")
+    d.add_argument("--sleep-seconds", type=float, default=1.2)
+    d.add_argument("--fail-fast", action="store_true")
+    d.set_defaults(func=cmd_download)
+
+    o = sub.add_parser(
+        "outline",
+        help="Add two-layer outlines and paragraph breaks via Gemini (reads transcript Markdown).",
+    )
+    o.add_argument(
+        "markdown_file",
+        help="Path to a transcript .md file (from download).",
+    )
+    o.add_argument(
+        "--out",
+        default=None,
+        help="Output file (default: <name>.outlined.md beside input).",
+    )
+    o.add_argument(
+        "--in-place",
+        action="store_true",
+        help="Overwrite the input file.",
+    )
+    o.add_argument(
+        "--model",
+        default="gemini-3-flash-preview",
+        help="Gemini model id (default: gemini-3-flash-preview).",
+    )
+    o.add_argument(
+        "--api-key",
+        default=None,
+        dest="api_key",
+        help="API key (default: GEMINI_API_KEY env var).",
+    )
+    o.add_argument("--sleep-seconds", type=float, default=1.0)
+    o.set_defaults(func=cmd_outline)
+
+    args = parser.parse_args()
+    return args.func(args)
 
 
 if __name__ == "__main__":
