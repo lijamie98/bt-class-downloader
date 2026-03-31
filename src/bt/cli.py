@@ -14,13 +14,20 @@ import os
 import re
 import sys
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from typing import Iterable, Optional
 from urllib.parse import urlparse, urlunparse
 
 import requests
 from bs4 import BeautifulSoup
 
+from bt.course_outline import (
+    OutlineExtractionError,
+    build_course_outline_markdown,
+    class_jsonapi_self_href,
+    default_outline_path,
+    lesson_canonical_urls_by_slug,
+)
 from bt.transcript_clean import strip_appended_lesson_catalog, strip_transcript_ui_noise
 
 
@@ -422,10 +429,39 @@ def cmd_download(args: argparse.Namespace) -> int:
         )
         return 3
 
+    api_href = class_jsonapi_self_href(course_html)
+    if api_href:
+        origin = f"{urlparse(course_url).scheme}://{urlparse(course_url).netloc}"
+        by_slug = lesson_canonical_urls_by_slug(
+            api_href,
+            origin=origin,
+            timeout_s=float(args.timeout_s),
+        )
+        if by_slug:
+            fixed: list[Lesson] = []
+            for l in lessons:
+                slug = urlparse(l.url).path.rstrip("/").split("/")[-1]
+                canon = by_slug.get(slug)
+                if canon and canon != l.url:
+                    fixed.append(replace(l, url=canon))
+                else:
+                    fixed.append(l)
+            lessons = fixed
+
     iter_progress(f"Found {len(lessons)} lesson(s).")
     course_title = parse_course_title_from_course_html(course_html)
     if course_title:
         iter_progress(f"Class title: {course_title}")
+
+    try:
+        outline_md = build_course_outline_markdown(
+            course_html,
+            timeout_s=float(args.timeout_s),
+            course_title=course_title,
+        )
+    except OutlineExtractionError as e:
+        iter_progress(f"Outline error: {e}")
+        return 4
 
     transcripts: dict[str, str] = {}
     failures: list[str] = []
@@ -449,50 +485,34 @@ def cmd_download(args: argparse.Namespace) -> int:
             iter_progress(f"  Transcript extraction failed for: {lesson.title}")
             if args.fail_fast:
                 write_markdown(lessons, transcripts, outpath, course_title=course_title)
+                outline_path = default_outline_path(outpath)
+                _ensure_dir(outline_path)
+                tt = course_title or "Class"
+                with open(outline_path, "w", encoding="utf-8") as f:
+                    f.write(f"# {tt}\n\n{outline_md}\n")
+                iter_progress(f"Wrote: {outline_path}")
                 return 2
 
         time.sleep(max(0.0, args.sleep_seconds))
 
     write_markdown(lessons, transcripts, outpath, course_title=course_title)
     iter_progress(f"Wrote: {outpath}")
+
+    outline_path = default_outline_path(outpath)
+    _ensure_dir(outline_path)
+    title = course_title or "Class"
+    with open(outline_path, "w", encoding="utf-8") as f:
+        f.write(f"# {title}\n\n{outline_md}\n")
+    iter_progress(f"Wrote: {outline_path}")
+
     if failures:
         iter_progress(f"Failed transcripts: {len(failures)}")
     return 0
 
 
-def cmd_outline(args: argparse.Namespace) -> int:
-    from bt import outline as outline_mod
-
-    if args.in_place and args.out:
-        iter_progress("Error: use only one of --in-place and --out.")
-        return 2
-
-    api_key = (args.api_key or "").strip() or outline_mod.resolve_api_key()
-    if not api_key:
-        iter_progress("Error: Set GEMINI_API_KEY (or pass --api-key) for the outline command.")
-        return 2
-
-    in_path = args.markdown_file
-    if args.in_place:
-        out_path = in_path
-    elif args.out:
-        out_path = args.out
-    else:
-        root, ext = os.path.splitext(in_path)
-        out_path = f"{root}.outlined{ext if ext else '.md'}"
-
-    return outline_mod.run_outline(
-        in_path,
-        out_path,
-        model=args.model,
-        api_key=api_key,
-        sleep_seconds=args.sleep_seconds,
-    )
-
-
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="BiblicalTraining.org transcripts: download or add Gemini outlines."
+        description="BiblicalTraining.org transcripts: download course Markdown."
     )
     sub = parser.add_subparsers(dest="command", required=True)
 
@@ -519,38 +539,6 @@ def main() -> int:
     d.add_argument("--sleep-seconds", type=float, default=1.2)
     d.add_argument("--fail-fast", action="store_true")
     d.set_defaults(func=cmd_download)
-
-    o = sub.add_parser(
-        "outline",
-        help="Add two-layer outlines and paragraph breaks via Gemini (reads transcript Markdown).",
-    )
-    o.add_argument(
-        "markdown_file",
-        help="Path to a transcript .md file (from download).",
-    )
-    o.add_argument(
-        "--out",
-        default=None,
-        help="Output file (default: <name>.outlined.md beside input).",
-    )
-    o.add_argument(
-        "--in-place",
-        action="store_true",
-        help="Overwrite the input file.",
-    )
-    o.add_argument(
-        "--model",
-        default="gemini-3-flash-preview",
-        help="Gemini model id (default: gemini-3-flash-preview).",
-    )
-    o.add_argument(
-        "--api-key",
-        default=None,
-        dest="api_key",
-        help="API key (default: GEMINI_API_KEY env var).",
-    )
-    o.add_argument("--sleep-seconds", type=float, default=1.0)
-    o.set_defaults(func=cmd_outline)
 
     args = parser.parse_args()
     return args.func(args)
