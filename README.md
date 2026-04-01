@@ -1,16 +1,6 @@
 # bt-class-downloader
 
-Download **lesson transcription** text from [BiblicalTraining.org](https://www.biblicaltraining.org/) for **any class**, given the **course (class) overview URL**.
-
-## What URL to use
-
-Use the **class overview** page — the one that lists “Lessons” and shows “Number of lessons: …”, for example:
-
-- `https://www.biblicaltraining.org/learn/institute/nt201-biblical-greek`
-- `https://www.biblicaltraining.org/learn/institute/nt605-textual-criticism`
-- `https://www.biblicaltraining.org/learn/foundations/nt101-essentials-of-the-new-testament`
-
-Do **not** pass a single-lesson URL only; the tool needs the course page to discover all lesson links.
+Download **lesson transcription** text from [BiblicalTraining.org](https://www.biblicaltraining.org/) for **any class**, given either a **course overview URL** or an unambiguous **slug-prefix** resolved through the local course index (see **`download`** below).
 
 ## Prerequisites
 
@@ -25,6 +15,48 @@ source .venv/bin/activate
 pip install -e .
 python -m playwright install chromium
 ```
+
+## Quick start
+
+From the project directory:
+
+```bash
+# Course index is fetched on first CLI run if missing; then download by slug-prefix (must match exactly one course)
+python -m bt.cli download nt201
+```
+
+That writes **`transcripts/nt201-biblical-greek.md`** and **`outlines/nt201-biblical-greek.outline.md`** (paths depend on the resolved slug).
+
+**Optional — Gemini paragraphing** (set **`GEMINI_API_KEY`**, or put it in **`.env`** in the working directory; full detail under **`paragraph`** and **`paragraph-outline`** below):
+
+```bash
+# Transcript only (no outline file)
+python -m bt.cli paragraph nt201 --lesson 1
+
+# Transcript + outline on disk
+python -m bt.cli paragraph-outline nt201 --lesson 1
+```
+
+**Multiple courses in one run:**
+
+```bash
+python -m bt.cli download nt201 nt203
+python -m bt.cli paragraph nt201 nt203
+```
+
+## Which course identifier to use
+
+**`download`** needs the **course overview** page: a URL whose path ends at the **course slug** (for example `…/learn/<segment>/<course-slug>`), so the HTML contains links to each lesson under that path. The tool does not look for specific headings or labels on the page.
+
+Do **not** pass a **single-lesson** URL as the course URL (paths with an extra segment after the course slug). Those pages are not used to enumerate all lessons.
+
+**Overview URL examples:**
+
+- `https://www.biblicaltraining.org/learn/institute/nt201-biblical-greek`
+- `https://www.biblicaltraining.org/learn/institute/nt605-textual-criticism`
+- `https://www.biblicaltraining.org/learn/foundations/nt101-essentials-of-the-new-testament`
+
+**Or** pass a **slug-prefix** instead of a URL (for example `nt201`), as long as it matches exactly one course in the index—same rules as in the **`download`** section and **Course index** below.
 
 ## Commands
 
