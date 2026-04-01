@@ -41,17 +41,20 @@ from bt.course_index import (
 from bt.lesson_paragraph import (
     default_paragraph_course_out_path,
     default_paragraph_out_path,
+    default_plain_paragraph_course_out_path,
+    default_plain_paragraph_out_path,
     extract_course_title_from_transcript,
     extract_lesson_h1_line,
     extract_lesson_outline_section,
     extract_lesson_transcript_body,
     format_paragraph_markdown_file,
     format_paragraphed_document_with_toc,
+    format_plain_paragraph_markdown_file,
     list_lesson_numbers_from_transcript,
     read_text,
     resolve_transcript_outline_paths,
-    run_gemini_paragraph_batch,
-    split_batch_paragraph_output,
+    run_gemini_paragraph,
+    run_gemini_paragraph_transcript_only,
 )
 from bt.transcript_clean import strip_appended_lesson_catalog, strip_transcript_ui_noise
 
@@ -506,9 +509,11 @@ def write_markdown(
             f.write("\n\n")
 
 
-def cmd_download(args: argparse.Namespace) -> int:
+def _download_one_course(raw: str, args: argparse.Namespace) -> int:
     try:
-        raw = (args.course or "").strip()
+        raw = raw.strip()
+        if not raw:
+            return 2
         if re.match(r"^https?://", raw, re.I):
             course_url = normalize_course_url(raw)
         else:
@@ -624,23 +629,147 @@ def cmd_download(args: argparse.Namespace) -> int:
     return 0
 
 
-def cmd_paragraph_lesson(args: argparse.Namespace) -> int:
+def cmd_download(args: argparse.Namespace) -> int:
+    courses = getattr(args, "course", None) or []
+    if not courses:
+        iter_progress(
+            "Error: one or more course URLs or slug-prefixes are required (e.g. nt201 or download nt201 nt203)."
+        )
+        return 2
+    if len(courses) > 1 and args.out:
+        iter_progress(
+            "Error: --out cannot be used when downloading multiple courses (each uses transcripts/<slug>.md)."
+        )
+        return 2
+    worst = 0
+    for raw in courses:
+        r = _download_one_course(raw, args)
+        worst = max(worst, r)
+    return worst
+
+
+def _paragraph_course(slug: str, args: argparse.Namespace, *, api_key: str) -> int:
+    tpath = Path(args.transcript) if args.transcript else Path("transcripts") / f"{slug}.md"
+    if not tpath.is_file():
+        iter_progress(f"Error: transcript file not found: {tpath}")
+        return 2
+
+    try:
+        transcript_md = read_text(tpath)
+    except OSError as e:
+        iter_progress(f"Error reading file: {e}")
+        return 2
+
+    course_title = extract_course_title_from_transcript(transcript_md) or slug.replace("-", " ").title()
+
+    if args.lesson is not None:
+        lesson_nums = [int(args.lesson)]
+    else:
+        lesson_nums = list_lesson_numbers_from_transcript(transcript_md)
+        if not lesson_nums:
+            iter_progress(f"No # Lesson N: sections found in {tpath}")
+            return 2
+        iter_progress(f"Paragraphing {len(lesson_nums)} lesson(s) (transcript only)…")
+
+    single_lesson = args.lesson is not None
+    any_data_error = False
+    combined_docs: list[str] = []
+
+    for n in lesson_nums:
+        body = extract_lesson_transcript_body(transcript_md, n)
+        if body is None:
+            iter_progress(f"No transcript section found for lesson {n} in {tpath}")
+            any_data_error = True
+            continue
+        if "[Transcript not found or extraction failed.]" in body:
+            iter_progress(
+                f"Lesson {n} transcript is missing in Markdown (download may have failed for it)."
+            )
+            any_data_error = True
+            continue
+
+        iter_progress(f"Lesson {n}: calling Gemini ({args.model})…")
+        try:
+            gemini_raw = run_gemini_paragraph_transcript_only(
+                api_key=api_key, transcription=body, model=args.model
+            )
+        except Exception as e:
+            iter_progress(f"Gemini error: {e}")
+            return 6
+
+        h1 = extract_lesson_h1_line(transcript_md, n)
+        md_doc = format_plain_paragraph_markdown_file(lesson_h1=h1, gemini_body=gemini_raw)
+        if single_lesson:
+            if args.out:
+                outp = Path(args.out)
+                if not outp.suffix:
+                    outp = outp.with_suffix(".md")
+            else:
+                outp = default_plain_paragraph_out_path(slug, n, model=args.model)
+            _ensure_dir(str(outp))
+            full_md = format_paragraphed_document_with_toc(
+                course_title=course_title,
+                lesson_md_docs=[md_doc],
+            )
+            outp.write_text(full_md, encoding="utf-8")
+            iter_progress(f"Wrote Markdown: {outp}")
+        else:
+            combined_docs.append(md_doc)
+
+    if not single_lesson and combined_docs:
+        if args.out:
+            outp = Path(args.out)
+            if not outp.suffix:
+                outp = outp.with_suffix(".md")
+        else:
+            outp = default_plain_paragraph_course_out_path(slug, model=args.model)
+        _ensure_dir(str(outp))
+        full_md = format_paragraphed_document_with_toc(
+            course_title=course_title,
+            lesson_md_docs=combined_docs,
+        )
+        outp.write_text(full_md, encoding="utf-8")
+        iter_progress(f"Wrote Markdown: {outp}")
+
+    if any_data_error:
+        return 2
+    return 0
+
+
+def cmd_paragraph(args: argparse.Namespace) -> int:
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not key:
         iter_progress("Error: GEMINI_API_KEY is not set.")
         return 5
-
-    raw = (args.course_slug or "").strip()
-    if not raw:
-        iter_progress("Error: course slug (or slug-prefix) is required (e.g. nt203 or nt203-greek-tools-for-bible-study).")
+    slugs = getattr(args, "course_slug", None) or []
+    if not slugs:
+        iter_progress(
+            "Error: one or more course slug(s) or slug-prefix(es) are required "
+            "(e.g. nt203 or nt203 nt203-greek-tools-for-bible-study)."
+        )
         return 2
-
-    try:
-        slug = resolve_course_query(raw).slug
-    except CourseIndexError as e:
-        iter_progress(f"Error: {e}")
+    if len(slugs) > 1 and (args.transcript or args.out):
+        iter_progress("Error: --transcript and --out cannot be used with multiple courses.")
         return 2
+    worst = 0
+    for raw in slugs:
+        raw = raw.strip()
+        if not raw:
+            worst = max(worst, 2)
+            continue
+        try:
+            slug = resolve_course_query(raw).slug
+        except CourseIndexError as e:
+            iter_progress(f"Error: {e}")
+            worst = max(worst, 2)
+            continue
+        if len(slugs) > 1:
+            iter_progress(f"--- {slug} ---")
+        worst = max(worst, _paragraph_course(slug, args, api_key=key))
+    return worst
 
+
+def _paragraph_outline_course(slug: str, args: argparse.Namespace, *, api_key: str) -> int:
     tpath, opath = resolve_transcript_outline_paths(
         slug,
         transcript=args.transcript,
@@ -672,7 +801,6 @@ def cmd_paragraph_lesson(args: argparse.Namespace) -> int:
         iter_progress(f"Paragraphing {len(lesson_nums)} lesson(s)…")
 
     any_data_error = False
-    any_gemini_error = False
     combined_docs: list[str] = []
     single_lesson = args.lesson is not None
 
@@ -697,55 +825,37 @@ def cmd_paragraph_lesson(args: argparse.Namespace) -> int:
             continue
         prepared.append((n, body, outline_block))
 
-    batch_size = 1 if single_lesson else max(1, int(args.batch_size))
-
-    for i in range(0, len(prepared), batch_size):
-        batch = prepared[i : i + batch_size]
-        first_n, last_n = batch[0][0], batch[-1][0]
-        if len(batch) == 1:
-            iter_progress(f"Lesson {first_n}: calling Gemini ({args.model})…")
-        else:
-            iter_progress(
-                f"Lessons {first_n}–{last_n} ({len(batch)} lessons): calling Gemini ({args.model})…"
-            )
+    for n, body, outline_block in prepared:
+        iter_progress(f"Lesson {n}: calling Gemini ({args.model})…")
         try:
-            raw = run_gemini_paragraph_batch(
-                api_key=key,
-                lessons=batch,
+            raw = run_gemini_paragraph(
+                api_key=api_key,
+                transcription=body,
+                outline=outline_block,
                 model=args.model,
             )
         except Exception as e:
             iter_progress(f"Gemini error: {e}")
             return 6
 
-        try:
-            if len(batch) == 1:
-                segs = [raw]
+        h1 = extract_lesson_h1_line(transcript_md, n)
+        md_doc = format_paragraph_markdown_file(lesson_h1=h1, gemini_body=raw)
+        if single_lesson:
+            if args.out:
+                outp = Path(args.out)
+                if not outp.suffix:
+                    outp = outp.with_suffix(".md")
             else:
-                segs = split_batch_paragraph_output(raw, len(batch))
-        except RuntimeError as e:
-            iter_progress(f"Gemini error: {e}")
-            return 6
-
-        for (n, _, _), seg in zip(batch, segs):
-            h1 = extract_lesson_h1_line(transcript_md, n)
-            md_doc = format_paragraph_markdown_file(lesson_h1=h1, gemini_body=seg)
-            if single_lesson:
-                if args.out:
-                    outp = Path(args.out)
-                    if not outp.suffix:
-                        outp = outp.with_suffix(".md")
-                else:
-                    outp = default_paragraph_out_path(slug, n, model=args.model)
-                _ensure_dir(str(outp))
-                full_md = format_paragraphed_document_with_toc(
-                    course_title=course_title,
-                    lesson_md_docs=[md_doc],
-                )
-                outp.write_text(full_md, encoding="utf-8")
-                iter_progress(f"Wrote Markdown: {outp}")
-            else:
-                combined_docs.append(md_doc)
+                outp = default_paragraph_out_path(slug, n, model=args.model)
+            _ensure_dir(str(outp))
+            full_md = format_paragraphed_document_with_toc(
+                course_title=course_title,
+                lesson_md_docs=[md_doc],
+            )
+            outp.write_text(full_md, encoding="utf-8")
+            iter_progress(f"Wrote Markdown: {outp}")
+        else:
+            combined_docs.append(md_doc)
 
     if not single_lesson and combined_docs:
         if args.out:
@@ -767,6 +877,41 @@ def cmd_paragraph_lesson(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_paragraph_lesson(args: argparse.Namespace) -> int:
+    key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not key:
+        iter_progress("Error: GEMINI_API_KEY is not set.")
+        return 5
+    slugs = getattr(args, "course_slug", None) or []
+    if not slugs:
+        iter_progress(
+            "Error: one or more course slug(s) or slug-prefix(es) are required "
+            "(e.g. nt203 or nt203 nt203-greek-tools-for-bible-study)."
+        )
+        return 2
+    if len(slugs) > 1 and (args.transcript or args.outline or args.out):
+        iter_progress(
+            "Error: --transcript, --outline, and --out cannot be used with multiple courses."
+        )
+        return 2
+    worst = 0
+    for raw in slugs:
+        raw = raw.strip()
+        if not raw:
+            worst = max(worst, 2)
+            continue
+        try:
+            slug = resolve_course_query(raw).slug
+        except CourseIndexError as e:
+            iter_progress(f"Error: {e}")
+            worst = max(worst, 2)
+            continue
+        if len(slugs) > 1:
+            iter_progress(f"--- {slug} ---")
+        worst = max(worst, _paragraph_outline_course(slug, args, api_key=key))
+    return worst
+
+
 def main() -> int:
     # Load `.env` from the current working directory (does not override existing env vars).
     load_dotenv()
@@ -779,7 +924,9 @@ def main() -> int:
         return 2
 
     parser = argparse.ArgumentParser(
-        description="BiblicalTraining.org transcripts: download and outline-paragraph course lessons.",
+        description=(
+            "BiblicalTraining.org transcripts: download, paragraph lessons with Gemini (transcript-only or with outline)."
+        ),
         formatter_class=argparse.RawTextHelpFormatter,
         epilog=(
             "Examples:\n"
@@ -792,11 +939,26 @@ def main() -> int:
             "  # Download by slug-prefix (must be unambiguous)\n"
             "  python -m bt.cli download nt201\n"
             "\n"
+            "  # Download multiple courses\n"
+            "  python -m bt.cli download nt201 nt203\n"
+            "\n"
+            "  # Paragraph one lesson (transcript only, no outline)\n"
+            "  python -m bt.cli paragraph nt203 --lesson 3\n"
+            "\n"
+            "  # Paragraph all lessons (transcript only; one combined file)\n"
+            "  python -m bt.cli paragraph nt203\n"
+            "\n"
+            "  # Paragraph multiple courses (default output path per course)\n"
+            "  python -m bt.cli paragraph nt203 nt201\n"
+            "\n"
             "  # Outline-paragraph one lesson\n"
             "  python -m bt.cli paragraph-outline nt203 --lesson 3\n"
             "\n"
-            "  # Outline-paragraph all lessons (batched)\n"
-            "  python -m bt.cli paragraph-outline nt203 --batch-size 3\n"
+            "  # Outline-paragraph all lessons (one Gemini request per lesson)\n"
+            "  python -m bt.cli paragraph-outline nt203\n"
+            "\n"
+            "  # Outline-paragraph multiple courses\n"
+            "  python -m bt.cli paragraph-outline nt203 nt201\n"
         ),
     )
     sub = parser.add_subparsers(dest="command", required=True)
@@ -832,12 +994,16 @@ def main() -> int:
 
     d = sub.add_parser(
         "download",
-        help="Download course transcripts to a Markdown file.",
-        description="Download course transcripts to a Markdown file.",
+        help="Download course transcript(s) to Markdown file(s).",
+        description="Download one or more courses; each writes transcripts/<slug>.md and outlines/<slug>.outline.md.",
     )
     d.add_argument(
         "course",
-        help="Class/course page URL OR slug-prefix (from index), e.g. https://.../learn/.../nt201-biblical-greek OR nt201",
+        nargs="+",
+        help=(
+            "One or more class/course page URLs OR slug-prefixes (from index), "
+            "e.g. nt201 nt203 or a single https://.../learn/.../nt201-biblical-greek"
+        ),
     )
     d.add_argument(
         "--out",
@@ -858,18 +1024,65 @@ def main() -> int:
     d.add_argument("--fail-fast", action="store_true")
     d.set_defaults(func=cmd_download)
 
+    pg = sub.add_parser(
+        "paragraph",
+        help="Paragraph lesson(s) with Gemini using the transcript only (no outline file).",
+        description=(
+            "Paragraph lesson(s) with Gemini using the downloaded transcript Markdown only.\n"
+            "With --lesson, only that lesson; omit --lesson to process every lesson in one file.\n"
+            "Does not read outlines/. Pass one or more course slugs or slug-prefixes from the index.\n"
+            "If a prefix matches 0 or >1 courses, that entry fails. With multiple courses, --transcript and --out are not allowed."
+        ),
+    )
+    pg.add_argument(
+        "course_slug",
+        nargs="+",
+        help="One or more course slugs OR slug-prefixes (from index), e.g. nt203 nt201-biblical-greek.",
+    )
+    pg.add_argument(
+        "--lesson",
+        type=int,
+        default=None,
+        metavar="N",
+        help=(
+            "Lesson number (same as # Lesson N: headings). Omit to paragraph every lesson "
+            "(one Gemini request per lesson; one combined output file)."
+        ),
+    )
+    pg.add_argument(
+        "--transcript",
+        default=None,
+        help="Transcript .md path (default: transcripts/<slug>.md; not allowed with multiple courses).",
+    )
+    pg.add_argument(
+        "--out",
+        default=None,
+        help=(
+            "Output file (single course only): with --lesson, default paragraph/<model>/<slug>.lessonNN.paragraph.md; "
+            "without --lesson, default paragraph/<model>/<slug>.paragraph.md (all lessons). "
+            "Paths without an extension get .md appended."
+        ),
+    )
+    pg.add_argument(
+        "--model",
+        default="gemini-3.1-flash-lite-preview",
+        help="Gemini model id (default: gemini-3.1-flash-lite-preview).",
+    )
+    pg.set_defaults(func=cmd_paragraph)
+
     p = sub.add_parser(
         "paragraph-outline",
         help="Outline-paragraph lesson(s) with Gemini using transcript + outline Markdown on disk.",
         description=(
             "Outline-paragraph lesson(s) with Gemini using transcript + outline Markdown on disk.\n"
-            "The course argument can be a full slug or a slug-prefix from the index.\n"
-            "If a prefix matches 0 or >1 courses, the command fails."
+            "Pass one or more course slugs or slug-prefixes from the index.\n"
+            "If a prefix matches 0 or >1 courses, that entry fails. With multiple courses, --transcript, --outline, and --out are not allowed."
         ),
     )
     p.add_argument(
         "course_slug",
-        help="Course slug OR slug-prefix (from index), e.g. nt203-greek-tools-for-bible-study or nt203.",
+        nargs="+",
+        help="One or more course slugs OR slug-prefixes (from index), e.g. nt203 nt201-biblical-greek.",
     )
     p.add_argument(
         "--lesson",
@@ -880,18 +1093,18 @@ def main() -> int:
     p.add_argument(
         "--transcript",
         default=None,
-        help="Transcript .md path (default: transcripts/<slug>.md).",
+        help="Transcript .md path (default: transcripts/<slug>.md; not allowed with multiple courses).",
     )
     p.add_argument(
         "--outline",
         default=None,
-        help="Outline .md path (default: outlines/<slug>.outline.md).",
+        help="Outline .md path (default: outlines/<slug>.outline.md; not allowed with multiple courses).",
     )
     p.add_argument(
         "--out",
         default=None,
         help=(
-            "Output file: with --lesson, default paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md; "
+            "Output file (single course only): with --lesson, default paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md; "
             "without --lesson, default paragraph-outlined/<model>/<slug>.paragraph-outlined.md (all lessons in one file)."
         ),
     )
@@ -899,16 +1112,6 @@ def main() -> int:
         "--model",
         default="gemini-3.1-flash-lite-preview",
         help="Gemini model id (default: gemini-3.1-flash-lite-preview).",
-    )
-    p.add_argument(
-        "--batch-size",
-        type=int,
-        default=1,
-        metavar="N",
-        help=(
-            "Max lessons per Gemini request when paragraphing the full course (default: 1). "
-            "Ignored with --lesson (always one request per lesson)."
-        ),
     )
     p.set_defaults(func=cmd_paragraph_lesson)
 
@@ -920,7 +1123,8 @@ def main() -> int:
     # Mirror arguments from `paragraph-outline`.
     p2.add_argument(
         "course_slug",
-        help="Course slug OR slug-prefix (from index), e.g. nt203-greek-tools-for-bible-study or nt203.",
+        nargs="+",
+        help="One or more course slugs OR slug-prefixes (from index), e.g. nt203 nt201-biblical-greek.",
     )
     p2.add_argument(
         "--lesson",
@@ -931,18 +1135,18 @@ def main() -> int:
     p2.add_argument(
         "--transcript",
         default=None,
-        help="Transcript .md path (default: transcripts/<slug>.md).",
+        help="Transcript .md path (default: transcripts/<slug>.md; not allowed with multiple courses).",
     )
     p2.add_argument(
         "--outline",
         default=None,
-        help="Outline .md path (default: outlines/<slug>.outline.md).",
+        help="Outline .md path (default: outlines/<slug>.outline.md; not allowed with multiple courses).",
     )
     p2.add_argument(
         "--out",
         default=None,
         help=(
-            "Output file: with --lesson, default paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md; "
+            "Output file (single course only): with --lesson, default paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md; "
             "without --lesson, default paragraph-outlined/<model>/<slug>.paragraph-outlined.md (all lessons in one file)."
         ),
     )
@@ -950,16 +1154,6 @@ def main() -> int:
         "--model",
         default="gemini-3.1-flash-lite-preview",
         help="Gemini model id (default: gemini-3.1-flash-lite-preview).",
-    )
-    p2.add_argument(
-        "--batch-size",
-        type=int,
-        default=1,
-        metavar="N",
-        help=(
-            "Max lessons per Gemini request when paragraphing the full course (default: 1). "
-            "Ignored with --lesson (always one request per lesson)."
-        ),
     )
     p2.set_defaults(func=cmd_paragraph_lesson)
 

@@ -5,8 +5,8 @@ Gemini prompts for paragraphing with inlined outline headings.
 
 from __future__ import annotations
 
-import html
 import re
+import warnings
 from pathlib import Path
 from typing import Optional
 
@@ -109,6 +109,15 @@ def format_paragraph_markdown_file(*, lesson_h1: Optional[str], gemini_body: str
     return f"{body}\n"
 
 
+def format_plain_paragraph_markdown_file(*, lesson_h1: Optional[str], gemini_body: str) -> str:
+    """Transcript-only paragraphing: strip duplicate headings; no outline H3 normalization."""
+    body = strip_leading_redundant_headings(gemini_body.strip())
+    if lesson_h1:
+        title = lesson_title_as_h2(lesson_h1.strip())
+        return f"{title}\n\n{body}\n"
+    return f"{body}\n"
+
+
 def extract_course_title_from_transcript(transcript_md: str) -> Optional[str]:
     """First ``# …`` line that is not ``# Lesson N:`` (course transcript header)."""
     m = _COURSE_TITLE_LINE.search(transcript_md)
@@ -124,10 +133,10 @@ def github_style_heading_id(heading_text: str) -> str:
     return s.strip("-")
 
 
-def _lesson_doc_with_anchor_h2(md_doc: str) -> tuple[str, Optional[tuple[str, str]]]:
+def _toc_from_leading_h2(md_doc: str) -> tuple[str, Optional[tuple[str, str]]]:
     """
-    Replace leading ``## Lesson …`` with ``<h2 id="…">…</h2>`` for stable ToC targets.
-    Returns ``(document, (link_text, anchor))`` or ``(document, None)``.
+    If the document starts with ``## …``, use that line for the table of contents.
+    The document is unchanged (Markdown ``##``, not raw HTML ``<h2>``).
     """
     lines = md_doc.splitlines()
     if not lines:
@@ -137,10 +146,7 @@ def _lesson_doc_with_anchor_h2(md_doc: str) -> tuple[str, Optional[tuple[str, st
         return md_doc, None
     link_text = m.group(1).strip()
     anchor = github_style_heading_id(link_text)
-    h2 = f'<h2 id="{anchor}">{html.escape(link_text)}</h2>'
-    rest = lines[1:]
-    body = "\n".join([h2] + rest) if rest else h2
-    return body, (link_text, anchor)
+    return md_doc, (link_text, anchor)
 
 
 def format_paragraphed_document_with_toc(*, course_title: str, lesson_md_docs: list[str]) -> str:
@@ -151,7 +157,7 @@ def format_paragraphed_document_with_toc(*, course_title: str, lesson_md_docs: l
     chunks: list[str] = []
     toc: list[tuple[str, str]] = []
     for doc in lesson_md_docs:
-        chunk, meta = _lesson_doc_with_anchor_h2(doc)
+        chunk, meta = _toc_from_leading_h2(doc)
         chunks.append(chunk)
         if meta:
             toc.append(meta)
@@ -193,8 +199,8 @@ def extract_lesson_outline_section(outline_md: str, lesson_num: int) -> Optional
     return None
 
 
-GEMINI_SYSTEM_INSTRUCTION = """Paragraph the lesson
-Do not modify the contents
+GEMINI_SYSTEM_INSTRUCTION = """Paragraph the lesson.
+Do not modify the contents.
 Inline the outline as headings to the output.
 
 The lesson name will be added separately as heading 2 (##); do not output a duplicate lesson title line.
@@ -203,13 +209,9 @@ Use heading 4 (####) for the next outline level (e.g. A. …), then ##### and so
 Do not use heading 1 (#) or heading 2 (##) in your output.
 """
 
-BATCH_LESSON_DELIMITER = "---LESSON-END---"
-
-GEMINI_BATCH_SYSTEM_INSTRUCTION = """Paragraph every lesson below, in the same order given.
-Do not modify the transcript wording.
-For each lesson, inline the outline as headings (### for top level, #### next, etc.).
-Do not output a lesson title line (## Lesson N); it will be added separately.
-Do not use heading 1 (#) or heading 2 (##) in each lesson's body.
+GEMINI_SYSTEM_INSTRUCTION_TRANSCRIPT_ONLY = """Paragraph the lesson.
+Do not modify the contents.
+No headings for the paragraphs.
 """
 
 
@@ -225,75 +227,19 @@ def build_paragraph_prompt(transcription: str, outline: str) -> str:
     )
 
 
-def build_batch_paragraph_prompt(lessons: list[tuple[int, str, str]]) -> str:
-    """``lessons`` is ``(lesson_num, transcription, outline)`` in order."""
-    n = len(lessons)
-    delim_block = ""
-    if n > 1:
-        delim_block = (
-            f"\n\nYou must output exactly {n} separate lesson bodies, in the same order as the inputs.\n"
-            f"Between lesson 1 and lesson 2, lesson 2 and lesson 3, … through lesson {n - 1} and lesson {n}, "
-            f"put exactly one line containing only this text (copy it exactly, nothing else on that line):\n"
-            f"{BATCH_LESSON_DELIMITER}\n"
-            f"That line must appear exactly {n - 1} times total. Do not merge lessons. "
-            f"Do not put {BATCH_LESSON_DELIMITER} after the last lesson.\n"
-        )
-    parts: list[str] = [GEMINI_BATCH_SYSTEM_INSTRUCTION + delim_block, "\n---\n\n"]
-    for num, trans, outline in lessons:
-        parts.append(
-            f"Lesson {num} — transcription:\n\n{trans}\n\n"
-            f"Lesson {num} — outline (use to insert ### headings; preserve transcript wording):\n\n"
-            f"{outline}\n\n---\n\n"
-        )
-    return "".join(parts).rstrip()
-
-
-def _strip_markdown_fenced_response(text: str) -> str:
-    t = text.strip()
-    if not t.startswith("```"):
-        return t
-    lines = t.splitlines()
-    if lines and lines[0].startswith("```"):
-        lines = lines[1:]
-    if lines and lines[-1].strip() == "```":
-        lines = lines[:-1]
-    return "\n".join(lines).strip()
-
-
-def split_batch_paragraph_output(raw: str, expected_count: int) -> list[str]:
-    """Split Gemini batch response on ``BATCH_LESSON_DELIMITER``."""
-    if expected_count < 1:
-        return []
-    if expected_count == 1:
-        return [_strip_markdown_fenced_response(raw)]
-
-    text = _strip_markdown_fenced_response(raw)
-    # Normalize delimiter wrapped in markdown emphasis or backticks
-    d = re.escape(BATCH_LESSON_DELIMITER)
-    text = re.sub(r"[*_`]*\s*" + d + r"\s*[*_`]*", "\n" + BATCH_LESSON_DELIMITER + "\n", text)
-
-    patterns = [
-        re.compile(r"\r?\n\s*" + re.escape(BATCH_LESSON_DELIMITER) + r"\s*\r?\n"),
-        re.compile(r"\s+" + re.escape(BATCH_LESSON_DELIMITER) + r"\s+"),
-        re.compile(r"\s*" + re.escape(BATCH_LESSON_DELIMITER) + r"\s*"),
-    ]
-    for pat in patterns:
-        parts = [p.strip() for p in pat.split(text) if p.strip()]
-        if len(parts) == expected_count:
-            return parts
-
-    parts = [p.strip() for p in re.split(r"\s*" + re.escape(BATCH_LESSON_DELIMITER) + r"\s*", text) if p.strip()]
-    if len(parts) == expected_count:
-        return parts
-
-    raise RuntimeError(
-        f"Expected {expected_count} lesson segments after delimiter {BATCH_LESSON_DELIMITER!r}, "
-        f"got {len(parts)} (check model output)."
+def build_paragraph_transcript_only_prompt(transcription: str) -> str:
+    return (
+        f"{GEMINI_SYSTEM_INSTRUCTION_TRANSCRIPT_ONLY}\n\n"
+        "---\n\n"
+        "Lesson transcription:\n\n"
+        f"{transcription}\n"
     )
 
 
 def _generate_gemini_text(api_key: str, prompt: str, model: str) -> str:
-    import google.generativeai as genai
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore", FutureWarning)
+        import google.generativeai as genai
 
     genai.configure(api_key=api_key)
     m = genai.GenerativeModel(model)
@@ -321,22 +267,13 @@ def run_gemini_paragraph(
     return _generate_gemini_text(api_key, prompt, model)
 
 
-def run_gemini_paragraph_batch(
+def run_gemini_paragraph_transcript_only(
     *,
     api_key: str,
-    lessons: list[tuple[int, str, str]],
+    transcription: str,
     model: str = "gemini-3.1-flash-lite-preview",
 ) -> str:
-    """
-    One or more lessons in one API call. Single lesson uses the single-lesson prompt;
-    multiple lessons use a batch prompt and ``BATCH_LESSON_DELIMITER`` between outputs.
-    """
-    if not lessons:
-        raise ValueError("lessons must not be empty")
-    if len(lessons) == 1:
-        _, t, o = lessons[0]
-        return run_gemini_paragraph(api_key=api_key, transcription=t, outline=o, model=model)
-    prompt = build_batch_paragraph_prompt(lessons)
+    prompt = build_paragraph_transcript_only_prompt(transcription)
     return _generate_gemini_text(api_key, prompt, model)
 
 
@@ -372,3 +309,14 @@ def default_paragraph_course_out_path(course_slug: str, *, model: str) -> Path:
     """Single file for all lessons: ``paragraph-outlined/<model>/<slug>.paragraph-outlined.md``."""
     d = sanitize_model_for_path(model)
     return Path("paragraph-outlined") / d / f"{course_slug}.paragraph-outlined.md"
+
+
+def default_plain_paragraph_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
+    d = sanitize_model_for_path(model)
+    return Path("paragraph") / d / f"{course_slug}.lesson{lesson_num:02d}.paragraph.md"
+
+
+def default_plain_paragraph_course_out_path(course_slug: str, *, model: str) -> Path:
+    """Single file for all lessons: ``paragraph/<model>/<slug>.paragraph.md``."""
+    d = sanitize_model_for_path(model)
+    return Path("paragraph") / d / f"{course_slug}.paragraph.md"

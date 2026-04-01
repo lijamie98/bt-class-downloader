@@ -30,7 +30,7 @@ python -m playwright install chromium
 
 ### `download` — fetch transcripts
 
-**Required:** subcommand `download` and the course identifier (URL or slug-prefix).
+**Required:** the `download` subcommand and one or more course identifiers (each a URL or slug-prefix from the index).
 
 ```bash
 python -m bt.cli download \
@@ -38,13 +38,16 @@ python -m bt.cli download \
 
 # Or use a slug-prefix from the local course index:
 python -m bt.cli download nt201
+
+# Multiple courses (each writes transcripts/<slug>.md; do not use --out):
+python -m bt.cli download nt201 nt203
 ```
 
 Default output: `transcripts/<course-slug>.md` (e.g. `transcripts/nt201-biblical-greek.md`).
 
 The tool always writes the class outline to **`outlines/<course-slug>.outline.md`** (same basename as the transcript file). The file starts with the class title as `# …`, then each lesson is `## Lesson {n}: {lesson title}` with Markdown bullet outlines (HTML stripped). Embedded `__NEXT_DATA__` is used when present; otherwise lesson outlines come from JSON:API (`include=field_lessons`). If no outline can be obtained, **`download` exits with code 4** before any lesson pages are fetched.
 
-Custom output file:
+Custom transcript path (single course only; not available when downloading multiple courses):
 
 ```bash
 python -m bt.cli download \
@@ -94,7 +97,28 @@ python -m bt.cli download "COURSE_URL" --cookies-json /path/to/cookies.json --fe
 - `--fetcher playwright` — always use a real browser (slower, more reliable on some sites)
 - `--headless` — run Playwright headless (default is headed)
 
+### `paragraph` — Gemini paragraphing (transcript only)
+
+Uses **`GEMINI_API_KEY`**. The CLI loads a **`.env`** file in the **current working directory** (via `python-dotenv`) when the variable is not already set; behavior matches **`paragraph-outline`** below. Run from the project directory (or wherever `transcripts/` and `.env` live):
+
+```bash
+# One lesson (default: paragraph/<model>/<slug>.lessonNN.paragraph.md)
+python -m bt.cli paragraph nt203-greek-tools-for-bible-study --lesson 3
+
+python -m bt.cli paragraph nt203 --lesson 3
+
+# All lessons (one Gemini request per lesson; one file: paragraph/<model>/<slug>.paragraph.md)
+python -m bt.cli paragraph nt203-greek-tools-for-bible-study
+
+# Multiple courses (default paths per slug; do not use --transcript or --out)
+python -m bt.cli paragraph nt203 nt201
+```
+
+Reads **`transcripts/<course-slug>.md`**, extracts the lesson body (for **`--lesson`** only, or every `# Lesson N:` section when **`--lesson`** is omitted), and calls Gemini **without** the course outline (one request per lesson). The system prompt asks the model to paragraph the transcript without changing wording and not to add headings for paragraphs; the tool then prepends each lesson title as **`##`** (from the transcript’s `# Lesson N:` line) and wraps the file with the course **`#`** title and table of contents (same outer layout as `paragraph-outline`).
+
 ### `paragraph-outline` — Gemini outline-paragraphing
+
+The legacy alias **`paragraph-lesson`** runs the same command.
 
 Uses **`GEMINI_API_KEY`**. The CLI loads a **`.env`** file in the **current working directory** (via `python-dotenv`) if the variable is not already set in your environment. Keep your key in `.env` (already ignored by git):
 
@@ -108,33 +132,31 @@ GEMINI_API_KEY=your_key_here
 - **One-off:** `export GEMINI_API_KEY=your_key_here` then run the command in the same terminal session.
 - **Load `.env` in the shell** (zsh/bash): `set -a && source .env && set +a` (requires `KEY=value` lines in `.env`).
 
-Run from the project directory (or wherever `transcripts/`, `outlines/`, and `.env` live):
+Run from the project directory (or wherever `transcripts/`, `outlines/`, and `.env` live). For **`paragraph-outline`** specifically you also need **`outlines/`**:
 
 ```bash
 # One lesson (default: paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md)
 python -m bt.cli paragraph-outline nt203-greek-tools-for-bible-study --lesson 3
 
-# All lessons (one Gemini request per lesson by default; one file: paragraph-outlined/<model>/<slug>.paragraph-outlined.md)
+# All lessons (one Gemini request per lesson; one file: paragraph-outlined/<model>/<slug>.paragraph-outlined.md)
 python -m bt.cli paragraph-outline nt203-greek-tools-for-bible-study
 
 # Slug-prefix also works (must be unambiguous):
 python -m bt.cli paragraph-outline nt203 --lesson 3
 
-# Batch multiple lessons per request (e.g. 3 or 10)
-python -m bt.cli paragraph-outline nt203-greek-tools-for-bible-study --batch-size 3
+# Multiple courses (default paths per slug; do not use --transcript, --outline, or --out)
+python -m bt.cli paragraph-outline nt203 nt201
 ```
 
-Reads **`transcripts/<course-slug>.md`** and **`outlines/<course-slug>.outline.md`**, pulls the **transcript body** and **outline section** for each lesson (or only the one given by `--lesson`), then calls Gemini with:
+Reads **`transcripts/<course-slug>.md`** and **`outlines/<course-slug>.outline.md`**, pulls the **transcript body** and **outline section** for each lesson (or only the one given by `--lesson`), then calls Gemini. The system instructions (see `src/bt/lesson_paragraph.py`) tell the model to paragraph the lesson, keep wording, inline the outline as headings, avoid duplicating the lesson title, use **`###`** for the top outline level, and not use **`#`** / **`##`** in the model output. The user message includes the transcription and outline text.
 
-```text
-Paragraph the lesson
-Do not modify the contents
-Inline the outline as headings to the output.
-```
+The lesson title in the output file is written as **heading 2** (`##`); the tool normalizes heading depth so the shallowest heading in the model body is **`###`**.
 
-(plus the lesson transcription and outline text in the same prompt.) The lesson title is written as **heading 2** (`##`); the model is instructed to start outline sections at **heading 3** (`###`), with deeper levels as `####`, `#####`, … The tool normalizes heading depth so the shallowest heading in the body is `###`.
+**Output:** **Markdown** (`.md`). The file starts with the **course title** as **heading 1** (`#`), taken from the first non-lesson `# …` line in the transcript (or a title derived from the slug if missing), then **`## Table of contents`** with links to each lesson, then a horizontal rule and the lesson bodies. Lesson headings are Markdown `## …`; ToC links use slugs computed the same way as typical GitHub-style heading ids.
 
-**Output:** **Markdown** (`.md`). The file starts with the **course title** as **heading 1** (`#`), taken from the first non-lesson `# …` line in the transcript (or a title derived from the slug if missing), then **`## Table of contents`** with links to each lesson, then a horizontal rule and the lesson bodies. Lesson headings use explicit HTML `<h2 id="…">` so ToC links resolve. With **`--lesson`**, default **`paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md`**; without **`--lesson`**, all successful lessons are in **`paragraph-outlined/<model>/<slug>.paragraph-outlined.md`** (``<model>`` is the Gemini model id, sanitized for the filesystem). Each lesson block corresponds to `## Lesson N: …` from the transcript (promoted from `# Lesson N: …`), then the outline-paragraph body. Use **`--out path`** to override the output file (paths **without** an extension get `.md` appended) for either mode. Override inputs with `--transcript` / `--outline`, model with `--model` (default `gemini-3.1-flash-lite-preview`, Gemini 3.1 Flash-Lite). **`--batch-size N`** (default **1**) sets how many lessons are sent in one Gemini request when paragraphing the full course (ignored with **`--lesson`**). If any lesson fails (missing transcript/outline or Gemini error), the command exits non-zero after processing the rest; the combined file omits failed lessons.
+Default paths: with **`--lesson`**, **`paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md`**; without **`--lesson`**, **`paragraph-outlined/<model>/<slug>.paragraph-outlined.md`**. Here ``<model>`` is the Gemini model id, sanitized for the filesystem. Each lesson uses one Gemini request. Each lesson block corresponds to `## Lesson N: …` from the transcript (promoted from `# Lesson N: …`), then the outline-paragraph body.
+
+Use **`--out path`** to override the output file for a **single** course (paths **without** an extension get **`.md`** appended). With **multiple** courses, omit **`--out`** (and omit **`--transcript`** / **`--outline`**). Override inputs with **`--transcript`** / **`--outline`**, **model** with **`--model`** (default **`gemini-3.1-flash-lite-preview`**). If any lesson fails (missing transcript or outline, or a Gemini error), the command exits non-zero after processing the rest; the combined file omits failed lessons.
 
 ## How it works
 
@@ -148,6 +170,8 @@ Inline the outline as headings to the output.
 |------|----------------|
 | Course transcript | `transcripts/<course-slug>.md` |
 | Course outline | `outlines/<course-slug>.outline.md` |
+| Paragraph lesson (Gemini, transcript only, `--lesson`) | `paragraph/<model>/<course-slug>.lessonNN.paragraph.md` |
+| Paragraph course (Gemini, transcript only, all lessons) | `paragraph/<model>/<course-slug>.paragraph.md` |
 | Outline-paragraph lesson (Gemini, `--lesson`) | `paragraph-outlined/<model>/<course-slug>.lessonNN.paragraph-outlined.md` |
 | Outline-paragraph course (Gemini, all lessons) | `paragraph-outlined/<model>/<course-slug>.paragraph-outlined.md` |
 
