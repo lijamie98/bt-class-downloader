@@ -8,7 +8,16 @@ from __future__ import annotations
 import re
 import warnings
 from pathlib import Path
-from typing import Optional
+from typing import Literal, Optional
+
+from bt.paths import (
+    EXPLAIN_CN_DIR,
+    EXPLAIN_ZH_DIR,
+    PARAGRAPH_DIR,
+    PARAGRAPH_OUTLINED_DIR,
+    OUTLINES_DIR,
+    TRANSCRIPTS_DIR,
+)
 
 _COURSE_TITLE_LINE = re.compile(r"^#\s+(?!Lesson\s+\d+:)(.+)$", re.MULTILINE)
 _LESSON_TRANSCRIPT_START = re.compile(r"^# Lesson (\d+):\s*.+$", re.MULTILINE)
@@ -16,6 +25,7 @@ _LESSON_OUTLINE_START = re.compile(r"^## Lesson (\d+):\s*.+$", re.MULTILINE)
 _LEADING_LESSON_H = re.compile(r"^#{2,6}\s+Lesson\s+\d+:", re.I)
 _LEADING_NT_COURSE = re.compile(r"^#{2,6}\s+NT\d+", re.I)
 _ROMAN_OUTLINE_SECTION = re.compile(r"^#{2,6}\s+[IVX]+\.\s")
+_HEADING_TOC_LINE = re.compile(r"^(#{2,6})\s+(.+)$")
 
 
 def extract_lesson_h1_line(transcript_md: str, lesson_num: int) -> Optional[str]:
@@ -118,6 +128,42 @@ def format_plain_paragraph_markdown_file(*, lesson_h1: Optional[str], gemini_bod
     return f"{body}\n"
 
 
+_EXPLAIN_ZH_H2_HTML = re.compile(r"<!--\s*explain-zh-h2:\s*(.+?)\s*-->", re.DOTALL)
+_EXPLAIN_CN_H2_HTML = re.compile(r"<!--\s*explain-cn-h2:\s*(.+?)\s*-->", re.DOTALL)
+
+
+def format_chinese_explanation_markdown_file(
+    *,
+    lesson_h1: Optional[str],
+    gemini_body: str,
+    variant: Literal["zh", "cn"] = "zh",
+) -> str:
+    """
+    Like ``format_paragraph_markdown_file`` but prefers bilingual ``##`` from an HTML comment in the model output:
+
+    - Traditional: ``<!-- explain-zh-h2: Lesson N: … (English) -->``
+    - Simplified: ``<!-- explain-cn-h2: Lesson N: … (English) -->``
+
+    If that comment is missing, falls back to the English lesson line as ``##``.
+    """
+    text = gemini_body.strip()
+    h2_line: Optional[str] = None
+    pat = _EXPLAIN_CN_H2_HTML if variant == "cn" else _EXPLAIN_ZH_H2_HTML
+    m = pat.search(text)
+    if m:
+        inner = " ".join(m.group(1).split())
+        if inner:
+            h2_line = f"## {inner}"
+        text = (text[: m.start()] + text[m.end() :]).strip()
+    body = strip_leading_redundant_headings(text)
+    body = normalize_outline_starts_at_h3(body)
+    if h2_line is None and lesson_h1:
+        h2_line = lesson_title_as_h2(lesson_h1.strip())
+    if h2_line:
+        return f"{h2_line}\n\n{body}\n"
+    return f"{body}\n"
+
+
 def extract_course_title_from_transcript(transcript_md: str) -> Optional[str]:
     """First ``# …`` line that is not ``# Lesson N:`` (course transcript header)."""
     m = _COURSE_TITLE_LINE.search(transcript_md)
@@ -133,40 +179,51 @@ def github_style_heading_id(heading_text: str) -> str:
     return s.strip("-")
 
 
-def _toc_from_leading_h2(md_doc: str) -> tuple[str, Optional[tuple[str, str]]]:
+def _allocate_anchor_slug(base_slug: str, counts: dict[str, int]) -> str:
+    """GitHub-style duplicate heading ids: foo, foo-1, foo-2, …"""
+    n = counts.get(base_slug, 0)
+    counts[base_slug] = n + 1
+    if n == 0:
+        return base_slug
+    return f"{base_slug}-{n}"
+
+
+def _parse_heading_toc_entries(md: str) -> list[tuple[int, str, str]]:
     """
-    If the document starts with ``## …``, use that line for the table of contents.
-    The document is unchanged (Markdown ``##``, not raw HTML ``<h2>``).
+    Each ``##`` … ``######`` line becomes ``(level, heading_plain_text, fragment_id)`` in document order.
     """
-    lines = md_doc.splitlines()
-    if not lines:
-        return md_doc, None
-    m = re.match(r"^##\s+(.+)$", lines[0].strip())
-    if not m:
-        return md_doc, None
-    link_text = m.group(1).strip()
-    anchor = github_style_heading_id(link_text)
-    return md_doc, (link_text, anchor)
+    slug_counts: dict[str, int] = {}
+    out: list[tuple[int, str, str]] = []
+    for line in md.splitlines():
+        m = _HEADING_TOC_LINE.match(line.strip())
+        if not m:
+            continue
+        level = len(m.group(1))
+        text = m.group(2).strip()
+        text = re.sub(r"\s+#+\s*$", "", text).strip()
+        base = github_style_heading_id(text)
+        if not base:
+            base = "heading"
+        anchor = _allocate_anchor_slug(base, slug_counts)
+        out.append((level, text, anchor))
+    return out
 
 
 def format_paragraphed_document_with_toc(*, course_title: str, lesson_md_docs: list[str]) -> str:
     """
-    Heading 1 course title, ``## Table of contents`` with links, horizontal rule, then lesson bodies.
+    Heading 1 course title, ``## Table of contents`` with nested links to every ``##``–``######``
+    heading in the combined document, horizontal rule, then bodies.
     Each lesson should start with ``## Lesson N: …`` (from ``format_paragraph_markdown_file``).
     """
-    chunks: list[str] = []
-    toc: list[tuple[str, str]] = []
-    for doc in lesson_md_docs:
-        chunk, meta = _toc_from_leading_h2(doc)
-        chunks.append(chunk)
-        if meta:
-            toc.append(meta)
+    body = "\n\n".join(lesson_md_docs)
+    entries = _parse_heading_toc_entries(body)
+
     lines = [f"# {course_title}", "", "## Table of contents", ""]
-    for link_text, anchor in toc:
-        lines.append(f"- [{link_text}](#{anchor})")
+    for level, link_text, anchor in entries:
+        indent = "  " * max(0, level - 2)
+        lines.append(f"{indent}- [{link_text}](#{anchor})")
     lines.extend(["", "---", ""])
     head = "\n".join(lines)
-    body = "\n\n".join(chunks)
     return f"{head}\n{body}\n"
 
 
@@ -236,14 +293,131 @@ def build_paragraph_transcript_only_prompt(transcription: str) -> str:
     )
 
 
-def _generate_gemini_text(api_key: str, prompt: str, model: str) -> str:
+GEMINI_SYSTEM_INSTRUCTION_EXPLAIN_ZH = """Task:
+- Read the lesson (transcription below).
+- Read the outline of the lesson (below).
+- Write a **substantial, study-guide-level** explanation: your goal is depth and clarity, not a short summary. Err on the side of **more** explanation when the transcript gives enough material.
+
+Depth and coverage (prioritize these):
+- **Unpack the teacher’s reasoning**: not only *what* was said, but *why* it matters, how it connects to earlier or later points in the same lesson, and what a student might misunderstand without help.
+- **Define and situate terms**: when a technical or Greek/English term appears, explain it in Traditional Chinese with enough context that a reader new to the topic can follow; keep the original term visible.
+- **Use multiple paragraphs per section** whenever the transcript supports it: one-sentence sections are too thin unless the point is truly trivial.
+- **Add helpful bridges**: short transitions that show how subtopics fit together (cause/effect, contrast, sequence).
+- If the teacher gives an illustration, story, or aside, **integrate it** and say what lesson point it supports.
+
+Language:
+- Use Traditional Chinese (中文, 繁體) for the detailed explanation. Do not use Simplified Chinese.
+- For important terminology, retain the original English and Greek vocabulary (Latin or Greek script as given); you may add a short Chinese gloss in parentheses when helpful.
+- For Bible and theological terminology in Chinese, prefer wording and standard terms associated with **Reformed theology** (改革宗 / 歸正神學), unless the teacher clearly follows another tradition in the lecture.
+
+Structure:
+- If the lesson follows the outline closely, structure your explanation to follow that outline (mirror it with your section headings).
+- If the lesson does not follow the outline closely, do not force the outline: structure your explanation according to what the teacher actually taught, in order, so the reader still gets a clear “map” of the lesson.
+- Include a short note stating whether the provided outline was followed. Put it in a Markdown blockquote at the very start of your output (before any section headings), in Traditional Chinese:
+> **大綱對照：**
+> (whether the outline was followed and briefly why)
+
+Examples and Scripture (be thorough):
+- For **every example** the teacher gives: state the example, unpack it step by step, state the takeaway, and link it explicitly to the argument it supports.
+- For **every Bible verse and reference**: give literary/historical context as needed, summarize the force of the wording where relevant, and explain how the teacher uses it in this lesson (not only the citation text).
+
+Bilingual lesson heading (required):
+- After the 大綱對照 blockquote, on its own line, output exactly one HTML comment (the tool turns this into ``##``):
+  <!-- explain-zh-h2: Lesson N: 繁體中文標題 (English lesson title) -->
+  Use the real lesson number N. The Traditional Chinese part should be a concise translation of the lesson topic. The English part in parentheses must match the official lesson title given above (same wording as after ``Lesson N:``).
+- Do **not** follow this with a ``###`` heading that only repeats the same topic—that would duplicate the merged title.
+
+Formatting:
+- Do not output heading 1 (#) or raw heading 2 (##) in the prose; the ``##`` line is produced from the HTML comment.
+- Use heading 3 (###) for the first real section onward, heading 4 (####) for subsections, then ##### and so on as needed.
+"""
+
+
+GEMINI_SYSTEM_INSTRUCTION_EXPLAIN_CN = """Task:
+- Read the lesson (transcription below).
+- Read the outline of the lesson (below).
+- Write a **substantial, study-guide-level** explanation: your goal is depth and clarity, not a short summary. Err on the side of **more** explanation when the transcript gives enough material.
+
+Depth and coverage (prioritize these):
+- **Unpack the teacher’s reasoning**: not only *what* was said, but *why* it matters, how it connects to earlier or later points in the same lesson, and what a student might misunderstand without help.
+- **Define and situate terms**: when a technical or Greek/English term appears, explain it in Simplified Chinese with enough context that a reader new to the topic can follow; keep the original term visible.
+- **Use multiple paragraphs per section** whenever the transcript supports it: one-sentence sections are too thin unless the point is truly trivial.
+- **Add helpful bridges**: short transitions that show how subtopics fit together (cause/effect, contrast, sequence).
+- If the teacher gives an illustration, story, or aside, **integrate it** and say what lesson point it supports.
+
+Language:
+- Use Simplified Chinese (简体中文) for the detailed explanation. Do not use Traditional Chinese.
+- For important terminology, retain the original English and Greek vocabulary (Latin or Greek script as given); you may add a short Chinese gloss in parentheses when helpful.
+- For Bible and theological terminology in Chinese, prefer wording and standard terms associated with **Reformed theology** (改革宗 / 归正神学), unless the teacher clearly follows another tradition in the lecture.
+
+Structure:
+- If the lesson follows the outline closely, structure your explanation to follow that outline (mirror it with your section headings).
+- If the lesson does not follow the outline closely, do not force the outline: structure your explanation according to what the teacher actually taught, in order, so the reader still gets a clear “map” of the lesson.
+- Include a short note stating whether the provided outline was followed. Put it in a Markdown blockquote at the very start of your output (before any section headings), in Simplified Chinese:
+> **大纲对照：**
+> (whether the outline was followed and briefly why)
+
+Examples and Scripture (be thorough):
+- For **every example** the teacher gives: state the example, unpack it step by step, state the takeaway, and link it explicitly to the argument it supports.
+- For **every Bible verse and reference**: give literary/historical context as needed, summarize the force of the wording where relevant, and explain how the teacher uses it in this lesson (not only the citation text).
+
+Bilingual lesson heading (required):
+- After the 大纲对照 blockquote, on its own line, output exactly one HTML comment (the tool turns this into ``##``):
+  <!-- explain-cn-h2: Lesson N: 简体中文标题 (English lesson title) -->
+  Use the real lesson number N. The Simplified Chinese part should be a concise translation of the lesson topic. The English part in parentheses must match the official lesson title given above (same wording as after ``Lesson N:``).
+- Do **not** follow this with a ``###`` heading that only repeats the same topic—that would duplicate the merged title.
+
+Formatting:
+- Do not output heading 1 (#) or raw heading 2 (##) in the prose; the ``##`` line is produced from the HTML comment.
+- Use heading 3 (###) for the first real section onward, heading 4 (####) for subsections, then ##### and so on as needed.
+"""
+
+
+def build_chinese_explanation_prompt(
+    transcription: str,
+    outline: str,
+    *,
+    lesson_h1_line: Optional[str] = None,
+    simplified: bool = False,
+) -> str:
+    official = ""
+    if lesson_h1_line and lesson_h1_line.strip():
+        official = (
+            "Official lesson title (verbatim—use this lesson number and English title inside the HTML comment):\n\n"
+            f"{lesson_h1_line.strip()}\n\n"
+            "---\n\n"
+        )
+    system = GEMINI_SYSTEM_INSTRUCTION_EXPLAIN_CN if simplified else GEMINI_SYSTEM_INSTRUCTION_EXPLAIN_ZH
+    kind = "Simplified Chinese" if simplified else "Traditional Chinese"
+    return (
+        f"{system}\n\n"
+        "---\n\n"
+        f"{official}"
+        "Lesson (transcription):\n\n"
+        f"{transcription}\n\n"
+        "---\n\n"
+        "Outline of the lesson:\n\n"
+        f"{outline}\n\n"
+        "---\n\n"
+        f"Now produce the {kind} explanation. Aim for a long-form study guide: "
+        "dense with explanation, light on generic overview sentences.\n"
+    )
+
+
+def _generate_gemini_text(
+    api_key: str,
+    prompt: str,
+    model: str,
+    *,
+    temperature: float = 0.2,
+) -> str:
     with warnings.catch_warnings():
         warnings.simplefilter("ignore", FutureWarning)
         import google.generativeai as genai
 
     genai.configure(api_key=api_key)
     m = genai.GenerativeModel(model)
-    resp = m.generate_content(prompt, generation_config={"temperature": 0.2})
+    resp = m.generate_content(prompt, generation_config={"temperature": temperature})
     text = getattr(resp, "text", None)
     if not text and resp.candidates:
         parts = []
@@ -277,14 +451,30 @@ def run_gemini_paragraph_transcript_only(
     return _generate_gemini_text(api_key, prompt, model)
 
 
+def run_gemini_chinese_explanation(
+    *,
+    api_key: str,
+    transcription: str,
+    outline: str,
+    model: str = "gemini-3.1-flash-lite-preview",
+    lesson_h1_line: Optional[str] = None,
+    simplified: bool = False,
+) -> str:
+    prompt = build_chinese_explanation_prompt(
+        transcription, outline, lesson_h1_line=lesson_h1_line, simplified=simplified
+    )
+    # Slightly higher temperature helps varied, expansive explanatory prose; paragraphing stays at default 0.2.
+    return _generate_gemini_text(api_key, prompt, model, temperature=0.35)
+
+
 def resolve_transcript_outline_paths(
     course_slug: str,
     *,
     transcript: Optional[str] = None,
     outline: Optional[str] = None,
 ) -> tuple[Path, Path]:
-    t = Path(transcript) if transcript else Path("transcripts") / f"{course_slug}.md"
-    o = Path(outline) if outline else Path("outlines") / f"{course_slug}.outline.md"
+    t = Path(transcript) if transcript else TRANSCRIPTS_DIR / f"{course_slug}.md"
+    o = Path(outline) if outline else OUTLINES_DIR / f"{course_slug}.outline.md"
     return t, o
 
 
@@ -302,21 +492,43 @@ def sanitize_model_for_path(model: str) -> str:
 
 def default_paragraph_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
     d = sanitize_model_for_path(model)
-    return Path("paragraph-outlined") / d / f"{course_slug}.lesson{lesson_num:02d}.paragraph-outlined.md"
+    return PARAGRAPH_OUTLINED_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.paragraph-outlined.md"
 
 
 def default_paragraph_course_out_path(course_slug: str, *, model: str) -> Path:
-    """Single file for all lessons: ``paragraph-outlined/<model>/<slug>.paragraph-outlined.md``."""
+    """Single file for all lessons: ``data/paragraph-outlined/<model>/<slug>.paragraph-outlined.md``."""
     d = sanitize_model_for_path(model)
-    return Path("paragraph-outlined") / d / f"{course_slug}.paragraph-outlined.md"
+    return PARAGRAPH_OUTLINED_DIR / d / f"{course_slug}.paragraph-outlined.md"
 
 
 def default_plain_paragraph_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
     d = sanitize_model_for_path(model)
-    return Path("paragraph") / d / f"{course_slug}.lesson{lesson_num:02d}.paragraph.md"
+    return PARAGRAPH_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.paragraph.md"
 
 
 def default_plain_paragraph_course_out_path(course_slug: str, *, model: str) -> Path:
-    """Single file for all lessons: ``paragraph/<model>/<slug>.paragraph.md``."""
+    """Single file for all lessons: ``data/paragraph/<model>/<slug>.paragraph.md``."""
     d = sanitize_model_for_path(model)
-    return Path("paragraph") / d / f"{course_slug}.paragraph.md"
+    return PARAGRAPH_DIR / d / f"{course_slug}.paragraph.md"
+
+
+def default_explain_zh_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
+    d = sanitize_model_for_path(model)
+    return EXPLAIN_ZH_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.zh.md"
+
+
+def default_explain_zh_course_out_path(course_slug: str, *, model: str) -> Path:
+    """Single file for all lessons: ``data/explain-zh/<model>/<slug>.zh.md``."""
+    d = sanitize_model_for_path(model)
+    return EXPLAIN_ZH_DIR / d / f"{course_slug}.zh.md"
+
+
+def default_explain_cn_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
+    d = sanitize_model_for_path(model)
+    return EXPLAIN_CN_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.cn.md"
+
+
+def default_explain_cn_course_out_path(course_slug: str, *, model: str) -> Path:
+    """Single file for all lessons: ``data/explain-cn/<model>/<slug>.cn.md``."""
+    d = sanitize_model_for_path(model)
+    return EXPLAIN_CN_DIR / d / f"{course_slug}.cn.md"

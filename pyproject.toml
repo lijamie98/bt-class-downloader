@@ -18,7 +18,8 @@ dev = [
 ]
 
 [project.scripts]
-biblicaltraining-transcripts = "bt.cli:main"
+bt = "bt.main:main"
+biblicaltraining-transcripts = "bt.main:main"
 
 [build-system]
 requires = ["setuptools>=69.0.0", "wheel"]
