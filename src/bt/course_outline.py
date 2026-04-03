@@ -19,6 +19,8 @@ from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 import requests
 from bs4 import BeautifulSoup
 
+from bt.paths import OUTLINES_DIR
+
 _OUT_CLASS = re.compile(r"^out-(\d+)$")
 
 
@@ -353,9 +355,9 @@ def html_outline_to_markdown(html_fragment: str) -> str:
 
 
 def default_outline_path(transcript_path: str) -> str:
-    """Course transcript path -> outlines/<basename>.outline.md (alongside default transcripts/)."""
+    """Course transcript path -> data/outlines/<basename>.outline.md (alongside default transcripts)."""
     root, ext = os.path.splitext(transcript_path)
     base = os.path.basename(root)
     if not ext:
         ext = ".md"
-    return os.path.join("outlines", f"{base}.outline{ext}")
+    return str(OUTLINES_DIR / f"{base}.outline{ext}")
