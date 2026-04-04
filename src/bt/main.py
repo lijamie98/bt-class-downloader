@@ -48,20 +48,30 @@ from bt.lesson_paragraph import (
     default_paragraph_out_path,
     default_plain_paragraph_course_out_path,
     default_plain_paragraph_out_path,
+    default_translate_cn_course_out_path,
+    default_translate_cn_out_path,
+    default_translate_zh_course_out_path,
+    default_translate_zh_out_path,
     extract_course_title_from_transcript,
     extract_lesson_h1_line,
     extract_lesson_outline_section,
     extract_lesson_transcript_body,
     format_chinese_explanation_markdown_file,
+    format_chinese_translation_markdown_file,
     format_paragraph_markdown_file,
     format_paragraphed_document_with_toc,
     format_plain_paragraph_markdown_file,
+    lesson_h2_line_from_paragraph_chunk,
     list_lesson_numbers_from_transcript,
+    load_paragraph_lessons_for_translation,
     read_text,
+    resolve_english_course_title_for_translation,
     resolve_transcript_outline_paths,
     run_gemini_chinese_explanation,
+    run_gemini_chinese_translation,
     run_gemini_paragraph,
     run_gemini_paragraph_transcript_only,
+    run_gemini_translate_course_title,
 )
 from bt.transcript_clean import strip_appended_lesson_catalog, strip_transcript_ui_noise
 
@@ -1076,6 +1086,182 @@ def cmd_explain_cn(args: argparse.Namespace) -> int:
     return worst
 
 
+def _translate_chinese_course(
+    slug: str, args: argparse.Namespace, *, api_key: str, simplified: bool
+) -> int:
+    lessons, err = load_paragraph_lessons_for_translation(
+        slug,
+        model=args.model,
+        paragraph=getattr(args, "paragraph", None),
+        lesson_num=args.lesson,
+    )
+    if err:
+        iter_progress(f"Error: {err}")
+        return 2
+
+    label = "Simplified Chinese" if simplified else "Traditional Chinese"
+    variant = "cn" if simplified else "zh"
+
+    paragraph_md_hint: Optional[str] = None
+    p_arg = getattr(args, "paragraph", None)
+    if p_arg:
+        pp = Path(p_arg)
+        if pp.is_file():
+            paragraph_md_hint = read_text(pp)
+    combined = default_plain_paragraph_course_out_path(slug, model=args.model)
+    if paragraph_md_hint is None and combined.is_file():
+        paragraph_md_hint = read_text(combined)
+
+    title_en = resolve_english_course_title_for_translation(
+        slug, model=args.model, paragraph_md_hint=paragraph_md_hint
+    )
+
+    iter_progress(f"Translating course title to {label}…")
+    try:
+        title_translated = run_gemini_translate_course_title(
+            api_key=api_key,
+            title_en=title_en,
+            model=args.model,
+            simplified=simplified,
+        )
+    except Exception as e:
+        iter_progress(f"Gemini error (title): {e}")
+        return 6
+
+    single_lesson = args.lesson is not None
+    combined_docs: list[str] = []
+
+    for n, chunk in lessons:
+        h2_src = lesson_h2_line_from_paragraph_chunk(chunk)
+        iter_progress(f"Lesson {n}: calling Gemini ({args.model}) for {label} translation…")
+        try:
+            raw = run_gemini_chinese_translation(
+                api_key=api_key,
+                lesson_english_md=chunk,
+                model=args.model,
+                lesson_h2_official=h2_src,
+                simplified=simplified,
+            )
+        except Exception as e:
+            iter_progress(f"Gemini error: {e}")
+            return 6
+
+        md_doc = format_chinese_translation_markdown_file(
+            lesson_h2_line=h2_src,
+            gemini_body=raw,
+            variant=variant,
+        )
+        if single_lesson:
+            if args.out:
+                outp = Path(args.out)
+                if not outp.suffix:
+                    outp = outp.with_suffix(".md")
+            else:
+                if simplified:
+                    outp = default_translate_cn_out_path(slug, n, model=args.model)
+                else:
+                    outp = default_translate_zh_out_path(slug, n, model=args.model)
+            _ensure_dir(str(outp))
+            full_md = format_paragraphed_document_with_toc(
+                course_title=title_translated,
+                lesson_md_docs=[md_doc],
+            )
+            outp.write_text(full_md, encoding="utf-8")
+            iter_progress(f"Wrote Markdown: {outp}")
+        else:
+            combined_docs.append(md_doc)
+
+    if not single_lesson and combined_docs:
+        if args.out:
+            outp = Path(args.out)
+            if not outp.suffix:
+                outp = outp.with_suffix(".md")
+        else:
+            if simplified:
+                outp = default_translate_cn_course_out_path(slug, model=args.model)
+            else:
+                outp = default_translate_zh_course_out_path(slug, model=args.model)
+        _ensure_dir(str(outp))
+        full_md = format_paragraphed_document_with_toc(
+            course_title=title_translated,
+            lesson_md_docs=combined_docs,
+        )
+        outp.write_text(full_md, encoding="utf-8")
+        iter_progress(f"Wrote Markdown: {outp}")
+
+    return 0
+
+
+def cmd_translate_zh(args: argparse.Namespace) -> int:
+    key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not key:
+        iter_progress("Error: GEMINI_API_KEY is not set.")
+        return 5
+    slugs = getattr(args, "course_slug", None) or []
+    if not slugs:
+        iter_progress(
+            "Error: one or more course slug(s) or slug-prefix(es) are required "
+            "(e.g. nt203 or nt203-greek-tools-for-bible-study)."
+        )
+        return 2
+    if len(slugs) > 1 and (getattr(args, "paragraph", None) or args.out):
+        iter_progress(
+            "Error: --paragraph and --out cannot be used with multiple courses."
+        )
+        return 2
+    worst = 0
+    for raw in slugs:
+        raw = raw.strip()
+        if not raw:
+            worst = max(worst, 2)
+            continue
+        try:
+            slug = resolve_course_query(raw).slug
+        except CourseIndexError as e:
+            iter_progress(f"Error: {e}")
+            worst = max(worst, 2)
+            continue
+        if len(slugs) > 1:
+            iter_progress(f"--- {slug} ---")
+        worst = max(worst, _translate_chinese_course(slug, args, api_key=key, simplified=False))
+    return worst
+
+
+def cmd_translate_cn(args: argparse.Namespace) -> int:
+    key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not key:
+        iter_progress("Error: GEMINI_API_KEY is not set.")
+        return 5
+    slugs = getattr(args, "course_slug", None) or []
+    if not slugs:
+        iter_progress(
+            "Error: one or more course slug(s) or slug-prefix(es) are required "
+            "(e.g. nt203 or nt203-greek-tools-for-bible-study)."
+        )
+        return 2
+    if len(slugs) > 1 and (getattr(args, "paragraph", None) or args.out):
+        iter_progress(
+            "Error: --paragraph and --out cannot be used with multiple courses."
+        )
+        return 2
+    worst = 0
+    for raw in slugs:
+        raw = raw.strip()
+        if not raw:
+            worst = max(worst, 2)
+            continue
+        try:
+            slug = resolve_course_query(raw).slug
+        except CourseIndexError as e:
+            iter_progress(f"Error: {e}")
+            worst = max(worst, 2)
+            continue
+        if len(slugs) > 1:
+            iter_progress(f"--- {slug} ---")
+        worst = max(worst, _translate_chinese_course(slug, args, api_key=key, simplified=True))
+    return worst
+
+
 def cmd_paragraph_lesson(args: argparse.Namespace) -> int:
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not key:
@@ -1126,7 +1312,7 @@ def main() -> int:
         prog="bt",
         description=(
             "BiblicalTraining.org transcripts: download, paragraph lessons with Gemini (transcript-only or with outline), "
-            "or Chinese explanations (explain-zh Traditional, explain-cn Simplified)."
+            "Chinese explanations (explain-zh / explain-cn), or Chinese translations of paragraphed lessons (translate-zh / translate-cn)."
         ),
         formatter_class=argparse.RawTextHelpFormatter,
         epilog=(
@@ -1172,6 +1358,14 @@ def main() -> int:
             "\n"
             "  # Simplified Chinese explanation (all lessons)\n"
             "  python -m bt explain-cn nt203\n"
+            "\n"
+            "  # Traditional Chinese translation of paragraphed lesson(s)\n"
+            "  python -m bt translate-zh nt203 --lesson 3\n"
+            "  python -m bt translate-zh nt203\n"
+            "\n"
+            "  # Simplified Chinese translation of paragraphed lesson(s)\n"
+            "  python -m bt translate-cn nt203 --lesson 3\n"
+            "  python -m bt translate-cn nt203\n"
         ),
     )
     sub = parser.add_subparsers(dest="command", required=True)
@@ -1461,6 +1655,94 @@ def main() -> int:
         help="Gemini model id (default: gemini-3.1-flash-lite-preview).",
     )
     ec.set_defaults(func=cmd_explain_cn)
+
+    tz = sub.add_parser(
+        "translate-zh",
+        help="Translate paragraphed English lesson(s) to Traditional Chinese with Gemini.",
+        description=(
+            "Translate Markdown from data/paragraph (``paragraph`` command output) into Traditional Chinese (繁體中文).\n"
+            "One Gemini request per lesson, plus one for the course title. Pass one or more course slugs or slug-prefixes from the index.\n"
+            "If a prefix matches 0 or >1 courses, that entry fails. With multiple courses, --paragraph and --out are not allowed."
+        ),
+    )
+    tz.add_argument(
+        "course_slug",
+        nargs="+",
+        help="One or more course slugs OR slug-prefixes (from index), e.g. nt203 nt201-biblical-greek.",
+    )
+    tz.add_argument(
+        "--lesson",
+        type=int,
+        default=None,
+        metavar="N",
+        help="Lesson number (same as ## Lesson N: in paragraph Markdown). Omit to translate every lesson.",
+    )
+    tz.add_argument(
+        "--paragraph",
+        default=None,
+        help=(
+            "Input .md path (single course only): default data/paragraph/<model>/<slug>.paragraph.md "
+            "or data/paragraph/<model>/<slug>.lessonNN.paragraph.md with --lesson."
+        ),
+    )
+    tz.add_argument(
+        "--out",
+        default=None,
+        help=(
+            "Output file (single course only): with --lesson, default data/translate-zh/<model>/<slug>.lessonNN.zh.md; "
+            "without --lesson, default data/translate-zh/<model>/<slug>.zh.md (all lessons in one file)."
+        ),
+    )
+    tz.add_argument(
+        "--model",
+        default="gemini-3.1-flash-lite-preview",
+        help="Gemini model id (default: gemini-3.1-flash-lite-preview).",
+    )
+    tz.set_defaults(func=cmd_translate_zh)
+
+    tc = sub.add_parser(
+        "translate-cn",
+        help="Translate paragraphed English lesson(s) to Simplified Chinese with Gemini.",
+        description=(
+            "Translate Markdown from data/paragraph (``paragraph`` command output) into Simplified Chinese (简体中文).\n"
+            "One Gemini request per lesson, plus one for the course title. Pass one or more course slugs or slug-prefixes from the index.\n"
+            "If a prefix matches 0 or >1 courses, that entry fails. With multiple courses, --paragraph and --out are not allowed."
+        ),
+    )
+    tc.add_argument(
+        "course_slug",
+        nargs="+",
+        help="One or more course slugs OR slug-prefixes (from index), e.g. nt203 nt201-biblical-greek.",
+    )
+    tc.add_argument(
+        "--lesson",
+        type=int,
+        default=None,
+        metavar="N",
+        help="Lesson number (same as ## Lesson N: in paragraph Markdown). Omit to translate every lesson.",
+    )
+    tc.add_argument(
+        "--paragraph",
+        default=None,
+        help=(
+            "Input .md path (single course only): default data/paragraph/<model>/<slug>.paragraph.md "
+            "or data/paragraph/<model>/<slug>.lessonNN.paragraph.md with --lesson."
+        ),
+    )
+    tc.add_argument(
+        "--out",
+        default=None,
+        help=(
+            "Output file (single course only): with --lesson, default data/translate-cn/<model>/<slug>.lessonNN.cn.md; "
+            "without --lesson, default data/translate-cn/<model>/<slug>.cn.md (all lessons in one file)."
+        ),
+    )
+    tc.add_argument(
+        "--model",
+        default="gemini-3.1-flash-lite-preview",
+        help="Gemini model id (default: gemini-3.1-flash-lite-preview).",
+    )
+    tc.set_defaults(func=cmd_translate_cn)
 
     args = parser.parse_args()
     return args.func(args)

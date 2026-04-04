@@ -22,33 +22,62 @@ python -m playwright install chromium
 
 Run the tool with **`python -m bt`** (the package’s `__main__`). After install, the **`bt`** command is also on your `PATH` (same as **`biblicaltraining-transcripts`**).
 
-## Quick start
+## Examples
 
-From the project directory:
+Run from the project directory (or wherever **`data/`** and **`.env`** live). **`GEMINI_API_KEY`** is required for **`paragraph`**, **`paragraph-outline`**, **`explain-zh`**, **`explain-cn`**, **`translate-zh`**, and **`translate-cn`** (see **`paragraph-outline`** below for **`.env`**).
+
+### `download`
+
+The course index is fetched on the first CLI run if it is missing. A **slug-prefix** must match exactly one course in the index.
 
 ```bash
-# Course index is fetched on first CLI run if missing; then download by slug-prefix (must match exactly one course)
 python -m bt download nt201
 # or: bt download nt201
 ```
 
-That writes **`data/transcripts/nt201-biblical-greek.md`** and **`data/outlines/nt201-biblical-greek.outline.md`** (paths depend on the resolved slug).
-
-**Optional — Gemini paragraphing** (set **`GEMINI_API_KEY`**, or put it in **`.env`** in the working directory; full detail under **`paragraph`** and **`paragraph-outline`** below):
+Writes **`data/transcripts/<slug>.md`** and **`data/outlines/<slug>.outline.md`** (exact paths depend on the resolved slug, e.g. `nt201-biblical-greek`).
 
 ```bash
-# Transcript only (no outline file)
-python -m bt paragraph nt201 --lesson 1
+python -m bt download "https://www.biblicaltraining.org/learn/institute/nt201-biblical-greek"
 
-# Transcript + outline on disk
-python -m bt paragraph-outline nt201 --lesson 1
+# Multiple courses (do not use --out):
+python -m bt download nt201 nt203
 ```
 
-**Multiple courses in one run:**
+### `paragraph`
+
+Transcript only (no outline). Uses Gemini; one request per lesson.
 
 ```bash
-python -m bt download nt201 nt203
-python -m bt paragraph nt201 nt203
+python -m bt paragraph nt203 --lesson 3
+
+# All lessons in one file:
+python -m bt paragraph nt203
+
+python -m bt paragraph nt203 nt201
+```
+
+### `explain` (`explain-zh` / `explain-cn`)
+
+Uses the same transcript + outline files as **`paragraph-outline`**. **`explain-zh`** is Traditional Chinese; **`explain-cn`** is Simplified Chinese.
+
+```bash
+python -m bt explain-zh nt203 --lesson 1
+python -m bt explain-zh nt203
+
+python -m bt explain-cn nt203 --lesson 1
+python -m bt explain-cn nt203
+```
+
+### `translate` (`translate-zh` / `translate-cn`)
+
+Reads English Markdown from **`data/paragraph/<model>/…`** (output of **`paragraph`**). **`translate-zh`** → **`data/translate-zh/…`**; **`translate-cn`** → **`data/translate-cn/…`**. Without **`--lesson`**, the combined **`…/<slug>.paragraph.md`** is used and **each lesson** is translated in its **own** Gemini request; the **course title** uses a **separate** request. With **`--lesson`**, the default input is **`…/<slug>.lessonNN.paragraph.md`**, or that lesson is sliced from the combined file if the per-lesson file is missing. Optional **`--paragraph`** overrides the input path (single course only).
+
+```bash
+python -m bt translate-zh nt310
+python -m bt translate-cn nt310
+
+python -m bt translate-zh nt310 --lesson 1
 ```
 
 ## Which course identifier to use
@@ -219,6 +248,10 @@ Use **`--out path`** to override the output file for a **single** course (paths 
 | Chinese explanation course, Traditional (`explain-zh`, all lessons) | `data/explain-zh/<model>/<course-slug>.zh.md` |
 | Chinese explanation lesson, Simplified (`explain-cn`, `--lesson`) | `data/explain-cn/<model>/<course-slug>.lessonNN.cn.md` |
 | Chinese explanation course, Simplified (`explain-cn`, all lessons) | `data/explain-cn/<model>/<course-slug>.cn.md` |
+| Chinese translation lesson, Traditional (`translate-zh`, `--lesson`) | `data/translate-zh/<model>/<course-slug>.lessonNN.zh.md` |
+| Chinese translation course, Traditional (`translate-zh`, all lessons) | `data/translate-zh/<model>/<course-slug>.zh.md` |
+| Chinese translation lesson, Simplified (`translate-cn`, `--lesson`) | `data/translate-cn/<model>/<course-slug>.lessonNN.cn.md` |
+| Chinese translation course, Simplified (`translate-cn`, all lessons) | `data/translate-cn/<model>/<course-slug>.cn.md` |
 
 ## Notes
 
