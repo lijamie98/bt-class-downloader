@@ -71,7 +71,7 @@ python -m bt explain-cn nt203
 
 ### `translate` (`translate-zh` / `translate-cn`)
 
-Reads a combined **`data/paragraph/<model>/<slug>.paragraph.md`** file (from **`paragraph`**). **`translate-zh`** → **`data/translate-zh/…`**; **`translate-cn`** → **`data/translate-cn/…`**. Without **`--lesson`**, the whole course body is translated in **one** Gemini request (plus a separate call for the course title).
+Reads English Markdown from **`data/paragraph/<model>/…`** (output of **`paragraph`**). **`translate-zh`** → **`data/translate-zh/…`**; **`translate-cn`** → **`data/translate-cn/…`**. Without **`--lesson`**, the combined **`…/<slug>.paragraph.md`** is used and **each lesson** is translated in its **own** Gemini request; the **course title** uses a **separate** request. With **`--lesson`**, the default input is **`…/<slug>.lessonNN.paragraph.md`**, or that lesson is sliced from the combined file if the per-lesson file is missing. Optional **`--paragraph`** overrides the input path (single course only).
 
 ```bash
 python -m bt translate-zh nt310

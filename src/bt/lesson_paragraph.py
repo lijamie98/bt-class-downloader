@@ -17,6 +17,8 @@ from bt.paths import (
     PARAGRAPH_OUTLINED_DIR,
     OUTLINES_DIR,
     TRANSCRIPTS_DIR,
+    TRANSLATE_CN_DIR,
+    TRANSLATE_ZH_DIR,
 )
 
 _COURSE_TITLE_LINE = re.compile(r"^#\s+(?!Lesson\s+\d+:)(.+)$", re.MULTILINE)
@@ -132,6 +134,21 @@ _EXPLAIN_ZH_H2_HTML = re.compile(r"<!--\s*explain-zh-h2:\s*(.+?)\s*-->", re.DOTA
 _EXPLAIN_CN_H2_HTML = re.compile(r"<!--\s*explain-cn-h2:\s*(.+?)\s*-->", re.DOTALL)
 
 
+def split_plain_paragraph_course_into_lessons(md: str) -> list[tuple[int, str]]:
+    """Split ``data/paragraph/…`` course Markdown on ``## Lesson N:`` headings."""
+    matches = list(_LESSON_OUTLINE_START.finditer(md))
+    if not matches:
+        return []
+    out: list[tuple[int, str]] = []
+    for i, m in enumerate(matches):
+        n = int(m.group(1))
+        start = m.start()
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(md)
+        chunk = md[start:end].strip()
+        out.append((n, chunk))
+    return out
+
+
 def format_chinese_explanation_markdown_file(
     *,
     lesson_h1: Optional[str],
@@ -159,6 +176,42 @@ def format_chinese_explanation_markdown_file(
     body = normalize_outline_starts_at_h3(body)
     if h2_line is None and lesson_h1:
         h2_line = lesson_title_as_h2(lesson_h1.strip())
+    if h2_line:
+        return f"{h2_line}\n\n{body}\n"
+    return f"{body}\n"
+
+
+_TRANSLATE_ZH_H2_HTML = re.compile(r"<!--\s*translate-zh-h2:\s*(.+?)\s*-->", re.DOTALL)
+_TRANSLATE_CN_H2_HTML = re.compile(r"<!--\s*translate-cn-h2:\s*(.+?)\s*-->", re.DOTALL)
+
+
+def format_chinese_translation_markdown_file(
+    *,
+    lesson_h2_line: Optional[str],
+    gemini_body: str,
+    variant: Literal["zh", "cn"] = "zh",
+) -> str:
+    """
+    Bilingual ``##`` from HTML comment in model output:
+
+    - ``<!-- translate-zh-h2: Lesson N: … (English) -->``
+    - ``<!-- translate-cn-h2: Lesson N: … (English) -->``
+
+    Falls back to ``lesson_h2_line`` (e.g. ``## Lesson N: …`` from the English source).
+    """
+    text = gemini_body.strip()
+    h2_line: Optional[str] = None
+    pat = _TRANSLATE_CN_H2_HTML if variant == "cn" else _TRANSLATE_ZH_H2_HTML
+    m = pat.search(text)
+    if m:
+        inner = " ".join(m.group(1).split())
+        if inner:
+            h2_line = f"## {inner}"
+        text = (text[: m.start()] + text[m.end() :]).strip()
+    body = strip_leading_redundant_headings(text)
+    body = normalize_outline_starts_at_h3(body)
+    if h2_line is None and lesson_h2_line:
+        h2_line = lesson_h2_line.strip()
     if h2_line:
         return f"{h2_line}\n\n{body}\n"
     return f"{body}\n"
@@ -373,6 +426,41 @@ Formatting:
 """
 
 
+GEMINI_SYSTEM_INSTRUCTION_TRANSLATE_ZH = """Task: Translate the English lesson Markdown below into Traditional Chinese.
+
+Requirements:
+- Faithful translation: preserve meaning and tone; do not summarize, expand, or add commentary.
+- Use Traditional Chinese (繁體中文) only; do not use Simplified characters.
+- For Bible and theological terms in Chinese, prefer standard Reformed / 改革宗 / 歸正神學 wording unless context clearly follows another tradition.
+- Keep original English, Greek, or Latin technical terms in Latin script where they appear; you may add a short Traditional gloss in parentheses when helpful.
+- Preserve Markdown structure (paragraph breaks, lists, emphasis, links, and any ###+ headings) in parallel; do not add new sections.
+
+Bilingual lesson heading (required):
+- On its own line at the very start of your output, output exactly one HTML comment (the tool turns this into heading 2):
+  <!-- translate-zh-h2: Lesson N: 繁體標題 (English lesson title) -->
+  N and the English text in parentheses must match the official ``## Lesson N: …`` line from the input.
+- After that comment, output the translated body only. Do not output a duplicate raw ``## Lesson`` line.
+- Do not use heading 1 (#).
+"""
+
+GEMINI_SYSTEM_INSTRUCTION_TRANSLATE_CN = """Task: Translate the English lesson Markdown below into Simplified Chinese.
+
+Requirements:
+- Faithful translation: preserve meaning and tone; do not summarize, expand, or add commentary.
+- Use Simplified Chinese (简体中文) only; do not use Traditional characters.
+- For Bible and theological terms in Chinese, prefer standard Reformed / 改革宗 / 归正神学 wording unless context clearly follows another tradition.
+- Keep original English, Greek, or Latin technical terms in Latin script where they appear; you may add a short Simplified gloss in parentheses when helpful.
+- Preserve Markdown structure (paragraph breaks, lists, emphasis, links, and any ###+ headings) in parallel; do not add new sections.
+
+Bilingual lesson heading (required):
+- On its own line at the very start of your output, output exactly one HTML comment (the tool turns this into heading 2):
+  <!-- translate-cn-h2: Lesson N: 简体中文标题 (English lesson title) -->
+  N and the English text in parentheses must match the official ``## Lesson N: …`` line from the input.
+- After that comment, output the translated body only. Do not output a duplicate raw ``## Lesson`` line.
+- Do not use heading 1 (#).
+"""
+
+
 def build_chinese_explanation_prompt(
     transcription: str,
     outline: str,
@@ -401,6 +489,43 @@ def build_chinese_explanation_prompt(
         "---\n\n"
         f"Now produce the {kind} explanation. Aim for a long-form study guide: "
         "dense with explanation, light on generic overview sentences.\n"
+    )
+
+
+def build_chinese_translation_prompt(
+    lesson_english_md: str,
+    *,
+    lesson_h2_official: Optional[str] = None,
+    simplified: bool = False,
+) -> str:
+    official = ""
+    if lesson_h2_official and lesson_h2_official.strip():
+        official = (
+            "Official lesson heading from source (verbatim—use this lesson number and English title in the HTML comment):\n\n"
+            f"{lesson_h2_official.strip()}\n\n"
+            "---\n\n"
+        )
+    system = GEMINI_SYSTEM_INSTRUCTION_TRANSLATE_CN if simplified else GEMINI_SYSTEM_INSTRUCTION_TRANSLATE_ZH
+    kind = "Simplified Chinese" if simplified else "Traditional Chinese"
+    return (
+        f"{system}\n\n"
+        "---\n\n"
+        f"{official}"
+        "English Markdown to translate:\n\n"
+        f"{lesson_english_md}\n\n"
+        "---\n\n"
+        f"Now output only the {kind} translation as specified.\n"
+    )
+
+
+def build_translate_course_title_prompt(*, title_en: str, simplified: bool) -> str:
+    script = "Simplified Chinese (简体中文)" if simplified else "Traditional Chinese (繁體中文)"
+    return (
+        f"Translate this BiblicalTraining course title to {script} only.\n\n"
+        "Rules:\n"
+        "- Output a single line: the translated title text only.\n"
+        "- No quotation marks, no Markdown heading (#), no explanation.\n\n"
+        f"English title:\n{title_en.strip()}\n"
     )
 
 
@@ -467,6 +592,35 @@ def run_gemini_chinese_explanation(
     return _generate_gemini_text(api_key, prompt, model, temperature=0.35)
 
 
+def run_gemini_chinese_translation(
+    *,
+    api_key: str,
+    lesson_english_md: str,
+    model: str = "gemini-3.1-flash-lite-preview",
+    lesson_h2_official: Optional[str] = None,
+    simplified: bool = False,
+) -> str:
+    prompt = build_chinese_translation_prompt(
+        lesson_english_md,
+        lesson_h2_official=lesson_h2_official,
+        simplified=simplified,
+    )
+    return _generate_gemini_text(api_key, prompt, model, temperature=0.2)
+
+
+def run_gemini_translate_course_title(
+    *,
+    api_key: str,
+    title_en: str,
+    model: str = "gemini-3.1-flash-lite-preview",
+    simplified: bool = False,
+) -> str:
+    prompt = build_translate_course_title_prompt(title_en=title_en, simplified=simplified)
+    text = _generate_gemini_text(api_key, prompt, model, temperature=0.2)
+    line = text.splitlines()[0].strip() if text else ""
+    return line or text.strip()
+
+
 def resolve_transcript_outline_paths(
     course_slug: str,
     *,
@@ -476,6 +630,89 @@ def resolve_transcript_outline_paths(
     t = Path(transcript) if transcript else TRANSCRIPTS_DIR / f"{course_slug}.md"
     o = Path(outline) if outline else OUTLINES_DIR / f"{course_slug}.outline.md"
     return t, o
+
+
+def resolve_english_course_title_for_translation(
+    course_slug: str,
+    *,
+    model: str,
+    paragraph_md_hint: Optional[str] = None,
+) -> str:
+    """Course display title for the translated document (English, before Gemini title translation)."""
+    if paragraph_md_hint:
+        t = extract_course_title_from_transcript(paragraph_md_hint)
+        if t:
+            return t
+    combined = default_plain_paragraph_course_out_path(course_slug, model=model)
+    if combined.is_file():
+        t = extract_course_title_from_transcript(read_text(combined))
+        if t:
+            return t
+    tp = TRANSCRIPTS_DIR / f"{course_slug}.md"
+    if tp.is_file():
+        t = extract_course_title_from_transcript(read_text(tp))
+        if t:
+            return t
+    return course_slug.replace("-", " ").title()
+
+
+def load_paragraph_lessons_for_translation(
+    course_slug: str,
+    *,
+    model: str,
+    paragraph: Optional[str] = None,
+    lesson_num: Optional[int] = None,
+) -> tuple[list[tuple[int, str]], Optional[str]]:
+    """
+    Load ``(lesson_num, english_chunk)`` chunks from plain ``paragraph`` Markdown.
+    Returns ``([], error_message)`` on failure.
+    """
+    if lesson_num is not None:
+        if paragraph:
+            p = Path(paragraph)
+            if not p.is_file():
+                return [], f"Paragraph file not found: {p}"
+            md = read_text(p)
+            lessons = split_plain_paragraph_course_into_lessons(md)
+            if not lessons:
+                return [], f"No ## Lesson N: section in {p}"
+            for n, ch in lessons:
+                if n == lesson_num:
+                    return [(n, ch)], None
+            return [], f"No lesson {lesson_num} in {p} (found: {[n for n, _ in lessons]})"
+        per = default_plain_paragraph_out_path(course_slug, lesson_num, model=model)
+        if per.is_file():
+            md = read_text(per)
+            lessons = split_plain_paragraph_course_into_lessons(md)
+            if lessons:
+                return lessons, None
+            return [], f"No ## Lesson heading in {per}"
+        combined = default_plain_paragraph_course_out_path(course_slug, model=model)
+        if not combined.is_file():
+            return [], f"No paragraph input for lesson {lesson_num}: tried {per} and {combined}"
+        md = read_text(combined)
+        lessons = split_plain_paragraph_course_into_lessons(md)
+        for n, ch in lessons:
+            if n == lesson_num:
+                return [(n, ch)], None
+        return [], f"No lesson {lesson_num} in {combined}"
+
+    path = Path(paragraph) if paragraph else default_plain_paragraph_course_out_path(course_slug, model=model)
+    if not path.is_file():
+        return [], f"Combined paragraph file not found: {path}"
+    md = read_text(path)
+    lessons = split_plain_paragraph_course_into_lessons(md)
+    if not lessons:
+        return [], f"No ## Lesson N: sections in {path}"
+    return lessons, None
+
+
+def lesson_h2_line_from_paragraph_chunk(chunk: str) -> Optional[str]:
+    for line in chunk.splitlines():
+        s = line.strip()
+        if s and _LESSON_OUTLINE_START.match(s):
+            return s
+    return None
 
 
 def read_text(path: Path) -> str:
@@ -532,3 +769,25 @@ def default_explain_cn_course_out_path(course_slug: str, *, model: str) -> Path:
     """Single file for all lessons: ``data/explain-cn/<model>/<slug>.cn.md``."""
     d = sanitize_model_for_path(model)
     return EXPLAIN_CN_DIR / d / f"{course_slug}.cn.md"
+
+
+def default_translate_zh_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
+    d = sanitize_model_for_path(model)
+    return TRANSLATE_ZH_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.zh.md"
+
+
+def default_translate_zh_course_out_path(course_slug: str, *, model: str) -> Path:
+    """Single file for all lessons: ``data/translate-zh/<model>/<slug>.zh.md``."""
+    d = sanitize_model_for_path(model)
+    return TRANSLATE_ZH_DIR / d / f"{course_slug}.zh.md"
+
+
+def default_translate_cn_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
+    d = sanitize_model_for_path(model)
+    return TRANSLATE_CN_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.cn.md"
+
+
+def default_translate_cn_course_out_path(course_slug: str, *, model: str) -> Path:
+    """Single file for all lessons: ``data/translate-cn/<model>/<slug>.cn.md``."""
+    d = sanitize_model_for_path(model)
+    return TRANSLATE_CN_DIR / d / f"{course_slug}.cn.md"
