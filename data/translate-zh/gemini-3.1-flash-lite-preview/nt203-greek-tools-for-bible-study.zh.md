@@ -5,7 +5,6 @@
 - [Lesson 1: 希臘文工具簡介 (Introduction to Greek Tools)](#lesson-1-希臘文工具簡介-introduction-to-greek-tools)
 - [Lesson 2: Greek Alphabet](#lesson-2-greek-alphabet)
 - [Lesson 3: 什麼是翻譯？ (Lesson 3: What Are Translations?)](#lesson-3-什麼是翻譯-lesson-3-what-are-translations)
-  - [第 3 課：什麼是翻譯？](#第-3-課什麼是翻譯)
 - [Lesson 4: English Grammar](#lesson-4-english-grammar)
 - [Lesson 5: Introduction to Phrasing](#lesson-5-introduction-to-phrasing)
 - [Lesson 6: 連接詞、片語等 (Lesson 6: Conjunctions, Phrases, Etc.)](#lesson-6-連接詞片語等-lesson-6-conjunctions-phrases-etc)
@@ -17,7 +16,6 @@
 - [Lesson 12: English Noun System](#lesson-12-english-noun-system)
 - [Lesson 13: Commentaries (Lesson 13: Commentaries)](#lesson-13-commentaries-lesson-13-commentaries)
 - [Lesson 14: 聖經歷史 (History of the Bible)](#lesson-14-聖經歷史-history-of-the-bible)
-  - [第 14 課：聖經歷史](#第-14-課聖經歷史)
 
 ---
 
@@ -78,8 +76,6 @@
 
 
 ## Lesson 3: 什麼是翻譯？ (Lesson 3: What Are Translations?)
-
-### 第 3 課：什麼是翻譯？
 
 翻譯是教科書第四章的主題。這是我整個課程中最喜歡的部分之一。我非常喜歡比較各種譯本，試圖找出它們為何不同，以及為什麼一組譯者會選擇詞語的某個細微差別，而另一組譯者卻決定呈現詞語的另一個細微差別。這是一個引人入勝的過程。我想直到我加入 ESV（標準修訂版聖經）翻譯團隊後，我才真正明白如何進行翻譯。我的意思是，我教了 20 年的希臘文，但這並不代表你就會翻譯。這是一個迷人的過程，委員會中會進行各種辯論。這些翻譯工作都是由委員會完成的，其中所涉及的辯論和爭論雖然令人疲憊，卻非常迷人。我這麼說部分是因為你在這一章中看到的，更多是我對參與 ESV 翻譯那兩年半時間的回憶。在我們翻譯聖經的整個過程中，我身邊一直放著一個黃色記事本，隨時記錄。那些不斷出現的問題真是令人著迷。
 
@@ -515,8 +511,6 @@ ESV 出現並說：「你知道嗎？很明顯這是一個順序，這件事發�
 
 
 ## Lesson 14: 聖經歷史 (History of the Bible)
-
-### 第 14 課：聖經歷史
 
 這一章在我撰寫的過程中不斷演變，內容變得更加充實，也稍微偏離了希臘文的主題。我們第一次聚會時，我用了一些例子來說明聖經譯本之間有何不同。我想談談歷史，好讓你們明白「文本批判」（textual criticism）是如何產生的，這樣你們就能理解其中的緣由。天使對牧羊人所說的話，並非因為譯本的緣故才出現差異。KJV（欽定本）譯作：「在至高之處榮耀歸與神！在地上平安歸與他所喜悅的人！」（Glory to God in the highest, and on earth peace, good will toward men.）我想表達的重點是，在 KJV 譯本以及所有現代口語譯本的背後，是一套不同的希臘文抄本。有時，譯本之間的差異是因為翻譯方式不同；而另一些時候，則是因為希臘文抄本本身確實存在差異。KJV（以及隨後的 NKJV）遵循一套抄本，而其他所有現代口語譯本則遵循另一套希臘文抄本。
 

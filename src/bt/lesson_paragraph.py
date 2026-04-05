@@ -183,6 +183,35 @@ def format_chinese_explanation_markdown_file(
 
 _TRANSLATE_ZH_H2_HTML = re.compile(r"<!--\s*translate-zh-h2:\s*(.+?)\s*-->", re.DOTALL)
 _TRANSLATE_CN_H2_HTML = re.compile(r"<!--\s*translate-cn-h2:\s*(.+?)\s*-->", re.DOTALL)
+_LESSON_NUM_FROM_H2 = re.compile(r"^##\s+Lesson\s+(\d+)\s*:", re.I | re.MULTILINE)
+_LESSON_DUP_H3_ZH = re.compile(r"^###\s+第\s*(\d+)\s*[课課][:：\uFF1A]?\s*.*$")
+
+
+def lesson_num_from_h2_line(line: Optional[str]) -> Optional[int]:
+    if not line or not line.strip():
+        return None
+    m = _LESSON_NUM_FROM_H2.match(line.strip())
+    return int(m.group(1)) if m else None
+
+
+def strip_duplicate_chinese_lesson_h3(body: str, *, lesson_num: int) -> str:
+    """
+    Remove a leading ``###`` line that repeats the lesson title (e.g. ``### 第 3 課：…`` / ``### 第14课：…``).
+    The model sometimes inserts these when translating plain paragraph lessons that already have ``## Lesson N:``.
+    """
+    lines = body.splitlines()
+    i = 0
+    while i < len(lines) and not lines[i].strip():
+        i += 1
+    if i >= len(lines):
+        return body
+    m = _LESSON_DUP_H3_ZH.match(lines[i].strip())
+    if m and int(m.group(1)) == lesson_num:
+        i += 1
+        while i < len(lines) and not lines[i].strip():
+            i += 1
+        return "\n".join(lines[i:]).strip()
+    return body
 
 
 def format_chinese_translation_markdown_file(
@@ -212,6 +241,10 @@ def format_chinese_translation_markdown_file(
     body = normalize_outline_starts_at_h3(body)
     if h2_line is None and lesson_h2_line:
         h2_line = lesson_h2_line.strip()
+    ref_h2 = h2_line or (lesson_h2_line.strip() if lesson_h2_line else None)
+    ln = lesson_num_from_h2_line(ref_h2)
+    if ln is not None:
+        body = strip_duplicate_chinese_lesson_h3(body, lesson_num=ln)
     if h2_line:
         return f"{h2_line}\n\n{body}\n"
     return f"{body}\n"
@@ -434,6 +467,7 @@ Requirements:
 - For Bible and theological terms in Chinese, prefer standard Reformed / 改革宗 / 歸正神學 wording unless context clearly follows another tradition.
 - Keep original English, Greek, or Latin technical terms in Latin script where they appear; you may add a short Traditional gloss in parentheses when helpful.
 - Preserve Markdown structure (paragraph breaks, lists, emphasis, links, and any ###+ headings) in parallel; do not add new sections.
+- Do **not** add a ``###`` line that repeats the lesson topic (e.g. ``第 N 課：…``); the lesson title is already conveyed by the HTML comment / ``##`` line.
 
 Bilingual lesson heading (required):
 - On its own line at the very start of your output, output exactly one HTML comment (the tool turns this into heading 2):
@@ -451,6 +485,7 @@ Requirements:
 - For Bible and theological terms in Chinese, prefer standard Reformed / 改革宗 / 归正神学 wording unless context clearly follows another tradition.
 - Keep original English, Greek, or Latin technical terms in Latin script where they appear; you may add a short Simplified gloss in parentheses when helpful.
 - Preserve Markdown structure (paragraph breaks, lists, emphasis, links, and any ###+ headings) in parallel; do not add new sections.
+- Do **not** add a ``###`` line that repeats the lesson topic (e.g. ``第 N 课：…``); the lesson title is already conveyed by the HTML comment / ``##`` line.
 
 Bilingual lesson heading (required):
 - On its own line at the very start of your output, output exactly one HTML comment (the tool turns this into heading 2):

@@ -16,7 +16,6 @@
 - [Lesson 12: 英语名词系统 (English Noun System)](#lesson-12-英语名词系统-english-noun-system)
 - [Lesson 13: Commentaries (Lesson 13: Commentaries)](#lesson-13-commentaries-lesson-13-commentaries)
 - [Lesson 14: History of the Bible (Lesson 14: History of the Bible)](#lesson-14-history-of-the-bible-lesson-14-history-of-the-bible)
-  - [第14课：圣经的历史](#第14课圣经的历史)
 
 ---
 
@@ -512,8 +511,6 @@ ESV走过来并说，“你知道吗？很明显这是一个顺序，这件事�
 
 
 ## Lesson 14: History of the Bible (Lesson 14: History of the Bible)
-
-### 第14课：圣经的历史
 
 这一章的内容在我撰写的过程中不断演变，变得越来越充实，也稍微偏离了希腊语的主题。我们第一次聚会时，我用了一些插图来展示圣经译本之间是如何不同的。我想谈谈历史，向你们展示文本批判（textual criticism）是如何产生的，这样你们就能理解其中的缘由。天使对牧羊人所说的话，并不是因为译本的原因才变成这样——《钦定本》（KJV）译为：“在至高之处荣耀归与神！在地上平安，喜悦归与人。”（注：KJV原文为“good will toward men”，即“对人有善意”）。我想表达的观点是，在《钦定本》以及所有现代语言译本的背后，是一套不同的希腊语手稿。有时，我们译本之间的差异是因为翻译方式不同；而另一些时候，则是因为希腊语手稿本身确实存在差异。《钦定本》（以及随后的《新钦定本》NKJV）遵循一套手稿，而其他所有现代语言译本则遵循另一套希腊语手稿。
 
