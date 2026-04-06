@@ -342,8 +342,13 @@ def extract_lesson_outline_section(outline_md: str, lesson_num: int) -> Optional
     return None
 
 
-GEMINI_SYSTEM_INSTRUCTION = """Paragraph the lesson.
-Do not modify the contents.
+GEMINI_SYSTEM_INSTRUCTION = """Paragraph the lesson using the outline structure.
+
+Transcript wording (non-negotiable):
+- The spoken text in your output must be **verbatim** from the lesson transcription below: same words, same order, same spelling and punctuation (do not “fix,” paraphrase, summarize, expand, shorten, translate, or polish).
+- Under each outline section, paste the corresponding transcript sentences **unchanged** except for paragraph breaks (blank lines) where helpful.
+- Do **not** replace the teacher’s wording with your own.
+
 Inline the outline as headings to the output.
 
 The lesson name will be added separately as heading 2 (##); do not output a duplicate lesson title line.
@@ -352,9 +357,15 @@ Use heading 4 (####) for the next outline level (e.g. A. …), then ##### and so
 Do not use heading 1 (#) or heading 2 (##) in your output.
 """
 
-GEMINI_SYSTEM_INSTRUCTION_TRANSCRIPT_ONLY = """Paragraph the lesson.
-Do not modify the contents.
-No headings for the paragraphs.
+
+GEMINI_SYSTEM_INSTRUCTION_TRANSCRIPT_ONLY = """Your only job is to **add paragraph breaks** to the lesson transcription.
+
+Transcript wording (non-negotiable):
+- Reproduce the transcription **verbatim**: identical wording, order, spelling, and punctuation. Do **not** paraphrase, summarize, expand, shorten, “correct” grammar, translate, or rephrase.
+- Do **not** reorder, merge, or split sentences except by inserting blank lines between paragraphs.
+- You may insert **blank lines** between coherent paragraphs only. No headings, no bullet lists unless they appear verbatim in the source.
+
+Output: plain text paragraphs separated by blank lines—nothing else.
 """
 
 
@@ -365,8 +376,10 @@ def build_paragraph_prompt(transcription: str, outline: str) -> str:
         "Lesson transcription:\n\n"
         f"{transcription}\n\n"
         "---\n\n"
-        "Lesson outline (use to insert ### headings for outline sections; preserve transcript wording):\n\n"
-        f"{outline}\n"
+        "Lesson outline (insert ###+ headings to match sections; transcript text under each part must stay verbatim):\n\n"
+        f"{outline}\n\n"
+        "---\n\n"
+        "Output the paragraphed Markdown. Transcript wording must remain verbatim.\n"
     )
 
 
@@ -375,7 +388,9 @@ def build_paragraph_transcript_only_prompt(transcription: str) -> str:
         f"{GEMINI_SYSTEM_INSTRUCTION_TRANSCRIPT_ONLY}\n\n"
         "---\n\n"
         "Lesson transcription:\n\n"
-        f"{transcription}\n"
+        f"{transcription}\n\n"
+        "---\n\n"
+        "Output the same text verbatim with only blank lines between paragraphs added.\n"
     )
 
 
@@ -393,6 +408,7 @@ Depth and coverage (prioritize these):
 
 Language:
 - Use Traditional Chinese (中文, 繁體) for the detailed explanation. Do not use Simplified Chinese.
+- **Voice (required):** Explain **from the teacher’s perspective**, as if **you are the instructor** speaking to the class—use **first person** and **direct address** (我們、我、你們、你) wherever natural. **Do not** write in detached third person about “the teacher,” “the speaker,” or “the professor” (避免「教師指出…」「講者認為…」等第三人稱旁述口吻).
 - For important terminology, retain the original English and Greek vocabulary (Latin or Greek script as given); you may add a short Chinese gloss in parentheses when helpful.
 - For Bible and theological terminology in Chinese, prefer wording and standard terms associated with **Reformed theology** (改革宗 / 歸正神學), unless the teacher clearly follows another tradition in the lecture.
 
@@ -404,8 +420,8 @@ Structure:
 > (whether the outline was followed and briefly why)
 
 Examples and Scripture (be thorough):
-- For **every example** the teacher gives: state the example, unpack it step by step, state the takeaway, and link it explicitly to the argument it supports.
-- For **every Bible verse and reference**: give literary/historical context as needed, summarize the force of the wording where relevant, and explain how the teacher uses it in this lesson (not only the citation text).
+- For **every example** in the lecture: present it **in the teacher’s voice** (first person / direct address—not “the teacher gives an example…”), unpack it step by step, state the takeaway, and link it explicitly to the argument it supports.
+- For **every Bible verse and reference**: give literary/historical context as needed, summarize the force of the wording where relevant, and explain how **we** use it in this lesson (not only the citation text).
 
 Bilingual lesson heading (required):
 - After the 大綱對照 blockquote, on its own line, output exactly one HTML comment (the tool turns this into ``##``):
@@ -433,6 +449,7 @@ Depth and coverage (prioritize these):
 
 Language:
 - Use Simplified Chinese (简体中文) for the detailed explanation. Do not use Traditional Chinese.
+- **Voice (required):** Explain **from the teacher’s perspective**, as if **you are the instructor** speaking to the class—use **first person** and **direct address** (我们、我、你们、你) wherever natural. **Do not** write in detached third person about “the teacher,” “the speaker,” or “the professor” (避免「教师指出…」「讲者认为…」等第三人称旁观口吻).
 - For important terminology, retain the original English and Greek vocabulary (Latin or Greek script as given); you may add a short Chinese gloss in parentheses when helpful.
 - For Bible and theological terminology in Chinese, prefer wording and standard terms associated with **Reformed theology** (改革宗 / 归正神学), unless the teacher clearly follows another tradition in the lecture.
 
@@ -444,8 +461,8 @@ Structure:
 > (whether the outline was followed and briefly why)
 
 Examples and Scripture (be thorough):
-- For **every example** the teacher gives: state the example, unpack it step by step, state the takeaway, and link it explicitly to the argument it supports.
-- For **every Bible verse and reference**: give literary/historical context as needed, summarize the force of the wording where relevant, and explain how the teacher uses it in this lesson (not only the citation text).
+- For **every example** in the lecture: present it **in the teacher’s voice** (first person / direct address—not “the teacher gives an example…”), unpack it step by step, state the takeaway, and link it explicitly to the argument it supports.
+- For **every Bible verse and reference**: give literary/historical context as needed, summarize the force of the wording where relevant, and explain how **we** use it in this lesson (not only the citation text).
 
 Bilingual lesson heading (required):
 - After the 大纲对照 blockquote, on its own line, output exactly one HTML comment (the tool turns this into ``##``):
@@ -598,7 +615,8 @@ def run_gemini_paragraph(
     model: str = "gemini-3.1-flash-lite-preview",
 ) -> str:
     prompt = build_paragraph_prompt(transcription, outline)
-    return _generate_gemini_text(api_key, prompt, model)
+    # Temperature 0 minimizes paraphrasing; paragraphing must preserve transcript wording verbatim.
+    return _generate_gemini_text(api_key, prompt, model, temperature=0.0)
 
 
 def run_gemini_paragraph_transcript_only(
@@ -608,7 +626,7 @@ def run_gemini_paragraph_transcript_only(
     model: str = "gemini-3.1-flash-lite-preview",
 ) -> str:
     prompt = build_paragraph_transcript_only_prompt(transcription)
-    return _generate_gemini_text(api_key, prompt, model)
+    return _generate_gemini_text(api_key, prompt, model, temperature=0.0)
 
 
 def run_gemini_chinese_explanation(
