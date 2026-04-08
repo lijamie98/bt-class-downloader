@@ -23,7 +23,7 @@ import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 
-from bt.paths import TRANSCRIPTS_DIR
+from bt.paths import course_transcript_path
 from bt.course_outline import (
     OutlineExtractionError,
     build_course_outline_markdown,
@@ -40,10 +40,10 @@ from bt.course_index import (
     write_fetched_index,
  )
 from bt.lesson_paragraph import (
-    default_explain_cn_course_out_path,
-    default_explain_cn_out_path,
-    default_explain_zh_course_out_path,
-    default_explain_zh_out_path,
+    default_study_note_cn_course_out_path,
+    default_study_note_cn_out_path,
+    default_study_note_zh_course_out_path,
+    default_study_note_zh_out_path,
     default_paragraph_course_out_path,
     default_paragraph_out_path,
     default_plain_paragraph_course_out_path,
@@ -56,7 +56,7 @@ from bt.lesson_paragraph import (
     extract_lesson_h1_line,
     extract_lesson_outline_section,
     extract_lesson_transcript_body,
-    format_chinese_explanation_markdown_file,
+    format_chinese_study_note_markdown_file,
     format_chinese_translation_markdown_file,
     format_paragraph_markdown_file,
     format_paragraphed_document_with_toc,
@@ -67,7 +67,7 @@ from bt.lesson_paragraph import (
     read_text,
     resolve_english_course_title_for_translation,
     resolve_transcript_outline_paths,
-    run_gemini_chinese_explanation,
+    run_gemini_chinese_study_note,
     run_gemini_chinese_translation,
     run_gemini_paragraph,
     run_gemini_paragraph_transcript_only,
@@ -182,7 +182,7 @@ def normalize_course_url(url: str) -> str:
 def default_output_path(course_url: str) -> str:
     slug = urlparse(course_url).path.rstrip("/").split("/")[-1] or "class"
     safe = re.sub(r"[^\w.-]+", "-", slug).strip("-") or "transcripts"
-    return str(TRANSCRIPTS_DIR / f"{safe}.md")
+    return str(course_transcript_path(safe))
 
 
 def _is_cloudflare_challenge(html: str) -> bool:
@@ -655,7 +655,7 @@ def cmd_download(args: argparse.Namespace) -> int:
         return 2
     if len(courses) > 1 and args.out:
         iter_progress(
-            "Error: --out cannot be used when downloading multiple courses (each uses data/transcripts/<slug>.md)."
+            "Error: --out cannot be used when downloading multiple courses (each uses courses/<slug>/<slug>.md)."
         )
         return 2
     worst = 0
@@ -666,7 +666,7 @@ def cmd_download(args: argparse.Namespace) -> int:
 
 
 def _paragraph_course(slug: str, args: argparse.Namespace, *, api_key: str) -> int:
-    tpath = Path(args.transcript) if args.transcript else TRANSCRIPTS_DIR / f"{slug}.md"
+    tpath = Path(args.transcript) if args.transcript else course_transcript_path(slug)
     if not tpath.is_file():
         iter_progress(f"Error: transcript file not found: {tpath}")
         return 2
@@ -894,7 +894,7 @@ def _paragraph_outline_course(slug: str, args: argparse.Namespace, *, api_key: s
     return 0
 
 
-def _explain_chinese_course(
+def _study_note_chinese_course(
     slug: str, args: argparse.Namespace, *, api_key: str, simplified: bool
 ) -> int:
     tpath, opath = resolve_transcript_outline_paths(
@@ -927,7 +927,7 @@ def _explain_chinese_course(
         if not lesson_nums:
             iter_progress(f"No # Lesson N: sections found in {tpath}")
             return 2
-        iter_progress(f"Explaining {len(lesson_nums)} lesson(s) in {label}…")
+        iter_progress(f"Study notes: {len(lesson_nums)} lesson(s) in {label}…")
 
     any_data_error = False
     combined_docs: list[str] = []
@@ -956,9 +956,9 @@ def _explain_chinese_course(
 
     for n, body, outline_block in prepared:
         h1 = extract_lesson_h1_line(transcript_md, n)
-        iter_progress(f"Lesson {n}: calling Gemini ({args.model}) for {label} explanation…")
+        iter_progress(f"Lesson {n}: calling Gemini ({args.model}) for {label} study note…")
         try:
-            raw = run_gemini_chinese_explanation(
+            raw = run_gemini_chinese_study_note(
                 api_key=api_key,
                 transcription=body,
                 outline=outline_block,
@@ -970,7 +970,7 @@ def _explain_chinese_course(
             iter_progress(f"Gemini error: {e}")
             return 6
 
-        md_doc = format_chinese_explanation_markdown_file(
+        md_doc = format_chinese_study_note_markdown_file(
             lesson_h1=h1, gemini_body=raw, variant=variant
         )
         if single_lesson:
@@ -980,9 +980,9 @@ def _explain_chinese_course(
                     outp = outp.with_suffix(".md")
             else:
                 if simplified:
-                    outp = default_explain_cn_out_path(slug, n, model=args.model)
+                    outp = default_study_note_cn_out_path(slug, n, model=args.model)
                 else:
-                    outp = default_explain_zh_out_path(slug, n, model=args.model)
+                    outp = default_study_note_zh_out_path(slug, n, model=args.model)
             _ensure_dir(str(outp))
             full_md = format_paragraphed_document_with_toc(
                 course_title=course_title,
@@ -1000,9 +1000,9 @@ def _explain_chinese_course(
                 outp = outp.with_suffix(".md")
         else:
             if simplified:
-                outp = default_explain_cn_course_out_path(slug, model=args.model)
+                outp = default_study_note_cn_course_out_path(slug, model=args.model)
             else:
-                outp = default_explain_zh_course_out_path(slug, model=args.model)
+                outp = default_study_note_zh_course_out_path(slug, model=args.model)
         _ensure_dir(str(outp))
         full_md = format_paragraphed_document_with_toc(
             course_title=course_title,
@@ -1016,7 +1016,7 @@ def _explain_chinese_course(
     return 0
 
 
-def cmd_explain_zh(args: argparse.Namespace) -> int:
+def cmd_study_note_zh(args: argparse.Namespace) -> int:
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not key:
         iter_progress("Error: GEMINI_API_KEY is not set.")
@@ -1047,11 +1047,11 @@ def cmd_explain_zh(args: argparse.Namespace) -> int:
             continue
         if len(slugs) > 1:
             iter_progress(f"--- {slug} ---")
-        worst = max(worst, _explain_chinese_course(slug, args, api_key=key, simplified=False))
+        worst = max(worst, _study_note_chinese_course(slug, args, api_key=key, simplified=False))
     return worst
 
 
-def cmd_explain_cn(args: argparse.Namespace) -> int:
+def cmd_study_note_cn(args: argparse.Namespace) -> int:
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not key:
         iter_progress("Error: GEMINI_API_KEY is not set.")
@@ -1082,7 +1082,7 @@ def cmd_explain_cn(args: argparse.Namespace) -> int:
             continue
         if len(slugs) > 1:
             iter_progress(f"--- {slug} ---")
-        worst = max(worst, _explain_chinese_course(slug, args, api_key=key, simplified=True))
+        worst = max(worst, _study_note_chinese_course(slug, args, api_key=key, simplified=True))
     return worst
 
 
@@ -1297,6 +1297,74 @@ def cmd_paragraph_lesson(args: argparse.Namespace) -> int:
     return worst
 
 
+def _add_study_note_cli(
+    sub,
+    name: str,
+    *,
+    simplified: bool,
+    func,
+    deprecated: bool,
+) -> None:
+    out_seg = "study-note-cn" if simplified else "study-note-zh"
+    ext = "cn" if simplified else "zh"
+    lang_long = "Simplified Chinese (简体中文)" if simplified else "Traditional Chinese (繁體中文)"
+    if deprecated:
+        primary = "study-note-cn" if simplified else "study-note-zh"
+        help_txt = f"(Deprecated) Alias for `{primary}`."
+        desc = (
+            f"Deprecated: use `{primary}` instead. Same behavior as `{primary}`.\n"
+            "Pass one or more course slugs or slug-prefixes from the index.\n"
+            "If a prefix matches 0 or >1 courses, that entry fails. With multiple courses, --transcript, --outline, and --out are not allowed."
+        )
+    else:
+        help_txt = f"Generate {lang_long} study notes with Gemini (transcript + outline on disk)."
+        desc = (
+            f"Generate detailed {lang_long} study-guide notes from transcript + outline Markdown.\n"
+            "Pass one or more course slugs or slug-prefixes from the index.\n"
+            "If a prefix matches 0 or >1 courses, that entry fails. With multiple courses, --transcript, --outline, and --out are not allowed."
+        )
+    p = sub.add_parser(name, help=help_txt, description=desc)
+    p.add_argument(
+        "course_slug",
+        nargs="+",
+        help="One or more course slugs OR slug-prefixes (from index), e.g. nt203 nt201-biblical-greek.",
+    )
+    p.add_argument(
+        "--lesson",
+        type=int,
+        default=None,
+        metavar="N",
+        help=(
+            "Lesson number (same as # Lesson N: headings). Omit to generate study notes for every lesson."
+        ),
+    )
+    p.add_argument(
+        "--transcript",
+        default=None,
+        help="Transcript .md path (default: courses/<slug>/<slug>.md; not allowed with multiple courses).",
+    )
+    p.add_argument(
+        "--outline",
+        default=None,
+        help="Outline .md path (default: courses/<slug>/<slug>.outline.md; not allowed with multiple courses).",
+    )
+    p.add_argument(
+        "--out",
+        default=None,
+        help=(
+            "Output file (single course only): with --lesson, default "
+            f"courses/<slug>/{out_seg}/<model>/<slug>.lessonNN.{ext}.md; "
+            f"without --lesson, default courses/<slug>/{out_seg}/<model>/<slug>.{ext}.md (all lessons in one file)."
+        ),
+    )
+    p.add_argument(
+        "--model",
+        default="gemini-3.1-flash-lite-preview",
+        help="Gemini model id (default: gemini-3.1-flash-lite-preview).",
+    )
+    p.set_defaults(func=func)
+
+
 def main() -> int:
     # Load `.env` from the current working directory (does not override existing env vars).
     load_dotenv()
@@ -1312,7 +1380,7 @@ def main() -> int:
         prog="bt",
         description=(
             "BiblicalTraining.org transcripts: download, paragraph lessons with Gemini (transcript-only or with outline), "
-            "Chinese explanations (explain-zh / explain-cn), or Chinese translations of paragraphed lessons (translate-zh / translate-cn)."
+            "Chinese study notes (study-note-zh / study-note-cn; explain-zh / explain-cn are deprecated aliases), or Chinese translations of paragraphed lessons (translate-zh / translate-cn)."
         ),
         formatter_class=argparse.RawTextHelpFormatter,
         epilog=(
@@ -1347,17 +1415,17 @@ def main() -> int:
             "  # Outline-paragraph multiple courses\n"
             "  python -m bt paragraph-outline nt203 nt201\n"
             "\n"
-            "  # Traditional Chinese explanation (one lesson)\n"
-            "  python -m bt explain-zh nt203 --lesson 3\n"
+            "  # Traditional Chinese study notes (one lesson)\n"
+            "  python -m bt study-note-zh nt203 --lesson 3\n"
             "\n"
-            "  # Traditional Chinese explanation (all lessons)\n"
-            "  python -m bt explain-zh nt203\n"
+            "  # Traditional Chinese study notes (all lessons)\n"
+            "  python -m bt study-note-zh nt203\n"
             "\n"
-            "  # Simplified Chinese explanation (one lesson)\n"
-            "  python -m bt explain-cn nt203 --lesson 3\n"
+            "  # Simplified Chinese study notes (one lesson)\n"
+            "  python -m bt study-note-cn nt203 --lesson 3\n"
             "\n"
-            "  # Simplified Chinese explanation (all lessons)\n"
-            "  python -m bt explain-cn nt203\n"
+            "  # Simplified Chinese study notes (all lessons)\n"
+            "  python -m bt study-note-cn nt203\n"
             "\n"
             "  # Traditional Chinese translation of paragraphed lesson(s)\n"
             "  python -m bt translate-zh nt203 --lesson 3\n"
@@ -1402,7 +1470,7 @@ def main() -> int:
     d = sub.add_parser(
         "download",
         help="Download course transcript(s) to Markdown file(s).",
-        description="Download one or more courses; each writes data/transcripts/<slug>.md and data/outlines/<slug>.outline.md.",
+        description="Download one or more courses; each writes courses/<slug>/<slug>.md and courses/<slug>/<slug>.outline.md.",
     )
     d.add_argument(
         "course",
@@ -1415,7 +1483,7 @@ def main() -> int:
     d.add_argument(
         "--out",
         default=None,
-        help="Output Markdown file (default: data/transcripts/<course-slug>.md)",
+        help="Output Markdown file (default: courses/<course-slug>/<course-slug>.md)",
     )
     d.add_argument("--cookies-json", default=None, help="Optional Playwright-format cookies JSON.")
     d.add_argument(
@@ -1437,7 +1505,7 @@ def main() -> int:
         description=(
             "Paragraph lesson(s) with Gemini using the downloaded transcript Markdown only.\n"
             "With --lesson, only that lesson; omit --lesson to process every lesson in one file.\n"
-            "Does not read data/outlines/. Pass one or more course slugs or slug-prefixes from the index.\n"
+            "Does not use the course outline file. Pass one or more course slugs or slug-prefixes from the index.\n"
             "If a prefix matches 0 or >1 courses, that entry fails. With multiple courses, --transcript and --out are not allowed."
         ),
     )
@@ -1459,14 +1527,14 @@ def main() -> int:
     pg.add_argument(
         "--transcript",
         default=None,
-        help="Transcript .md path (default: data/transcripts/<slug>.md; not allowed with multiple courses).",
+        help="Transcript .md path (default: courses/<slug>/<slug>.md; not allowed with multiple courses).",
     )
     pg.add_argument(
         "--out",
         default=None,
         help=(
-            "Output file (single course only): with --lesson, default data/paragraph/<model>/<slug>.lessonNN.paragraph.md; "
-            "without --lesson, default data/paragraph/<model>/<slug>.paragraph.md (all lessons). "
+            "Output file (single course only): with --lesson, default courses/<slug>/paragraph/<model>/<slug>.lessonNN.paragraph.md; "
+            "without --lesson, default courses/<slug>/paragraph/<model>/<slug>.paragraph.md (all lessons). "
             "Paths without an extension get .md appended."
         ),
     )
@@ -1500,19 +1568,19 @@ def main() -> int:
     p.add_argument(
         "--transcript",
         default=None,
-        help="Transcript .md path (default: data/transcripts/<slug>.md; not allowed with multiple courses).",
+        help="Transcript .md path (default: courses/<slug>/<slug>.md; not allowed with multiple courses).",
     )
     p.add_argument(
         "--outline",
         default=None,
-        help="Outline .md path (default: data/outlines/<slug>.outline.md; not allowed with multiple courses).",
+        help="Outline .md path (default: courses/<slug>/<slug>.outline.md; not allowed with multiple courses).",
     )
     p.add_argument(
         "--out",
         default=None,
         help=(
-            "Output file (single course only): with --lesson, default data/paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md; "
-            "without --lesson, default data/paragraph-outlined/<model>/<slug>.paragraph-outlined.md (all lessons in one file)."
+            "Output file (single course only): with --lesson, default courses/<slug>/paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md; "
+            "without --lesson, default courses/<slug>/paragraph-outlined/<model>/<slug>.paragraph-outlined.md (all lessons in one file)."
         ),
     )
     p.add_argument(
@@ -1542,19 +1610,19 @@ def main() -> int:
     p2.add_argument(
         "--transcript",
         default=None,
-        help="Transcript .md path (default: data/transcripts/<slug>.md; not allowed with multiple courses).",
+        help="Transcript .md path (default: courses/<slug>/<slug>.md; not allowed with multiple courses).",
     )
     p2.add_argument(
         "--outline",
         default=None,
-        help="Outline .md path (default: data/outlines/<slug>.outline.md; not allowed with multiple courses).",
+        help="Outline .md path (default: courses/<slug>/<slug>.outline.md; not allowed with multiple courses).",
     )
     p2.add_argument(
         "--out",
         default=None,
         help=(
-            "Output file (single course only): with --lesson, default data/paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md; "
-            "without --lesson, default data/paragraph-outlined/<model>/<slug>.paragraph-outlined.md (all lessons in one file)."
+            "Output file (single course only): with --lesson, default courses/<slug>/paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md; "
+            "without --lesson, default courses/<slug>/paragraph-outlined/<model>/<slug>.paragraph-outlined.md (all lessons in one file)."
         ),
     )
     p2.add_argument(
@@ -1564,103 +1632,20 @@ def main() -> int:
     )
     p2.set_defaults(func=cmd_paragraph_lesson)
 
-    ez = sub.add_parser(
-        "explain-zh",
-        help="Generate Traditional Chinese lesson explanation(s) with Gemini (transcript + outline on disk).",
-        description=(
-            "Generate detailed Traditional Chinese (繁體中文) explanations from transcript + outline Markdown.\n"
-            "Pass one or more course slugs or slug-prefixes from the index.\n"
-            "If a prefix matches 0 or >1 courses, that entry fails. With multiple courses, --transcript, --outline, and --out are not allowed."
-        ),
+    _add_study_note_cli(
+        sub, "study-note-zh", simplified=False, func=cmd_study_note_zh, deprecated=False
     )
-    ez.add_argument(
-        "course_slug",
-        nargs="+",
-        help="One or more course slugs OR slug-prefixes (from index), e.g. nt203 nt201-biblical-greek.",
+    _add_study_note_cli(
+        sub, "study-note-cn", simplified=True, func=cmd_study_note_cn, deprecated=False
     )
-    ez.add_argument(
-        "--lesson",
-        type=int,
-        default=None,
-        metavar="N",
-        help="Lesson number (same as # Lesson N: headings). Omit to explain every lesson.",
-    )
-    ez.add_argument(
-        "--transcript",
-        default=None,
-        help="Transcript .md path (default: data/transcripts/<slug>.md; not allowed with multiple courses).",
-    )
-    ez.add_argument(
-        "--outline",
-        default=None,
-        help="Outline .md path (default: data/outlines/<slug>.outline.md; not allowed with multiple courses).",
-    )
-    ez.add_argument(
-        "--out",
-        default=None,
-        help=(
-            "Output file (single course only): with --lesson, default data/explain-zh/<model>/<slug>.lessonNN.zh.md; "
-            "without --lesson, default data/explain-zh/<model>/<slug>.zh.md (all lessons in one file)."
-        ),
-    )
-    ez.add_argument(
-        "--model",
-        default="gemini-3.1-flash-lite-preview",
-        help="Gemini model id (default: gemini-3.1-flash-lite-preview).",
-    )
-    ez.set_defaults(func=cmd_explain_zh)
-
-    ec = sub.add_parser(
-        "explain-cn",
-        help="Generate Simplified Chinese lesson explanation(s) with Gemini (transcript + outline on disk).",
-        description=(
-            "Generate detailed Simplified Chinese (简体中文) explanations from transcript + outline Markdown.\n"
-            "Pass one or more course slugs or slug-prefixes from the index.\n"
-            "If a prefix matches 0 or >1 courses, that entry fails. With multiple courses, --transcript, --outline, and --out are not allowed."
-        ),
-    )
-    ec.add_argument(
-        "course_slug",
-        nargs="+",
-        help="One or more course slugs OR slug-prefixes (from index), e.g. nt203 nt201-biblical-greek.",
-    )
-    ec.add_argument(
-        "--lesson",
-        type=int,
-        default=None,
-        metavar="N",
-        help="Lesson number (same as # Lesson N: headings). Omit to explain every lesson.",
-    )
-    ec.add_argument(
-        "--transcript",
-        default=None,
-        help="Transcript .md path (default: data/transcripts/<slug>.md; not allowed with multiple courses).",
-    )
-    ec.add_argument(
-        "--outline",
-        default=None,
-        help="Outline .md path (default: data/outlines/<slug>.outline.md; not allowed with multiple courses).",
-    )
-    ec.add_argument(
-        "--out",
-        default=None,
-        help=(
-            "Output file (single course only): with --lesson, default data/explain-cn/<model>/<slug>.lessonNN.cn.md; "
-            "without --lesson, default data/explain-cn/<model>/<slug>.cn.md (all lessons in one file)."
-        ),
-    )
-    ec.add_argument(
-        "--model",
-        default="gemini-3.1-flash-lite-preview",
-        help="Gemini model id (default: gemini-3.1-flash-lite-preview).",
-    )
-    ec.set_defaults(func=cmd_explain_cn)
+    _add_study_note_cli(sub, "explain-zh", simplified=False, func=cmd_study_note_zh, deprecated=True)
+    _add_study_note_cli(sub, "explain-cn", simplified=True, func=cmd_study_note_cn, deprecated=True)
 
     tz = sub.add_parser(
         "translate-zh",
         help="Translate paragraphed English lesson(s) to Traditional Chinese with Gemini.",
         description=(
-            "Translate Markdown from data/paragraph (``paragraph`` command output) into Traditional Chinese (繁體中文).\n"
+            "Translate Markdown from courses/<slug>/paragraph/ (``paragraph`` command output) into Traditional Chinese (繁體中文).\n"
             "One Gemini request per lesson, plus one for the course title. Pass one or more course slugs or slug-prefixes from the index.\n"
             "If a prefix matches 0 or >1 courses, that entry fails. With multiple courses, --paragraph and --out are not allowed."
         ),
@@ -1681,16 +1666,16 @@ def main() -> int:
         "--paragraph",
         default=None,
         help=(
-            "Input .md path (single course only): default data/paragraph/<model>/<slug>.paragraph.md "
-            "or data/paragraph/<model>/<slug>.lessonNN.paragraph.md with --lesson."
+            "Input .md path (single course only): default courses/<slug>/paragraph/<model>/<slug>.paragraph.md "
+            "or courses/<slug>/paragraph/<model>/<slug>.lessonNN.paragraph.md with --lesson."
         ),
     )
     tz.add_argument(
         "--out",
         default=None,
         help=(
-            "Output file (single course only): with --lesson, default data/translate-zh/<model>/<slug>.lessonNN.zh.md; "
-            "without --lesson, default data/translate-zh/<model>/<slug>.zh.md (all lessons in one file)."
+            "Output file (single course only): with --lesson, default courses/<slug>/translate-zh/<model>/<slug>.lessonNN.zh.md; "
+            "without --lesson, default courses/<slug>/translate-zh/<model>/<slug>.zh.md (all lessons in one file)."
         ),
     )
     tz.add_argument(
@@ -1704,7 +1689,7 @@ def main() -> int:
         "translate-cn",
         help="Translate paragraphed English lesson(s) to Simplified Chinese with Gemini.",
         description=(
-            "Translate Markdown from data/paragraph (``paragraph`` command output) into Simplified Chinese (简体中文).\n"
+            "Translate Markdown from courses/<slug>/paragraph/ (``paragraph`` command output) into Simplified Chinese (简体中文).\n"
             "One Gemini request per lesson, plus one for the course title. Pass one or more course slugs or slug-prefixes from the index.\n"
             "If a prefix matches 0 or >1 courses, that entry fails. With multiple courses, --paragraph and --out are not allowed."
         ),
@@ -1725,16 +1710,16 @@ def main() -> int:
         "--paragraph",
         default=None,
         help=(
-            "Input .md path (single course only): default data/paragraph/<model>/<slug>.paragraph.md "
-            "or data/paragraph/<model>/<slug>.lessonNN.paragraph.md with --lesson."
+            "Input .md path (single course only): default courses/<slug>/paragraph/<model>/<slug>.paragraph.md "
+            "or courses/<slug>/paragraph/<model>/<slug>.lessonNN.paragraph.md with --lesson."
         ),
     )
     tc.add_argument(
         "--out",
         default=None,
         help=(
-            "Output file (single course only): with --lesson, default data/translate-cn/<model>/<slug>.lessonNN.cn.md; "
-            "without --lesson, default data/translate-cn/<model>/<slug>.cn.md (all lessons in one file)."
+            "Output file (single course only): with --lesson, default courses/<slug>/translate-cn/<model>/<slug>.lessonNN.cn.md; "
+            "without --lesson, default courses/<slug>/translate-cn/<model>/<slug>.cn.md (all lessons in one file)."
         ),
     )
     tc.add_argument(
