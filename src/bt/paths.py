@@ -1,15 +1,21 @@
-"""Default filesystem layout: all course downloads and generated Markdown live under ``data/``."""
+"""Default filesystem layout: course artifacts live under ``courses/<course-slug>/``."""
 
 from __future__ import annotations
 
 from pathlib import Path
 
-DATA_ROOT = Path("data")
-TRANSCRIPTS_DIR = DATA_ROOT / "transcripts"
-OUTLINES_DIR = DATA_ROOT / "outlines"
-PARAGRAPH_DIR = DATA_ROOT / "paragraph"
-PARAGRAPH_OUTLINED_DIR = DATA_ROOT / "paragraph-outlined"
-EXPLAIN_ZH_DIR = DATA_ROOT / "explain-zh"
-EXPLAIN_CN_DIR = DATA_ROOT / "explain-cn"
-TRANSLATE_ZH_DIR = DATA_ROOT / "translate-zh"
-TRANSLATE_CN_DIR = DATA_ROOT / "translate-cn"
+COURSES_ROOT = Path("courses")
+
+
+def course_dir(course_slug: str) -> Path:
+    return COURSES_ROOT / course_slug
+
+
+def course_transcript_path(course_slug: str) -> Path:
+    """``courses/<slug>/<slug>.md``"""
+    return course_dir(course_slug) / f"{course_slug}.md"
+
+
+def course_outline_path(course_slug: str) -> Path:
+    """``courses/<slug>/<slug>.outline.md``"""
+    return course_dir(course_slug) / f"{course_slug}.outline.md"

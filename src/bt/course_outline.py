@@ -13,13 +13,12 @@ import html as html_module
 import json
 import os
 import re
+from pathlib import Path
 from typing import Any, Optional
 from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 
 import requests
 from bs4 import BeautifulSoup
-
-from bt.paths import OUTLINES_DIR
 
 _OUT_CLASS = re.compile(r"^out-(\d+)$")
 
@@ -355,9 +354,6 @@ def html_outline_to_markdown(html_fragment: str) -> str:
 
 
 def default_outline_path(transcript_path: str) -> str:
-    """Course transcript path -> data/outlines/<basename>.outline.md (alongside default transcripts)."""
-    root, ext = os.path.splitext(transcript_path)
-    base = os.path.basename(root)
-    if not ext:
-        ext = ".md"
-    return str(OUTLINES_DIR / f"{base}.outline{ext}")
+    """Outline path adjacent to transcript: ``<same-dir>/<stem>.outline.md``."""
+    p = Path(transcript_path)
+    return str(p.parent / f"{p.stem}.outline.md")
