@@ -3,428 +3,408 @@
 ## Table of contents
 
 - [Lesson 1: 希臘文概論 (The Greek Language)](#lesson-1-希臘文概論-the-greek-language)
-  - [學習希臘文的心態建設：恐懼與現實](#學習希臘文的心態建設恐懼與現實)
-  - [希臘文作為事奉的工具：一個見證](#希臘文作為事奉的工具一個見證)
-  - [課堂社群與實踐：超越學術的連結](#課堂社群與實踐超越學術的連結)
-  - [關於教學進度與「解經」的必要性](#關於教學進度與解經的必要性)
-  - [釐清語言學誤解：英語與拉丁文的關係](#釐清語言學誤解英語與拉丁文的關係)
+  - [希臘文學習的心態建設：恐懼與現實](#希臘文學習的心態建設恐懼與現實)
+  - [希臘文作為事奉的工具：一個囚犯的見證](#希臘文作為事奉的工具一個囚犯的見證)
+  - [課堂社群與靈修的實踐](#課堂社群與靈修的實踐)
+  - [關於教學進度與「恨意」的告白](#關於教學進度與恨意的告白)
+  - [語言學的澄清：英文與拉丁文的關係](#語言學的澄清英文與拉丁文的關係)
 - [Lesson 2: 學習希臘文 (Learning Greek)](#lesson-2-學習希臘文-learning-greek)
-  - [一、 記憶的重要性 (Importance of Memorization)](#一-記憶的重要性-importance-of-memorization)
-    - [輔助記憶的工具](#輔助記憶的工具)
-  - [二、 練習的必要性 (Doing Exercises)](#二-練習的必要性-doing-exercises)
-  - [三、 時間與一致性的原則 (Time and Consistency)](#三-時間與一致性的原則-time-and-consistency)
-    - [克服「完美主義」的陷阱](#克服完美主義的陷阱)
-    - [建立規律的學習習慣](#建立規律的學習習慣)
-  - [四、 紀律與目標導向 (Discipline and Remembering the Goal)](#四-紀律與目標導向-discipline-and-remembering-the-goal)
-    - [為什麼要學希臘文？](#為什麼要學希臘文)
-    - [作為牧者的職責](#作為牧者的職責)
-- [Lesson 3: 字母與發音 (The Alphabet and Pronunciation)](#lesson-3-字母與發音-the-alphabet-and-pronunciation)
+  - [一、 記憶的重要性與工具](#一-記憶的重要性與工具)
+    - [1. 輔助記憶的工具](#1-輔助記憶的工具)
+  - [二、 練習的重要性](#二-練習的重要性)
+  - [三、 時間與持續性](#三-時間與持續性)
+    - [1. 為什麼不能「突擊」？](#1-為什麼不能突擊)
+    - [2. 紀律與環境](#2-紀律與環境)
+  - [四、 紀律與目標：為什麼要學希臘文？](#四-紀律與目標為什麼要學希臘文)
+- [Lesson 3: 希臘文字母與發音 (The Alphabet and Pronunciation)](#lesson-3-希臘文字母與發音-the-alphabet-and-pronunciation)
   - [一、希臘字母簡介](#一希臘字母簡介)
-    - [A. 字母結構](#a-字母結構)
-    - [B. 發音系統](#b-發音系統)
-  - [二、分段學習希臘字母](#二分段學習希臘字母)
+  - [二、分段學習字母](#二分段學習字母)
     - [A. 第一單元：Alpha, Beta, Gamma, Delta, Epsilon](#a-第一單元alpha-beta-gamma-delta-epsilon)
     - [B. 第二單元：Zeta, Eta, Theta](#b-第二單元zeta-eta-theta)
     - [C. 第三單元：Iota, Kappa, Lambda, Mu, Nu, Xi](#c-第三單元iota-kappa-lambda-mu-nu-xi)
     - [D. 第四單元：Omicron, Pi, Rho, Sigma, Tau, Upsilon](#d-第四單元omicron-pi-rho-sigma-tau-upsilon)
     - [E. 第五單元：Phi, Chi, Psi, Omega](#e-第五單元phi-chi-psi-omega)
   - [三、特殊發音規則](#三特殊發音規則)
-    - [A. Gamma 鼻音 (Gamma Nasal)](#a-gamma-鼻音-gamma-nasal)
-    - [B. 母音與雙母音 (Vowels and Diphthongs)](#b-母音與雙母音-vowels-and-diphthongs)
-    - [C. Iota 下標與分音符 (Iota Subscript and Diuresis)](#c-iota-下標與分音符-iota-subscript-and-diuresis)
-    - [D. 氣息符號 (Breathing Marks)](#d-氣息符號-breathing-marks)
+    - [A. Gamma Nasal (鼻音化 Gamma)](#a-gamma-nasal-鼻音化-gamma)
+    - [B. 母音與雙母音 (Diphthongs)](#b-母音與雙母音-diphthongs)
+    - [C. Iota Subscript 與 Diuresis](#c-iota-subscript-與-diuresis)
+    - [D. 呼吸號 (Breathing Marks)](#d-呼吸號-breathing-marks)
 - [Lesson 4: 標點符號與音節劃分 (Punctuation and Syllabification)](#lesson-4-標點符號與音節劃分-punctuation-and-syllabification)
-  - [希臘文的標點符號系統 (Punctuation)](#希臘文的標點符號系統-punctuation)
-  - [重音符號 (Accents)](#重音符號-accents)
+  - [希臘文的標點符號 (Punctuation)](#希臘文的標點符號-punctuation)
+    - [省略符號 (Elision Mark)](#省略符號-elision-mark)
+    - [重音符號 (Accents)](#重音符號-accents)
   - [音節劃分 (Syllabification)](#音節劃分-syllabification)
-  - [詞彙學習與語義範圍 (Vocabulary and Semantic Range)](#詞彙學習與語義範圍-vocabulary-and-semantic-range)
-  - [學習策略與鼓勵](#學習策略與鼓勵)
+  - [關於詞彙學習的正確心態](#關於詞彙學習的正確心態)
+    - [什麼是「詞彙註釋」(Glosses)？](#什麼是詞彙註釋glosses)
+    - [學習策略與鼓勵](#學習策略與鼓勵)
 - [Lesson 5: 英語名詞導論 (Introduction to English Nouns)](#lesson-5-英語名詞導論-introduction-to-english-nouns)
   - [為什麼要學習英語語法？](#為什麼要學習英語語法)
-  - [屈折（Inflection）的概念](#屈折inflection的概念)
+  - [屈折變化 (Inflection) 的概念](#屈折變化-inflection-的概念)
   - [影響屈折的三大要素](#影響屈折的三大要素)
-    - [1. 格（Case）](#1-格case)
-    - [2. 數（Number）](#2-數number)
-    - [3. 性（Gender）](#3-性gender)
-  - [變格（Declension）](#變格declension)
-  - [句子結構：主詞與述語](#句子結構主詞與述語)
-  - [希臘語動詞的特殊性：隱含主詞](#希臘語動詞的特殊性隱含主詞)
+    - [1. 格 (Case)](#1-格-case)
+    - [2. 數 (Number)](#2-數-number)
+    - [3. 性 (Gender)](#3-性-gender)
+  - [變格 (Declension) 與模式](#變格-declension-與模式)
+  - [句子結構：主詞與述語 (Subject and Predicate)](#句子結構主詞與述語-subject-and-predicate)
+  - [希臘文動詞的特殊性：隱含的主詞](#希臘文動詞的特殊性隱含的主詞)
 - [Lesson 6: 主格與受格；定冠詞 (Nominative and Accusative; Definite Article)](#lesson-6-主格與受格定冠詞-nominative-and-accusative-definite-article)
-  - [名詞的構成與格位系統 (The Structure of Nouns and Case Systems)](#名詞的構成與格位系統-the-structure-of-nouns-and-case-systems)
-  - [主格 (Nominative Case)](#主格-nominative-case)
-  - [受格 (Accusative Case)](#受格-accusative-case)
-  - [名詞規則 (The Noun Rules)](#名詞規則-the-noun-rules)
-  - [定冠詞 (The Definite Article)](#定冠詞-the-definite-article)
-  - [結語：進入「迷霧」 (Entering the Fog)](#結語進入迷霧-entering-the-fog)
+  - [I. 主格與受格導論：格位系統的邏輯](#i-主格與受格導論格位系統的邏輯)
+  - [II. 主格 (Nominative Case)](#ii-主格-nominative-case)
+    - [識別主詞](#識別主詞)
+  - [III. 受格 (Accusative Case)](#iii-受格-accusative-case)
+    - [變格規則與應用](#變格規則與應用)
+  - [IV. 定冠詞 (Definite Article)](#iv-定冠詞-definite-article)
+    - [為什麼定冠詞是你的朋友？](#為什麼定冠詞是你的朋友)
+    - [進入「迷霧」的提醒](#進入迷霧的提醒)
 - [Lesson 7: 屬格與與格 (Genitive and Dative)](#lesson-7-屬格與與格-genitive-and-dative)
-  - [屬格（Genitive Case）的定義與功能](#屬格genitive-case的定義與功能)
-    - [關鍵術語：頭名詞（Head Noun）](#關鍵術語頭名詞head-noun)
-  - [與格（Dative Case）的定義與功能](#與格dative-case的定義與功能)
-    - [語境決定意義](#語境決定意義)
-  - [語法規則與記憶技巧](#語法規則與記憶技巧)
+  - [屬格（Genitive Case）的基礎與功能](#屬格genitive-case的基礎與功能)
+  - [與格（Dative Case）的關鍵詞與語境](#與格dative-case的關鍵詞與語境)
+    - [間接受詞（Indirect Object）](#間接受詞indirect-object)
+    - [語境的決定性](#語境的決定性)
+  - [語法規則：約塔下標與詞幹變化](#語法規則約塔下標與詞幹變化)
     - [規則四：約塔下標（Iota Subscript）](#規則四約塔下標iota-subscript)
-    - [規則五：母音長度變化（Vowel Length Changes）](#規則五母音長度變化vowel-length-changes)
+    - [規則五：母音長度變化](#規則五母音長度變化)
     - [規則六：陽性與中性的同一性](#規則六陽性與中性的同一性)
-- [Lesson 8: 介系詞 (Prepositions)](#lesson-8-介系詞-prepositions)
-  - [介系詞的定義與結構](#介系詞的定義與結構)
-  - [介系詞與格位的關係](#介系詞與格位的關係)
+- [Lesson 8: 介系詞與動詞基礎 (Lesson 8: Prepositions)](#lesson-8-介系詞與動詞基礎-lesson-8-prepositions)
+  - [介系詞（Prepositions）的基本概念](#介系詞prepositions的基本概念)
+  - [介系詞與格位（Case）的關係](#介系詞與格位case的關係)
   - [動詞的人稱與數（Person and Number）](#動詞的人稱與數person-and-number)
-  - [繫詞 *eimi* 的特殊用法](#繫詞-eimi-的特殊用法)
+  - [動詞 *εἰμί*（Amy）的特殊性](#動詞-εἰμίamy的特殊性)
   - [從屬子句（Dependent Clauses）的辨識](#從屬子句dependent-clauses的辨識)
 - [Lesson 9: 形容詞 (Adjectives)](#lesson-9-形容詞-adjectives)
   - [形容詞的定義與三大功能](#形容詞的定義與三大功能)
-  - [希臘文形容詞的形態與一致性](#希臘文形容詞的形態與一致性)
-  - [句法功能與翻譯規則](#句法功能與翻譯規則)
+  - [希臘文形容詞的形態與一致性原則](#希臘文形容詞的形態與一致性原則)
+  - [透過冠詞（Article）識別形容詞功能](#透過冠詞article識別形容詞功能)
     - [1. 定語位置（Attributive Position）](#1-定語位置attributive-position)
-    - [2. 名詞性用法（Substantive Use）](#2-名詞性用法substantive-use)
+    - [2. 名詞性用法（Substantive Position）](#2-名詞性用法substantive-position)
     - [3. 表語位置（Predicate Position）](#3-表語位置predicate-position)
-  - [特殊情況：無冠詞的模糊地帶](#特殊情況無冠詞的模糊地帶)
+  - [當冠詞缺席時：上下文的決定性作用](#當冠詞缺席時上下文的決定性作用)
 - [Lesson 10: 第三變格法 (Third Declension)](#lesson-10-第三變格法-third-declension)
-  - [第三變格法（Third Declension）概論](#第三變格法third-declension概論)
-  - [辨識第三變格法的四大法則](#辨識第三變格法的四大法則)
-    - [1. 必須背誦屬格（Genitive）形式](#1-必須背誦屬格genitive形式)
-    - [2. 主格與與格複數（Dative Plural）的連動性](#2-主格與與格複數dative-plural的連動性)
-    - [3. 鼻音（$\nu$）與 $\sigma$ 的碰撞](#3-鼻音nu與-sigma-的碰撞)
-    - [4. 齒音（$\tau$）與 $\sigma$ 的碰撞](#4-齒音tau與-sigma-的碰撞)
-  - [第三變格法的詞尾與範式分析](#第三變格法的詞尾與範式分析)
-  - [方塊停音（Square Stops）的重要性](#方塊停音square-stops的重要性)
+  - [一、 第三變格法導論：形式與意義的區分](#一-第三變格法導論形式與意義的區分)
+  - [二、 第三變格法的核心辨識技巧](#二-第三變格法的核心辨識技巧)
+    - [1. 務必背誦屬格（Genitive）形式](#1-務必背誦屬格genitive形式)
+    - [2. 主格與與格複數的連動性](#2-主格與與格複數的連動性)
+    - [3. 鼻音（Nu, $\nu$）的脫落](#3-鼻音nu-nu的脫落)
+    - [4. 齒音（Dental, $\tau, \delta, \theta$）的脫落](#4-齒音dental-tau-delta-theta的脫落)
+  - [三、 詞形變化的實戰演練：以 *sarx* 為例](#三-詞形變化的實戰演練以-sarx-為例)
+  - [四、 方塊停音（Square Stops）規則](#四-方塊停音square-stops規則)
 - [Lesson 11: 第一與第二人稱代名詞 (First and Second Person Personal Pronouns)](#lesson-11-第一與第二人稱代名詞-first-and-second-person-personal-pronouns)
-  - [第一與第二人稱代名詞導論](#第一與第二人稱代名詞導論)
+  - [第一、二人稱代名詞的定義與功能](#第一二人稱代名詞的定義與功能)
   - [人稱代名詞的語法特徵](#人稱代名詞的語法特徵)
-  - [第一與第二人稱代名詞的變格規律](#第一與第二人稱代名詞的變格規律)
-  - [第三變格名詞的進階規則](#第三變格名詞的進階規則)
-    - [齒音變格（Dental Stems）的互動](#齒音變格dental-stems的互動)
-    - [消失的輔音（The Consonantal Iota）](#消失的輔音the-consonantal-iota)
-    - [特殊名詞變格（如 *patēr*）](#特殊名詞變格如-patēr)
-- [Lesson 12: αὐτός (Lesson 12: αὐτός)](#lesson-12-αὐτός-lesson-12-αὐτός)
-  - [αὐτός 的形態特徵與詞形變化](#αὐτός-的形態特徵與詞形變化)
-  - [αὐτός 的第一種功能：人稱代名詞 (Personal Pronoun)](#αὐτός-的第一種功能人稱代名詞-personal-pronoun)
-    - [自然性別與語法性別的區分](#自然性別與語法性別的區分)
-    - [複數形式的處理](#複數形式的處理)
-  - [αὐτός 的第二種功能：強調形容詞 (Adjectival Intensive)](#αὐτός-的第二種功能強調形容詞-adjectival-intensive)
-    - [語法位置與翻譯邏輯](#語法位置與翻譯邏輯)
-  - [αὐτός 的第三種功能：同一形容詞 (Identical Adjective)](#αὐτός-的第三種功能同一形容詞-identical-adjective)
-    - [定語位置的識別](#定語位置的識別)
-  - [總結：如何區分三種功能](#總結如何區分三種功能)
+  - [記憶代名詞的範式（Paradigms）](#記憶代名詞的範式paradigms)
+  - [第三變格法名詞的進階規則](#第三變格法名詞的進階規則)
+    - [1. 齒音詞幹（Dental Stems）](#1-齒音詞幹dental-stems)
+    - [2. 消失的 Iota（The Contained Iota）](#2-消失的-iotathe-contained-iota)
+    - [3. 不規則名詞變化](#3-不規則名詞變化)
+- [Lesson 12: αὐτός](#lesson-12-αὐτός)
+  - [形態學概覽：一個 2-1-2 的形容詞](#形態學概覽一個-2-1-2-的形容詞)
+  - [性別的判定：自然性別 vs. 文法性別](#性別的判定自然性別-vs-文法性別)
+  - [αὐτός 的三大功能](#αὐτός-的三大功能)
+    - [1. 第三人稱代名詞 (Personal Pronoun)](#1-第三人稱代名詞-personal-pronoun)
+    - [2. 強調用法 (Adjectival Intensive)](#2-強調用法-adjectival-intensive)
+    - [3. 同一性用法 (Identical Adjective)](#3-同一性用法-identical-adjective)
+  - [總結與應用建議](#總結與應用建議)
 - [Lesson 13: 指示代名詞與形容詞 (Demonstrative Pronouns/Adjectives)](#lesson-13-指示代名詞與形容詞-demonstrative-pronounsadjectives)
-  - [指示代名詞與形容詞的定義與功能](#指示代名詞與形容詞的定義與功能)
-  - [語法規則：代名詞與形容詞的區別](#語法規則代名詞與形容詞的區別)
-    - [當作代名詞時（Pronoun Usage）](#當作代名詞時pronoun-usage)
-    - [當作形容詞時（Adjective Usage）](#當作形容詞時adjective-usage)
-  - [句法位置：謂語位置（Predicate Position）](#句法位置謂語位置predicate-position)
-  - [詞形變化與識別技巧](#詞形變化與識別技巧)
-    - [關於 *οὗτος (houtos)* 與 *ἐκεῖνος (ekeinos)*](#關於-οὗτος-houtos-與-ἐκεῖνος-ekeinos)
-  - [補充：第五個格——呼格（Vocative Case）](#補充第五個格呼格vocative-case)
+  - [指示代名詞的定義與功能](#指示代名詞的定義與功能)
+  - [語法位置：謂語位置 (Predicate Position)](#語法位置謂語位置-predicate-position)
+  - [變格的規律與注意事項](#變格的規律與注意事項)
+  - [補充：第五個格位——呼格 (Vocative)](#補充第五個格位呼格-vocative)
 - [Lesson 14: 關係代名詞 (Relative Pronouns)](#lesson-14-關係代名詞-relative-pronouns)
-  - [關係代名詞的定義與重要性](#關係代名詞的定義與重要性)
-  - [關係子句的結構與功能](#關係子句的結構與功能)
-    - [關係代名詞的格（Case）判定](#關係代名詞的格case判定)
-    - [關係代名詞的性（Gender）與數（Number）判定](#關係代名詞的性gender與數number判定)
-  - [關係子句作為從屬子句](#關係子句作為從屬子句)
-  - [辨識技巧：外觀與特徵](#辨識技巧外觀與特徵)
+  - [關係代名詞導論 (Introduction to Relative Pronouns)](#關係代名詞導論-introduction-to-relative-pronouns)
+  - [關係代名詞的定義與功能 (Definition and Usage)](#關係代名詞的定義與功能-definition-and-usage)
+  - [形式與辨識 (Forms and Identification)](#形式與辨識-forms-and-identification)
+  - [總結與應用 (Conclusion)](#總結與應用-conclusion)
 - [Lesson 15: 動詞導論 (Introduction to Verbs)](#lesson-15-動詞導論-introduction-to-verbs)
-  - [動詞的基本定義與一致性 (Person and Number)](#動詞的基本定義與一致性-person-and-number)
-  - [區分「時間」與「時態」 (Time vs. Tense)](#區分時間與時態-time-vs-tense)
-  - [體貌 (Aspect) 的概念：連續與完成](#體貌-aspect-的概念連續與完成)
-    - [1. 英文中的體貌對比](#1-英文中的體貌對比)
-    - [2. 希臘文的體貌系統](#2-希臘文的體貌系統)
+  - [動詞的基本定義與一致性 (Agreement)](#動詞的基本定義與一致性-agreement)
+  - [區分「時間」(Time) 與「時態」(Tense)](#區分時間time-與時態tense)
+  - [語體 (Aspect)：動作的本質](#語體-aspect動作的本質)
   - [希臘文動詞的構造：拆解與重組](#希臘文動詞的構造拆解與重組)
-    - [教學方法的轉向](#教學方法的轉向)
+  - [希臘文的語體系統](#希臘文的語體系統)
 - [Lesson 16: 現在主動語態直說語氣 (Present Active Indicative)](#lesson-16-現在主動語態直說語氣-present-active-indicative)
-  - [現在主動語態直說語氣的定義與重要性](#現在主動語態直說語氣的定義與重要性)
-  - [現在主動語態的構成要素](#現在主動語態的構成要素)
-  - [範式（Paradigm）與記憶策略](#範式paradigm與記憶策略)
-    - [雙重記憶法：詞尾與連接母音](#雙重記憶法詞尾與連接母音)
-  - [實踐與應用：動詞演練](#實踐與應用動詞演練)
+  - [導論：進入動詞系統的基礎](#導論進入動詞系統的基礎)
+  - [希臘文如何構成現在主動語態直說語氣](#希臘文如何構成現在主動語態直說語氣)
+    - [1. 現在時態詞幹（Present Tense Stem）](#1-現在時態詞幹present-tense-stem)
+    - [2. 連接元音（Connecting Vowel）](#2-連接元音connecting-vowel)
+    - [3. 原級主動人稱詞尾（Primary Active Personal Endings）](#3-原級主動人稱詞尾primary-active-personal-endings)
+  - [記憶策略：兩套系統的必要性](#記憶策略兩套系統的必要性)
+  - [實戰演練：動詞變位](#實戰演練動詞變位)
+  - [總結：掌握「觸發點」](#總結掌握觸發點)
 - [Lesson 17: 收縮動詞 (Contract Verbs)](#lesson-17-收縮動詞-contract-verbs)
-  - [一、 收縮動詞簡介 (Introduction to Contract Verbs)](#一-收縮動詞簡介-introduction-to-contract-verbs)
-  - [二、 收縮動詞的類型 (Types of Contract Verbs)](#二-收縮動詞的類型-types-of-contract-verbs)
-    - [1. Alpha ($\alpha$) 收縮動詞](#1-alpha-alpha-收縮動詞)
-    - [2. Epsilon ($\epsilon$) 收縮動詞](#2-epsilon-epsilon-收縮動詞)
-    - [3. Omicron ($o$) 收縮動詞](#3-omicron-o-收縮動詞)
-  - [三、 辨識與解析技巧 (Identifying and Parsing)](#三-辨識與解析技巧-identifying-and-parsing)
-  - [四、 收縮規則 (Rules of Contraction)](#四-收縮規則-rules-of-contraction)
-    - [規則一：$o$ 與 $\epsilon$ 的組合](#規則一o-與-epsilon-的組合)
-    - [規則二：$\epsilon + \epsilon$ 的組合](#規則二epsilon-epsilon-的組合)
-    - [規則三：$\omega$ 與 $o$ 的強勢吸收](#規則三omega-與-o-的強勢吸收)
-    - [規則四與五：$\alpha$ 與 $\epsilon$ 的先後順序](#規則四與五alpha-與-epsilon-的先後順序)
-  - [五、 總結與應用策略](#五-總結與應用策略)
-- [Lesson 18: 現在式中動/被動語態直說語氣 (Present Middle/Passive Indicative)](#lesson-18-現在式中動被動語態直說語氣-present-middlepassive-indicative)
-  - [現在式中動/被動語態簡介](#現在式中動被動語態簡介)
-  - [現在式中動/被動語態的構成](#現在式中動被動語態的構成)
-    - [主要被動人稱字尾](#主要被動人稱字尾)
+  - [一、收縮動詞簡介 (Introduction to Contract Verbs)](#一收縮動詞簡介-introduction-to-contract-verbs)
+    - [A. 定義 (Definition)](#a-定義-definition)
+    - [B. 在聖經希臘文中的重要性 (Importance in Biblical Greek)](#b-在聖經希臘文中的重要性-importance-in-biblical-greek)
+  - [二、收縮動詞的類型 (Types of Contract Verbs)](#二收縮動詞的類型-types-of-contract-verbs)
+    - [A. Alpha 收縮動詞 (Alpha Contract Verbs)](#a-alpha-收縮動詞-alpha-contract-verbs)
+    - [B. Epsilon 收縮動詞 (Epsilon Contract Verbs)](#b-epsilon-收縮動詞-epsilon-contract-verbs)
+    - [C. Omicron 收縮動詞 (Omicron Contract Verbs)](#c-omicron-收縮動詞-omicron-contract-verbs)
+  - [三、識別與解析收縮動詞 (Identifying and Parsing Contract Verbs)](#三識別與解析收縮動詞-identifying-and-parsing-contract-verbs)
+    - [A. 解析技巧 (Parsing Tips)](#a-解析技巧-parsing-tips)
+    - [B. 回推詞典形式 (Working Backwards)](#b-回推詞典形式-working-backwards)
+  - [四、收縮規則的應用 (Applying Contract Verbs)](#四收縮規則的應用-applying-contract-verbs)
+    - [1. 規則一：$o$ 與連接母音的結合](#1-規則一o-與連接母音的結合)
+    - [2. 規則二：$\epsilon+\epsilon$ 的結合](#2-規則二epsilonepsilon-的結合)
+    - [3. 規則三：$o$ 或 $\omega$ 的強勢吸收](#3-規則三o-或-omega-的強勢吸收)
+    - [4. 規則四與五：$\alpha$ 與 $\epsilon$ 的競爭](#4-規則四與五alpha-與-epsilon-的競爭)
+- [Lesson 18: 現在式中間/被動語態直說法 (Present Middle/Passive Indicative)](#lesson-18-現在式中間被動語態直說法-present-middlepassive-indicative)
+  - [現在式被動語態的定義與概念](#現在式被動語態的定義與概念)
+  - [現在式被動語態的構成](#現在式被動語態的構成)
+    - [詞尾的變化與縮合](#詞尾的變化與縮合)
   - [異相動詞 (Deponent Verbs)](#異相動詞-deponent-verbs)
-    - [為什麼會有異相動詞？](#為什麼會有異相動詞)
-    - [如何辨識？](#如何辨識)
-  - [中間語態 (Middle Voice) 的初步認識](#中間語態-middle-voice-的初步認識)
-  - [總結：大師動詞表 (Master Verb Chart)](#總結大師動詞表-master-verb-chart)
-- [Lesson 19: 未來主動與中動直說語氣 (Future Active/Middle Indicative)](#lesson-19-未來主動與中動直說語氣-future-activemiddle-indicative)
-  - [未來時態的構成邏輯：詞幹與時態標記](#未來時態的構成邏輯詞幹與時態標記)
-  - [詞幹的識別與詞典的使用](#詞幹的識別與詞典的使用)
-  - [未來中動語氣與異相動詞（Deponent Verbs）](#未來中動語氣與異相動詞deponent-verbs)
-  - [總結：大師級動詞表（Master Verb Chart）的重要性](#總結大師級動詞表master-verb-chart的重要性)
-- [Lesson 20: 動詞詞根與未來時態的其他形式 (Verbal Roots and Other Forms of the Future)](#lesson-20-動詞詞根與未來時態的其他形式-verbal-roots-and-other-forms-of-the-future)
-  - [一、 理解動詞詞根（Verbal Roots）與詞幹（Stems）的關鍵區別](#一-理解動詞詞根verbal-roots與詞幹stems的關鍵區別)
-  - [二、 動詞詞根的三種演變模式](#二-動詞詞根的三種演變模式)
-    - [1. 模式一：詞根無變化](#1-模式一詞根無變化)
-    - [2. 模式二：詞根有規律的變化](#2-模式二詞根有規律的變化)
-    - [3. 模式三：完全不同的詞根（異幹動詞）](#3-模式三完全不同的詞根異幹動詞)
-  - [三、 液音未來時態（Liquid Futures）](#三-液音未來時態liquid-futures)
-    - [1. 構成規則的差異](#1-構成規則的差異)
-    - [2. 識別液音未來時態](#2-識別液音未來時態)
-  - [四、 學習建議：減輕記憶負擔](#四-學習建議減輕記憶負擔)
-- [Lesson 21: 未完成式直說語氣 (Imperfect Indicative)](#lesson-21-未完成式直說語氣-imperfect-indicative)
-  - [未完成式（Imperfect Indicative）的定義與特徵](#未完成式imperfect-indicative的定義與特徵)
-  - [未完成式的構成要素](#未完成式的構成要素)
-  - [增強（Augment）的規則](#增強augment的規則)
-    - [1. 子音開頭的動詞](#1-子音開頭的動詞)
-    - [2. 母音開頭的動詞](#2-母音開頭的動詞)
-    - [3. 複合動詞（Compound Verbs）的增強](#3-複合動詞compound-verbs的增強)
-  - [主要動詞人稱結尾表（Master Personal Ending Chart）的完成](#主要動詞人稱結尾表master-personal-ending-chart的完成)
-  - [學習建議：記憶的重要性](#學習建議記憶的重要性)
-- [Lesson 22: 第二不定過去式主動與中動語態直說語氣 (Second Aorist Active/Middle Indicative)](#lesson-22-第二不定過去式主動與中動語態直說語氣-second-aorist-activemiddle-indicative)
-  - [一、 第二不定過去式（Second Aorist）簡介](#一-第二不定過去式second-aorist簡介)
-    - [第一與第二不定過去式的區別](#第一與第二不定過去式的區別)
-  - [二、 第二不定過去式的形成機制](#二-第二不定過去式的形成機制)
-    - [1. 主動語態（Active Voice）](#1-主動語態active-voice)
-    - [2. 識別的關鍵：詞根與現在式詞幹的差異](#2-識別的關鍵詞根與現在式詞幹的差異)
-    - [3. 中動語態（Middle Voice）](#3-中動語態middle-voice)
-      - [關於異相動詞（Deponent Verbs）的提醒](#關於異相動詞deponent-verbs的提醒)
-  - [三、 總結與應用](#三-總結與應用)
-- [Lesson 23: 第一不定過去式主動與中動語態直說語氣 (First Aorist Active/Middle Indicative)](#lesson-23-第一不定過去式主動與中動語態直說語氣-first-aorist-activemiddle-indicative)
-  - [第一不定過去式（First Aorist）的構成邏輯](#第一不定過去式first-aorist的構成邏輯)
-  - [詞幹的穩定性與「規律」形態](#詞幹的穩定性與規律形態)
-  - [特殊變位規則：第三人稱單數的變化](#特殊變位規則第三人稱單數的變化)
-  - [液音動詞（Liquid Verbs）的特殊性](#液音動詞liquid-verbs的特殊性)
-  - [透過詞根知識簡化學習](#透過詞根知識簡化學習)
-  - [第一不定過去式中動語態（Middle Indicative）](#第一不定過去式中動語態middle-indicative)
-- [Lesson 24: 不定過去與未來被動語態 (Aorist and Future Passive Indicative)](#lesson-24-不定過去與未來被動語態-aorist-and-future-passive-indicative)
-  - [不定過去與未來被動語態的基礎概念](#不定過去與未來被動語態的基礎概念)
-  - [不定過去被動語態（Aorist Passive Indicative）](#不定過去被動語態aorist-passive-indicative)
-    - [形成規則](#形成規則)
-    - [辨識與翻譯](#辨識與翻譯)
-  - [未來被動語態（Future Passive Indicative）](#未來被動語態future-passive-indicative)
-    - [形成規則](#形成規則-1)
-    - [翻譯技巧](#翻譯技巧)
-  - [詞彙記憶與形態學應用](#詞彙記憶與形態學應用)
-    - [區分「需要背誦」與「可以推導」](#區分需要背誦與可以推導)
-    - [輔音與母音的權重](#輔音與母音的權重)
-    - [結論：掌握「主動詞表」](#結論掌握主動詞表)
-- [Lesson 25: 完成直說語氣 (Perfect Indicative)](#lesson-25-完成直說語氣-perfect-indicative)
-  - [完成式（Perfect Indicative）的定義與意義](#完成式perfect-indicative的定義與意義)
-  - [完成式的構成規則](#完成式的構成規則)
-    - [1. 重疊（Reduplication）](#1-重疊reduplication)
-    - [2. 完成主動語態（Perfect Active）](#2-完成主動語態perfect-active)
-    - [3. 完成中動/被動語態（Perfect Middle/Passive）](#3-完成中動被動語態perfect-middlepassive)
-  - [中動語態（Middle Voice）的語義與功能](#中動語態middle-voice的語義與功能)
-    - [實例分析：馬可福音 11:24](#實例分析馬可福音-1124)
-  - [學習建議與總結](#學習建議與總結)
-- [Lesson 26: 分詞導論 (Introduction to Participles)](#lesson-26-分詞導論-introduction-to-participles)
-  - [分詞的本質：動詞性形容詞 (Verbal Adjectives)](#分詞的本質動詞性形容詞-verbal-adjectives)
-  - [分詞的時態與「體」（Aspect）](#分詞的時態與體aspect)
-  - [分詞的構詞法：語素（Morphemes）與變格](#分詞的構詞法語素morphemes與變格)
-  - [翻譯的挑戰：翻譯即是「背叛」](#翻譯的挑戰翻譯即是背叛)
-  - [總結：心態的轉變](#總結心態的轉變)
-- [Lesson 27: 現在（持續性）副詞性分詞 (Present (Continuous) Adverbial Participles)](#lesson-27-現在持續性副詞性分詞-present-continuous-adverbial-participles)
-  - [一、 現在持續性副詞性分詞簡介](#一-現在持續性副詞性分詞簡介)
-    - [定義與功能](#定義與功能)
-    - [在聖經希臘文中的重要性](#在聖經希臘文中的重要性)
-  - [二、 識別現在持續性副詞性分詞](#二-識別現在持續性副詞性分詞)
-    - [形態與句法（Morphology and Syntax）](#形態與句法morphology-and-syntax)
-    - [關鍵線索：無冠詞（Anarthrous）](#關鍵線索無冠詞anarthrous)
-  - [三、 翻譯現在持續性副詞性分詞](#三-翻譯現在持續性副詞性分詞)
-    - [處理時間與語態（Time and Aspect）](#處理時間與語態time-and-aspect)
-    - [管理句子結構](#管理句子結構)
-  - [四、 新約釋經中的應用](#四-新約釋經中的應用)
-    - [聖經文本的實例](#聖經文本的實例)
-    - [釋經洞察](#釋經洞察)
-- [Lesson 28: 不定過去式分詞 (Aorist (Undefined) Adverbial Participles)](#lesson-28-不定過去式分詞-aorist-undefined-adverbial-participles)
-  - [不定過去式分詞的形態特徵 (Morphology of Aorist Participles)](#不定過去式分詞的形態特徵-morphology-of-aorist-participles)
-    - [1. 增補（Augment）的消失](#1-增補augment的消失)
-    - [2. 詞彙知識的重要性](#2-詞彙知識的重要性)
-  - [不定過去式主動、中動與被動語態](#不定過去式主動中動與被動語態)
-    - [1. 第一不定過去式主動語態 (First Aorist Active)](#1-第一不定過去式主動語態-first-aorist-active)
-    - [2. 不定過去式中動語態 (Aorist Middle)](#2-不定過去式中動語態-aorist-middle)
-    - [3. 不定過去式被動語態 (Aorist Passive)](#3-不定過去式被動語態-aorist-passive)
-  - [第二不定過去式 (Second Aorist) 的特殊性](#第二不定過去式-second-aorist-的特殊性)
-  - [語義與翻譯原則](#語義與翻譯原則)
+  - [關於中間語態 (Middle Voice) 的說明](#關於中間語態-middle-voice-的說明)
+  - [總結：主動詞表 (Master Verb Chart)](#總結主動詞表-master-verb-chart)
+- [Lesson 19: 未來主動/中動直說語氣 (Future Active/Middle Indicative)](#lesson-19-未來主動中動直說語氣-future-activemiddle-indicative)
+  - [未來時態的基礎概念與結構邏輯](#未來時態的基礎概念與結構邏輯)
+  - [未來主動直說語氣的構成](#未來主動直說語氣的構成)
+    - [形態變化的規律與「德語式」閱讀法](#形態變化的規律與德語式閱讀法)
+  - [未來中動直說語氣的構成](#未來中動直說語氣的構成)
+    - [關於「異相動詞」（Deponent Verbs）的釐清](#關於異相動詞deponent-verbs的釐清)
   - [總結與學習建議](#總結與學習建議)
+- [Lesson 20: 動詞詞根與未來時態的其他形式 (Verbal Roots and Other Forms of the Future)](#lesson-20-動詞詞根與未來時態的其他形式-verbal-roots-and-other-forms-of-the-future)
+  - [一、 動詞詞根與未來時態導論](#一-動詞詞根與未來時態導論)
+    - [A. 理解動詞詞根的重要性](#a-理解動詞詞根的重要性)
+    - [B. 未來時態在聖經希臘文中的角色](#b-未來時態在聖經希臘文中的角色)
+  - [二、 識別動詞詞根](#二-識別動詞詞根)
+    - [A. 規律動詞與模式識別](#a-規律動詞與模式識別)
+    - [B. 不規則動詞](#b-不規則動詞)
+  - [三、 未來時態的形式](#三-未來時態的形式)
+    - [A. 規律未來時態的構成](#a-規律未來時態的構成)
+    - [B. 流音未來時態（Liquid Futures）](#b-流音未來時態liquid-futures)
+      - [給學生的建議：專注於輔音](#給學生的建議專注於輔音)
+- [Lesson 21: 未完成時態 (Imperfect Indicative)](#lesson-21-未完成時態-imperfect-indicative)
+  - [未完成時態的定義與本質](#未完成時態的定義與本質)
+  - [未完成時態的構成要素](#未完成時態的構成要素)
+    - [什麼是增強（Augment）？](#什麼是增強augment)
+    - [特殊情況：雙母音（Diphthongs）](#特殊情況雙母音diphthongs)
+  - [主詞人稱結尾的四象限圖](#主詞人稱結尾的四象限圖)
+  - [總結與學習建議](#總結與學習建議-1)
+- [Lesson 22: 第二不定過去式主動/中動直說語氣 (Second Aorist Active/Middle Indicative)](#lesson-22-第二不定過去式主動中動直說語氣-second-aorist-activemiddle-indicative)
+  - [導論：什麼是不定過去式（Aorist）？](#導論什麼是不定過去式aorist)
+  - [第二不定過去式主動語氣的構成](#第二不定過去式主動語氣的構成)
+    - [詞根（Verbal Root）與時態詞幹的關鍵關係](#詞根verbal-root與時態詞幹的關鍵關係)
+    - [如何區分未完成過去式與第二不定過去式？](#如何區分未完成過去式與第二不定過去式)
+  - [第二不定過去式中動語氣的構成](#第二不定過去式中動語氣的構成)
+      - [關於異相動詞（Deponent Verbs）的提醒](#關於異相動詞deponent-verbs的提醒)
+  - [總結與應用](#總結與應用)
+- [Lesson 23: 第一不定過去式主動與中動語態直說語氣 (First Aorist Active/Middle Indicative)](#lesson-23-第一不定過去式主動與中動語態直說語氣-first-aorist-activemiddle-indicative)
+  - [第一不定過去式（First Aorist）的形態構成](#第一不定過去式first-aorist的形態構成)
+  - [詞尾的特殊變化與辨識](#詞尾的特殊變化與辨識)
+  - [液音動詞（Liquid Verbs）的特殊性](#液音動詞liquid-verbs的特殊性)
+  - [運用詞根知識簡化學習](#運用詞根知識簡化學習)
+  - [中動語態（Middle Voice）的處理](#中動語態middle-voice的處理)
+- [Lesson 24: 不定過去與未來被動語態 (Aorist and Future Passive Indicative)](#lesson-24-不定過去與未來被動語態-aorist-and-future-passive-indicative)
+  - [不定過去與未來被動語態簡介](#不定過去與未來被動語態簡介)
+  - [不定過去被動語態 (Aorist Passive Indicative)](#不定過去被動語態-aorist-passive-indicative)
+    - [構成與用法](#構成與用法)
+    - [辨識與翻譯](#辨識與翻譯)
+  - [未來被動語態 (Future Passive Indicative)](#未來被動語態-future-passive-indicative)
+    - [構成與用法](#構成與用法-1)
+    - [翻譯技巧](#翻譯技巧)
+  - [應用與詞彙學習策略](#應用與詞彙學習策略)
+    - [詞彙記憶的原則](#詞彙記憶的原則)
+    - [輔音與母音的權重](#輔音與母音的權重)
+- [Lesson 25: 完美時態直說語氣 (Perfect Indicative)](#lesson-25-完美時態直說語氣-perfect-indicative)
+  - [一、 完美時態的定義與功能 (Introduction to the Perfect Indicative)](#一-完美時態的定義與功能-introduction-to-the-perfect-indicative)
+  - [二、 完美主動語態的構建 (Forming the Perfect Active)](#二-完美主動語態的構建-forming-the-perfect-active)
+    - [1. 重疊 (Reduplication)](#1-重疊-reduplication)
+    - [2. 時態標記與詞幹](#2-時態標記與詞幹)
+  - [三、 完美中動/被動語態 (Perfect Middle/Passive)](#三-完美中動被動語態-perfect-middlepassive)
+  - [四、 中間語態的深層意義 (The Middle Voice)](#四-中間語態的深層意義-the-middle-voice)
+    - [實例分析：馬可福音 11:24](#實例分析馬可福音-1124)
+- [Lesson 26: 分詞導論 (Introduction to Participles)](#lesson-26-分詞導論-introduction-to-participles)
+  - [分詞的本質：動詞與形容詞的結合](#分詞的本質動詞與形容詞的結合)
+  - [分詞的動詞特徵：時態與語態](#分詞的動詞特徵時態與語態)
+  - [分詞的名詞特徵：格、數、性與一致性](#分詞的名詞特徵格數性與一致性)
+    - [構造方式](#構造方式)
+  - [實戰解析：從形態看意義](#實戰解析從形態看意義)
+    - [關於翻譯的挑戰](#關於翻譯的挑戰)
+    - [特殊情況：增補與詞素變化](#特殊情況增補與詞素變化)
+  - [總結：心態的轉變](#總結心態的轉變)
+- [Lesson 27: 現在（持續）副詞性分詞 (Present (Continuous) Adverbial Participles)](#lesson-27-現在持續副詞性分詞-present-continuous-adverbial-participles)
+  - [一、現在持續副詞性分詞簡介](#一現在持續副詞性分詞簡介)
+    - [定義與功能](#定義與功能)
+  - [二、識別現在持續副詞性分詞](#二識別現在持續副詞性分詞)
+    - [形態與句法](#形態與句法)
+    - [關鍵線索：無冠詞（Anarthrous）](#關鍵線索無冠詞anarthrous)
+  - [三、翻譯現在持續副詞性分詞](#三翻譯現在持續副詞性分詞)
+    - [處理時間與體](#處理時間與體)
+    - [記憶重點：六個基本形式](#記憶重點六個基本形式)
+  - [四、新約解經中的應用](#四新約解經中的應用)
+- [Lesson 28: 不定過去式分詞 (Aorist (Undefined) Adverbial Participles)](#lesson-28-不定過去式分詞-aorist-undefined-adverbial-participles)
+  - [導論：從現在分詞到不定過去式分詞](#導論從現在分詞到不定過去式分詞)
+  - [不定過去式主動語態分詞的構造](#不定過去式主動語態分詞的構造)
+    - [為什麼沒有「增音」（Augment）？](#為什麼沒有增音augment)
+  - [詞彙量的重要性與第二不定過去式](#詞彙量的重要性與第二不定過去式)
+  - [中動語態與被動語態的辨析](#中動語態與被動語態的辨析)
+    - [不定過去式中動分詞 (Aorist Middle Participle)](#不定過去式中動分詞-aorist-middle-participle)
+    - [不定過去式被動分詞 (Aorist Passive Participle)](#不定過去式被動分詞-aorist-passive-participle)
+  - [總結：翻譯的視角](#總結翻譯的視角)
 - [Lesson 29: 形容詞性分詞 (Adjectival Participles)](#lesson-29-形容詞性分詞-adjectival-participles)
-  - [形容詞性分詞的本質與定位](#形容詞性分詞的本質與定位)
-  - [形容詞性分詞的兩大功能](#形容詞性分詞的兩大功能)
-    - [1. 定語用法（Attributive Position）](#1-定語用法attributive-position)
-    - [2. 名詞性用法（Substantive Use）](#2-名詞性用法substantive-use-1)
-  - [關鍵判斷指標：冠詞（The Article）](#關鍵判斷指標冠詞the-article)
-  - [學習建議與總結](#學習建議與總結-1)
-- [Lesson 30: 完成式分詞與屬格絕對結構 (Perfect Participles and Genitive Absolutes)](#lesson-30-完成式分詞與屬格絕對結構-perfect-participles-and-genitive-absolutes)
-  - [完成式分詞 (Perfect Participles)](#完成式分詞-perfect-participles)
-    - [1. 主動語態 (Active Voice)](#1-主動語態-active-voice)
-    - [2. 中間與被動語態 (Middle and Passive Voice)](#2-中間與被動語態-middle-and-passive-voice)
+  - [分詞的雙重性格：從副詞到形容詞](#分詞的雙重性格從副詞到形容詞)
+  - [核心觀念：沒有新形式，只有新功能](#核心觀念沒有新形式只有新功能)
+  - [形容詞文法的複習：定語與名詞性用法](#形容詞文法的複習定語與名詞性用法)
+  - [形容詞性分詞的運作機制](#形容詞性分詞的運作機制)
+    - [1. 定語分詞（Attributive Participles）](#1-定語分詞attributive-participles)
+    - [2. 名詞性分詞（Substantival Participles）](#2-名詞性分詞substantival-participles)
+  - [如何區分：副詞性 vs. 形容詞性](#如何區分副詞性-vs-形容詞性)
+  - [總結給學生的建議](#總結給學生的建議)
+- [Lesson 30: 完成式分詞與屬格獨立結構 (Perfect Participles and Genitive Absolutes)](#lesson-30-完成式分詞與屬格獨立結構-perfect-participles-and-genitive-absolutes)
+  - [一、完成式分詞 (Perfect Participles)](#一完成式分詞-perfect-participles)
+    - [1. 主動語態的構成](#1-主動語態的構成)
+    - [2. 中間與被動語態的構成](#2-中間與被動語態的構成)
     - [3. 翻譯技巧](#3-翻譯技巧)
-  - [屬格絕對結構 (Genitive Absolutes)](#屬格絕對結構-genitive-absolutes)
-    - [1. 定義與功能](#1-定義與功能)
-    - [2. 翻譯策略](#2-翻譯策略)
-  - [迂迴結構 (Periphrastic Construction)](#迂迴結構-periphrastic-construction)
+  - [二、屬格獨立結構 (Genitive Absolutes)](#二屬格獨立結構-genitive-absolutes)
+    - [1. 為什麼稱之為「獨立」？](#1-為什麼稱之為獨立)
+    - [2. 翻譯的黃金法則](#2-翻譯的黃金法則)
+  - [三、迂迴結構 (Periphrastic Constructions)](#三迂迴結構-periphrastic-constructions)
 - [Lesson 31: 虛擬語氣 (Subjunctive Mood)](#lesson-31-虛擬語氣-subjunctive-mood)
-  - [一、 虛擬語氣的定義與重要性](#一-虛擬語氣的定義與重要性)
-  - [二、 虛擬語氣的構成](#二-虛擬語氣的構成)
-    - [1. 變化的核心：延長連結元音](#1-變化的核心延長連結元音)
-  - [三、 識別虛擬語氣的線索與功能](#三-識別虛擬語氣的線索與功能)
-    - [1. 否定詞的區別：*ou* 與 *mē*](#1-否定詞的區別ou-與-mē)
+  - [虛擬語氣的本質：現實與可能](#虛擬語氣的本質現實與可能)
+  - [虛擬語氣的構成：形式上的簡化](#虛擬語氣的構成形式上的簡化)
+    - [辨識的關鍵：加長的連接母音](#辨識的關鍵加長的連接母音)
+    - [關於不定過去時態（Aorist）的注意事項](#關於不定過去時態aorist的注意事項)
+  - [關鍵線索：如何偵測虛擬語氣](#關鍵線索如何偵測虛擬語氣)
+    - [1. 否定的區分：ou 與 mē](#1-否定的區分ou-與-mē)
     - [2. 目的子句（Purpose Clauses）](#2-目的子句purpose-clauses)
     - [3. 條件句與 *ean*](#3-條件句與-ean)
-    - [4. 疑問句的細微差別](#4-疑問句的細微差別)
-  - [四、 學習建議](#四-學習建議)
+  - [疑問句中的虛擬語氣：語氣的細微差別](#疑問句中的虛擬語氣語氣的細微差別)
 - [Lesson 32: 不定詞 (Infinitive)](#lesson-32-不定詞-infinitive)
-  - [不定詞的本質：動詞名詞化 (The Verbal Noun)](#不定詞的本質動詞名詞化-the-verbal-noun)
-  - [不定詞的語法特徵：脫離指示語氣系統](#不定詞的語法特徵脫離指示語氣系統)
-  - [不定詞的形態辨識](#不定詞的形態辨識)
+  - [什麼是不定詞（Infinitive）？](#什麼是不定詞infinitive)
+  - [不定詞的語法特性：脫離時態的束縛](#不定詞的語法特性脫離時態的束縛)
+  - [必須背誦的詞形變化（Paradigms）](#必須背誦的詞形變化paradigms)
   - [不定詞的三大主要功能](#不定詞的三大主要功能)
-    - [1. 實體用法 (Substantive Use)](#1-實體用法-substantive-use)
-    - [2. 補足用法 (Complementary Infinitive)](#2-補足用法-complementary-infinitive)
-    - [3. 帶冠詞的介系詞結構 (Articular Infinitive with Preposition)](#3-帶冠詞的介系詞結構-articular-infinitive-with-preposition)
-- [Lesson 33: 命令語氣 (Imperative)](#lesson-33-命令語氣-imperative)
-  - [命令語氣的定義與基本特性](#命令語氣的定義與基本特性)
-  - [形態學的挑戰與規律](#形態學的挑戰與規律)
-    - [記憶口訣與規律](#記憶口訣與規律)
-    - [關於「異態動詞」（Deponent Verbs）的提醒](#關於異態動詞deponent-verbs的提醒)
-  - [翻譯的實務與時態區分](#翻譯的實務與時態區分)
-  - [辨識過程的邏輯分析](#辨識過程的邏輯分析)
-  - [總結](#總結)
+    - [1. 實質用法（Substantive Use）](#1-實質用法substantive-use)
+    - [2. 補充用法（Complementary Infinitive）](#2-補充用法complementary-infinitive)
+    - [3. 帶有冠詞的介系詞結構（Articular Infinitive with Prepositions）](#3-帶有冠詞的介系詞結構articular-infinitive-with-prepositions)
+- [Lesson 33: 祈使語氣 (Imperative)](#lesson-33-祈使語氣-imperative)
+  - [祈使語氣的定義與基本概念](#祈使語氣的定義與基本概念)
+  - [詞形變化的邏輯與記憶策略](#詞形變化的邏輯與記憶策略)
+  - [實戰解析：如何辨識與翻譯](#實戰解析如何辨識與翻譯)
+    - [辨識過程的思維路徑](#辨識過程的思維路徑)
+    - [處理第三人稱](#處理第三人稱)
+  - [總結與展望](#總結與展望)
 - [Lesson 34: μι 動詞（δίδωμι 的主動語態直說語氣） (Lesson 34: μι Verbs (Active Indicative of δίδωμι))](#lesson-34-μι-動詞δίδωμι-的主動語態直說語氣-lesson-34-μι-verbs-active-indicative-of-δίδωμι)
-  - [μi 動詞概論：第二種變位法](#μi-動詞概論第二種變位法)
-  - [什麼是「無主題變位法」（Athematic conjugation）？](#什麼是無主題變位法athematic-conjugation)
-  - [μi 動詞的五大規則](#μi-動詞的五大規則)
-    - [1. 現在式的重疊（Reduplication with iota）](#1-現在式的重疊reduplication-with-iota)
-    - [2. 無連接母音（No connecting vowel）](#2-無連接母音no-connecting-vowel)
-    - [3. 現在式主動語態的特殊字尾](#3-現在式主動語態的特殊字尾)
-    - [4. 詞幹母音的長短變化（Fluctuation of stem vowel length）](#4-詞幹母音的長短變化fluctuation-of-stem-vowel-length)
-    - [5. Kappa 不定過去式（Kappa Aorist）](#5-kappa-不定過去式kappa-aorist)
-  - [實戰分析：從詞幹出發](#實戰分析從詞幹出發)
+  - [導論：認識第二變位法](#導論認識第二變位法)
+  - [核心概念：從詞根（Root）出發](#核心概念從詞根root出發)
+  - [μ-動詞的五大規則](#μ-動詞的五大規則)
+    - [規則一：現在式的重疊（Reduplication with iota）](#規則一現在式的重疊reduplication-with-iota)
+    - [規則二：無連接母音（No connecting vowel）](#規則二無連接母音no-connecting-vowel)
+    - [規則三：特殊的現在式主動語態詞尾](#規則三特殊的現在式主動語態詞尾)
+    - [規則四：詞幹母音的長短變化](#規則四詞幹母音的長短變化)
+    - [規則五：Kappa 簡單過去式（Kappa Aorist）](#規則五kappa-簡單過去式kappa-aorist)
+  - [總結與應用](#總結與應用-1)
 - [Lesson 35: δίδωμι 的非直說語氣與條件句 (Nonindicative of δίδωμι and Conditional Sentences)](#lesson-35-δίδωμι-的非直說語氣與條件句-nonindicative-of-δίδωμι-and-conditional-sentences)
-  - [δίδωμι 的非直說語氣 (Non-Indicative Forms of δίδωμι)](#δίδωμι-的非直說語氣-non-indicative-forms-of-δίδωμι)
+  - [非直說語氣 (Non-Indicative Forms)](#非直說語氣-non-indicative-forms)
     - [虛擬語氣 (Subjunctive Active and Passive)](#虛擬語氣-subjunctive-active-and-passive)
     - [命令語氣、不定詞與分詞 (Imperative, Infinitives, and Participles)](#命令語氣不定詞與分詞-imperative-infinitives-and-participles)
   - [條件句 (Conditional Sentences)](#條件句-conditional-sentences)
     - [第一類條件句：事實條件 (First Class Conditional Sentences)](#第一類條件句事實條件-first-class-conditional-sentences)
     - [第二類條件句：反事實條件 (Second Class Conditional Sentences)](#第二類條件句反事實條件-second-class-conditional-sentences)
-    - [第三類條件句：未來可能性與一般條件 (Third Class Conditional Sentences)](#第三類條件句未來可能性與一般條件-third-class-conditional-sentences)
   - [詞彙學習 (Vocabulary)](#詞彙學習-vocabulary)
-- [Lesson 36: ἵστημι, τίθημι, δείκνυμι 與其他 -μι 動詞 (ἵστημι, τίθημι, δείκνυμι and Odds 'n Ends)](#lesson-36-ἵστημι-τίθημι-δείκνυμι-與其他-μι-動詞-ἵστημι-τίθημι-δείκνυμι-and-odds-n-ends)
-  - [-μι 動詞系統的邏輯：以 δίδωμι 為基礎](#μι-動詞系統的邏輯以-δίδωμι-為基礎)
-  - [τίθημι 的特殊變化：輔音的變形](#τίθημι-的特殊變化輔音的變形)
-  - [ἵστημι 的特殊變化：σ 的處理](#ἵστημι-的特殊變化σ-的處理)
-  - [δείκνυμι 與動詞的演變趨勢](#δείκνυμι-與動詞的演變趨勢)
-  - [實戰解析：如何處理複雜的動詞形態](#實戰解析如何處理複雜的動詞形態)
-  - [總結與建議](#總結與建議)
+- [Lesson 36: ἵστημι, τίθημι, δείκνυμι 與其他動詞 (ἵστημι, τίθημι, δείκνυμι and Odds 'n Ends)](#lesson-36-ἵστημι-τίθημι-δείκνυμι-與其他動詞-ἵστημι-τίθημι-δείκνυμι-and-odds-n-ends)
+  - [掌握 $\mu\iota$ 動詞的邏輯：以 $\delta\acute{\iota}\delta\omega\mu\iota$ 為基礎](#掌握-muiota-動詞的邏輯以-deltaacuteiotadeltaomegamuiota-為基礎)
+  - [特殊動詞的形態變化：$\tau\acute{\iota}\theta\eta\mu\iota$ 與 $\text{\textipa{h}}\acute{\iota}\sigma\tau\eta\mu\iota$](#特殊動詞的形態變化tauacuteiotathetaetamuiota-與-texttextipahacuteiotasigmatauetamuiota)
+    - [1. $\tau\acute{\iota}\theta\eta\mu\iota$（放置）的變位規律](#1-tauacuteiotathetaetamuiota放置的變位規律)
+    - [2. $\text{\textipa{h}}\acute{\iota}\sigma\tau\eta\mu\iota$（站立）的「扭曲」](#2-texttextipahacuteiotasigmatauetamuiota站立的扭曲)
+    - [3. $\delta\epsilon\acute{\iota}\kappa\nu\upsilon\mu\iota$（展示）的過渡性](#3-deltaepsilonacuteiotakappanuupsilonmuiota展示的過渡性)
+  - [實戰解析：如何處理複雜的動詞形式](#實戰解析如何處理複雜的動詞形式)
+  - [給學生的建議：瀏覽範式（Paradigms）](#給學生的建議瀏覽範式paradigms)
 
 ---
 
 ## Lesson 1: 希臘文概論 (The Greek Language)
 
 > **大綱對照：**
-> 本文並未嚴格遵循所提供的簡要大綱。講員（Dr. Bill Mounce）在課堂中採取了更為敘事化與牧養導向的教學方式，重點在於緩解學生對學習希臘文的恐懼、強調希臘文作為事奉工具的價值，並釐清關於語言學的常見誤解。以下說明將按照講員實際授課的邏輯順序進行編排。
+> 本文並未嚴格遵循所提供的簡要大綱。講員在課堂中採取了更為有機、敘事性的教學方式，將課程介紹、對學生的勉勵、個人見證以及對語言學的澄清交織在一起。因此，以下解釋將依照講員實際授課的邏輯順序進行編排，以確保讀者能完整掌握教學內容。
 
 
 
-### 學習希臘文的心態建設：恐懼與現實
-Dr. Mounce 在開場時首先處理了學生普遍存在的焦慮感。許多學生因為聽信了前人的「恐怖故事」，認為希臘文極難學習，甚至將其視為不可逾越的高牆。講員指出，這種恐懼往往源於對語言學習本質的誤解，或是某些學生為了掩飾自己遺忘所學而找的藉口。
+### 希臘文學習的心態建設：恐懼與現實
+各位同學，歡迎來到希臘文課程。我首先要告訴你們的是：請放下心中的恐懼。很多人在開始學習希臘文之前，總會聽到各種傳言，說這門語言有多麼困難、多麼令人卻步。但我必須向你們保證，希臘文並不難。
 
-從語言學的比較來看，希臘文（尤其是新約聖經所使用的 Koine Greek，即通用希臘文）具有高度的規則性。相比於德語（German）的複雜語法，或法語（French）的諸多例外，希臘文的結構非常嚴謹且規律。講員強調，學習希臘文並非不可能的任務，其成功的關鍵在於「規律性」——每天投入固定的時間學習，而非試圖透過「填鴨式」（cramming）的衝刺來應付考試。這種規律的學習習慣是掌握語言的唯一途徑。
+許多人之所以覺得難，是因為他們在學習過程中放棄了，為了掩飾自己不再精通希臘文的事實，便將責任推給語言本身。事實上，希臘文是一門結構極其「規律」（regular）的語言。與德文（German）相比，它更簡單；與法文（French）相比，它雖然稍微具挑戰性，但因為其規律性，反而更容易掌握。如果你曾學過西班牙文（Spanish），你會發現希臘文稍微難一點，但絕非不可逾越的高山。學習希臘文的秘訣只有一個：**持之以恆，每天研讀**。這不是一門可以靠「考前突擊」（cramming）就能應付的學科，必須將每日的研讀時間排入你的日程中。
 
-### 希臘文作為事奉的工具：一個見證
-為了激勵學生，講員分享了一位在俄亥俄州監獄服刑的囚犯的來信。這名囚犯在資源極度匱乏、甚至缺乏正規指導的情況下，靠著自學完成了兩年的希臘文課程。更重要的是，他運用希臘文作為抵禦異端的工具。
+### 希臘文作為事奉的工具：一個囚犯的見證
+我希望你們明白，我們學習希臘文絕不是為了「為學術而學術」，它是為了事奉。為了讓你們明白這一點，我想分享一封我收到的信。寫信的人是一位在俄亥俄州監獄服刑的囚犯。他在信中提到，正是因為他研讀了希臘文，並建立了紮實的「健全神學」（sound theology），才使他沒有被監獄中流行的「成功神學」（Health and Wealth / Name it and claim it）所迷惑。
 
-該囚犯提到，監獄中常見「健康與財富福音」（Health and Wealth gospel，即成功神學）的偏差，甚至出現將基督徒稱為「小神」（little gods）或宣稱基督在十字架上承擔了撒但本性的異端教導。正是因為他對希臘文的研讀，使他能夠透過「健全的神學」（sound theology）辨識並拒絕這些錯誤。這段見證說明了希臘文不僅僅是學術訓練，更是為了保護福音的純正，並深化對「十字架神學」（Theology of the Cross）的理解。正如馬丁路德（Martin Luther）所言，我們不需要追求那種「榮耀神學」（Theology of Glory）式的虛幻，而應專注於基督為我們死而復活的真理。
+他提到，有些人錯誤地宣稱基督徒是「小神」（little gods），或者主張我們的主在十字架上承擔了撒旦的本性。這些都是異端。這位弟兄透過希臘文的研讀，看穿了這些謬誤。他不僅自己研讀，還在獄中教導其他囚犯。他告訴我，他不需要路德（Luther）所說的「榮耀神學」（Theology of Glory）去窺探那赤裸的上帝，他擁有的是「十字架神學」（Theology of the Cross）——即耶穌基督為他死、為他復活的福音。這就是希臘文的力量：它能讓你直接接觸上帝的話語，並在真理中獲得超越環境的平安。
 
-### 課堂社群與實踐：超越學術的連結
-講員意識到在大型課堂中建立社群的困難，因此特別邀請學生參加每天早晨的靈修時間。這並非學分要求，也不會影響成績，但講員鼓勵學生參與，目的是為了將希臘文的學習與講道（preaching）及個人靈修連結起來。
+### 課堂社群與靈修的實踐
+為了幫助大家在龐大的班級中建立連結，並將希臘文與實際生活結合，我邀請大家在每天早上八點十分來到教室。這段時間我們會有簡短的靈修，我會選取一段希臘文經文，與大家探討如何從語言分析過渡到講道與靈修應用。
 
-這種做法體現了改革宗神學中「學術與敬虔並重」的傳統。學習希臘文的目的不是為了「為希臘文而希臘文」（Greek for Greek's sake），而是為了讓學生能更精確地解讀神的話語，進而應用在事奉中。透過每天早晨的禱告與經文研讀，學生能看見希臘文如何從書本上的語法規則，轉化為生命中的屬靈力量。
+這不是課程的強制要求，也不會影響你們的成績，但我強烈建議你們參加。這不僅是為了禱告，更是為了讓你們親眼看見希臘文如何在現實生活中產生意義。我希望你們能養成一種習慣：看見希臘文不僅是語法結構，更是上帝對我們說話的媒介。
 
-### 關於教學進度與「解經」的必要性
-針對學生對課程壓力與教學節奏的抱怨，講員展現了坦誠的態度。他承認自己無法控制學期的長度與必須涵蓋的教材量。他解釋道，解經（Exegesis）課程的基礎在於對動詞（verbs）、假設語氣（subjunctive）、命令語氣（imperative）與不定詞（infinitive）的掌握。如果學生沒有完成這些基礎訓練，就無法進行深入的解經工作。因此，維持教學進度是為了確保學生在未來的神學研究中具備必要的工具。
+### 關於教學進度與「恨意」的告白
+我知道有些同學對這門課感到壓力，甚至有人曾對我說：「我恨你，因為你的希臘文課讓我的生活變成了地獄。」我完全理解這種挫折感。但請你們明白，課程的進度並非完全由我掌控。我們必須在有限的時間內完成整本教材，因為這是你們未來進行「釋經學」（Exegesis）研究的基礎。
 
-### 釐清語言學誤解：英語與拉丁文的關係
-在課程的最後，講員糾正了一個常見的迷思：認為「因為英語源自拉丁文，所以我們應該學拉丁文」。講員明確指出，這種說法在語言學上是錯誤的。
+如果我們跳過動詞的變化，或者忽略了假設語氣（subjunctive）、命令語氣（imperative）和不定詞（infinitive），你們未來在研經時將會寸步難行。我必須趕進度，是因為我對你們的未來負責。如果你們要恨我，請不要因為我要求嚴格而恨，因為這一切都是為了讓你們具備解讀聖經的能力。
 
-*   **語言家族（Language Families）**：
-    *   **羅曼語族（Romance languages）**：包含拉丁文、法語、義大利語等。
-    *   **日耳曼語族（Germanic languages）**：包含英語、德語、丹麥語等。
-    *   **希臘語族（Greek languages）**：獨立的語系。
+### 語言學的澄清：英文與拉丁文的關係
+最後，我想釐清一個常見的誤區。有些人認為我們應該學習拉丁文（Latin），因為英文是基於拉丁文的。這是不正確的。英文屬於「日耳曼語族」（Germanic languages），而拉丁文屬於「羅曼語族」（Romance languages，如法文、義大利文）。雖然英文從拉丁文中借用了許多詞彙，但拉丁文並非英文的「母語」。
 
-雖然英語在歷史發展中借用了大量拉丁文詞彙，但拉丁文並非英語的「母語」（parent language）。講員以自身經驗為例，指出學習拉丁文或許有助於閱讀凱撒的《高盧戰記》，但學習希臘文卻能讓人直接閱讀聖經原文，這對基督徒而言具有「改變生命」（life-changing）的深遠意義。這段論述提醒學生，在選擇學習工具時，應當考量其對神學研究與事奉的實際效益。
+對我而言，學習拉丁文或許有其學術意義，但學習希臘文卻是「改變生命」的。不要被「英文源自拉丁文」這種錯誤觀念所誤導。我們專注於希臘文，是因為它是通往聖經原文的鑰匙，這才是我們研讀語言的終極目標。
 
 
 ## Lesson 2: 學習希臘文 (Learning Greek)
 
 > **大綱對照：**
-> 本文內容與所提供的大綱完全吻合。教學內容依序探討了記憶的重要性、練習的必要性、時間與一致性的原則，以及紀律與目標導向的學習心態，結構與大綱一致。
+> 本文內容完全遵循所提供的大綱結構，並在各個段落中詳細展開了教學內容。
 
 
 
-### 一、 記憶的重要性 (Importance of Memorization)
+歡迎來到這門課程。在第二章中，我們要談論的是「學習希臘文」。這不僅僅是技術性的指導，更是我作為老師，希望能與你們分享的一些肺腑之言。學習希臘文是一段充滿挑戰的旅程，我們每個人在過程中都會遇到不同的「撞牆期」。有些人可能對詞彙記憶感到輕鬆，卻在理解「屈折變化」（inflected case endings，即名詞或形容詞因格位而產生的詞尾變化）時感到困惑；有些人可能對人稱詞尾（personal endings）駕輕就熟，卻在背誦單字時備受挫折。請記住，這些困難都是正常的。
 
-在學習希臘文的過程中，記憶是多數學生面臨的第一道門檻。講師指出，每位學生在學習語言時的「痛點」各不相同：有些人擅長詞彙記憶，卻在理解「屈折語尾」（inflected case endings，即透過詞尾變化來表達文法功能的結構）時感到困難；有些人則對「人稱語尾」（personal endings）較為敏銳。講師強調，承認自己會在某個環節遇到「撞牆期」是學習的第一步。
+### 一、 記憶的重要性與工具
 
-為了減輕學生的負擔，該教材的核心設計理念之一就是「盡可能減少記憶量」。講師坦言，自己並非語言天才，學習希臘文的過程比多數同事更為艱辛，因此他編寫教材時，特別考慮到那些在語言學習上感到吃力的學生。這種設計並非為了降低標準，而是為了讓學生能將精力集中在理解語言的邏輯與結構上，而非盲目地死記硬背。
+我必須坦白告訴你們，我編寫這本教科書的核心目標之一，就是盡可能地減少你們的記憶負擔。這是我教學風格的一大特色。為什麼我這麼執著於此？因為我自己在語言學習上並非天賦異稟。我看過許多語言學大師編寫的教材，他們或許能輕而易舉地掌握語言，但我不能。學習希臘文對我而言，比對我的許多同事來說都要困難得多。我甚至看過我的孩子們學習語言時那種毫不費力的樣子，感到既羨慕又困惑。正因為我深知這種困難，我才致力於設計一套能減輕記憶負擔的學習系統。
 
-#### 輔助記憶的工具
-為了幫助學生克服記憶障礙，講師提供了幾項具體建議：
-*   **抽認卡 (Flashcards)：** 這是最傳統且有效的方法。建議將希臘文寫在一面，英文翻譯寫在另一面。講師分享了自己早年的經驗：他會將難記的詞彙隨身攜帶，甚至利用不同槽位的盒子進行分類複習，確保難記的單字能被反覆提取。
-*   **FlashWorks 軟體：** 對於習慣數位工具的學生，講師開發了名為「FlashWorks」的免費軟體。這套工具具備智慧複習機制，能根據學生對單字的熟悉程度，自動調整複習頻率。
-*   **線上資源：** 講師的網站（BillMoyers.com）提供了豐富的免費資源，包括單字發音（同時提供「伊拉斯謨式發音」Erasmian pronunciation 與現代希臘文發音）、助記法（mnemonic devices）以及「每日希臘文單字」（Greek Word of the Day）。這些工具旨在透過聽覺、視覺與聯想，將枯燥的記憶過程轉化為多感官的學習體驗。
+#### 1. 輔助記憶的工具
+為了幫助你們克服記憶障礙，我強烈建議你們善用以下工具：
 
-### 二、 練習的必要性 (Doing Exercises)
+*   **閃示卡（Flashcards）：** 你們可以購買我製作的現成卡片，或者自己動手做——買一些 3x5 英吋的索引卡，剪成三份，一面寫希臘文，一面寫英文。我以前甚至會製作一個帶有不同隔層的盒子，根據熟悉程度來分類卡片，確保我能定期複習那些「頑固」的單字。如果你發現某個單字特別難記，就把它放在錢包裡隨身攜帶。
+*   **FlashWorks 軟體：** 如果你喜歡數位工具，我強烈建議使用我的 FlashWorks 軟體。這是一個免費的程式，你可以從我的網站（BillMoyers.com）下載。它非常成熟，能根據你的需求自動安排複習頻率。如果你對軟體有任何改進建議，隨時告訴我。
+*   **線上資源：** 請務必利用我的網站。網站上有免費的課程影片，還有發音工具。關於發音，我採用的是「伊拉斯謨式發音法」（Erasmian pronunciation），這是大多數希臘文教師的標準。但我也邀請了母語為希臘文的 Christine 錄製了現代希臘文發音，讓你們可以對照參考。此外，網站上還有助記詞、歌曲以及「每日一詞」（Greek Word of the Day）等資源。
 
-講師強調，僅僅閱讀教科書的理論知識是不夠的，必須透過「動筆練習」才能將知識內化。他建議學生採取一種「測試式」的學習法：先完整閱讀章節，接著闔上課本，嘗試完成練習題。若遇到卡關，再回頭查閱課本，隨後再次闔上課本繼續練習。
+### 二、 練習的重要性
 
-這種方法的重要性在於，它能強迫大腦進行「主動提取」（active recall）。透過練習，學生能清楚辨識自己是否真的理解了文法規則，而非僅僅是「讀過」。講師提到，每章約有 20 題練習，若學生能將這些練習視為自我檢測的工具，而非單純的作業，學習成效將大幅提升。
+教科書能提供你理論知識，但如果你不親自動筆練習，你永遠無法真正消化這些資訊。我的建議是：讀完一整章後，把書蓋上，然後盡可能多做練習題。如果做不出來，再翻開書複習，然後再次蓋上書進行測試。將練習視為一場考試，這會強迫你的大腦去提取並應用所學的知識。不要因為做錯而氣餒，錯誤是學習過程中不可或缺的一部分。
 
-### 三、 時間與一致性的原則 (Time and Consistency)
+### 三、 時間與持續性
 
-在語言學習中，沒有任何捷徑可以取代「時間的投入」。講師引用了一句同僚的名言：「那些死記硬背（cram）的人終將失敗。」希臘文的學習需要時間讓資訊在腦中「沉澱」。
+關於學習希臘文，我有一個核心觀點：**「死記硬背者必亡」（Those who cram perish）**。這句話是一位朋友教給我的。你或許可以在某些科目上透過考前突擊來應付，但希臘文絕對不行。
 
-#### 克服「完美主義」的陷阱
-講師特別提醒工程背景或追求完美的學生：不要試圖在完全精通當前章節的每一個細節後才進入下一章。語言學習往往是螺旋式上升的，當你進入後續章節時，回頭看之前的內容，常會發現原本困擾的問題其實很簡單。這種「先求有、再求好」的策略，能避免學生因過度糾結於細節而產生挫折感。
+#### 1. 為什麼不能「突擊」？
+希臘文的學習需要時間讓資訊在腦中「沉澱」。有時候，當你學到第六章時，你會覺得很痛苦，甚至想停下來直到完全弄懂為止。但我的建議是：**繼續前進**。當你學到第八或第九章時，回頭看第六章，你會驚訝地發現：「天啊，這原來這麼簡單！」這種「豁然開朗」的感覺，是因為你給了自己時間去內化這些規則。特別是對於工程背景的學生，你們習慣於在弄懂每一個細節後才進入下一步，但在學習語言時，這種心態反而會成為阻礙。
 
-#### 建立規律的學習習慣
-*   **規律性：** 學習希臘文需要每日投入，而非週末一次性補課。講師以暑期密集班為例，指出沉浸式的學習環境（每天投入數小時）往往比零散的學習更有效，因為大腦能持續處於語言運作的狀態。
-*   **環境設定：** 建議固定學習地點與時間。講師提到自己習慣在圖書館的特定位置學習，這能建立一種心理暗示，讓大腦進入「希臘文學習模式」。此外，由於他是「外部處理型」（external processor）的學習者，他鼓勵學生大聲朗讀希臘文，透過聽覺與發聲來加深記憶。
+#### 2. 紀律與環境
+你需要保持一致的節奏。我曾教過密集的暑期班，學生們每天花六小時沉浸在希臘文中，這種沉浸式學習效果極佳。即便你們不是全職學習，也要確保每天都有固定的時間、固定的地點來研讀。我以前在圖書館總是有一個固定的座位，那裡就是我「準備好學習」的信號。如果你能大聲朗讀出來（我是個外向的思考者，我習慣自言自語），效果會更好。
 
-### 四、 紀律與目標導向 (Discipline and Remembering the Goal)
+### 四、 紀律與目標：為什麼要學希臘文？
 
-學習希臘文最終是一場關於「紀律」的修煉。為了維持這份紀律，學生必須不斷回顧學習的初衷。
+最後，我想談談紀律的動力來源。當你感到疲憊時，請務必回想你的目標。你學習希臘文，難道僅僅是為了滿足學分要求嗎？我希望不是。我們學習希臘文，是因為我們想更認識耶穌。
 
-#### 為什麼要學希臘文？
-講師以「攻讀德國文學碩士卻不懂德文」作為類比，反問學生：若我們投入一生研究聖經，卻無法直接閱讀上帝所寫的原文，豈不是極大的遺憾？學習希臘文的目的，不僅是為了完成學業要求，更是為了能更貼近耶穌基督。例如，在約翰福音中，耶穌說「我是」（*egō eimi*），這不僅是簡單的英文翻譯 "I am"，更是與出埃及記中上帝在燃燒荊棘中啟示的「我是」（Yahweh）相互呼應。唯有透過原文，我們才能捕捉到這些深層的神學連結。
+當你只能閱讀翻譯本時，你與上帝的啟示之間始終隔著一層。翻譯固然重要，我也投入了大量心血在翻譯工作中，但當你親眼看見約翰福音中的 *ego eimi*（我是），並連結到出埃及記中上帝在荊棘中對摩西說的「我是」（I AM），那種震撼是無法言喻的。
 
-#### 作為牧者的職責
-最後，講師將牧者比喻為「君王的傳令官」（herald of the king）。傳令官有兩項核心任務：忠於君王的訊息，以及擁有清晰響亮的聲音。對牧者而言，忠於上帝的道意味著必須親自閱讀原文，而非僅依賴翻譯。這種對原文的掌握，能賦予牧者在講台上宣講「主如此說」時，那份來自上帝話語本身的確據與權柄。這份對目標的深刻認知，將成為學生在學習過程中遇到瓶頸時，最堅強的動力來源。
+想像一下，如果有人要取得德國文學碩士學位，卻不會讀德文，這可能嗎？同樣地，我們為何要投入一生去研讀聖經，卻不去學習上帝寫下聖經時所用的語言呢？作為牧者，我們是君王的「傳令官」（herald）。傳令官有兩個基本要求：第一，忠於君王的信息；第二，擁有清晰響亮的聲音。能夠閱讀希臘文原文，就是確保我們忠於上帝話語的關鍵工具。這是一段艱難但絕對值得的旅程，歡迎加入。
 
 
-## Lesson 3: 字母與發音 (The Alphabet and Pronunciation)
+## Lesson 3: 希臘文字母與發音 (The Alphabet and Pronunciation)
 
 > **大綱對照：**
-> 本文完全遵循所提供的教學大綱結構，並將教學內容依序整合至各個章節中，以確保學習者能按部就班地掌握希臘文基礎。
+> 本解釋完全遵循所提供的大綱結構，並按照課程內容的順序進行詳細說明。
 
 
 
 ### 一、希臘字母簡介
 
-#### A. 字母結構
-希臘文共有 24 個字母。對於初學者而言，學習的目標不僅是認出這些字母，更要掌握三個核心要素：字母名稱（Name）、小寫寫法（Small letter form），以及標準的發音（Pronunciation）。教師強調，希臘字母與英文有許多相似之處，但為了降低學習門檻，建議將 24 個字母拆解為五個單元來記憶。
+在進入希臘文的學習時，我們首先要處理的是這 24 個字母。我要求你們不僅要記住每個字母的名稱，還要學會如何書寫它們的小寫形式，並掌握正確的發音。你會發現，希臘字母與我們熟悉的英文（拉丁）字母有許多相似之處，這會降低我們的學習門檻。為了幫助大家記憶，我將這 24 個字母拆解為五個單元，請務必下載並參考線上課程提供的講義，這對你的學習至關重要。
 
-#### B. 發音系統
-教師採用的是「伊拉斯謨式發音法」（Erasmian pronunciation）。這是一種學術界廣泛使用的教學發音系統。雖然學界對於這是否為古代希臘人真正的發音方式存有爭議，但其最大的優勢在於「區分性」——它能讓學習者清楚分辨每一個字母的發音差異，進而有助於與其他使用此系統的學者或學生進行交流。這不僅是為了讀出聲音，更是為了在語言學習初期建立精確的聽覺辨識能力。
+關於發音系統，我們採用的是「Erasmian 讀音」（伊拉斯謨式讀音）。坦白說，這並非古希臘人當時真正的發音，關於古希臘語的原始發音，學界至今仍有許多爭論。然而，採用 Erasmian 讀音的最大優點在於，它能讓我們清楚區分每一個字母的發音，這對於初學者辨識單字非常有幫助。此外，這也是目前神學院中最通用的系統，學會它能讓你與其他學習希臘文的人順利溝通。
 
----
+### 二、分段學習字母
 
-### 二、分段學習希臘字母
-
-為了幫助記憶，我們將字母分為五個區塊，建議讀者在閱讀時配合發音練習，將其內化為直覺。
+為了讓記憶更有效率，我們將字母分為五個區塊。請你在閱讀時務必跟著我大聲朗讀，因為語言學習必須透過口舌的肌肉記憶來鞏固。
 
 #### A. 第一單元：Alpha, Beta, Gamma, Delta, Epsilon
+這五個字母與英文對應關係明確：
 *   **Alpha (α)**：發音如 father 中的 a。
 *   **Beta (β)**：發音如 Bible 中的 b。
 *   **Gamma (γ)**：發音如 gone 中的 g。
@@ -432,1832 +412,1836 @@ Dr. Mounce 在開場時首先處理了學生普遍存在的焦慮感。許多學
 *   **Epsilon (ε)**：發音為短母音 e，如 met 中的 e。
 
 #### B. 第二單元：Zeta, Eta, Theta
-此處希臘文開始展現其獨特性：
+這裡開始出現一些與英文稍有不同的字母：
 *   **Zeta (ζ)**：發音如 days 中的 z。
-*   **Eta (η)**：發音為長母音 e，如 obey 中的 ey。
-*   **Theta (θ)**：發音如 thing 中的 th（清輔音）。
+*   **Eta (η)**：發音為長母音 e，如 obey 中的 e。
+*   **Theta (θ)**：發音如 thing 中的 th。
 
 #### C. 第三單元：Iota, Kappa, Lambda, Mu, Nu, Xi
+這一組字母結構相對穩定：
 *   **Iota (ι)**：發音如 intrigue 中的 i（可長可短）。
 *   **Kappa (κ)**：發音如 kitchen 中的 k。
 *   **Lambda (λ)**：發音如 law 中的 l。
 *   **Mu (μ)**：發音如 mother 中的 m。
 *   **Nu (ν)**：發音如 new 中的 n。
-*   **Xi (ξ)**：發音如 axiom 中的 x（即 ks 音）。
+*   **Xi (ξ)**：發音如 axiom 中的 x（這是一個複輔音）。
 
 #### D. 第四單元：Omicron, Pi, Rho, Sigma, Tau, Upsilon
-*   **Omicron (ο)**：短母音 o，如 not 中的 o。
+這裡有幾個需要特別留意的細節：
+*   **Omicron (ο)**：發音為短母音 o，如 not 中的 o。
 *   **Pi (π)**：發音如 peach 中的 p。
 *   **Rho (ρ)**：發音如 rod 中的 r。
-*   **Sigma (σ/ς)**：發音如 study 中的 s。注意其變體：當 sigma 出現在字尾時，寫作 ς（帶尾巴的形狀）；出現在字首或字中時，寫作 σ。
+*   **Sigma (σ/ς)**：發音如 study 中的 s。請特別注意，Sigma 有兩種寫法：當它位於單字結尾時，寫作 **ς**（帶有尾巴）；若位於單字的其他位置，則寫作 **σ**。
 *   **Tau (τ)**：發音如 talk 中的 t。
-*   **Upsilon (υ)**：發音類似德語中的 ü，發音時嘴唇需向前突出。
+*   **Upsilon (υ)**：發音類似德語的 ü，發音時嘴唇需向前突出。
 
 #### E. 第五單元：Phi, Chi, Psi, Omega
-最後四個字母包含三個複合音與一個長母音：
-*   **Phi (φ)**：發音如 phone 中的 ph（即 f 音）。
+最後這幾個字母多為複輔音，且包含長母音：
+*   **Phi (φ)**：發音如 phone 中的 ph。
 *   **Chi (χ)**：發音如 lock 中的 ch（喉音）。
 *   **Psi (ψ)**：發音如 lips 中的 ps。
-*   **Omega (ω)**：長母音 o，與短母音 omicron 形成對比。
-
----
+*   **Omega (ω)**：發音為長母音 o。
 
 ### 三、特殊發音規則
 
-#### A. Gamma 鼻音 (Gamma Nasal)
-當兩個 Gamma (γγ) 連在一起時，第一個 Gamma 不發 g 音，而會轉變為鼻音 n。例如希臘文中的 *angelos*（天使），其中的第一個 gamma 發音為 n，這也是英文 angel 一詞的語源。
+除了單一字母，我們還需要掌握一些組合規則，這些規則將直接影響到後續章節的單字辨識。
 
-#### B. 母音與雙母音 (Vowels and Diphthongs)
-希臘文共有七個母音：Alpha, Epsilon, Eta, Iota, Omicron, Upsilon, Omega。其中 Epsilon 和 Omicron 是短母音；Eta 和 Omega 是長母音；Alpha, Iota, Upsilon 則視情況可長可短。
-當兩個母音結合形成一個音節時，稱為「雙母音」（Diphthong）。雙母音的第二個字母必定是 Iota 或 Upsilon。例如 *alpha + iota* 發音如 eye；*epsilon + iota* 發音如 eight。
+#### A. Gamma Nasal (鼻音化 Gamma)
+當兩個 Gamma (γγ) 連在一起時，第一個 Gamma 會發出類似 n 的鼻音。例如希臘文的 *angelos* (ἄγγελος)，其發音就如同英文的 angel。這在希臘文中是相當常見的現象。
 
-#### C. Iota 下標與分音符 (Iota Subscript and Diuresis)
-*   **Iota 下標 (Iota subscript)**：有時 Iota 會寫在 Alpha, Eta, 或 Omega 的下方（如 ᾳ, ῃ, ῳ）。它在現代發音中不發音，但在語法分析（特別是名詞與動詞變化）中至關重要，必須留意。
-*   **分音符 (Diuresis)**：當兩個母音並列時，若不希望它們結合成雙母音，會在第二個母音上加兩點（¨）。例如 *Isaïas*（以賽亞），分音符提醒我們 Alpha 和 Iota 應分開讀，而非讀成一個雙母音。
+#### B. 母音與雙母音 (Diphthongs)
+希臘文有七個母音：Alpha, Epsilon, Eta, Iota, Omicron, Upsilon, Omega。其中 Epsilon 是短 e，Eta 是長 e；Omicron 是短 o，Omega 是長 o。當兩個母音結合形成一個音節時，稱為「雙母音」。請務必熟記講義中的雙母音表，例如 *Alpha + Iota* 發音如 eye，*Epsilon + Iota* 發音如 eight。
 
-#### D. 氣息符號 (Breathing Marks)
-所有以母音或 Rho 開頭的單字，上方都會標記氣息符號：
-*   **柔氣符 (Smooth breathing)**：標記如 ’，不發音。
-*   **粗氣符 (Rough breathing)**：標記如 ‘，發音為 h。例如 *huper*，若無粗氣符則讀作 uper，加上粗氣符後則讀作 huper。
-*   **規則提醒**：所有以 Rho (ρ) 或 Upsilon (υ) 開頭的字，必定帶有粗氣符。若單字為大寫，氣息符號會標在字母左側；若為雙母音，氣息符號則標在第二個母音上。
+#### C. Iota Subscript 與 Diuresis
+*   **Iota Subscript (下標 Iota)**：有時 Iota 會寫在 Alpha, Eta 或 Omega 的下方（如 ᾳ, ῃ, ῳ）。它在發音上不發聲，但在翻譯與文法分析上非常重要，千萬不可忽略。
+*   **Diuresis (分音符)**：當兩個母音並列但「不」形成雙母音時，我們會在第二個母音上加上分音符（¨）。例如 *Isaiah* (Ἠσαΐας)，若無分音符，Alpha 與 Iota 會被視為雙母音，但有了分音符，我們就知道這兩個字母要分開讀。
+
+#### D. 呼吸號 (Breathing Marks)
+這是希臘文特有的標記，出現在單字開頭的母音或 Rho 上。
+*   **Smooth Breathing (柔氣號)**：標記如 (᾿)，不發音。
+*   **Rough Breathing (粗氣號)**：標記如 (῾)，發音為 h。例如 *huper* (ὑπέρ)，因為有粗氣號，所以要讀出 h 的音。
+*   **規則提醒**：若單字以大寫字母開頭，呼吸號會寫在大寫字母的左側；若單字以雙母音開頭，呼吸號則標在第二個母音上。請務必透過練習，將這些符號變成你的直覺。
 
 
 ## Lesson 4: 標點符號與音節劃分 (Punctuation and Syllabification)
 
 > **大綱對照：**
-> 本解釋並未嚴格遵循所提供的原始大綱。原始大綱包含了一些教學錄音中並未提及的內容（如：標點符號在手稿中的歷史、冒號、括號與破折號的規則、雙輔音的詳細拆分規則等），且錄音內容涵蓋了詞彙學習（Vocabulary）與語義範圍（Semantic Range）等大綱未列出的重要主題。因此，本解釋按照教師實際授課的邏輯順序進行編排，以確保學生能準確掌握課程重點。
+> 本課程的教學內容與所提供的「大綱」並不完全吻合。大綱中列出的部分細節（如標點符號的歷史、括號與破折號、雙輔音規則等）在錄音中並未詳細提及。因此，我將嚴格依照錄音內容的實際教學順序進行說明，以確保你們能準確掌握本課的核心重點。
 
 
 
-### 希臘文的標點符號系統 (Punctuation)
+### 希臘文的標點符號 (Punctuation)
 
-在希臘文的學習中，標點符號雖然看似簡單，但與現代英文的用法存在關鍵差異，若不注意極易混淆。希臘文的句號（period）與逗號（comma）與英文用法一致，但其餘符號則需要重新建立認知：
+在進入希臘文的學習時，我們首先要處理的是標點符號。你們會發現，希臘文的標點符號與我們熟悉的英文（以及中文）有幾處關鍵的差異，這些符號在閱讀時會直接影響句子的斷句與語氣。
 
-*   **分號與問號的倒置**：希臘文中的「上點」（raised dot，即點在字母上方）對應英文的分號（semicolon）。而看起來像英文分號的符號（;），在希臘文中則是問號（question mark）。
-*   **省略符號 (Elision Mark)**：這是一種特殊的標點，稱為「省略符號」（apostrophe）。當一個單字結尾的短母音在與下一個單字連接時消失（例如 *para* 變為 *par'*），這個消失的母音位置會由省略符號取代。教師提醒，在學習詞彙時，若某個單字有這種省略現象，教材會同時列出兩種形式，學生需留意此變化。
+*   **句號與逗號**：這兩者與英文完全相同，用法一致。
+*   **分號與問號**：這是最容易混淆的地方。在希臘文中，**升點 (raised dot)** 代表的是分號（semicolon）；而我們平時在英文中看到的那個分號（;），在希臘文中卻是用來表示問號（question mark）。請務必記住這個「對調」的規則，以免在閱讀時誤解句子的語氣。
 
-### 重音符號 (Accents)
+#### 省略符號 (Elision Mark)
+除了上述標點，你們還會遇到一個特殊的符號，稱為**省略符號 (apostrophe / elision mark)**。在希臘文中，有些詞彙在特定情況下會失去末尾的短元音，這時我們就會用一個像撇號一樣的符號來標記這個位置，表示這裡原本有一個字母被省略了。當我在詞彙表中給出這些詞時，我會同時列出「完整形式」與「省略形式」，請你們務必留意這兩者的對應關係。
 
-關於重音符號，希臘文教學界存在不同觀點。本課程採取「極簡主義」策略：學生無需深究其歷史音調變化，只需在標有重音的音節上加強語氣（stress）即可。
+#### 重音符號 (Accents)
+關於重音，學界有許多爭論，但我建議採取「極簡主義」的態度。你們只需要知道，重音符號標記在哪個音節，那個音節就是重讀的對象。
+*   **銳音 (acute)**：標記為 `´`，原本代表音調升高。
+*   **鈍音 (grave)**：標記為 `` ` ``，原本代表音調下降。
+*   **曲折音 (circumflex)**：標記為 `~` 或 `^`，原本代表音調先升後降。
 
-*   **銳音 (Acute accent)**：標記為 `´`（如在 epsilon 上），原意指音調升高，現代讀法僅需加重語氣。
-*   **鈍音 (Grave accent)**：標記為 `` ` ``（如在 omicron 上），原意指音調降低，現代讀法同樣僅需加重語氣。
-*   **揚抑符 (Circumflex)**：標記為 `~` 或 `^`（如在 omicron 上），原意指先升高後降低，現代讀法亦簡化為加重語氣。
+雖然這些符號在古代希臘語中與音高（pitch）有關，但在現代教學中，我們只需將其視為重音標記即可，不必過度糾結於古代的音調變化。
 
 ### 音節劃分 (Syllabification)
 
-對於母語為英語的學生，希臘文的音節劃分通常可以憑直覺完成，因為其邏輯與英文相似。若需要規則輔助，請掌握以下兩項核心原則：
+對於音節劃分，我給你們的建議是：不要被繁瑣的規則束縛。如果你們具備基本的語言直覺，直接運用你們在英文中劃分音節的本能，通常就能得到正確的結果。不過，有兩條最重要的基本原則，你們必須牢記：
 
-1.  **母音決定音節數**：這是最重要的規則。每一個音節必須包含一個母音或雙母音（diphthong）。例如，計算一個單字中有多少個母音，就能確定該單字有多少個音節。
-2.  **單輔音的歸屬**：當單字中出現單個輔音時，該輔音通常會與後面的母音結合，而不是與前面的母音結合。例如，在劃分音節時，輔音應歸入後方的母音音節中。
+1.  **一元音一音節**：這是最核心的規則。每一個音節中必須包含一個元音（vowel）或雙元音（diphthong）。例如，當你看到一個單字，先數數看有多少個元音，那個數量就是該單字的音節數。
+2.  **單輔音歸後原則**：當你遇到單個輔音時，它通常會與後面的元音結合，而不是與前面的元音結合。例如，在劃分音節時，輔音會「跳」到下一個元音那裡去。
 
-教師建議，最好的學習方式是透過反覆聆聽教材中的朗讀練習，透過聽覺建立語感，這比死記硬背規則更為有效。
+我強烈建議你們多利用線上課程的練習，反覆聆聽我的朗讀。透過聽覺的模仿，你們會比死背規則更快掌握希臘文的節奏感。
 
-### 詞彙學習與語義範圍 (Vocabulary and Semantic Range)
+### 關於詞彙學習的正確心態
 
-進入詞彙學習階段時，學生常會產生誤解，認為希臘文單字與中文或英文翻譯是一對一的「字面意義」。教師特別強調「詞彙光澤」（glosses）與「語義範圍」（semantic range）的概念：
+在第四章，我們將正式開始詞彙學習。我知道這對許多學生來說是個挑戰，但請你們調整對「定義」的理解。
 
-*   **詞彙光澤 (Glosses)**：教材中提供的翻譯僅是該希臘文單字的「近似值」。例如，希臘文 *adelphos* 常被翻譯為「兄弟」（brother），但這只是它眾多含義中的一種。
-*   **語義範圍 (Semantic Range)**：每個單字都有其語義範圍，即該詞在不同語境下可能表達的各種意義。例如 *adelphos* 除了指親兄弟，還可指關係親密的摯友，或信仰群體中的成員。
-*   **語境的重要性**：單字的具體含義必須由上下文（context）決定。切勿斷章取義地說「這個詞字面意思就是某某」，因為這忽略了語言的靈活性。
+#### 什麼是「詞彙註釋」(Glosses)？
+我給你們的詞彙定義，技術上稱為「註釋」（glosses），它們只是該詞彙意義的「近似值」。我非常反對將某個希臘詞彙與單一的中文或英文詞彙畫上等號。例如，希臘文的 *adelphos*，我們常翻譯為「弟兄」。但「弟兄」只是它眾多語義中的一種。它可能指親生兄弟，也可能指關係親密的摯友，甚至指信仰群體中的成員。
 
-### 學習策略與鼓勵
+這涉及到語言學中的**語義範圍 (semantic range)**。每一個詞彙在不同的語境（context）下，其具體含義會有所不同。我們不能說這個詞「字面意思」是什麼，因為語言是活的。你們必須透過上下文來判斷該詞在特定經文中的確切含義。
 
-教師最後強調了詞彙量對於研讀新約聖經的重要性：
-*   **效率與目標**：本章要求學習 26 個單字，這些單字涵蓋了新約聖經中 11% 的詞彙出現頻率。當學完教材中的 319 個單字後，學生將能認出新約聖經中 80% 的詞彙。
-*   **善用工具**：強烈建議使用 FlashWorks 等軟體進行輔助記憶。該軟體允許學生根據章節、頻率等條件篩選詞彙，能大幅提升學習效率。
+#### 學習策略與鼓勵
+請務必下載並使用 **FlashWorks** 軟體。它可以幫助你們根據章節、頻率等條件篩選詞彙，讓學習更有效率。
 
-總結來說，學習希臘文不僅是記憶規則，更是透過理解語言的結構與語義範圍，更精確地進入聖經文本的深層意涵。
+最後，給你們一點鼓勵：本章你們要學習 26 個詞，這看似不多，但這些詞彙涵蓋了新約聖經中 11% 的詞彙出現頻率。換句話說，學完這 26 個詞，你們就已經掌握了聖經中十分之一的文字。當我們學完整本教材，你們將掌握 319 個詞，這意味著你們能讀懂新約聖經中 80% 的詞彙。相較於其他語言課程，這是一個非常合理且可達成的目標。請務必將這些基礎詞彙打得非常紮實，這將是你們未來研讀希臘文聖經最堅實的根基。
 
 
 ## Lesson 5: 英語名詞導論 (Introduction to English Nouns)
 
 > **大綱對照：**
-> 本文並未嚴格遵循所提供的 outline。講師在課堂中主要聚焦於「屈折」（inflection）的概念及其在希臘語學習中的必要性，並詳細解釋了名詞的格（case）、數（number）、性（gender）以及變格（declension）的概念，隨後簡要觸及了句子的主詞與述語劃分，以及希臘語動詞中隱含主詞的特性。本文將依照講師實際講授的順序進行深度解析。
+> 本課程並未嚴格遵循所提供的 outline。講員將重點放在「屈折變化」（inflection）的概念及其三個核心要素（格、數、性），並簡要提及「變格」（declension）與句子結構（主詞與述語），隨後過渡到動詞與主詞的一致性問題。以下說明將依照講員實際授課的邏輯順序進行編排。
 
 
 
 ### 為什麼要學習英語語法？
-許多初學者在接觸希臘語（Greek）時，會對課程中出現「英語語法」章節感到困惑。講師在此明確指出：學習希臘語的前提是必須具備紮實的英語語法基礎。這並非為了學習英語本身，而是因為希臘語是一種高度「屈折」（inflected）的語言，若學生不理解什麼是「格」（case）或「主詞」（subject），就無法理解希臘語中對應的語法結構。因此，本章節的目的是建立一個語法框架，以便後續能順利銜接希臘語的學習。
+歡迎來到第五章。我知道有些同學對於在希臘文語法課中看到一整章關於英語語法的內容感到驚訝。請務必理解：我之所以這樣安排，是因為若你不具備紮實的英語語法基礎，我就無法教導你希臘文。例如，我無法向你解釋希臘文的「主格」（nominative case），除非你先理解英語中的「主格」是什麼；更進一步說，你必須先理解什麼是「格」（case），才能進入希臘文的學習。因此，我們必須花時間打好基礎。
 
-### 屈折（Inflection）的概念
-「屈折」（Inflection）是本課的核心概念。簡單來說，屈折是指**一個詞的形式會隨著其「意義」（meaning）或「功能」（function）的改變而發生變化**。
+### 屈折變化 (Inflection) 的概念
+我們首先要探討的核心概念是「屈折變化」（inflection）。簡單來說，屈折變化是指一個詞的形式會隨著其「意義」（meaning）或「功能」（function）的改變而發生變化。
 
-*   **意義導致的屈折**：例如代名詞，當我們指涉男性時用 "he"，指涉女性時用 "she"。雖然兩者都是第三人稱單數代名詞，但形式因性別意義而變。又如 "prince"（王子）與 "princess"（公主），詞根相同但形式因性別而異。
-*   **功能導致的屈折**：這是語法學習的重點。當代名詞在句中擔任不同角色時，形式會改變。例如，作為主詞時用 "she"（She is a student），但作為受詞時必須改用 "her"。
+*   **意義導致的變化**：例如代名詞，當我們指涉男性時用 *he*，指涉女性時用 *she*。這依然是同一個第三人稱單數代名詞，但形式因意義（性別）而變。同樣地，*prince*（王子）與 *princess*（公主）也是基於意義的屈折。
+*   **功能導致的變化**：當代名詞在句中擔任不同角色時，形式也會改變。例如：「*She* is a student」（她是學生），這裡 *she* 是句子的主詞；但如果它是直接受詞，我們就不能說 *she*，而必須說 *her*。
 
-英語的屈折現象相對較少（主要集中在代名詞），但希臘語則高度依賴屈折來表達句法關係，這正是為什麼我們必須先在英語中掌握這些概念。
+雖然英語的屈折變化相對較少（主要集中在代名詞），但希臘文卻是高度屈折的語言。這就是為什麼我們必須先在英語中掌握這個概念，因為在希臘文中，詞彙形式的微小變化往往決定了它在句中的語法地位。
 
 ### 影響屈折的三大要素
-講師提出了三個影響詞彙形式變化的關鍵因素：
+在語法中，有三個主要因素會影響詞彙的屈折變化：
 
-#### 1. 格（Case）
-格是用來表示名詞在句中與動詞或其他成分的關係。講師以 "God loves his people" 為例：
-*   **主格（Subjective case）**：指執行動作的詞。在句中 "God" 是主詞，執行了 "loves" 這個動作。
-*   **受格（Objective case）**：指接收動作的詞。在句中 "people" 是受詞，承受了 "loves" 的動作。
-*   **屬格（Possessive case）**：表示所有權。例如 "his"，在英語中通常透過添加 "'s" 來體現。
+#### 1. 格 (Case)
+「格」決定了詞彙在句中的語法關係。以句子 *God loves his people* 為例：
+*   **主格 (Subjective case)**：*God* 是動作的執行者，它是句子的主詞。
+*   **受格 (Objective case)**：*people* 是動作的承受者，它是直接受詞。
+*   **所有格 (Possessive case)**：*his* 用來表示所屬關係。
 
-講師強調，英語名詞（如 God, people）在主格與受格中形式往往不變，這與希臘語不同，希臘語的名詞會隨著格的變化而改變詞尾。
+在英語中，名詞（如 *God* 和 *people*）在作主詞或受詞時形式通常不變，但代名詞會變，且所有格通常會加上撇號加 s（*'s*）。你需要清楚定義：主詞是執行動作的詞，而直接受詞是承受動作的詞。
 
-#### 2. 數（Number）
-數指的是單數（singular，一個）與複數（plural，多於一個）。英語通常透過改變詞尾（如加 -s）來表示複數，但也有例外。
+#### 2. 數 (Number)
+英語中主要有兩種數：單數（singular，指一個）與複數（plural，指多於一個）。大多數名詞透過屈折變化來區分單複數，但也有例外，例如 *fish*（魚）在單複數形式上可能相同。
 
-#### 3. 性（Gender）
-英語的性別通常遵循「自然性別」（natural gender）：男性用 "he"，女性用 "she"，無生命物體用 "it"。這與希臘語的「語法性別」（grammatical gender）不同，在希臘語中，無生命物體也可能被歸類為陽性或陰性，這需要學生在後續課程中特別留意。
+#### 3. 性 (Gender)
+英語的名詞性別通常遵循「自然性別」（natural gender）。我們稱呼男性為 *he*，女性為 *she*，而無生命物體（如 *rock*）則為 *it*。這對應了英語的三種性別：陽性（masculine）、陰性（feminine）與中性（neuter）。
 
-### 變格（Declension）
-「變格」（Declension）是一個希臘語術語，用來描述詞彙遵循的「屈折模式」。並非所有詞彙都以同一種方式變化。講師舉了三個英語中的變格模式為例：
-1.  **標準模式**：透過加 -s 變複數（如 cat -> cats）。
-2.  **內部元音變化**：如 man -> men。
-3.  **無變化模式**：單複數同形，如 fish -> fish。
-理解「變格」的概念，能幫助學生意識到在希臘語中，不同的名詞會根據其詞尾類型，採取不同的變化規則。
+### 變格 (Declension) 與模式
+雖然「變格」（declension）這個詞在英語語法中並不常見，但我們借用希臘文的術語來描述「詞彙遵循不同的屈折模式」。例如，從單數變為複數，最常見的模式是加 *-s* 或 *-es*；但也有不規則模式，如 *man* 變為 *men*（改變母音），或是 *fish* 變為 *fish*（形式不變）。理解這些不同的模式，能幫助你預備好面對希臘文中更複雜的變格系統。
 
-### 句子結構：主詞與述語
-講師將句子劃分為兩個主要部分：
-*   **主詞（Subject）**：包含主詞本身及其所有修飾語（例如 "The big bad teacher"）。
-*   **述語（Predicate）**：包含動詞以及句子的其餘部分。
-這種劃分是為了幫助學生在閱讀希臘語長句時，能先進行結構性的拆解，找出句子的核心骨幹。
+### 句子結構：主詞與述語 (Subject and Predicate)
+在分析句子時，我們可以將其劃分為兩個基本部分：
+*   **主詞 (Subject)**：包含句子的主詞本身，以及所有修飾它的成分。例如在「*The big bad teacher*」中，整個短語都屬於主詞部分。
+*   **述語 (Predicate)**：包含動詞以及句中其餘的所有成分。
 
-### 希臘語動詞的特殊性：隱含主詞
-最後，講師預告了希臘語動詞的一個重要特徵：**動詞本身就包含了主詞的資訊**。
-在希臘語中，動詞的詞尾（ending）會標示出人稱（person）與數（number）。例如，"graphō"（我寫）與 "graphēs"（你寫），詞尾的變化直接指出了主詞是「我」還是「你」。
+學會將句子一分為二，是進行深入語法分析的第一步。
 
-這導致了一個重要的結論：**希臘語句子中不需要明確寫出主詞代名詞**。例如 "graphēs" 本身就已經包含了「你」的意思。因此，在練習題中，如果看到動詞定義後方標註了人稱與數（如「第二人稱單數」），學生必須學會從動詞形式中直接辨識出主詞，即使句子中沒有出現顯性的代名詞（如 "you"）。這對習慣了英語「主詞+動詞」結構的學生來說，是學習希臘語時必須調整的思維模式。
+### 希臘文動詞的特殊性：隱含的主詞
+最後，我需要提醒你們關於動詞的一點，這對於完成本章練習至關重要。在希臘文中，動詞的結尾本身就包含了「人稱」與「數」的資訊。
+
+例如，希臘文動詞 *graphō*（我寫）若變為 *grapheis*，其中的 *-eis* 結尾就代表「第二人稱單數」（你）。因此，*Sue grapheis*（你寫）與單獨的 *grapheis*（你寫）意思完全相同。希臘文不需要顯性的主詞，因為主詞已經「內建」在動詞裡了。在練習中，我會標註動詞的人稱與數，你需要根據上下文判斷該使用「他」、「她」還是「它」。請務必記住：主詞可以隱含在動詞之中。
 
 
 ## Lesson 6: 主格與受格；定冠詞 (Nominative and Accusative; Definite Article)
 
 > **大綱對照：**
-> 本文內容大致遵循所提供的大綱，但在結構上為了更清晰地呈現教學邏輯，將「名詞構成」與「格位功能」的教學順序進行了整合，並詳細解釋了教師在課堂中強調的「名詞規則」（Noun Rules）與「迷霧」（The Fog）概念。
+> 本文內容完全遵循所提供的大綱結構，並將教學重點整合於各個章節中，以確保學習者能清楚掌握希臘文格位系統的邏輯。
 
 
 
-### 名詞的構成與格位系統 (The Structure of Nouns and Case Systems)
+### I. 主格與受格導論：格位系統的邏輯
 
-在希臘文學習中，理解名詞的構成是掌握語法的第一步。一個典型的希臘文名詞由兩部分組成：**詞幹 (Stem)** 與 **格位結尾 (Case Ending)**。詞幹是名詞的核心，承載了該詞彙的實質意義；而格位結尾則是附加在詞幹後的後綴，用來標示該詞在句子中扮演的「功能」。
+歡迎來到第六章。我們終於要進入希臘文的核心了。在開始背誦表格之前，你們必須先理解希臘文名詞的構造。一個典型的希臘文名詞由兩部分組成：**詞幹 (Stem)** 與 **格位結尾 (Case ending)**。
 
-教師強調，希臘文的邏輯是「功能決定格位，格位決定結尾」(Function determines case; case determines case ending)。這與英文等語言不同，英文主要依賴語序（Word Order）來判斷主詞與受詞，但希臘文則透過「屈折變化」（Inflection）來表達。這意味著，無論名詞在句子中出現在哪個位置，只要它帶有特定的格位結尾，它的功能就不會改變。
+詞幹是單字最基礎的部分，承載了該字的詞彙意義（Lexical meaning）。無論你對這個字做什麼變化，詞幹本身是不變的。然而，希臘文會在詞幹後附加「格位結尾」。為什麼要這麼麻煩？這不是為了折磨你們，而是因為希臘文透過這些結尾來表達單字在句子中的「功能」。
 
-影響格位結尾選擇的因素不僅僅是功能，還包括：
-1. **性別 (Gender)**：陽性、陰性或中性名詞在相同格位下可能使用不同的結尾。
+請記住這個核心邏輯：**功能決定格位，格位決定結尾 (Function → Case → Case ending)**。作為翻譯者，我們的工作是反向操作：觀察結尾，推導格位，進而判斷該字在句中的功能。除了功能之外，還有三個因素會影響格位結尾的選擇：
+1. **性別 (Gender)**：陽性、陰性或中性名詞在相同格位下，可能使用不同的結尾。
 2. **數 (Number)**：單數或複數會改變結尾。
-3. **變格 (Declension)**：名詞所屬的變格類型（第一、第二或第三變格法）決定了其結尾的模式。
+3. **變格法 (Declension)**：名詞所屬的變格類別（第一、第二或第三變格法）決定了它使用哪一套結尾系統。
 
-### 主格 (Nominative Case)
+這就是為什麼學習語言初期會感到困難，因為你不能只記住一個規則，你必須同時掌握意義、性別、格位、數與變格法，這幾項因素交織在一起，才構成了我們所見的結尾。
 
-主格（Nominative case）在希臘文中對應英文的「主格」，其主要功能是標示句子的**主詞 (Subject)**。當說話者想要表達某個名詞是動詞動作的執行者時，就會將該詞變格為主格。
+### II. 主格 (Nominative Case)
 
-*   **翻譯策略**：作為譯者，我們的工作是進行「反向工程」。當我們看到一個名詞帶有主格結尾（例如第二變格陽性名詞的 *-os*），我們便能立即辨識出它是句子的主詞。
-*   **語序的靈活性**：由於格位結尾已經明確標示了功能，希臘文的語序非常自由。例如「使徒差遣使徒」這句話，無論主詞 *Apostolos* 出現在動詞之前還是之後，其主詞的功能都不會改變。這對於初學者來說是一個重要的觀念轉變：必須戒掉「句子開頭的第一個詞就是主詞」的慣性思維，轉而透過掃描全句的格位結尾來尋找主詞。
+主格在希臘文中，大致對應於英文的主格 (Subjective case)。當一個詞在句中擔任「動詞的主詞」時，說話者就會將其置於主格，並附加適當的主格結尾。
 
-### 受格 (Accusative Case)
+#### 識別主詞
+你們必須克服一個常見的誤區：**不要依賴語序來判斷主詞**。在英文中，主詞通常放在動詞前面，但在希臘文中，語序非常靈活。例如，句子 *Apostolos pempei ton apostolon*（使徒差遣那使徒），即便你將其改寫為 *Ton apostolon pempei apostolos*，句意依然不變。因為 *Apostolos* 帶有主格結尾，它就是主詞，無論它出現在句子的哪個位置。
 
-受格（Accusative case）對應英文的「受格」（Objective case），其主要功能是標示句子的**直接受詞 (Direct Object)**。
+你們在閱讀時，必須訓練自己掃描整句話，尋找帶有主格結尾的詞，那才是句子的主詞。一旦找到主詞，再尋找動詞，這樣你的翻譯工作才會有穩固的基礎。
 
-*   **邏輯對應**：說話者若要表達某個詞是動作的承受者，就會將其變格為受格。譯者在閱讀時，若看到受格結尾（例如第二變格陽性名詞的 *-on*），便能確認該詞為直接受詞。
-*   **克服語序依賴**：教師再次提醒，不要依賴語序來判斷受詞。初學者常會因為找不到主詞而困惑，正確的方法是：先掃描全句找出帶有主格結尾的詞（主詞），再找出帶有受格結尾的詞（受詞），最後再處理動詞。
+### III. 受格 (Accusative Case)
 
-### 名詞規則 (The Noun Rules)
+受格則對應於英文的受格 (Objective case)。當一個詞在句中擔任「直接受詞 (Direct object)」時，說話者會將其置於受格，並附加相應的受格結尾。
 
-為了減少死記硬背大量變格表的需求，教師提出了三條關鍵的「名詞規則」，這些規則是解析名詞時的捷徑：
+#### 變格規則與應用
+我們在書中提供了三條核心名詞規則，這些規則能取代五十個繁瑣的變格表，但前提是你必須精確掌握它們：
+1. **第一規則**：詞幹以 alpha 或 eta 結尾的是第一變格法；以 omicron 結尾的是第二變格法；子音結尾的是第三變格法。這是判斷單字歸屬的關鍵。
+2. **第二規則**：**所有中性名詞的主格與受格形式完全相同**。這點非常重要！當你看到 *Ergon*（工作）時，它可能是主格，也可能是受格。如果你翻譯時發現句子不通，請務必檢查它是否是另一種格位。
+3. **第三規則**：幾乎所有中性名詞的主格與受格複數，都以 alpha 結尾。
 
-1. **第一、二、三變格法**：以詞幹結尾來區分。詞幹以 *-α* 或 *-η* 結尾為第一變格；以 *-ο* 結尾為第二變格；子音結尾則為第三變格。
-2. **中性名詞規則**：所有中性名詞的「主格」與「受格」形式完全相同。這是一個極為重要的線索，當你看到一個中性名詞（如 *ergon*）時，必須意識到它既可能是主詞，也可能是受詞，具體功能需視上下文而定。
-3. **中性複數規則**：幾乎所有中性名詞在主格與受格複數時，結尾皆為 *-α*。
+請務必反覆練習這些結尾。當你看到 *Logos*（陽性單數主格）時，那個 sigma 就是主格的標記；而當你看到 *Logon*（陽性單數受格）時，那個 nu 則標示了它是直接受詞。
 
-### 定冠詞 (The Definite Article)
+### IV. 定冠詞 (Definite Article)
 
-定冠詞（Definite article，對應英文的 "the"）是希臘文學習者的「好朋友」。它有 24 種形式，且必須精確記憶。
+定冠詞（大致翻譯為 "the"）是你們最好的朋友。雖然它有 24 種形式，但你必須把它們背得滾瓜爛熟。
 
-*   **一致性原則 (Agreement)**：定冠詞與其修飾的名詞在「性、數、格」上必須完全一致。這意味著，如果你對名詞的格位感到困惑，定冠詞往往能提供最直接的答案。例如，*ho* (陽性單數主格) 永遠只會修飾陽性單數主格的名詞。
-*   **穩定性**：相比於名詞變格有時會出現變化，定冠詞的形式非常穩定，是判斷名詞屬性的可靠指標。
+#### 為什麼定冠詞是你的朋友？
+名詞系統有時會因為變格規則而變得模糊，但定冠詞非常穩定。定冠詞必須與它所修飾的名詞在「性、數、格」上完全一致 (Agreement)。這意味著，如果你對名詞的格位感到困惑，定冠詞往往能提供最直接的線索。例如，*ho* 總是陽性單數主格，*he* 總是陰性單數主格。只要看到定冠詞，你就能立刻鎖定該名詞的屬性。
 
-### 結語：進入「迷霧」 (Entering the Fog)
-
-教師在最後提到了一個心理建設：學習希臘文的過程中會進入所謂的「迷霧」（The Fog）。當學習進度推進到第六章，原本清晰的語法規則開始變得複雜，學生可能會感到困惑或挫折。
-
-教師鼓勵學生：**感到困惑是正常的**。語言學習需要時間讓知識在腦中沉澱（sink in）。不要因為暫時的混亂而懷疑自己的能力。如果感到極度挫折，可以回頭複習第四章，若發現舊知識依然清晰，則代表你依然在進步中。保持耐心，持續練習，迷霧終將散去。
+#### 進入「迷霧」的提醒
+最後，我想對你們說：進入這一章，你們可能會感到進入了「迷霧 (The fog)」。原本清晰的語言結構似乎變得模糊了。請不要沮喪，這並不代表你笨，也不代表你學不會。語言學習需要時間讓知識在腦中沉澱。如果你感到挫折，請回頭看看第四章，如果你發現第四章的內容已經很清晰，那就證明你正在進步。保持耐心，給自己一點時間，這層迷霧終將散去。
 
 
 ## Lesson 7: 屬格與與格 (Genitive and Dative)
 
 > **大綱對照：**
-> 本文並未嚴格遵循所提供的教學大綱。教師在課堂中主要聚焦於「屬格（Genitive）」與「與格（Dative）」的基本定義、關鍵字記憶法（Keywords）、以及相關的語法規則（如約塔下標與詞尾變化規則）。大綱中提到的細分項目（如主觀屬格、客觀屬格、與格的四種用法細節）在本次錄音中並未深入展開。因此，以下解釋將嚴格按照教師在課堂中實際講授的順序與內容進行編寫。
+> 本次教學內容並未完全遵循所提供的講義大綱。講義大綱列出了多種屬格（Genitive）與與格（Dative）的細分用法（如主觀屬格、客觀屬格、與格之利益等），但課堂錄音內容主要聚焦於這兩個格的基本定義、關鍵詞（Key words）的運用、以及語法規則（如約塔下標與詞幹母音變化）。因此，下文將嚴格按照錄音內容的順序進行教學說明。
 
 
 
-### 屬格（Genitive Case）的定義與功能
+### 屬格（Genitive Case）的基礎與功能
 
-在希臘文語法中，屬格（Genitive case）最核心且最容易掌握的功能是表示「所有權」（Possession）。在英語中，我們通常透過兩種方式表達所有權：一是使用介系詞 "of"（例如：the word of God），二是使用所有格符號 "'s"（例如：God's word）。
+在進入希臘文的屬格之前，我們必須先回顧英文的語法邏輯。在英文中，我們表達「所有格」（Possessive case）主要有兩種方式：一是使用介系詞 "of"（例如：the word of God），二是使用撇號加 s（例如：God's word）。當我們處理希臘文的屬格時，請記住：希臘文沒有撇號加 s 的結構，它幾乎總是透過「屬格詞尾」來表達「of」的關係。
 
-希臘文並沒有像英語那樣的 "'s" 結構，它完全依賴屬格詞尾來表達這種關係。當我們看到一個名詞處於屬格時，最簡單的翻譯策略就是使用 "of" 這個關鍵字。例如，若看到 *nomoi*（律法）與 *theou*（神），且兩者皆帶有屬格詞尾（如錄音中提到的 upsilon），我們應將其翻譯為 "laws of God"（神的律法）。當然，在翻譯時，我們也可以靈活地將其轉換為 "God's laws"，這在語意上是完全等價的。
+當你看到一個名詞處於屬格時，我希望你建立一個直覺：將「of」這個詞作為該格的「關鍵詞」（Key word）。例如，當你看到 *nomoi*（律法）與 *theou*（神）這兩個詞的字尾都是屬格形式時，你應該立刻將其連結為 "laws of God"（神的律法）。雖然在翻譯時，你也可以靈活地將其轉譯為 "God's laws"，但理解其核心結構為「of」的修飾關係，是掌握屬格的第一步。
 
-#### 關鍵術語：頭名詞（Head Noun）
-在學習屬格時，必須掌握「頭名詞」（Head noun）的概念。所謂頭名詞，是指被屬格名詞所修飾的那個核心名詞。在 "laws of God" 這個片語中，"laws" 就是頭名詞。屬格名詞的功能在於限定或說明這個頭名詞的屬性或歸屬。教師建議學生為每個格（Case）設定一個「關鍵字」（Keyword），對於屬格而言，這個字就是 "of"。雖然在複雜的經文語境中，"of" 可能無法涵蓋所有屬格的細微差別，但它是初學者建立語感、快速解讀句法結構的最佳起點。
+在分析句子時，你需要熟悉一個術語：**核心名詞（Head noun）**。屬格名詞的功能是修飾另一個名詞，那個被修飾的名詞就稱為「核心名詞」。例如在 "laws of God" 中，"laws" 就是核心名詞，而 "of God" 則是對它的限定。
 
-### 與格（Dative Case）的定義與功能
+### 與格（Dative Case）的關鍵詞與語境
 
-與格（Dative case）在希臘文中承載了多種功能，教師要求學生重點掌握三個關鍵字：**"to/for"**（給/為了）、**"in"**（在...之中）、以及 **"with"**（與...一起）。
+與格在希臘文中功能較多，我要求你們記住三個核心關鍵詞：**"to"（向/給）、"in"（在...之中）、"with"（與/用）**。當你遇到與格詞尾時，不要急著下定論，必須根據上下文（Context）來決定哪一個詞義最合適。
 
-與格最常見的用法之一是「間接賓語」（Indirect Object）。在英語中，間接賓語通常是動作的間接接受者。例如在句子 "Karen threw Brad a ball" 中，"ball" 是直接賓語（直接被丟的對象），而 "Brad" 則是間接賓語。判斷間接賓語的一個簡單技巧是嘗試在名詞前加上 "to" 或 "for"；如果語意通順，該名詞極大機率就是間接賓語。在希臘文中，間接賓語必須使用與格。
+#### 間接受詞（Indirect Object）
+與格最常見的用法之一是表示「間接受詞」。在英文中，間接受詞是動作的間接接收者。例如："Karen threw Brad a ball"（凱倫丟給布萊德一個球）。在這裡，球是直接受詞（直接被丟），而布萊德則是間接受詞。判斷方法很簡單：如果你能在該詞前面加上 "to"，且句子語意通順，那它極大機率就是間接受詞。在希臘文中，這類詞彙會直接放入與格。
 
-#### 語境決定意義
-由於與格可以表示 "to/for"、"in" 或 "with"，學生在翻譯時必須依賴「上下文」（Context）來決定選用哪一個關鍵字。例如：
-*   若經文提到 "He told them the story"，"them"（他們）即為間接賓語，應使用與格，翻譯為 "to them"。
-*   若經文提到 "Jesus was baptized in water"，"water"（水）使用與格，翻譯為 "in water"。
-*   若經文提到 "Jesus was baptized with water"，同樣的與格詞尾亦可翻譯為 "with water"。
+#### 語境的決定性
+除了間接受詞，與格還能表達工具或方式。例如，當經文說「耶穌在水中受洗」或「耶穌用水受洗」，希臘文中的「水」都會使用與格。這時，你不能只靠詞尾來翻譯，必須發揮你的釋經能力（Exegetical skills），判斷該處是用 "in"（在水中）還是 "with"（用水）來表達更符合上下文的邏輯。
 
-這要求學生不僅要死記詞尾，更要培養「釋經學」（Exegetical skills），根據句子的動詞意義與整體語境，選擇最合適的翻譯。
+### 語法規則：約塔下標與詞幹變化
 
-### 語法規則與記憶技巧
-
-本次課程引入了三項重要的名詞規則（Rules 4, 5, 6），對於掌握第一、二變格法至關重要。
+我們現在已經學完了第一、二變格法的所有詞尾，這些表格是你必須背誦的基礎。在這一章中，我們需要掌握三條重要的語法規則，這能幫助你更精確地辨識詞形。
 
 #### 規則四：約塔下標（Iota Subscript）
-在與格單數（Dative singular）中，如果可能的話，約塔（iota, ι）會寫在長母音下方，稱為「約塔下標」。例如在 *graphē*（經文）的與格形式中，我們會在 eta（η）下方看到一個小小的約塔。對於初學者而言，不需要過度糾結於它為何在下方，只需將其視為「與格的標記」。只要看到這個約塔，就應立即反應出這是與格。
+在與格單數中，如果條件允許，約塔（iota, ι）會寫在長母音下方，稱為「約塔下標」。請注意，約塔只能寫在長母音下方。當你看到一個詞尾有約塔（例如 *graphē*），即便它寫在下方，對我而言，那個約塔就是與格的「標記」。看到它，你就要立刻反應出：「這是與格」。
 
-#### 規則五：母音長度變化（Vowel Length Changes）
-希臘文中的母音長度常會發生變化，這被稱為「母音交替」（Ablaut 的一種表現）。例如，在第二變格法名詞 *logos*（話語）的變化中，與格單數詞尾會從短母音變為長母音（如 omega, ω）。這並不代表出現了一個全新的詞尾，而是原有的詞尾因語法規則而拉長了。學生應將其視為同一種格的變體，而非額外增加記憶負擔。
+#### 規則五：母音長度變化
+你會發現詞幹的母音長度會改變。例如 *logos*（話語）在與格單數時，詞幹母音會從短母音變為長母音（如 *logō*）。這並不是因為出現了一個全新的詞尾，而是母音長度發生了變化。這是一個學習上的捷徑：當你看到 Omega（ω）或 Omicron（ο）的變化時，不要把它們當作完全不同的東西，它們在功能上是相關的。
 
 #### 規則六：陽性與中性的同一性
-這是一條極為實用的記憶捷徑：在屬格與與格中，陽性名詞與中性名詞的詞尾永遠是相同的。例如，*logos*（陽性）與 *ergon*（中性）在屬格單數與與格單數的詞尾完全一致。這意味著學生在背誦變格表時，實際上只需記憶一套詞尾，即可同時應用於陽性與中性名詞，大幅降低了記憶量。
+這是一條非常實用的規則：在屬格與與格中，陽性名詞與中性名詞的詞尾永遠是相同的。例如，*logos*（陽性）與 *ergon*（中性）在屬格單數時，詞尾都是 *-ou*；在與格單數時，詞尾都是 *-ō*。這意味著你不需要為陽性與中性分別記憶這兩格的詞尾，這能大幅減輕你們的記憶負擔。
 
-最後，教師強調，儘管我們即將進入第三變格法的學習，但目前所學的這些格位詞尾以及定冠詞（Definite article）的 24 種形式，是必須達到「絕對熟練」（Absolute memory work）的基礎。這些規則不僅是語法練習，更是未來解讀新約聖經原文的基石。
+最後，請務必將這 24 個定冠詞（Definite article）的形式徹底背熟。這不僅是為了應付考試，更是為了讓你未來在閱讀希臘文聖經時，能夠一眼辨識出名詞的格位與屬性。這是你們必須跨過的門檻。
 
 
-## Lesson 8: 介系詞 (Prepositions)
+## Lesson 8: 介系詞與動詞基礎 (Lesson 8: Prepositions)
 
 > **大綱對照：**
-> 本課程並未嚴格遵循所提供的 outline。教師在講授中將重點放在介系詞（prepositions）的定義與格位（case）關係，隨後轉向動詞（verbs）的人稱（person）與數（number）以及繫詞（copula）*eimi* 的用法，最後簡要提及從屬子句（dependent clauses）。提供的 outline 涵蓋了許多課堂中未提及的特定介系詞分類與功能，因此本說明將以教師實際講授的內容順序為準。
+> 本課的教學內容與所提供的「大綱」並不完全吻合。講者在課堂中僅簡要介紹了介系詞（Prepositions）的基本概念與運作邏輯，隨後便將重心轉移至動詞（Verbs）的「人稱與數」（Person and Number）、動詞 *εἰμί*（Amy）的用法，以及從屬子句（Dependent Clauses）的辨識。因此，下文將嚴格按照講者的實際授課順序進行詳細說明，而非強行套用該大綱。
 
 
 
-### 介系詞的定義與結構
+### 介系詞（Prepositions）的基本概念
 
-介系詞（preposition）在語言中扮演著連結者的角色，用以指示兩個事物之間的關係。在句子中，介系詞通常會帶出一個名詞，這個名詞被稱為「介系詞的受詞」（object of the preposition）。而由介系詞、其受詞以及任何修飾語所組成的整體結構，則稱為「介系詞片語」（prepositional phrase）。
+在希臘文學習中，介系詞（Prepositions）是我們必須掌握的關鍵工具。簡單來說，介系詞是用來表示兩個事物之間關係的詞。例如在英文句子 "The book is under the table" 中，"under" 就是介系詞，它界定了書與桌子之間的空間關係。
 
-理解這一點對於閱讀希臘文至關重要。與名詞或動詞不同，介系詞本身是不會發生詞形變化（inflected）的，這意味著我們不需要背誦介系詞的變格表，這在學習上是一大福音。然而，介系詞的挑戰在於其「意義」往往取決於其受詞的「格位」（case）。
+在分析句子時，你需要熟悉幾個術語：
+*   **介系詞（Preposition）**：如 "under"。
+*   **介系詞的受詞（Object of the preposition）**：即介系詞所指向的對象，如 "table"。
+*   **介系詞短語（Prepositional phrase）**：由介系詞、受詞及其修飾語共同組成的完整結構。
 
-### 介系詞與格位的關係
+對於初學者來說，有一個好消息：介系詞本身是「不變格」（not inflected）的。這意味著你不需要像背誦名詞或形容詞那樣去記憶它們的詞尾變化，這大大減輕了我們的負擔。
 
-當你在希臘文經文中遇到介系詞時，必須養成一個習慣：停下來，找到緊跟在後的受詞，確認該受詞的格位，然後再回頭翻譯介系詞。這是因為同一個介系詞，若搭配不同格位的受詞，其語意可能會完全改變。
+### 介系詞與格位（Case）的關係
 
-*   **固定格位的介系詞**：有些介系詞非常單純，它們總是搭配同一個格位。例如，介系詞 *en*（在……之中）永遠跟隨與格（dative case）。遇到這類介系詞時，你不需要去分析受詞的格位，因為它已經確定了。
-*   **多重格位的介系詞**：有些介系詞則較為複雜，可能搭配兩種甚至三種不同的格位。教師舉了 *meta* 為例：
-    *   若 *meta* 後面接的是屬格（genitive case），翻譯為「與……一起」（with）。
-    *   若 *meta* 後面接的是對格（accusative case），則翻譯為「在……之後」（after）。
-    
-這種機制要求學生在翻譯時必須具備「先看受詞格位」的敏銳度，否則極易誤解經文原意。
+雖然介系詞本身不變格，但它與其受詞之間存在一種特殊的邏輯關係。這是學習介系詞時最需要注意的地方：**介系詞的意義取決於其受詞的「格位」（Case）**。
+
+當你在閱讀希臘文時，一旦看到介系詞，請務必停下來，找到緊隨其後的受詞，確認它的格位，再回過頭來翻譯這個介系詞。有些介系詞非常「友善」，例如 *ἐν*（en），它後面永遠接與格（Dative），因此你不需要去查閱受詞的格位。但有些介系詞則會根據受詞格位的不同而改變意義。
+
+舉個例子，當我們遇到介系詞 *μετά*（meta）時：
+1.  如果受詞是**屬格（Genitive）**，它翻譯為「與……一起」（with）。
+2.  如果受詞是**受格（Accusative）**，它則翻譯為「在……之後」（after）。
+
+這種邏輯要求我們在翻譯時必須具備「偵探」的眼光，隨時檢視受詞的格位，才能精確掌握介系詞在文脈中的準確含義。
 
 ### 動詞的人稱與數（Person and Number）
 
-雖然本課主題為介系詞，但教師隨後引入了動詞的基礎概念。動詞透過字尾的變化來表達「人稱」與「數」。
+接下來，我們進入動詞的領域。動詞有兩個核心屬性：**人稱（Person）**與**數（Number）**。
 
-*   **數（Number）**：分為單數（singular）與複數（plural），這與主詞的數量一致。
+*   **數（Number）**：這很簡單，動詞分為單數（Singular）與複數（Plural）。主詞是單數，動詞詞尾就是單數；主詞是複數，動詞詞尾就是複數。
 *   **人稱（Person）**：
-    *   第一人稱（first person）：說話者（單數為「我」，複數為「我們」）。
-    *   第二人稱（second person）：被說話者（單數為「你」，複數為「你們」）。
-    *   第三人稱（third person）：談論的對象（他、她、它、他們）。
+    *   **第一人稱（First person）**：說話者。單數是「我」（I），複數是「我們」（We）。
+    *   **第二人稱（Second person）**：被說話的對象。單數是「你」（You），複數是「你們」（Y'all/You）。
+    *   **第三人稱（Third person）**：除上述兩者之外的一切事物（他、她、它、他們）。
 
-動詞必須與其主詞在人稱與數上保持一致（agreement）。這解釋了為什麼在希臘文中，當主詞已經明確時，主詞代名詞往往可以省略，因為動詞的字尾已經隱含了主詞的資訊。
+動詞透過詞尾的變化來顯示這些屬性。最重要的一點是：**動詞必須在人稱和數上與其主詞保持一致（Agreement）**。這就是為什麼在希臘文中，我們經常可以省略主詞，因為動詞的詞尾已經明確告訴了我們主詞是誰。
 
-### 繫詞 *eimi* 的特殊用法
+### 動詞 *εἰμί*（Amy）的特殊性
 
-教師特別介紹了動詞 *eimi*（我是 / I am）。這是一個極為重要的動詞，但它與一般動詞有顯著差異。一般動詞通常帶有「直接受詞」（direct object），且該受詞必須是「對格」（accusative case）。
+我們現在來看動詞 *εἰμί*（Amy，意為「我是」）。這是一個非常特殊的動詞，它的變位（Paradigm）如下：
+*   *εἰμί* (eimi)：我是
+*   *εἶ* (ei)：你是
+*   *ἐστί(ν)* (esti/estin)：他/她/它是
+*   *ἐσμέν* (esmen)：我們是
+*   *ἐστέ* (este)：你們是
+*   *εἰσί(ν)* (eisi/eisin)：他們是
 
-然而，*eimi* 是一個繫詞（copula），它不帶直接受詞，而是起到「等號」的作用，將主詞與後面的名詞或形容詞連結起來。因此，*eimi* 後面接的不是對格，而是「主格補語」（predicate nominative）。
+這裡有一個關鍵的語法規則：一般的動詞後面通常接「直接受詞」（Direct Object），且該受詞必須是**受格（Accusative）**。但 *εἰμί* 不同，它不接受直接受詞，而是接一個**主格補語（Predicate Nominative）**。
 
-例如：*Theos estin kurios*（神是主）。這裡的 *Theos*（神）與 *kurios*（主）皆為「主格」（nominative case）。這在解經上非常關鍵，因為它表明了主詞與補語之間的等同或屬性關係，而非動作的承受者。
+這意味著 *εἰμί* 就像一個「等號」，連接主詞與描述主詞的詞。例如在句子 *θεὸς ἐστιν κύριος*（God is Lord）中，*θεὸς*（神）是主格，*κύριος*（主）也是主格。因為 *εἰμί* 的性質，它後面的詞必須與主詞同格，絕不會出現受格。
 
 ### 從屬子句（Dependent Clauses）的辨識
 
-最後，教師定義了「從屬子句」（dependent clause）。這是一組包含思想但無法獨立成句的詞組，因為它缺乏完整的主詞與主要動詞。
+最後，我們談談「從屬子句」。從屬子句是依附於主要動詞的子句，它無法單獨存在。例如「為了學習」這句話，它本身不是一個完整的句子，因為它缺乏主詞與主要動詞。
 
-在翻譯過程中，辨識從屬子句是極佳的閱讀策略。當你看到 *hoti*（因為 / 那）、*hina*（為了）或介系詞時，這通常標誌著一個從屬子句的開始。這些詞彙提醒你：在這個片語內，你不會找到句子的「主要動詞」或「主要主詞」。這能幫助學生在複雜的長句中，快速過濾掉次要資訊，精準定位句子的核心結構。
+在翻譯時，當你看到 *ὅτι*（hoti）、*ἵνα*（hina）或介系詞時，這通常標誌著一個從屬短語的開始。你需要做的是：
+1.  界定該短語的範圍。
+2.  確認該短語內部不會包含句子的「主要動詞」與「主要主詞」。
+3.  如果在這個短語中找不到主要動詞，請繼續往後尋找。
+
+掌握這些規則後，你會發現自己已經能辨識新約聖經中約一半的單字了。雖然這個比例會隨著深入閱讀而下降，但這是一個非常棒的開始！保持練習，你會對希臘文的結構越來越有把握。
 
 
 ## Lesson 9: 形容詞 (Adjectives)
 
 > **大綱對照：**
-> 本文並未嚴格遵循所提供的大綱。該大綱包含了許多課堂錄音中未提及的內容（如第三變格法、比較級與最高級的形成等）。因此，下文將完全依照錄音內容的教學順序進行編排，以確保讀者能準確掌握教師所教授的重點。
+> 本次教學內容並未完全遵循所提供的大綱。講課內容集中於形容詞的三大語法功能（定語、名詞性用法、表語）以及如何透過冠詞（article）的位置來判斷其功能。大綱中提到的「變格（Declension）」與「比較級/最高級（Comparison）」並未在本次錄音中深入探討。以下說明將嚴格依照錄音內容的教學順序進行。
 
 
 
 ### 形容詞的定義與三大功能
 
-在希臘文語法中，形容詞（Adjective）的基本定義是修飾名詞或代名詞的詞類。教師指出，形容詞在英語與希臘文中均扮演三種核心角色，理解這些功能對於正確翻譯至關重要：
+在進入希臘文形容詞之前，我們先建立一個基礎概念：形容詞（adjective）本質上是用來修飾名詞或代名詞的詞類。在英文與希臘文中，形容詞主要承擔三種功能。理解這些功能是掌握句法分析的關鍵：
 
-1.  **定語功能（Attributive Function）**：形容詞用來修飾名詞，為該名詞提供某種屬性（Attribute）。例如：「他是一個好學生」（He is a good student），「好」修飾「學生」。
-2.  **名詞性功能（Substantive Function）**：形容詞本身轉化為名詞使用。例如：「好人受歡迎」（The good are welcome），此處「好」雖為形容詞，卻發揮了名詞的作用，指代「好人」這一群體。
-3.  **表語功能（Predicate Function）**：形容詞在系詞（Equative verbs，如 am, is, are, was, were）之後，對主詞進行斷言或描述。例如：「她很好」（She is good），此處「好」並不直接修飾「她」，而是對「她」的狀態做出斷言。
+1.  **定語功能（Attributive function）**：這是最常見的用法。形容詞作為名詞的「屬性」，提供關於該名詞的額外資訊。例如：「他是一個好學生（He is a good student）。」這裡的「好（good）」修飾「學生（student）」。在希臘文中，定語形容詞必須在「性、數、格（gender, number, and case）」上與其修飾的名詞保持一致。
+2.  **名詞性用法（Substantive function）**：有時形容詞會脫離名詞，直接扮演名詞的角色。例如：「好人受歡迎（The good are welcome）。」這裡的「好（good）」雖然詞性是形容詞，但在句中卻充當了主詞。
+3.  **表語功能（Predicate function）**：當形容詞與繫詞（copular verbs，如 to be 的各種形式：am, is, are, was, were）連用時，它不再是修飾名詞的屬性，而是對主詞進行「斷言（assertion）」。例如：「她是好的（She is good）。」這裡的「好」並非修飾「她」，而是宣告關於「她」的一個事實。
 
-### 希臘文形容詞的形態與一致性
+### 希臘文形容詞的形態與一致性原則
 
-教師強調了一個令人振奮的消息：學生在這一課中遇到的形容詞詞尾，其實都是之前已經學過的。希臘文形容詞與名詞一樣，具有三種性（Gender：陽性、陰性、中性）。
+好消息是，你們在第九章所學的形容詞詞尾，其實都是你們已經熟悉的內容。希臘文形容詞在性、數、格上與名詞的變化邏輯是一致的。
 
-當形容詞發揮**定語功能**時，它必須在「格（Case）」、「數（Number）」與「性（Gender）」上與其所修飾的名詞保持一致（Agreement）。這是一個邏輯上的必然：既然形容詞是為了修飾名詞而存在，它就必須承接該名詞的語法特徵。
+當形容詞作為**定語（attributive）**時，它必須與它所修飾的名詞在「性、數、格」上完全一致。你們可以運用常識來推論：如果形容詞要修飾一個名詞，它就必須穿上與該名詞相同的「制服」（即相同的詞尾變化）。
 
-### 句法功能與翻譯規則
+然而，當形容詞作為**名詞性用法（substantive）**時，情況就不同了。因為它沒有修飾的對象，它的「格（case）」取決於它在句中的功能（例如：若它是主詞，就用主格）。至於它的「性」與「數」，則取決於上下文（context）——也就是它所指代的人或物。如果它指代的是一個人，我們就按自然性別（natural gender）來處理，並在翻譯時補上適當的名詞（如「好人」、「好東西」）。
 
-要判斷形容詞在句中扮演何種角色，關鍵在於「定冠詞（Article）」的有無。這是解讀希臘文形容詞的「黃金法則」。
+### 透過冠詞（Article）識別形容詞功能
+
+這是本章最核心的技巧：如何從句法結構中判斷形容詞的功能？關鍵就在於「冠詞（article）」的存在與否。
 
 #### 1. 定語位置（Attributive Position）
-當形容詞與名詞之間存在定冠詞時，它就是定語。常見結構有兩種：
-*   **冠詞 + 形容詞 + 名詞**（如：*ho agathos anthropos*）
-*   **冠詞 + 名詞 + 冠詞 + 形容詞**（如：*ho anthropos ho agathos*）
-無論哪種結構，只要形容詞帶有冠詞，它就是修飾該名詞的定語，翻譯時應將形容詞置於名詞之前。
+當形容詞處於定語位置時，冠詞必定會出現。常見結構有兩種，無論哪種，意思都是一樣的：
+*   **冠詞 + 形容詞 + 名詞**（例如：*ho agathos anthropos*）
+*   **冠詞 + 名詞 + 冠詞 + 形容詞**（例如：*ho anthropos ho agathos*）
+只要形容詞帶有冠詞，它幾乎可以確定是定語，用來修飾該名詞。
 
-#### 2. 名詞性用法（Substantive Use）
-當形容詞沒有名詞可修飾，且獨立出現時，它便發揮名詞性功能。
-*   **格的判定**：由其在句中的功能決定（例如：若作主詞，則為「主格」）。
-*   **性與數的判定**：由上下文（Context）決定。形容詞會根據它所指代的對象（自然性，Natural Gender）來決定其性與數。
-*   **翻譯技巧**：若上下文指代人，可譯為「好人」、「好人們」；若指代抽象概念，可譯為「好的事物」。
+#### 2. 名詞性用法（Substantive Position）
+當形容詞單獨出現，且沒有名詞供其修飾時，它就是名詞性用法。例如：*ho agathos*（好的那一個/好人）。翻譯時，請根據上下文補上合適的詞。如果是陽性單數，可以翻譯為「好人」；如果是複數，則為「好人們」或「好的一群人」。
 
 #### 3. 表語位置（Predicate Position）
-當名詞帶有冠詞，但形容詞「沒有」冠詞時，該形容詞通常處於表語位置。
-*   結構：**冠詞 + 名詞 + 形容詞**（如：*ho anthropos agathos*）或 **形容詞 + 冠詞 + 名詞**。
-*   翻譯技巧：此時應在名詞與形容詞之間補上系詞「是」（is/are）。例如：*ho anthropos agathos* 應譯為「那人是好的」。
+這是最容易辨認的結構：名詞帶有冠詞，但形容詞「沒有」冠詞。例如：*ho anthropos agathos* 或 *agathos ho anthropos*。這種結構通常暗示著繫詞「是（is）」的存在。翻譯時，我們將其處理為：「那人是好的（The man is good）。」
 
-### 特殊情況：無冠詞的模糊地帶
+### 當冠詞缺席時：上下文的決定性作用
 
-若句中完全沒有冠詞（Anarthrous），則無法僅靠冠詞位置來判斷。此時，學生必須完全依賴**上下文（Context）**。
+最後，你們可能會問：「如果句子裡完全沒有冠詞，該怎麼辦？」
 
-教師舉例：*agathos anthropos* 或 *anthropos agathos*。在沒有冠詞的情況下，這句話既可以翻譯為「一個好人」（定語），也可以翻譯為「那人是好的」（表語）。此時，翻譯者需判斷哪種解釋在整段經文中更為合理。這種對上下文的依賴，提醒我們語法學習不僅是機械式的規則套用，更是對語境邏輯的深度思考。
+如果形容詞與名詞都沒有冠詞（例如：*agathos anthropos* 或 *anthropos agathos*），我們就失去了語法上的直接線索。這時，唯一的判斷標準就是**上下文（context）**。你們必須問自己：在整段經文中，這個形容詞是在「修飾」這個人（好人），還是在「斷言」關於這個人的事實（這人是好的）？
+
+這要求你們不僅要看單詞，更要看思想的流動。作為初學者，你們可能會覺得這很困難，但請記住，這正是研讀希臘文的樂趣所在——我們不是在機械式地對照詞彙，而是在理解作者如何透過語法結構來傳遞他的神學與邏輯。
 
 
 ## Lesson 10: 第三變格法 (Third Declension)
 
 > **大綱對照：**
-> 本課教學內容與所提供的「大綱」並不完全吻合。教學重點集中在第三變格法（Third Declension）的語音規則、詞幹辨識技巧以及「方塊停音」（Square Stops）的運用，而非大綱中列出的結構性分類。以下說明將嚴格按照教師實際教學的邏輯順序進行編寫。
+> 本課教學內容與所提供的大綱結構大致吻合。我將依照課堂教學的邏輯順序進行深入解析，涵蓋第三變格法（Third Declension）的定義、詞幹規則、四項關鍵辨識技巧，以及如何應用「方塊停音」（Square Stops）規則來處理詞形變化。
 
 
 
-### 第三變格法（Third Declension）概論
+### 一、 第三變格法導論：形式與意義的區分
 
-在希臘文語法中，名詞的變格法取決於其詞幹（stem）的結尾。第一變格法詞幹以 $\alpha$（alpha）結尾，第二變格法以 $o$（omicron）結尾，而第三變格法則是詞幹以「輔音」（consonant）結尾的名詞。
+歡迎來到希臘文名詞變格的最後一站：第三變格法。在進入複雜的變化之前，我必須先提醒你們一個核心觀念：我們現在處理的是「形式」（form）而非「意義」（meaning）。無論一個名詞屬於第一、第二還是第三變格法，它在句中的語義功能是不變的。例如「使徒」（apostle）這個詞，無論其變格形式如何，它指涉的對象始終相同。
 
-教師特別強調，學習第三變格法時，重點在於「形式」（form）而非「意義」（meaning）。無論一個名詞屬於哪一類變格，其詞義（如「使徒」）是不會改變的。許多初學者對第三變格法感到恐懼，是因為傳統教學法往往將詞尾與詞幹元音混在一起教，導致規則變得極其複雜。然而，若我們堅持使用「真實詞尾」（true case endings），第三變格法其實只是對既有規則的應用與微調。
+我們之所以要學習變格，是因為希臘文透過詞尾變化來標示名詞在句中的格位（Case）。你們過去學習的「真實詞尾」（true endings）在這裡依然適用。許多初學者在學習第三變格法時會感到恐懼，那是因為傳統教學法往往將「詞幹元音」與「格位詞尾」混為一談，導致學生在面對第三變格法（詞幹以輔音結尾）時感到無所適從。但請放心，既然你們已經掌握了真實詞尾，我們只需要理解當這些詞尾遇到輔音詞幹時會發生什麼「化學反應」即可。
 
-### 辨識第三變格法的四大法則
+### 二、 第三變格法的核心辨識技巧
 
-教師提出了四個關鍵技巧，幫助學生處理第三變格法中因輔音碰撞而產生的語音變化。這些規則的核心在於處理「$\sigma$（sigma）」這個字母與詞幹輔音結合時的變化。
+第三變格法的名詞詞幹以「輔音」（consonant）結尾。當詞幹輔音與格位詞尾（特別是 sigma, $\sigma$）碰撞時，會產生語音上的變化。為了幫助你們辨識，請務必掌握以下四項關鍵技巧：
 
-#### 1. 必須背誦屬格（Genitive）形式
-第三變格法的詞幹在主格（Nominative）中常因語音變化而變得難以辨認。因此，學習者必須同時記憶「主格」與「屬格」。
-*   **操作方式**：從屬格形式中去掉詞尾（通常是 $-o\varsigma$），剩下的部分即為該詞的「詞幹」。
-*   **例子**：名詞 $\sigma \alpha ́ \rho \xi$（肉體，sark-）的屬格是 $\sigma \alpha \rho \kappa o ́\varsigma$。去掉詞尾 $-o\varsigma$ 後，即可還原出詞幹 $\sigma \alpha \rho \kappa-$（以 $\kappa$ 結尾）。
+#### 1. 務必背誦屬格（Genitive）形式
+這是最重要的一點。第三變格法的名詞，其詞彙形式（Lexical form，即主格單數）往往無法直接看出詞幹。例如 *sarx*（肉體，flesh），其詞幹其實是 *sark-*。如果你只背主格，你永遠猜不到詞幹是什麼。因此，你必須同時背誦屬格形式（如 *sarkos*）。只要將屬格詞尾 *-os* 去掉，剩下的就是詞幹。
 
-#### 2. 主格與與格複數（Dative Plural）的連動性
-這是一條極具洞察力的規則：**主格單數發生的語音變化，同樣會發生在與格複數中。**
-*   **原因**：主格單數的詞尾是 $\sigma$；與格複數的詞尾是 $\sigma \iota$。兩者皆以 $\sigma$ 開頭，因此當詞幹輔音與 $\sigma$ 接觸時，會產生相同的語音碰撞。
-*   **例子**：$\sigma \alpha ́ \rho \kappa$ 加上 $\sigma$ 變成 $\sigma \alpha ́ \rho \xi$（$\kappa + \sigma = \xi$）；同樣地，$\sigma \alpha ́ \rho \kappa$ 加上 $\sigma \iota$ 變成 $\sigma \alpha \rho \xi \iota$。
+#### 2. 主格與與格複數的連動性
+這是一個非常實用的規律：**主格單數發生的語音變化，同樣會發生在與格複數（Dative Plural）中。** 這是因為主格單數的詞尾是 sigma ($\sigma$)，而與格複數的詞尾是 sigma-iota ($\sigma\iota$)。既然兩者都以 sigma 開頭，當它們與詞幹輔音碰撞時，產生的變化必然一致。例如 *sark-* 加上 *-s* 變成 *sarx*（因為 $k+\sigma = \xi$），那麼 *sark-* 加上 *-si* 也會變成 *sarksi*。
 
-#### 3. 鼻音（$\nu$）與 $\sigma$ 的碰撞
-當詞幹以 $\nu$（nu）結尾，後面接 $\sigma$ 時，$\nu$ 會脫落。
-*   **例子**：詞幹 $\tau \iota\nu-$ 加上 $\sigma$（主格）變成 $\tau \iota\varsigma$（$\nu$ 脫落）；加上 $\sigma \iota$（與格複數）變成 $\tau \iota\sigma \iota$。
+#### 3. 鼻音（Nu, $\nu$）的脫落
+當詞幹以 nu ($\nu$) 結尾，後面接 sigma 時，nu 會脫落以利發音。例如詞幹 *ten-*，主格單數本應是 *tens*，但為了發音順暢，它變成了 *tes*。
 
-#### 4. 齒音（$\tau$）與 $\sigma$ 的碰撞
-當詞幹以 $\tau$（tau）結尾，後面接 $\sigma$ 時，$\tau$ 會脫落。
-*   **例子**：詞幹 $\alpha \nu \alpha \mu \alpha \tau-$ 加上 $\sigma$（主格）時，$\tau$ 脫落，變成 $\alpha \nu \alpha \mu \alpha$。
+#### 4. 齒音（Dental, $\tau, \delta, \theta$）的脫落
+當詞幹以齒音結尾，後面接 sigma 時，齒音會直接消失。例如詞幹 *onamat-*，主格單數不加詞尾，齒音 $\tau$ 脫落，變成 *onama*。
 
-### 第三變格法的詞尾與範式分析
+### 三、 詞形變化的實戰演練：以 *sarx* 為例
 
-教師指出，第三變格法其實只有三個「新」詞尾，其餘皆是變體。
-*   **新詞尾**：
-    1.  **與格單數**：$- \iota$（不帶下標，因為詞幹是輔音，無法與元音結合）。
-    2.  **對格單數**：$-\alpha$。
-    3.  **主格複數**：$-\epsilon\varsigma$。
+讓我們透過 *sarx*（肉體）的變格來檢視這些規則。我常說這是一場「心智遊戲」，因為第三變格法其實只有三個「新」詞尾，其餘大多是你們已經熟悉的變化。
 
-透過這些規則，學生可以推導出複雜的詞形。例如形容詞 $\pi \alpha \varsigma$（所有，all），其詞幹為 $\pi \alpha \nu\tau-$。透過上述規則（$\tau$ 脫落、$\nu$ 脫落），我們可以精準地推導出其主格 $\pi \alpha \varsigma$ 以及與格複數 $\pi \alpha \sigma \iota$。這種「推導法」遠比死記硬背整個範式（paradigm）更有效率。
+*   **主格單數（Nominative Singular）：** 詞尾是 sigma，但如前所述，$k+\sigma$ 結合成了 $\xi$（ksi），所以變成了 *sarx*。
+*   **與格單數（Dative Singular）：** 詞尾是 iota 腳標（iota subscript）。但請注意，iota 腳標只能寫在長元音下。因為第三變格法詞幹是輔音，沒有長元音，所以 iota 必須寫在線上，變成 *sarki*。
+*   **新的格位詞尾：** 你們需要記憶的是：
+    *   **賓格單數（Accusative Singular）：** *-a*
+    *   **主格複數（Nominative Plural）：** *-es*
+    *   **賓格複數（Accusative Plural）：** *-as*
 
-### 方塊停音（Square Stops）的重要性
+只要掌握了這些，加上屬格的 *-os* 和與格的 *-i*，你就已經破解了大部分的第三變格法。
 
-最後，教師介紹了「方塊停音」表（Square Stops），這是理解第三變格法與動詞變化的關鍵工具。這是一組基於發音部位的輔音分類：
+### 四、 方塊停音（Square Stops）規則
 
-| 類別 | 唇音 (Labials) | 軟顎音 (Velars/Palatals) | 齒音 (Dentals) |
-| :--- | :--- | :--- | :--- |
-| **字母** | $\pi, \beta, \phi$ | $\kappa, \gamma, \chi$ | $\tau, \delta, \theta$ |
+最後，你們必須學會「方塊停音」表。這是希臘文語法中極為關鍵的分類，不僅用於名詞，也用於動詞。我們將輔音分為三類：
 
-*   **應用**：當這些輔音與 $\sigma$ 結合時，同組的字母會產生相同的變化。
-    *   唇音 + $\sigma = \psi$
-    *   軟顎音 + $\sigma = \xi$
-    *   齒音 + $\sigma = \sigma$（齒音直接脫落）
+1.  **唇音（Labials）：** $\pi, \beta, \phi$（發音時用到嘴唇）。
+2.  **軟顎音（Velars/Palatals）：** $\kappa, \gamma, \chi$（發音時用到軟顎）。
+3.  **齒音（Dentals）：** $\tau, \delta, \theta$（發音時用到牙齒）。
 
-這張表不僅是為了記憶，更是為了讓學生具備「逆向工程」的能力。當你在聖經文本中看到一個變形後的詞彙時，透過這些規則，你可以還原出它的詞幹，進而查考詞典，準確地進行翻譯與釋經。
+這張表的價值在於「連動性」。如果你知道 $\pi$ 加上 sigma 會變成 $\psi$（psi），那麼你自動就知道 $\beta$ 和 $\phi$ 加上 sigma 也會變成 $\psi$。同理，軟顎音加上 sigma 永遠變成 $\xi$（ksi），而齒音加上 sigma 則會直接脫落。
+
+請務必將這張表背得滾瓜爛熟。當你在經文中看到一個奇怪的輔音組合（如 $\xi$ 或 $\psi$）時，這張表就是你「反向推導」回詞幹的唯一工具。只要掌握了這些規則，第三變格法就不再是障礙，而是你解讀神學文本的利器。
 
 
 ## Lesson 11: 第一與第二人稱代名詞 (First and Second Person Personal Pronouns)
 
 > **大綱對照：**
-> 本文的解釋結構大致遵循所提供的大綱，但在處理第三變格名詞（Third Declension Nouns）的補充內容時，為了保持教學邏輯的連貫性，將其整合在代名詞教學之後，作為對名詞系統的進一步深化。
+> 本課的教學內容並未嚴格遵循所提供的大綱。教師在講解完第一、二人稱代名詞後，花費了大量篇幅深入探討第三變格法（Third Declension）名詞的特殊變形規則（如齒音詞幹、消失的 iota、以及不規則名詞變化）。因此，下文將按照教師實際授課的邏輯順序進行說明。
 
 
 
-### 第一與第二人稱代名詞導論
+### 第一、二人稱代名詞的定義與功能
 
-在希臘文語法中，代名詞（Pronoun）的基本定義是「用來代替名詞的詞」。當我們談論「人稱代名詞」（Personal Pronouns）時，我們指的是那些用來指代特定對象（通常是人）的詞。例如在句子「我是 Bill」中，「我」（I）就是一個代名詞，它所指代的對象（Bill）在語法上稱為「先行詞」（Antecedent）。
+在進入本課之前，我希望大家先放下對「新語法」的恐懼。我們已經跨過了名詞系統最艱難的門檻，接下來的幾章會相對輕鬆，目的是讓你們有時間消化之前的知識。
 
-老師強調，學習代名詞並不需要恐懼，因為這部分內容在很大程度上是我們之前學過的知識的延伸。例如，第一人稱單數主格「我」（*egō*）以及屬格形式「我的」（*mou*）和與格形式「對我」（*moi*），在之前的章節中已經零星出現過。這種「螺旋式」的學習方式旨在減輕學生的負擔，讓學生在進入新的語法領域時感到熟悉。
+所謂「代名詞」（Pronoun），顧名思義，就是用來代替名詞的詞。當我們說「它是紅色的」（It is red），「它」（It）就是代名詞。而我們今天學習的是「人稱代名詞」（Personal Pronouns），即用來指代特定對象的詞。例如：「我是比爾」（I am Bill），這裡的「我」（I）就是代名詞，而它所指代的對象——「比爾」——則稱為「先行詞」（Antecedent）。
+
+你們其實對這些詞並不陌生，因為我在之前的課程中已經悄悄地將它們放入例句中，幫助你們練習。例如第一人稱單數主格的 *ἐγώ*（ego，我），以及第二人稱單數主格的 *σύ*（su，你）。
 
 ### 人稱代名詞的語法特徵
 
-人稱代名詞的語法規則遵循邏輯常識，主要由三個維度決定：
+人稱代名詞的語法邏輯其實非常直觀，幾乎是常識性的：
 
-1.  **格（Case）**：由代名詞在句中的「功能」決定。若代名詞作主詞，則使用主格（Nominative）；若作直接受詞，則使用受格（Accusative）。這與名詞的格位功能完全一致。
-2.  **數（Number）**：由代名詞所指代的對象數量決定。單數對應單數形式（如 *egō*），複數則使用複數形式。
-3.  **性（Gender）**：這是初學者最容易誤解的地方。在第一人稱（我）和第二人稱（你）中，**沒有性別之分**。無論說話者是男性還是女性，代名詞的形式保持不變。性別的區分要等到下一章學習第三人稱代名詞（*autos*）時才會出現。
+1.  **格（Case）**：由功能決定。如果代名詞在句中作主詞，它就是主格；如果作直接受詞，它就是受格。這與我們之前學的名詞變化完全一致。
+2.  **數（Number）**：由指代對象的數量決定。單數用單數形式，複數用複數形式。
+3.  **性（Gender）**：這是重點！在第一與第二人稱代名詞中，**沒有性別之分**。無論說話者是男是女，*ἐγώ*（我）永遠是 *ἐγώ*。這與我們下一章將要學習的第三人稱代名詞不同，那時才會出現性別差異。
 
-因此，學習人稱代名詞的關鍵在於背誦變格表（Paradigms）。雖然這些形式與我們熟悉的冠詞或名詞變格有相似之處，但它們仍有獨特的變化，必須透過反覆練習來熟記。
+### 記憶代名詞的範式（Paradigms）
 
-### 第一與第二人稱代名詞的變格規律
+雖然邏輯簡單，但這些詞形變化（Inflected forms）需要你們背誦。請注意第一人稱與第二人稱在形式上的相似性：
 
-在變格表中，第一人稱（*egō*）與第二人稱（*sy*）展現了高度的對稱性。
+*   **第一人稱**：*ἐγώ*（主格）、*μοῦ*（屬格）、*μοι*（與格）、*με*（受格）。
+*   **第二人稱**：*σύ*（主格）、*σοῦ*（屬格）、*σοί*（與格）、*σέ*（受格）。
 
-*   **第一人稱（*egō*）**：主格 *egō*（我）、屬格 *mou*（我的）、與格 *moi*（對我）、受格 *me*（我，作受詞）。
-*   **第二人稱（*sy*）**：主格 *sy*（你）、屬格 *sou*（你的）、與格 *soi*（對你）、受格 *se*（你，作受詞）。
+你們會發現，複數形式的變化規律也非常類似，例如 *ἡμεῖς*（我們）與 *ὑμεῖς*（你們），差別僅在於首字母。雖然這些規律能幫助記憶，但請務必將這些範式熟記於心，因為它們在聖經原文中出現頻率極高。
 
-觀察複數形式時，會發現第一人稱複數（*hēmeis*）與第二人稱複數（*hymeis*）的結構極為相似，僅在第一個字母上有差異（Eta 對應 Epsilon）。這種規律性是為了幫助學生記憶，但老師提醒，儘管規律明顯，仍需透過大量閱讀來內化這些詞彙，因為它們在聖經經文中出現的頻率極高。
+### 第三變格法名詞的進階規則
 
-### 第三變格名詞的進階規則
+接下來，我們要回到第三變格法（Third Declension）。我們之前學過基本的格尾（如：主格 *-s*，屬格 *-os* 等），也學過「方塊停頓」（Square stops）規則。現在，我們來看看這些規則如何應用在不同詞幹上。
 
-本課後半部分補充了第三變格名詞（Third Declension Nouns）的特殊變化。我們已經學過第三變格的基本詞尾（如單數主格的 Sigma），以及「齒音變格規則」（Dental Stems）。
+#### 1. 齒音詞幹（Dental Stems）
+當詞幹以齒音（如 *τ* 或 *δ*）結尾時，遇到主格的 *-s* 結尾，齒音會脫落。
+*   例如 *χάρις*（charis，恩典），其詞幹是 *χαριτ-*。當加上主格 *-s* 時，*τ* 脫落，變為 *χάρις*。
+*   這與我們學過的 *λόγος*（logos）邏輯一致，只是中間發生了輔音互動。
+*   若遇到中性名詞，如 *φῶς*（phōs，光），其主格與受格形式相同，這是中性詞的通則，請務必留意。
 
-#### 齒音變格（Dental Stems）的互動
-當詞幹以齒音（如 Tau 或 Delta）結尾時，若後接 Sigma，齒音會脫落。
-*   **範例 *charis*（恩典）**：其詞幹為 *charit-*。在主格單數中，*charit-* + *s* 變為 *charis*，因為 Tau 在 Sigma 前脫落。這與我們之前學過的 *logos* 或 *sarx* 的變格邏輯完全一致。
-*   **中性名詞的特例**：如 *phōs*（光）。因為它是中性名詞，其主格與受格形式相同。這提醒我們，判斷格位時必須同時考慮詞性。
+#### 2. 消失的 Iota（The Contained Iota）
+有些詞幹中隱藏了一個古代希臘語中已消失的 iota。例如 *πίστις*（pistis，信心）。
+*   在屬格中，它變為 *πίστεως*。這裡的 *ε* 就是那個消失的 iota 轉化而來的。
+*   當格尾以輔音開始時，它傾向於變為 iota；當格尾以元音開始時，它傾向於變為 epsilon。這類變化不需要死記硬背，理解其背後的語音演變，能幫助你們在閱讀時更靈活地辨認詞根。
 
-#### 消失的輔音（The Consonantal Iota）
-這是一個歷史語言學的概念。古希臘語中曾存在一個「輔音化 Iota」，雖然在通用希臘語（Koine Greek）時期已消失，但它留下了變化的痕跡。
-*   **範例 *pistis*（信心）**：其詞幹中隱藏了這個輔音。當後接輔音開頭的詞尾時，它變為 Iota；當後接母音開頭的詞尾時，它變為 Epsilon。
-*   **教學建議**：老師建議不必過度糾結於這種變化的歷史成因，只需將其視為一種規律性的拼寫變化（Iota 與 Epsilon 的互換），並在背誦時留意即可。
+#### 3. 不規則名詞變化
+最後，我們看幾組特殊的詞，如「父親」（*πατήρ*）、「母親」（*μήτηρ*）和「人」（*ἀνήρ*）。這些詞的特點是元音會發生變化（長短交替）甚至脫落。
+*   例如，在屬格和與格中，中間的元音會消失。這主要是為了發音方便。
+*   對於 *ὕδωρ*（hudōr，水），雖然它是中性詞，但其變化規律與齒音詞幹類似。我建議你們將這些特殊的範式單獨記憶，並在日常複習中不斷鞏固。
 
-#### 特殊名詞變格（如 *patēr*）
-最後，老師提到了像「父親」（*patēr*）、「母親」（*mētēr*）這類詞。這類詞的特點是母音的長短變化，甚至在某些格位中母音會完全消失。這類詞彙沒有通用的簡化規則，最好的學習方式是將其作為特殊的詞彙組進行記憶，並理解這是為了發音便利（例如在與格複數中加入 Alpha 以利發音）。
-
-總結而言，本課的重點在於「規律的應用」。無論是代名詞還是第三變格名詞，其背後的語法邏輯（如格位功能、輔音互動）都是一致的。學生應將重點放在理解這些變化的「為什麼」，而非僅僅死記硬背。
+總結來說，這些變化規則並非要增加你們的負擔，而是要讓你們看見希臘語結構的內在一致性。只要掌握了基本的格尾與輔音互動規則，這些看似複雜的變化其實都是有跡可循的。
 
 
-## Lesson 12: αὐτός (Lesson 12: αὐτός)
+## Lesson 12: αὐτός
 
 > **大綱對照：**
-> 本課教學內容並未完全遵循所提供的「大綱」。教學錄音專注於希臘文單字 αὐτός 的三種功能（人稱代名詞、強調形容詞、同一形容詞）及其語法規則；而所提供的「大綱」則列出了代名詞的分類（指示代名詞、人稱代名詞、關係代名詞）。因此，以下說明將嚴格按照教學錄音的實際授課順序進行編寫，以確保學習者能準確掌握該單字的用法。
+> 本課程的教學內容與所提供的「大綱」並不相符。提供的教學內容專注於希臘文單字 αὐτός 的三種功能（人稱代名詞、強調用法、同一性用法），而大綱則列出了關於指示代名詞、人稱代名詞與關係代名詞的通用介紹。因此，我將完全依照課堂錄音的實際教學內容進行說明，以確保你獲得正確的學習指引。
 
 
 
-### αὐτός 的形態特徵與詞形變化
+歡迎來到第 12 章。今天我們要深入探討一個在希臘文中極為常見且功能多樣的詞彙：**αὐτός**。你可能已經在之前的閱讀中見過它，並在某些語境下使用過它。這是一個關鍵的轉折點，因為我們不再僅僅把它當作一個簡單的代名詞，而是要完整拆解它的三個核心功能。
 
-在進入 αὐτός 的功能之前，我們必須先理解其形態。從詞形變化（declension）的角度來看，αὐτός 是一個標準的「2-1-2 形容詞」。這意味著它的陽性與中性形式遵循第二變格法（second declension），陰性形式則遵循第一變格法（first declension）。
+### 形態學概覽：一個 2-1-2 的形容詞
 
-對於初學者而言，這裡有一個細微但重要的觀察點：在中性主格與受格單數（nominative and accusative singular）中，αὐτός 並沒有出現字尾的 ν（nu）。這是一種第二變格法中性名詞的常見現象。例如，當你看到 αὐτόν 時，可以明確判斷它是陽性受格單數；但若看到 αὐτό，則它是中性主格或受格單數。
+首先，從形態學（morphology）的角度來看，αὐτός 是一個標準的 2-1-2 形容詞。這意味著它的變化規律與你之前學過的形容詞一致，沒有什麼特別驚人的地方。
 
-與第一、二人稱代名詞（ἐγώ, σύ）不同，第三人稱的 αὐτός 具有性別（gender）的區分：αὐτός（陽性）、αὐτή（陰性）、αὐτό（中性）。這是理解該詞用法的核心關鍵。
+不過，有一個細節你需要特別留意，那就是在中性（neuter）形式上。你會發現它缺少了 ν（nu）。這是第二變格法中性名詞的一個常見現象：在主格（nominative）和受格（accusative）單數中，它會省略掉 ν。例如，當你看到 **αὐτόν** 時，你會立刻知道它是陽性單數受格；但當你看到中性形式時，請不要因為找不到 ν 而感到困惑。
 
-### αὐτός 的第一種功能：人稱代名詞 (Personal Pronoun)
+此外，與第一、二人稱代名詞（ἐγώ, σύ）不同，αὐτός 在第三人稱中保留了「性」（gender）的區分：**αὐτός**（陽性）、**αὐτή**（陰性）、**αὐτό**（中性）。
 
-這是 αὐτός 最常見的用法，也是學生最熟悉的層面。當它作為人稱代名詞時，其翻譯取決於它的性、數、格。
+### 性別的判定：自然性別 vs. 文法性別
 
-#### 自然性別與語法性別的區分
-這是初學者最容易混淆的地方。當 αὐτός 指代「人」時，它遵循「自然性別」（natural gender）。例如，若指代一位男性，我們使用陽性形式並譯為「他」（he）；若指代一位女性，則使用陰性並譯為「她」（she）。
+這是一個非常重要的觀念，請務必記住：當 αὐτός 指代「人」時，它遵循的是**自然性別（natural gender）**。如果它指代的是一個男性，我們就用陽性；指代女性，就用陰性。
 
-然而，當其先行詞（antecedent）不是人時，它必須遵循「語法性別」（grammatical gender）。例如，希臘文中的「世界」一詞 κόσμος 是陽性名詞。若在後文中要指代這個「世界」，我們必須使用陽性形式 αὐτός，但在中文或英文翻譯中，我們不能將其譯為「他」，而應根據該名詞在目標語言中的特性譯為「它」（it）。這種「希臘文形式對應語法性別，翻譯對應目標語言邏輯」的轉換，是翻譯時必須具備的敏銳度。
+但是，當它的先行詞（antecedent）不是「人」時，它必須遵循**文法性別（grammatical gender）**。舉個例子，如果先行詞是 **κόσμος**（世界），因為 κόσμος 在希臘文中是陽性名詞，所以當你稍後要用代名詞指代它時，你必須使用陽性形式的 αὐτός。然而，在翻譯成英文時，我們不能翻譯成「他」（he），而必須根據其指代的對象翻譯為「它」（it）。
 
-#### 複數形式的處理
-在複數形式中，希臘文依然保留了性別區分，而中文與英文則通常使用統一的「他們/牠們/它們」（they）。因此，在翻譯時，學生必須回頭檢查先行詞的性別，以確保對該代名詞的指代對象有正確的理解，即便最終翻譯出來的詞彙可能是一樣的。
+在複數形式中，規則也是一樣的。雖然英文的 "they" 不分性別，但希臘文會嚴格保留性別差異。因此，在翻譯時，你必須先判斷先行詞是人還是物，再決定該使用哪種性別的代名詞。
 
-### αὐτός 的第二種功能：強調形容詞 (Adjectival Intensive)
+### αὐτός 的三大功能
 
-當 αὐτός 出現在「述語位置」（predicate position）且為「主格」（nominative）時，它通常發揮強調作用，類似於英文中的反身代名詞（reflexive pronoun，如 -self）。
+雖然我們通常將 αὐτός 歸類為第三人稱代名詞，但它實際上承擔了三種截然不同的語法功能。
 
-#### 語法位置與翻譯邏輯
-判斷該功能的關鍵在於語序。若 αὐτός 處於述語位置，它便是在強調該名詞。例如：
-*   **ὁ ἀπόστολος αὐτός**：譯為「使徒本人」（the apostle himself）。
-*   **αὐτὴ ἡ ἐκκλησία**：譯為「教會本身」（the church itself）。
+#### 1. 第三人稱代名詞 (Personal Pronoun)
+這是最常見的用法，也是你目前最熟悉的。當它作為代名詞時，它的格（case）是由它在句子中的功能決定的（例如：作主詞用主格，作受詞用受格）；而它的性與數則由它所指代的先行詞決定。
+*   **例子：** **αὐτός λέγει αὐτῷ**（他對他說）。這裡的 αὐτός 是主格，作主詞；αὐτῷ 是與格，作間接受詞。
 
-這裡的性、數、格完全取決於它所修飾的名詞。若要表達「我自己」，則是 ἐγὼ αὐτός。這種用法在翻譯時，應運用常識判斷：根據上下文，選擇最合適的反身代名詞（本人、本身、我自己等）來傳達強調的語氣。
+#### 2. 強調用法 (Adjectival Intensive)
+當 αὐτός 出現在**述語位置（predicate position）**且通常為 nominative（主格）時，它具有強調功能，相當於英文的 reflexive pronoun（反身代名詞，如 -self）。
+*   **例子：** **αὐτός ὁ ἀπόστολος**（使徒「本人」）。
+*   **例子：** **ἐγὼ αὐτός**（「我」自己）。
+這種用法是為了強調該名詞本身。判斷的關鍵在於它是否位於述語位置。如果它在句首且是主格，通常就是為了強調主詞。
 
-### αὐτός 的第三種功能：同一形容詞 (Identical Adjective)
+#### 3. 同一性用法 (Identical Adjective)
+當 αὐτός 出現在**屬性位置（attributive position）**，也就是緊接在冠詞（article）之後時，它通常被翻譯為「同一個」（the same）。
+*   **例子：** **ὁ αὐτὸς Ἰησοῦς**（「同一個」耶穌）。
+*   **例子：** **τὸν αὐτὸν λόγον**（「同一個」話語）。
 
-當 αὐτός 出現在「定語位置」（attributive position）時，它通常被用作「同一形容詞」，意為「相同的」（same）。
+### 總結與應用建議
 
-#### 定語位置的識別
-定語位置的特徵是該詞緊跟在冠詞之後（例如：ὁ αὐτὸς Ἰησοῦς）。當你看到這種結構時，直接將其譯為「相同的」即可。
-*   **ὁ αὐτὸς Ἰησοῦς**：相同的耶穌（the same Jesus）。
-*   **τὸν αὐτὸν λόγον**：相同的話語（the same word）。
+在翻譯時，請遵循以下邏輯：
+1.  **先看位置**：如果它在屬性位置（有冠詞），優先考慮「同一個」。
+2.  **再看述語位置**：如果它在述語位置，考慮「本身/自己」的強調用法。
+3.  **最後是代名詞**：如果以上兩者皆非，它絕大多數情況下就是第三人稱代名詞。
 
-### 總結：如何區分三種功能
-
-為了在閱讀經文時能快速反應，學生可以建立以下判斷流程：
-
-1.  **觀察位置**：
-    *   若在**定語位置**（有冠詞修飾），通常是「同一形容詞」（same）。
-    *   若在**述語位置**（通常是主格），通常是「強調形容詞」（-self）。
-    *   若不屬於上述兩者，則按一般「人稱代名詞」處理。
-2.  **確認先行詞**：檢查該詞是指代人（自然性別）還是物（語法性別），以決定翻譯時的代名詞選擇。
-
-掌握這三種功能，並能根據語法位置進行區分，是準確解讀新約希臘文經文的基礎能力。
+這三個功能涵蓋了 αὐτός 在新約聖經中的絕大多數用法。只要你掌握了「性別判定」與「位置判斷」這兩個核心，你就能準確地處理這個詞在不同語境下的意義。
 
 
 ## Lesson 13: 指示代名詞與形容詞 (Demonstrative Pronouns/Adjectives)
 
 > **大綱對照：**
-> 本文內容大致遵循所提供的大綱，但教師在教學過程中將「呼格」（Vocative Case）作為額外的補充內容加入，因此本指南在結構上涵蓋了指示代名詞的語法，並在最後補充了關於呼格的說明。
+> 本課的講解內容與所提供的大綱大致吻合，但教師在教學過程中，將重點放在「指示代名詞與形容詞的語法功能」以及「呼格（Vocative）」的補充說明上，並未逐一列舉所有格位的變格表，而是強調其變格邏輯與先前學過的 *autos* 一致。以下說明將依照教師實際授課的邏輯順序進行。
 
 
 
-### 指示代名詞與形容詞的定義與功能
+### 指示代名詞的定義與功能
 
-在希臘文中，指示代名詞（Demonstrative Pronouns/Adjectives）的功能與英文非常相似。英文中有「this/these」（這/這些）與「that/those」（那/那些）之分，希臘文亦然。這類詞彙在句中主要有兩種功能：
+在進入希臘文之前，我們先從英文的邏輯來理解。英文中有兩組指示代名詞：近指的 "this"（單數）與 "these"（複數），以及遠指的 "that"（單數）與 "those"（複數）。在希臘文中，這兩組詞分別是 *houtos*（意為 "this"）與 *ekeinos*（意為 "that"）。
 
-1.  **指示代名詞（Demonstrative Pronoun）**：當它獨立存在，不修飾任何名詞時，它扮演代名詞的角色。例如：「This is mine」（這是我的），此處的「This」指代某個事物。
-2.  **指示形容詞（Demonstrative Adjective）**：當它修飾一個名詞時，它扮演形容詞的角色。例如：「That car is yours」（那輛車是你的），此處的「That」用來限定「car」。
+這兩個詞在希臘文中可以扮演兩種角色：
+1. **指示代名詞 (Demonstrative Pronouns)**：當它獨立出現，沒有修飾任何名詞時，它就是代名詞。例如 "This is mine"（這是我的），"This" 本身就代表了某個事物。
+2. **指示形容詞 (Demonstrative Adjectives)**：當它修飾一個名詞時，它就是形容詞。例如 "That car is yours"（那輛車是你的），"That" 在此修飾 "car"。
 
-希臘文中的兩個主要指示代名詞分別是：
-*   **οὗτος (houtos)**：意為「這」（this/these）。
-*   **ἐκεῖνος (ekeinos)**：意為「那」（that/those）。
+當你看到 *houtos* 時，請先判斷它是否在修飾名詞。如果它是孤零零地出現，它就是代名詞。作為代名詞時，它的格位（Case）由它在句中的功能決定（例如作主詞用主格，作受詞用受格）；而它的性（Gender）與數（Number）則由它所指代的「先行詞」（Antecedent）決定。如果它是陽性單數，你可以根據上下文補上「這個人」或「這件事」來幫助翻譯。
 
-### 語法規則：代名詞與形容詞的區別
+### 語法位置：謂語位置 (Predicate Position)
 
-教師強調，學習這些詞彙時不需要死記硬背全新的規則，而是要將過去學習的原則（如 *autos* 的用法）應用於此。
+當指示代名詞作為形容詞使用時，有一個非常重要的規則：它們總是位於**謂語位置 (Predicate Position)**。
 
-#### 當作代名詞時（Pronoun Usage）
-當指示代名詞獨立使用時，其「格」（Case）由它在句中的功能決定（如：主格作主詞，受格作受詞）。其「性」（Gender）與「數」（Number）則由它所指代的「先行詞」（Antecedent）決定。
-*   **補充說明**：如果指示代名詞指代的是人，但在句中沒有明確的名詞，我們可以根據其性數補上「人」（man/men）等詞彙，以幫助翻譯清晰。
+這對初學者來說可能會感到困惑，因為我們習慣了定冠詞加上名詞的結構。但在希臘文中，如果你看到 *houtos* 修飾名詞（例如 *houtos ho anthropos*，意為「這個人」），你會發現名詞前面有定冠詞，但指示代名詞前面卻沒有。這就是典型的謂語位置。
 
-#### 當作形容詞時（Adjective Usage）
-當指示代名詞修飾名詞時，其「格、數、性」必須與它所修飾的名詞保持一致。這與我們學習形容詞時的原則完全相同。
+這與我們之前學過的形容詞 *pas*（意為「每一個」或「所有」）的用法類似。當指示代名詞處於這種結構時，我們直接將其翻譯為「這個人」或「那個人」。請記住，這並不是什麼新的語法規則，而是將我們之前學過的「謂語位置」概念應用到新的詞彙上。
 
-### 句法位置：謂語位置（Predicate Position）
+### 變格的規律與注意事項
 
-這是本課的一個關鍵點。當指示代名詞作為形容詞使用時，它通常位於**謂語位置（Predicate Position）**。
-*   **規則**：在希臘文中，若名詞帶有定冠詞，而指示代名詞沒有，則該指示代名詞位於謂語位置。例如：*οὗτος ὁ ἄνθρωπος*（此人）。
-*   **對比**：這與形容詞修飾名詞時的定語位置（Attributive Position）不同。教師提醒，這與我們之前學過的 *πᾶς (pas)* 的用法類似，*pas* 在作形容詞修飾名詞時，也常出現在謂語位置。
+關於 *houtos* 與 *ekeinos* 的變格，好消息是：它們基本上遵循 2-1-2 形容詞的變格模式。如果你已經熟悉了定冠詞與 *autos* 的變格，這裡幾乎沒有新的負擔。
 
-### 詞形變化與識別技巧
+不過，有幾個細節需要特別留意：
+1. **與 *autos* 的區別**：*autos* 總是帶有「柔氣符」(Smooth breathing)，而 *houtos* 總是帶有「粗氣符」(Rough breathing) 或以 tau (τ) 開頭。這能幫助你在閱讀時快速區分兩者。
+2. **中性單數的特殊性**：在主格與受格的中性單數形式中，它們會脫落詞尾的 nu (ν)。
+3. **元音的變動**：你可能會注意到 *houtos* 的詞幹元音會在 omicron (ο) 與 alpha (α) 之間波動。這取決於詞尾的元音是什麼——如果詞尾是 omicron，詞幹元音傾向於 omicron；如果詞尾是 eta (η)，詞幹元音則傾向於 alpha。這是一個有趣的規律，但即便你不刻意記憶，只要認得詞尾，依然可以準確解析。
 
-#### 關於 *οὗτος (houtos)* 與 *ἐκεῖνος (ekeinos)*
-*   **詞形特徵**：*οὗτος* 的變化遵循 2-1-2 形容詞變格法。
-*   **識別技巧**：注意主格與受格單數中，它與定冠詞（Article）有相似之處。特別是當看到結尾有 *-ν* 的形式時，它通常是陽性單數受格。
-*   **呼吸號（Breathing Marks）的區別**：教師特別提醒，*οὗτος* 永遠帶有粗氣號（Rough breathing）或以 *τ* 開頭，這能幫助我們將其與第三人稱代名詞 *αὐτός (autos)*（帶有柔氣號）區分開來。
-*   **母音變化**：*οὗτος* 的詞幹母音會在 *ο*（omicron）與 *α*（alpha）之間波動，這取決於詞尾的母音。雖然這是一個有趣的規律，但即便不深究其原因，也不影響我們對詞彙的解析（Parsing）。
+### 補充：第五個格位——呼格 (Vocative)
 
-### 補充：第五個格——呼格（Vocative Case）
+雖然我們通常談論「四格系統」，但希臘文其實還有第五個格位，即**呼格 (Vocative)**。呼格用於直接稱呼某人，例如當你對我說：「老師 (Teacher)，我可以問個問題嗎？」這裡的「老師」就是呼格。
 
-教師在課程結尾提到，雖然我們通常談論四個格，但實際上還有第五個格，即「呼格」。
+呼格的規則相對簡單，且通常從上下文就能一眼看出：
+* **複數呼格**：與主格形式完全相同。
+* **第一變格（陰性）**：呼格與主格形式相同。
+* **第二變格（陽性）**：呼格詞尾通常變為 epsilon (ε)。例如，「主」是 *kurios*，呼喚祂時則用 *kurie*。
+* **第三變格**：通常是詞幹本身。例如 *pater*（父親）。
 
-1.  **定義**：呼格用於直接稱呼某人。例如，當你要稱呼老師時，你會使用呼格。
-2.  **識別**：呼格通常不需要刻意解析，因為從上下文（直接對話）中非常明顯。
-3.  **規則**：
-    *   **複數**：呼格與主格（Nominative）形式完全相同。
-    *   **單數（第一變格）**：呼格與主格相同。
-    *   **單數（第二變格）**：呼格通常以 *-ε*（epsilon）結尾（例如：*κύριε*，主啊）。
-    *   **單數（第三變格）**：通常是裸詞幹（bare stem），有時詞幹會發生輕微變化（例如：*πατήρ* 的呼格變為 *πάτερ*）。
-
-總結來說，指示代名詞的學習重點在於識別其在句中的功能（代名詞或形容詞），並運用已學過的格位一致性原則進行解析。呼格則是一個簡單的補充，主要用於直接稱呼的語境中。
+呼格不需要過度擔心，因為在實際閱讀中，當你看到有人在對話中稱呼某人時，語境會明確告訴你這就是呼格。請將這些規則視為輔助工具，而非死記硬背的負擔。
 
 
 ## Lesson 14: 關係代名詞 (Relative Pronouns)
 
 > **大綱對照：**
-> 本課教學內容與所提供的大綱並不完全吻合。教學錄音主要聚焦於「關係代名詞（Relative Pronouns）」的定義、句法功能（格、性、數的判定原則）以及辨識技巧，而非逐一列舉各格的變化表。因此，下文將嚴格依照教學錄音的邏輯順序進行說明。
+> 本文內容大致遵循所提供的大綱結構，但在講解「相對代名詞的用法」時，我將重點放在了語法規則的實際操作（如格、性、數的判定原則），這比單純列舉大綱中的分類更具教學實用性。
 
 
 
-### 關係代名詞的定義與重要性
-在希臘文語法學習中，第十四章是一個重要的里程碑，標誌著名詞系統（noun system）教學的尾聲。關係代名詞（Relative Pronouns）在英文中對應的是 *who*, *whose*, *whom*, *that*, *which* 等詞。
+### 關係代名詞導論 (Introduction to Relative Pronouns)
 
-初學者需特別注意：這裡的關係代名詞並非「疑問代名詞（interrogative pronouns）」。雖然在英文中，*who* 既可以用於疑問句（如：Who are you?），也可以用於關係子句（如：The man who is here），但在希臘文中，這兩者的功能與形式是截然不同的。關係代名詞的主要功能是引導一個「關係子句（relative clause）」，用以修飾先行詞（antecedent），而非提出問題。
+各位同學，歡迎來到第 14 課。今天我們來到了一個巨大的里程碑：這是名詞系統（noun system）的最後一章。雖然在後續學習動詞的過程中，我們還會接觸到一些名詞的細節，但從結構上來說，你們已經掌握了絕大部分必須知道的名詞知識。恭喜大家！這段路走來並不容易，但你們已經跨越了這道門檻。
 
-### 關係子句的結構與功能
-關係代名詞引導的子句被稱為「關係子句」。在分析句子時，建議將這些子句視為一個獨立的單位，可以用括號括起來。一個完整的關係子句必須包含一個關係代名詞以及該子句內部的動詞與主詞。
+在這一課，我們要學習的是「關係代名詞」（Relative Pronouns）。在英文中，這類詞彙包括 *who*（誰/……的人）、*whose*（誰的）、*whom*（誰，受格）以及 *that*（那……的）。請務必注意，這裡的 *who* 或 *that* 並不是用來提問的「疑問代名詞」（interrogative pronouns），它們的功能是連接子句。例如：「那位學生所喜愛的老師（The teacher whom the students love）贏得了年度教師獎。」這裡的 *whom* 並非在問問題，而是在引導一個描述「老師」的子句。
 
-#### 關係代名詞的格（Case）判定
-這是本課的核心難點。關係代名詞的「格」並非由其所修飾的先行詞決定，而是由**其在關係子句內部所扮演的語法功能**決定。
+### 關係代名詞的定義與功能 (Definition and Usage)
 
-*   **判定原則**：若要找出關係代名詞的格，請嘗試將關係代名詞替換回其先行詞。
-*   **範例分析**：以句子 *ton didaskalon hon agapo*（我所愛的老師）為例。
-    *   在此句中，*hon* 是關係代名詞。
-    *   其子句為 *hon agapo*（我愛[他]）。
-    *   在子句內部，*agapo*（我愛）是動詞，主詞是隱含的「我」，而 *hon* 作為受詞（direct object），因此必須使用受格（accusative）。
-    *   結論：關係代名詞的格，取決於它在該子句中是作主詞、受詞還是其他成分。
+要理解關係代名詞，最簡單的方法就是觀察它在句子中的運作方式。請看這個例子：*ton didaskalon hon agapo*（那位我所愛的老師）。這裡的 *hon* 就是關係代名詞。
 
-#### 關係代名詞的性（Gender）與數（Number）判定
-與「格」不同，關係代名詞的「性」與「數」是完全由其**先行詞（antecedent）**決定的。
+當我們遇到關係代名詞時，請務必記住以下四個核心原則：
 
-*   **一致性原則**：即便先行詞在關係子句中扮演的角色不同，關係代名詞的性與數必須與先行詞保持一致。
-*   **範例分析**：若先行詞是 *didaskalos*（老師，陽性單數），那麼關係代名詞也必須是陽性單數，即便該老師是一位女性。這是語法上的「一致性（agreement）」，而非自然性別的反映。
+1.  **位置性**：關係代名詞總是位於「關係子句」（relative clause）的第一個位置，用來引導整個子句。這就像介系詞引導介系詞片語一樣，它標誌著一個新單元的開始。
+2.  **格（Case）的判定**：這是學生最容易混淆的地方。請記住，關係代名詞的「格」是由它**在關係子句內部所扮演的功能**決定的，而不是由它所修飾的先行詞（antecedent）決定的。在 *hon agapo*（我所愛的……）這個例子中，*hon* 是動詞 *agapo*（我愛）的直接受詞，因此它必須使用受格（accusative）。如果我們把代名詞替換回先行詞，句子會變成「我愛那位老師」，老師是受詞，所以 *hon* 必須是受格。
+3.  **性（Gender）與數（Number）的判定**：與「格」不同，關係代名詞的「性」與「數」是由它的「先行詞」決定的。這與自然性別無關，而是純粹的語法一致性。如果先行詞是陽性單數，關係代名詞就必須是陽性單數。即便先行詞的意義在邏輯上可能與性別衝突，語法上仍須保持一致。
+4.  **從屬性**：關係子句是「從屬子句」（dependent clause）。這意味著它包含了自己的動詞與主詞，但它不是整句話的主要子句。它是一個自給自足的單位，我們在分析句子時，可以試著用括號把它括起來，以便將其與句子的主幹區分開來。
 
-### 關係子句作為從屬子句
-關係子句在本質上是「從屬子句（dependent clause）」。這意味著：
-1.  它不能包含句子的主要動詞（main verb）與主要主詞。
-2.  它必須依附於主句存在。
-3.  關係代名詞通常位於該子句的第一個位置，起著類似介系詞引導介系詞片語的作用。
+### 形式與辨識 (Forms and Identification)
 
-### 辨識技巧：外觀與特徵
-在形式上，關係代名詞的變化與名詞的變格（declension）非常相似，通常帶有該變格類型的母音。辨識關係代名詞有兩個關鍵特徵：
-1.  **粗氣符（rough breathing）**：這是關係代名詞最顯著的標記。
-2.  **重音（accent）**：關係代名詞通常帶有重音。
+在形式上，關係代名詞非常規律。它們看起來就像帶有特定字尾的詞，且通常遵循「2-1-2」變格法（即第二變格法-第一變格法-第二變格法）。
 
-**與定冠詞（article）的區別**：
-這是一個常見的陷阱。在主格（nominative）的陽性與中性形式中，關係代名詞與定冠詞長得很像，但定冠詞在這些情況下通常不帶重音，而關係代名詞則帶有重音。因此，若看到一個詞看起來像變格結尾，且同時具備「粗氣符」與「重音」，那它幾乎可以肯定就是關係代名詞。
+你們在辨識時，請特別留意兩個關鍵特徵：
+*   **粗氣符號（Rough Breathing）**：關係代名詞開頭通常會有粗氣符號。
+*   **重音（Accent）**：它們總是帶有重音。
 
-總結來說，掌握關係代名詞的關鍵在於：將其視為子句的「連接詞」與「內部成分」的雙重角色。透過「格看內部功能，性數看先行詞」的原則，即可準確解析這類結構。
+這點在與「冠詞」（article）區分時至關重要。在主格的陽性與中性形式中，關係代名詞與冠詞長得很像，但冠詞在這些情況下通常是不帶重音的。因此，當你看到一個詞，它看起來像帶有格尾的元音，且同時具備「粗氣符號」與「重音」，你就可以很有把握地斷定：這就是關係代名詞。
+
+### 總結與應用 (Conclusion)
+
+學習關係代名詞時，不要試圖去背誦複雜的定義，而是要學會「拆解」。當你讀到一段希臘文經文，看到關係代名詞時，請立刻在腦中畫出括號：
+1.  找到先行詞（決定性與數）。
+2.  分析關係子句內部的動詞與主詞（決定關係代名詞的格）。
+3.  將關係子句翻譯出來，並將其與主要子句連結。
+
+這就是我們處理關係代名詞的邏輯。掌握了這一點，你們就等於掌握了希臘文句法中連接思想的關鍵工具。現在，讓我們開始進入具體的變格練習吧！
 
 
 ## Lesson 15: 動詞導論 (Introduction to Verbs)
 
 > **大綱對照：**
-> 本文並未嚴格遵循所提供的教學大綱。教師在本次課程中主要聚焦於動詞的基礎概念（人稱、數、時態與時間的區別、語態/體貌的初步介紹），並未詳細展開大綱中列出的語態（Voice）與語氣（Mood）的細節。因此，以下說明將根據教師實際講授的順序與邏輯進行編排，以確保讀者能準確掌握課程核心。
+> 本次課程並未完全依照所提供的大綱進行。講者在課程中主要聚焦於動詞的基本概念（人稱、數、一致性）、區分「時間」(time) 與「時態」(tense) 的重要性、以及「語體」(aspect) 的概念，並介紹了希臘文動詞的構造方式。大綱中所列出的語態 (voice)、語氣 (mood) 以及具體的時態分類（如 Aorist, Perfect 等），講者在本次導論中僅略微提及或尚未深入探討。因此，以下說明將嚴格按照講者實際授課的內容順序與邏輯進行編排。
 
 
 
-### 動詞的基本定義與一致性 (Person and Number)
+### 動詞的基本定義與一致性 (Agreement)
 
-在希臘文語法中，動詞（Verbs）是用來表達「動作」（action）或「存在狀態」（state of being）的詞類。正如名詞有格、性、數的變化，希臘文動詞同樣具備「人稱」（person）與「數」（number）的特徵。
+我們正式告別了名詞，現在要進入動詞的領域。動詞是用來表達「動作」(action) 或「存在狀態」(state of being) 的詞彙。例如，「我正在研讀希臘文」(I am studying Greek) 以及「希臘文是屬天的語言」(Greek is the heavenly language)，這些句子中的核心就是動詞。
 
-所謂的「一致性」（agreement），是指動詞必須在人稱與數上與其主詞保持一致。例如，當主詞是第一人稱單數時，動詞形式必須是第一人稱單數（如 *eimi*，意為「我是」）；若主詞變為第二人稱複數，動詞也必須隨之變形。這種一致性是希臘文句法結構的基石，若忽略這一點，將無法正確解讀句子的主體與動作執行者。
+在希臘文中，動詞必須與其主詞在「人稱」(person) 與「數」(number) 上保持一致。這意味著如果主詞是第一人稱單數，動詞的形式也必須是第一人稱單數。我們之前學過的 *εἰμί* (eimi, 我是) 就是一個很好的例子。如果主詞變成了第二人稱複數，動詞的結尾也必須隨之改變以符合該主詞。這種「一致性」是希臘文語法的基礎，若你無法掌握主詞與動詞之間的對應關係，在解經時就很容易出現錯誤。
 
-### 區分「時間」與「時態」 (Time vs. Tense)
+### 區分「時間」(Time) 與「時態」(Tense)
 
-這是本課最重要的解經（Exegesis）原則之一。教師強調，必須嚴格區分「時間」（Time）與「時態」（Tense）這兩個概念，因為在英文（以及中文）的直覺中，這兩者常被混為一談，但在希臘文語法中，它們有本質上的區別：
+這是學習希臘文動詞時最關鍵的觀念之一。在英文中，我們很容易混淆這兩個概念，但在釋經學 (exegesis) 上，將它們嚴格區分開來至關重要。
 
-*   **時間 (Time)**：指動作發生的時間點，即過去、現在或未來。這是客觀發生的時間範疇。
-*   **時態 (Tense)**：嚴格指動詞的「形式」（form）。在希臘文中，時態形式並不總是直接對應時間。
+*   **時間 (Time)**：指的是動作發生的時間點，即動作是發生在過去、現在還是未來。
+*   **時態 (Tense)**：指的是動詞的「形式」(form)。
 
-教師舉例說明：在英文中，若要表達「未來時間」的動作，我們常使用「助動詞 + 現在時態形式」（如：*will study*）。這裡的 *will* 是時間標記，而 *study* 是現在時態形式。在希臘文解經中，若混淆了「形式」與「時間」，會導致對經文意義的誤判。因此，學習者必須養成習慣：當看到一個動詞時，先分析其「形式」（Tense form），再根據上下文判斷其「時間」（Time）。
+請務必記住：當我談到「時態」時，我指的僅僅是動詞的拼寫形式，而非它所代表的時間。以英文為例，我們可以用「現在時態」的形式加上助動詞 "will" 來表達「未來時間」。這說明了形式（時態）與時間並不總是直接對應的。在希臘文研究中，若你將兩者混為一談，將會嚴重影響你對經文原意的解讀。
 
-### 體貌 (Aspect) 的概念：連續與完成
+### 語體 (Aspect)：動作的本質
 
-「體貌」（Aspect）是語言學中描述動作「種類」的概念。教師指出，這是希臘文動詞系統中極為重要，卻常被初學者忽略的領域。
+除了時間與時態，動詞系統中還有一個非常重要的概念，稱為「語體」(aspect)。這在希臘文中具有極高的重要性，甚至比在英文中更為關鍵。簡單來說，語體指的是「動作的種類」(kind of action)。
 
-#### 1. 英文中的體貌對比
-為了幫助理解，教師以英文為例：
-*   **連續體貌 (Continuous Aspect)**：如 "I was studying"（我當時正在讀書）。這強調動作是一個「過程」，具有線性、持續的特徵。
-*   **完成體貌 (Completed Aspect)**：如 "I studied"（我讀了書）。這強調動作已經結束、達成或完成。
+在英文中，我們可以粗略地將語體分為兩類：
+1.  **持續語體 (Continuous aspect)**：描述動作作為一個正在進行的過程，是線性的。例如："I was eating"（我當時正在吃）。
+2.  **完成語體 (Completed aspect)**：描述動作已經結束、達成。例如："I ate"（我吃了）。
 
-透過對比 "I studied last night"（我昨晚讀了書，強調結果）與 "I was studying last night"（我昨晚當時正在讀書，強調過程），我們可以感受到體貌帶來的語意差異。這種對動作性質的描述，在希臘文中具有極高的解經價值。
-
-#### 2. 希臘文的體貌系統
-希臘文的體貌比英文更為複雜，教師目前介紹了兩種核心體貌：
-*   **連續體貌 (Continuous Aspect)**：描述動作為一個進行中的過程（linear, ongoing）。
-*   **未定義體貌 (Undefined Aspect)**：這是希臘文特有的「萬用」體貌。當作者使用此體貌時，他並不關心動作的「過程」或「完成狀態」，僅僅是客觀地陳述「這件事發生了」。
-
-教師以「尼加拉瀑布」為例：若要強調水流持續不斷的過程，會使用連續體貌；但若只是單純陳述「水流過瀑布」這個事實，而不強調其過程，則會使用未定義體貌。這對解經的啟示是：當聖經作者使用未定義體貌時，我們不應過度解讀其動作的性質（如強調它是瞬間發生或持續發生），因為作者的重點僅在於「事件的發生」。
+當你閉上眼睛感受這兩句話的差異時，你會發現："I studied last night" 強調的是動作的完成；而 "I was studying last night" 則強調動作的過程，你甚至會預期後面還有後續事件（例如：我正在讀書，然後朋友打電話來）。這種對動作本質的直覺感受，就是語體的核心。
 
 ### 希臘文動詞的構造：拆解與重組
 
-希臘文動詞的構成方式與名詞類似，是透過「詞幹」（stem）加上各種附加成分組成的。教師強調了一種與傳統「死記硬背」截然不同的學習方法：
+希臘文動詞的構造方式與名詞類似：它們由一個基本的「詞幹」(stem) 開始，然後在後面加上不同的組件。
 
-1.  **詞幹 (Stem)**：動詞的核心意義。
-2.  **連接母音 (Connecting vowel)**：用來銜接詞幹與詞尾。
-3.  **人稱詞尾 (Personal ending)**：決定動詞的人稱與數。
+以 *λύομεν* (luomen, 我們正在釋放/毀壞) 為例，它的構造如下：
+*   **詞幹 (Stem)**：*λυ-*
+*   **連接母音 (Connecting vowel)**：*ο*
+*   **人稱結尾 (Personal ending)**：*-μεν*（表示第一人稱複數）
 
-例如 *luomen*（我們正在釋放/毀壞），是由詞幹 *lu-*、連接母音 *-o-* 與人稱詞尾 *-men* 組成。
+我們在課堂上的目標，不是去死背那種四英尺長、寫滿密密麻麻變格表的大型圖表，而是要學習希臘文動詞的「組裝邏輯」。我們要學會識別這些「觸發點」(triggers)，即那些代表特定人稱、數或語體的零件。一旦你學會了這些零件的意義，你就能像拆解機械一樣，將一個動詞拆開，並推導出它的形式。我們只需要掌握兩張核心圖表：一張是「人稱結尾總表」(Master personal ending chart)，另一張是「動詞構造總表」(Master verb chart)。
 
-#### 教學方法的轉向
-教師反對學生死記硬背市面上那種巨大的「動詞變位表」（Paradigm charts）。相反地，本課程的目標是教導學生「拆解」動詞。透過學習這套「拼裝邏輯」，學生只需掌握「主詞尾表」與「主動詞表」，就能像解密一樣，從任何一個變位後的動詞中，推導出其原始形式與語法意義。這種方法不僅減輕了記憶負擔，更培養了學生直接面對希臘文原文的分析能力，而非依賴死板的記憶。
+### 希臘文的語體系統
+
+最後，我要特別說明希臘文的語體。雖然這在學界仍有爭議，但我認為以下分類最易於學習：
+
+1.  **持續語體 (Continuous aspect)**：與英文相同，強調動作是線性的、正在進行的過程。
+2.  **未定義語體 (Undefined aspect)**：這是希臘文中最特別的一種。當作者使用這種語體時，他並未強調動作的過程或性質，僅僅是告知讀者「這件事發生了」。這就像是一個「萬用語體」(dump aspect)，作者不在乎動作是持續的、重複的還是瞬間發生的（punctiliar），他只是在陳述一個事實。
+
+例如，描述尼加拉瀑布的水流，你可以說「水正在流下」（強調持續過程），也可以說「水流下」（使用未定義語體）。後者並不代表水沒有在流，而是作者認為「動作的性質」在此處並不重要，他僅僅是陳述這個事件。
+
+除了這兩種，希臘文還有第三種語體，但我們目前先不深入探討，等時機成熟時，我們會再將它填入這個系統中。現在，請先專注於理解這些基本的構造與語體概念。
 
 
 ## Lesson 16: 現在主動語態直說語氣 (Present Active Indicative)
 
 > **大綱對照：**
-> 本課解釋大致遵循所提供的大綱，但在結構上更側重於教學邏輯的先後順序（即先解釋構成要素，再進行範式演練）。大綱中關於「用法與翻譯」（III）的部分，教師在課堂中僅簡要提及了「簡單式」與「持續式」的區別，並未深入探討「迭代」、「格言」或「歷史」現在式等細節，因此本指南將重點放在教師實際教授的內容上。
+> 本課說明並未嚴格遵循所提供的大綱。講者主要聚焦於「Present Active Indicative（現在主動語態直說語氣）」的構成要素（詞幹、連接元音、人稱詞尾）以及記憶策略，而非詳細探討各種用法（如歷史性現在或格言性現在）。因此，以下說明將依照講者的實際教學順序進行編排。
 
 
 
-### 現在主動語態直說語氣的定義與重要性
+### 導論：進入動詞系統的基礎
+歡迎來到第 16 章。我們已經掌握了動詞的基本語法框架，現在要開始進入更細緻的領域：探討希臘文如何組合不同的「時態（Tense）」、「語態（Voice）」與「語氣（Mood）」。本章的核心是 **Present Active Indicative**（現在主動語態直說語氣）。
 
-在進入希臘文動詞的複雜世界時，我們首先要掌握的是「現在主動語態直說語氣」（Present Active Indicative）。這不僅是動詞學習的起點，更是理解後續所有動詞變化的基石。
+首先，我們需要理解什麼是「現在時態」。在希臘文中，現在時態通常（但不總是）描述發生在現在的動作。關於其「體（Aspect）」，你有兩種翻譯選擇：**連續性（Continuous）**（例如：I am studying，我正在學習）或是**簡單性（Simple/Undefined）**（例如：I study，我學習）。你可能會問：「我該如何選擇？」答案永遠在於**上下文（Context）**。當你在翻譯聖經時，請觀察上下文，看看哪一種表達方式更符合經文的語境。雖然在課本中我常使用連續性翻譯，那是為了幫助你們建立對「現在時態」的直觀印象，但實際應用時，請務必保持靈活。
 
-*   **現在時態（Present Tense）的意義**：通常描述發生在現在的動作。在希臘文的「體」（Aspect）概念中，現在時態具有彈性：它可以翻譯為「簡單式」（Simple，如：I study）或「持續式」（Continuous，如：I am studying）。教師強調，選擇哪種翻譯取決於上下文（Context）。雖然課本為了教學方便常使用持續式，但學生在研讀聖經時，必須根據經文的語境來決定最合適的表達方式。
-*   **主動語態（Active Voice）**：指主詞親自執行該動作。
-*   **直說語氣（Indicative Mood）**：這是動詞用來「陳述事實」或「提出問題」的語氣。在英語中，我們區分「我很快樂」（陳述事實，直說語氣）與「如果我快樂」（假設語氣，Subjunctive Mood）。在希臘文學習的初期，我們接觸的幾乎都是直說語氣，因此暫時只需將其視為一種陳述事實的語氣即可，無須過度深究。
+關於「主動語態（Active）」與「直說語氣（Indicative）」：
+*   **Active（主動語態）**：指主詞執行動作的語態。希臘文透過特定的「人稱詞尾（Personal Endings）」來表達語態，主動語態有其專屬的一套詞尾。
+*   **Indicative（直說語氣）**：這是我們目前學習的唯一語氣。簡單來說，直說語氣用於「陳述事實」或「提出問題」。例如，「我很快樂」是陳述事實，「我快樂嗎？」是提問，這兩者都屬於直說語氣。至於其他語氣（如假設語氣），我們之後會再定義，現在你們只需要知道：只要看到我們目前學的動詞，它們都是直說語氣。
 
-### 現在主動語態的構成要素
+### 希臘文如何構成現在主動語態直說語氣
+要構成這個語氣，我們需要三個核心部件。請務必記住這個公式，因為這是理解每一章動詞變化的關鍵：
 
-希臘文動詞的構成極具規律性，理解其公式是掌握動詞的關鍵。一個標準的現在主動語態動詞由三部分組成：
+**現在時態詞幹（Present Tense Stem） + 連接元音（Connecting Vowel） + 原級主動人稱詞尾（Primary Active Personal Endings）**
 
-1.  **現在時態詞幹（Present Tense Stem）**：這是動詞的核心。在詞彙表中，我們記憶的是「第一人稱單數現在直說語氣」（Lexical Form，例如：*luō*）。要取得詞幹，只需去掉詞尾（例如：*luō* 去掉 *-ō*，得到 *lu-*）。
-2.  **連接母音（Connecting Vowel）**：為了發音順暢，詞幹與詞尾之間會插入一個母音。規則如下：
-    *   若詞尾以 mu (μ) 或 nu (ν) 開頭，連接母音為長母音 omicron (ο) 的變體（通常為 ω 或 ο）。
-    *   若詞尾以其他字母開頭，連接母音則為 epsilon (ε)。
-3.  **主要主動語態人稱詞尾（Primary Active Personal Endings）**：這是動詞變化的最後一環，用來標示主詞的人稱與數量。
+#### 1. 現在時態詞幹（Present Tense Stem）
+這是最簡單的部分。當你背誦詞彙時，你背下的形式（例如 *luō*，我解開）就是「詞彙形式（Lexical Form）」。你只需要去掉詞尾，剩下的部分（*lu-*）就是詞幹。
 
-### 範式（Paradigm）與記憶策略
+#### 2. 連接元音（Connecting Vowel）
+這是為了發音順暢而加入的元音。規則如下：
+*   如果人稱詞尾以 **mu (μ)** 或 **nu (ν)** 開頭，連接元音為 **omicron (ο)**。
+*   如果人稱詞尾以其他字母開頭，連接元音為 **epsilon (ε)**。
+*   *例外*：如果沒有人稱詞尾，連接元音可以是 omicron 或 epsilon。
 
-教師強調了「範式」的重要性，並建議學生必須將其背誦到「閉上眼睛都能看見」的程度。以動詞 *luō*（我解開）為例：
+#### 3. 原級主動人稱詞尾（Primary Active Personal Endings）
+我們稱之為「原級（Primary）」，是因為這套詞尾專門用於現在時態等原級時態。例如，在第一人稱複數 *luomen* 中，詞尾 *-men* 以 mu 開頭，因此連接元音選用 omicron，組合起來就是 *lu-o-men*。
 
-| 人稱 | 形式 | 意義 |
-| :--- | :--- | :--- |
-| 第一人稱單數 | *luō* | 我解開 |
-| 第二人稱單數 | *lueis* | 你解開 |
-| 第三人稱單數 | *luei* | 他/她/它解開 |
-| 第一人稱複數 | *luomen* | 我們解開 |
-| 第二人稱複數 | *luete* | 你們解開 |
-| 第三人稱複數 | *luousi* | 他們解開 |
+### 記憶策略：兩套系統的必要性
+在學習變位表（Paradigm）時，我要求你們同時背誦兩套系統：
+1.  **帶有連接元音的詞尾**：*-ō, -eis, -ei, -omen, -ete, -ousi*。這是為了讓你能在閱讀時快速辨識。
+2.  **真實的人稱詞尾**：*-null, -sigma, -iota, -men, -te, -si*。
 
-#### 雙重記憶法：詞尾與連接母音
-教師提出了一個重要的教學折衷方案：
-*   **初級記憶**：將「連接母音 + 人稱詞尾」視為一個整體來背誦（*-ō, -eis, -ei, -omen, -ete, -ousi*）。這對於快速辨識動詞非常有幫助。
-*   **進階記憶**：必須同時背誦「原始人稱詞尾」（*-mi, -si, -ti, -men, -te, -nsi*）。雖然在現在時態中，這些詞尾因發音規則發生了變形（例如 *-nsi* 變成了 *-ousi*），但理解這些原始詞尾對於未來學習其他時態（如未完成時態或未來時態）至關重要。
+為什麼要這麼麻煩？因為雖然現在時態中連接元音與詞尾看似融合在一起，但隨著我們進入其他時態，詞尾會發生變化。如果你只背第一套，到了複雜時態你會完全看不懂。請務必記住，真實詞尾經過了語音修飾（例如 *epsilon + sigma* 變成了 *-eis*），這就是為什麼我們必須同時掌握這兩套邏輯。
 
-### 實踐與應用：動詞演練
+### 實戰演練：動詞變位
+現在，讓我們以幾個動詞為例進行練習。請跟著我念：
+*   **akouō** (我聽)：*akouō, akoueis, akouei, akouomen, akouete, akouousi*
+*   **blepō** (我看見)：*blepō, blepeis, blepei, blepomen, blepete, blepousi*
+*   **echō** (我有)：*echō, echeis, echei, echomen, echete, echousi*
+*   **legō** (我說)：*legō, legeis, legei, legomen, legete, legousi*
+*   **pisteuō** (我相信)：*pisteuō, pisteueis, pisteuei, pisteuomen, pisteuete, pisteuousi*
 
-為了熟練掌握，教師帶領學生練習了幾個常見動詞，如 *akouō*（我聽）、*blepō*（我看）、*echō*（我有）、*legō*（我說）、*pisteuō*（我相信）。
+請特別注意 *pisteuō* 的發音，它是 *pisteu-omen*，不是 *pisteu-ou-men*。在希臘文學習中，精確度（Precision）至關重要。
 
-*   **教學重點**：在練習 *pisteuō* 時，教師特別提醒發音的精確性。例如，第一人稱複數是 *pisteuomen*，而非 *pisteu-oman*。這種對細節的嚴謹要求，是避免在翻譯時產生混淆的關鍵。
-*   **學習心法**：不要試圖死記硬背整本厚重的動詞變化表。相反，應學習辨識「觸發點」（Triggers）：當你看到連接母音加上主要主動語態詞尾時，大腦應立即反應出這是「現在主動語態直說語氣」。這種「分析式」的學習方法，比單純的「記憶式」更具備長期的可持續性。
-
-總結而言，本課不僅是學習一套變位規則，更是建立一種「動詞分析思維」。透過拆解詞幹、連接母音與詞尾，學生將能更準確地解讀希臘文經文中的動作主體與時態意義。
+### 總結：掌握「觸發點」
+你可以選擇死記硬背整張龐大的動詞表，或者學習我教給你們的「觸發點（Triggers）」。當你看到一個動詞，辨識出「哦，這裡有連接元音，那裡有原級主動詞尾」，你就能立刻推斷出這是「現在主動語態直說語氣」。這種方法比單純的機械記憶要有效得多。請務必將這套邏輯內化，這將是你未來研讀希臘文聖經最穩固的根基。
 
 
 ## Lesson 17: 收縮動詞 (Contract Verbs)
 
 > **大綱對照：**
-> 本解釋大致依照所提供的課程大綱進行編排，但為了教學邏輯的連貫性，將「辨識與解析」的技巧與「收縮規則」的說明進行了整合，以確保學習者能從理論過渡到實務應用。
+> 本文內容完全遵循所提供的大綱結構，並針對每個部分進行了深入的教學式解析。
 
 
 
-### 一、 收縮動詞簡介 (Introduction to Contract Verbs)
+### 一、收縮動詞簡介 (Introduction to Contract Verbs)
 
-在希臘文動詞的學習中，我們目前仍處於「現在主動語態直說語氣」(Present Active Indicative) 的範疇。所謂的「收縮動詞」(Contract Verbs)，是指那些詞幹末尾為 $\alpha$ (alpha)、$\epsilon$ (epsilon) 或 $o$ (omicron) 的動詞。這些末尾的母音被稱為「收縮母音」(Contract Vowel)。
+#### A. 定義 (Definition)
+我們今天進入第 17 課，主題是「收縮動詞」（Contract Verbs）。在我們目前的學習進度中，我們依然停留在「現在主動語態直說語氣」（Present Active Indicative）的範疇內，並沒有進入新的時態或語氣。
 
-當這些動詞的詞幹末尾母音，遇上動詞變化時所使用的「連接母音」(Connecting Vowel) 時，兩者會發生融合，產生音變，形成一個新的長母音或雙母音。這就是為什麼我們需要專門的一章來處理這類動詞。學習收縮動詞的關鍵在於：一旦你掌握了其中一個類型的變化規律（例如 $\epsilon$ 收縮動詞），你就掌握了該類別下所有動詞的運作方式。
+所謂的收縮動詞，是指那些詞幹（Stem）以 $\alpha$（alpha）、$\epsilon$（epsilon）或 $o$（omicron）結尾的動詞。這三個母音被稱為「收縮母音」（Contract Vowels）。當這些動詞與後面的「連接母音」（Connecting Vowel）相遇時，兩者會發生融合，變成另一個母音或雙母音，這就是「收縮」的由來。
 
-### 二、 收縮動詞的類型 (Types of Contract Verbs)
+#### B. 在聖經希臘文中的重要性 (Importance in Biblical Greek)
+你可能會問，為什麼需要專門用一章來處理這個？原因在於，一旦你掌握了某一種收縮模式（例如 $\epsilon$ 收縮動詞），你就等於掌握了該類別下所有動詞的運作規律。雖然這聽起來像是一堆規則，但實際上，這些規則在解析（Parsing）時非常規律。
 
-根據詞幹末尾的母音，收縮動詞分為三類：
+### 二、收縮動詞的類型 (Types of Contract Verbs)
 
-#### 1. Alpha ($\alpha$) 收縮動詞
-這類動詞的詞幹以 $\alpha$ 結尾。當 $\alpha$ 與後續的連接母音相遇時，會產生特定的收縮規則。例如 $ἀγαπάω$ (agapaō) 就是一個典型的 $\alpha$ 收縮動詞。
+收縮動詞主要分為三類：$\alpha$ 收縮、$\epsilon$ 收縮與 $o$ 收縮。
 
-#### 2. Epsilon ($\epsilon$) 收縮動詞
-這是新約聖經中最常見的收縮動詞類型。例如 $ποιέω$ (poieō，意為「做」或「行」)。這類動詞在詞典中會以未收縮的形式出現，但在實際經文中，由於收縮現象，我們看到的往往是已經融合後的形態。
+#### A. Alpha 收縮動詞 (Alpha Contract Verbs)
+這類動詞的詞幹以 $\alpha$ 結尾。例如，我們在課堂中提到的 *agapaō*（愛），當它與連接母音結合時，會產生特定的收縮變化。
 
-#### 3. Omicron ($o$) 收縮動詞
-這類動詞以 $o$ 結尾，例如 $πληρόω$ (plēroō，意為「充滿」或「成就」)。雖然這類動詞在聖經中出現的頻率相對較低，但其收縮規則依然遵循一致的邏輯。
+#### B. Epsilon 收縮動詞 (Epsilon Contract Verbs)
+這是最常見的一類。例如 *poieō*（做/行）。當你看到 *poieō* 的變位形式時，你會發現詞幹中的 $\epsilon$ 在收縮後往往會消失或轉變。一個重要的觀察點是：在現在直說語氣中，收縮動詞的重音通常會落在收縮後的音節上，並出現揚抑符（Circumflex, $\tilde{}$），這是一個非常好的識別線索。
 
-### 三、 辨識與解析技巧 (Identifying and Parsing)
+#### C. Omicron 收縮動詞 (Omicron Contract Verbs)
+這類動詞以 $o$ 結尾。值得注意的是，在聖經希臘文中，這類動詞的頻率相對較低。事實上，在我們練習的教材中，你幾乎看不到 $o$ 收縮動詞的例子，因為在《新約聖經》中，出現頻率超過 50 次的 $o$ 收縮動詞幾乎不存在。
 
-對於初學者而言，解析收縮動詞其實比想像中容易。即使你不完全理解收縮的過程，只要熟悉動詞詞尾（Personal Endings），通常就能準確判斷其人稱與數。
+### 三、識別與解析收縮動詞 (Identifying and Parsing Contract Verbs)
 
-*   **詞典形式的重要性**：詞典會列出動詞的「未收縮形式」（如 $ποιέω$），這是為了讓我們能辨識出其詞幹末尾的收縮母音。在實際文本中，這些母音常被收縮後的長母音（如 $\omega$）所「吞噬」。
-*   **重音提示**：收縮動詞在現在直說語氣中，重音通常會落在收縮後的音節上，並常出現「曲折符」(Circumflex accent, $\tilde{}$)。這是一個極佳的視覺線索，提醒你這是一個收縮形式。
-*   **反向推導**：解析的挑戰在於「回溯」。當你看到一個收縮後的詞形（例如 $ποιοῦμεν$），你需要透過動詞詞尾（$-μεν$ 代表第一人稱複數）以及詞典知識，反推其詞幹末尾的母音，以便查閱詞典。
+#### A. 解析技巧 (Parsing Tips)
+很多同學擔心收縮會導致無法辨認動詞。但請放心，解析收縮動詞其實並不困難。即便你看不出收縮的過程，只要你熟悉詞尾（Endings）並背熟了詞彙（Vocabulary），你依然可以準確地解析出人稱與數。
 
-### 四、 收縮規則 (Rules of Contraction)
+例如，當你看到 *poioumen*，即便你不完全理解中間的收縮細節，你也能透過詞尾 *-men* 識別出這是「第一人稱複數」。這就是為什麼我強調「詞彙量」與「詞尾熟練度」的重要性。
 
-為了能準確回溯詞典形式，必須掌握以下五大核心規則：
+#### B. 回推詞典形式 (Working Backwards)
+解析雖然容易，但「回推」到詞典形式（Lexical Form）則需要規則。因為詞典中列出的是「未收縮」的形式（例如 *poieō*），而你在經文中看到的卻是收縮後的樣子（例如 *poiei*）。如果不懂收縮規則，你就無法在詞典中查到該詞。
 
-#### 規則一：$o$ 與 $\epsilon$ 的組合
-當 $o$ 與 $\epsilon$ 相遇時，有三種組合可能形成 $ou$ ($ου$)：$\epsilon + o$、 $o + \epsilon$ 或 $o + o$。
-*   **實例分析**：以 $ποιοῦμεν$ 為例，我們看到詞尾 $-μεν$（第一人稱複數），這告訴我們連接母音必須是 $o$。因此，我們可以推斷該詞是由 $ποιέω$ 演變而來。
+### 四、收縮規則的應用 (Applying Contract Verbs)
 
-#### 規則二：$\epsilon + \epsilon$ 的組合
-這兩者相遇會收縮為 $ei$ ($ει$)。例如 $ποιεῖτε$（第二人稱複數），其詞尾 $-τε$ 提示了連接母音，而 $ει$ 則明確指向了 $\epsilon$ 收縮動詞。
+為了幫助大家記憶，我歸納了五條核心規則（The Big Five）。請務必在教材中仔細研讀這些規則，因為它們涵蓋了絕大多數的情況。
 
-#### 規則三：$\omega$ 與 $o$ 的強勢吸收
-若遇到 $\omega$ 或 $o$，它們通常會「吞噬」其他母音而形成 $\omega$。
-*   **例外**：若不符合規則一的組合，且出現 $o$ 或 $\omega$，結果通常也是 $\omega$。這在解析時需要記憶，但其核心邏輯是：長母音 $\omega$ 在收縮中具有極強的吸收力。
+#### 1. 規則一：$o$ 與連接母音的結合
+當你看到 $o$ 與連接母音結合產生 $ou$ 時，這可能來自三種組合：$o+\epsilon$、$o+o$ 或 $\epsilon+o$。
+*   **例子：** *poioumen*（第一人稱複數）。因為詞尾 *-men* 的第一個母音是 $o$，所以我們知道收縮前的第二個母音必然是 $o$。透過這種邏輯推演，你可以精確地還原出詞幹。
 
-#### 規則四與五：$\alpha$ 與 $\epsilon$ 的先後順序
-這兩條規則可合併理解：當 $\alpha$ 與 $\epsilon$ 相遇時，誰在前，誰就決定了收縮後的長度。
-*   **$\alpha + \epsilon$**：收縮為長 $\alpha$（即 $\bar{\alpha}$）。
-*   **$\epsilon + \alpha$**：收縮為 $\eta$ (ēta)。
-這類規則雖然看似複雜，但只要掌握了「先出現者決定長度」的原則，就能有效處理這類動詞的變化。
+#### 2. 規則二：$\epsilon+\epsilon$ 的結合
+$\epsilon+\epsilon$ 會收縮為 $ei$。例如 *poieite*（第二人稱複數）。這裡的 $ei$ 是一個明確的標誌，告訴你這是一個 $\epsilon$ 收縮動詞。
 
-### 五、 總結與應用策略
-在翻譯新約聖經時，不要被收縮現象嚇倒。首先，**專注於詞尾**，這能解決 90% 的解析問題。其次，**利用詞典形式**，將收縮後的詞形還原。最後，**記憶常見動詞**，因為新約中高頻出現的收縮動詞數量有限，透過反覆練習，這些規則將成為你閱讀希臘文時的直覺反應。
+#### 3. 規則三：$o$ 或 $\omega$ 的強勢吸收
+簡單來說，如果收縮組合中出現了 $\omega$，它會「吞噬」掉其他母音。如果出現的是 $o$，除了規則一的情況外，它也會傾向於變成 $\omega$。
+*   **例子：** *plēroute*（第二人稱複數，來自 *plēroō*）。因為詞尾 *-te* 包含 $\epsilon$，我們知道這是一個 $o$ 收縮動詞。
+
+#### 4. 規則四與五：$\alpha$ 與 $\epsilon$ 的競爭
+這兩條規則可以合併理解：誰先出現，誰就決定了結果。
+*   $\alpha + \epsilon$ 會收縮並延長為長 $\alpha$（即 $\bar{\alpha}$）。
+*   $\epsilon + \alpha$ 會收縮並延長為 $\eta$（eta）。
+
+**總結：**
+請記住，收縮動詞的學習重點不在於死記硬背每一個變位，而在於理解「收縮」的邏輯。當你在經文中遇到這些詞時，先看詞尾確認人稱與數，再根據詞幹的母音特徵推斷其詞典形式。只要掌握了這五條規則，你就能在翻譯時游刃有餘。
 
 
-## Lesson 18: 現在式中動/被動語態直說語氣 (Present Middle/Passive Indicative)
+## Lesson 18: 現在式中間/被動語態直說法 (Present Middle/Passive Indicative)
 
 > **大綱對照：**
-> 本文大致遵循所提供的大綱，但在結構上根據講員的教學順序進行了整合。講員在教學中刻意簡化了「中間語態」（Middle Voice）的複雜性，因此本指南重點聚焦於「被動語態」（Passive Voice）與「異相動詞」（Deponent Verbs）的教學，並將大綱中關於中間語態細節的部分（如反身、強調等）簡化處理，以符合講員的教學重點。
+> 本課說明並未完全遵循所提供的大綱。講者在課程中採取了更為簡化的教學路徑，重點放在「被動語態」的形成與翻譯，以及「異相動詞」（Deponent Verbs）的定義與識別，並刻意將「中間語態」（Middle Voice）的複雜細節留待後續章節處理。因此，以下解釋將嚴格依照講者的教學順序進行編排。
 
 
 
-### 現在式中動/被動語態簡介
+### 現在式被動語態的定義與概念
+歡迎來到第 18 章。在這一章，我們要學習「現在式中間/被動語態直說法」（Present Middle/Passive Indicative）。我們依然停留在「現在時間」（Present time）與「直說語氣」（Indicative mood），但我們要引入一個新的語態——「被動語態」（Passive voice）。
 
-在希臘文動詞系統中，我們已經掌握了「主動語態」（Active Voice）的直說語氣。本章進入「現在式中動/被動語態直說語氣」（Present Middle/Passive Indicative）。講員特別提醒，雖然標題包含「中動」（Middle），但現階段我們應暫時將其擱置，專注於「被動語態」（Passive Voice）。
+在進入細節前，你必須先釐清「主動」與「被動」的本質區別：
+*   **主動語態（Active Voice）：** 主詞是動作的執行者。
+*   **被動語態（Passive Voice）：** 主詞是動作的承受者。
 
-在語法定義上，主動語態意味著主詞執行動作（例如：Bill 咬了貓）；而被動語態則意味著主詞「承受」動作（例如：Bill 被貓咬了）。對於初學者而言，理解被動語態的邏輯並不難，但在翻譯成英文（或中文）時，若要表達「現在、被動、持續」的時態意義，有時會感到語句生硬。講員強調，這往往是語言表達上的挑戰，而非希臘文本身的困難。當遇到這種情況，學生應先確認希臘文的時態與語態，再根據上下文的語境，尋找最自然的翻譯方式。
+舉個簡單的例子：若我們說「Bill 咬了貓」（Bill bit the cat），這是主動語態；若改為被動語態，則變為「貓被 Bill 咬了」（The cat was bitten by Bill）。當我們在希臘文中處理現在被動語態時，有時會遇到一個挑戰：如何用英文表達「現在、被動、且具連續性」的語意？這往往不是希臘文本身的問題，而是我們在翻譯成英文時，需要根據上下文去調整語氣，以符合「現在進行式」的被動語意。請記住，當你看到希臘文的現在被動形式時，請在腦中確認：這是現在時間、被動語態，且根據上下文，它通常帶有連續性的意味。
 
-### 現在式中動/被動語態的構成
+### 現在式被動語態的構成
+要構成一個「現在被動語態直說法」的動詞，你需要三個要素：
+1.  **現在時態詞幹（Present tense stem）：** 這與我們之前學過的主動語態詞幹相同。
+2.  **連接母音（Connecting vowel）：** 同樣是你已經熟悉的連接母音。
+3.  **主要被動人稱詞尾（Primary passive personal endings）：** 這是我們今天要學習的重點。
 
-要構成一個現在式被動語態的動詞，其公式與主動語態類似，由三個部分組成：
-1. **現在式詞幹 (Present Tense Stem)**：與我們之前學過的一致。
-2. **連接母音 (Connecting Vowel)**：用以連接詞幹與字尾。
-3. **主要被動人稱字尾 (Primary Passive Personal Endings)**：這是本章的核心。
+請回想我們的人稱詞尾表，我們現在要填補「左下角」的部分，即「主要被動詞尾」。你需要背誦這些詞尾，並理解它們與連接母音結合後會發生什麼變化。這些詞尾分別是：**-μαι (-mai), -σαι (-sai), -ται (-tai), -μεθα (-metha), -σθε (-sthe), -νται (-ntai)**。
 
-#### 主要被動人稱字尾
-我們正在學習「四分法」人稱字尾表中的第二部分（左下角區域）。這些字尾在連接母音後，會產生特定的變化。除了第二人稱單數外，其餘人稱通常能清楚辨識出原始字尾的痕跡。
-
-其字尾組合為：
-* 第一人稱單數：-μαι (-mai)
-* 第二人稱單數：-σαι (-sai)
-* 第三人稱單數：-ται (-tai)
-* 第一人稱複數：-μεθα (-metha)
-* 第二人稱複數：-σθε (-sthe)
-* 第三人稱複數：-νται (-ntai)
-
-以動詞 *luō* 為例，加上連接母音後，變化如下：
-* *luomai* (我被解開)
-* *luē* (你被解開)：注意此處，原本的 sigma (σ) 脫落，母音發生收縮，並出現了「iota 下標」(iota subscript)。這是學習時需特別留意的特殊變化。
-* *luetai* (他/她/它被解開)
-* *luometha* (我們被解開)
-* *luesthe* (你們被解開)
-* *luontai* (他們被解開)
+#### 詞尾的變化與縮合
+當我們將這些詞尾加上連接母音後，會產生特定的變化。以 *luō* 為例，變化如下：
+*   *luomai* (我被解開)
+*   *luē* (你被解開) —— 注意這裡！第二人稱單數的 *sigma* (σ) 脫落了，母音發生了縮合，並且出現了「iota 下標」（iota subscript）。這是希臘文語法中的常見現象，請務必參照課本對此變化的詳細說明。
+*   *luetai* (他/她/它被解開)
+*   *luometha* (我們被解開)
+*   *luesthe* (你們被解開)
+*   *luontai* (他們被解開)
 
 ### 異相動詞 (Deponent Verbs)
+本章引入了一個非常重要的概念：**異相動詞（Deponent Verbs）**。這類動詞在形式上是「被動」或「中間」的，但在意義上卻是「主動」的。
 
-本章引入了一個重要的概念：**異相動詞 (Deponent Verbs)**。這類動詞在形式上是「中動」或「被動」的，但在意義上卻是「主動」的。
+為什麼會這樣？因為這些動詞在歷史演變中，不知為何喪失了主動形式，因此必須借用被動形式來表達主動的意義。
+*   **例子：** *erchomai* (我來/我走)。你看它的詞尾 *-omai*，這是主要被動人稱詞尾，但它的意思卻是主動的「我來」。
+*   **例子：** *poreuomai* (我走)。這也是一個異相動詞，儘管形式是被動，翻譯時必須譯為「我走」。
 
-#### 為什麼會有異相動詞？
-這些動詞在語言演變過程中，失去了其主動語態的形式，因此必須借用被動語態的形式來表達主動的意義。例如 *erchomai* (我來/我走) 和 *poreuomai* (我走)。儘管它們的字尾是 *-omai*（主要被動人稱字尾），但翻譯時絕不能譯為被動（例如不能譯為「我被來」），否則語意將完全不通。
+**如何識別異相動詞？**
+方法很簡單：**背誦詞彙時就要記住**。當你查看詞彙表時，如果該動詞的詞彙形式（Lexical form）是以 *-omai* 結尾的，那麼它就是一個異相動詞。當你在閱讀經文看到這類動詞時，不要試圖將其翻譯為被動，那樣會完全不通。你應該將其歸類為「現在異相直說法」，並賦予它主動的意義。
 
-#### 如何辨識？
-辨識異相動詞最簡單的方法就是「背誦」。當你在記憶詞彙表時，若發現該動詞的詞彙形式（Lexical form）是以 *-omai* 結尾，且該形式屬於被動語態，那麼它就是一個異相動詞。在解析時，務必標註其為「現在式異相動詞」，並賦予其主動的意義。
+### 關於中間語態 (Middle Voice) 的說明
+希臘文確實有第三種語態，稱為「中間語態」（Middle voice）。但我建議你們暫時先將好奇心擱置一旁。關於中間語態，你目前只需要掌握以下三點：
+1.  希臘文確實存在中間語態。
+2.  在「現在直說法」中，中間語態與被動語態的「形式完全相同」。也就是說，當你看到 *erchetai* 時，你無法從形式上區分它是中間語態還是被動語態。
+3.  在本章的練習中，我已經控制了範圍，所有你遇到的「中間語態」動詞，實際上都是「中間異相動詞」（Middle deponent），因此它們在意義上全部都是主動的。
 
-### 中間語態 (Middle Voice) 的初步認識
+因此，我們可以將「異相動詞」的定義完善為：**一個在形式上是中間語態或被動語態，但在意義上卻是主動的動詞。**
 
-希臘文確實存在第三種語態，即「中間語態」（Middle Voice）。講員在此給出三個關鍵原則，幫助學生在現階段處理相關練習：
-1. **形式相同**：在現在式直說語氣中，中間語態與被動語態的形式完全相同。看到 *erchetai*，單從形式上無法判斷它是中間語態還是被動語態。
-2. **教學控制**：在目前的課程階段，所有出現的中間語態動詞皆為「中間異相動詞」（Middle Deponent），因此它們在意義上皆為「主動」。
-3. **暫時擱置**：對於中間語態更深層的語法意義（如反身、強調、相互作用），講員建議學生先將好奇心放下，待後續章節再深入探討。
+### 總結：主動詞表 (Master Verb Chart)
+最後，我們要在「主動詞表」上增加新的一行。這張表有很多行，如果你沒有在每一章學習時就把它記下來，到最後會變得非常難以消化。
 
-### 總結：大師動詞表 (Master Verb Chart)
+本章的重點在於：
+*   **構成：** 現在時態詞幹 + 連接母音 + 主要被動人稱詞尾。
+*   **範式（Paradigm）：** 請熟記 *luomai* 這一行的變化。
 
-最後，講員提醒學生要持續更新「大師動詞表」。本章只需在表中增加一行關於「現在式中動/被動語態」的構成方式：**現在式詞幹 + 連接母音 + 主要被動人稱字尾**。透過這種循序漸進的方式，將龐大的動詞系統拆解為可控的單元，能有效避免學習過程中的挫折感。
+只要掌握了這個結構，並學會識別哪些動詞是異相動詞，你就能順利處理本章的練習。保持耐心，一步步將這些詞尾與詞幹結合，這是掌握希臘文動詞系統的必經之路。
 
 
-## Lesson 19: 未來主動與中動直說語氣 (Future Active/Middle Indicative)
+## Lesson 19: 未來主動/中動直說語氣 (Future Active/Middle Indicative)
 
 > **大綱對照：**
-> 本課解釋並未嚴格遵循所提供的大綱。教師的教學重點在於「動詞形態的構成邏輯」與「如何透過詞幹（Stem）與變音規則（Sound changes）識別時態」，而非大綱中列出的分類。以下說明將依照教師實際教學的邏輯順序進行整理。
+> 本課教學內容與所提供的大綱大致吻合，但在結構安排上，教師更側重於「形態變化規律」與「詞彙記憶策略」的實務教學，而非僅僅是理論定義。以下說明將嚴格按照教師在課堂中的教學順序與邏輯進行展開。
 
 
 
-### 未來時態的構成邏輯：詞幹與時態標記
+### 未來時態的基礎概念與結構邏輯
 
-在希臘語中，動詞的六種基本時態形式（Tense forms）是我們識別動詞的關鍵。教師強調，學習未來時態（Future Tense）時，不應盲目背誦所有變位表，而應掌握其構成公式：**未來主動詞幹（Future Active Tense Stem）+ 時態標記（Tense Formative）+ 連接母音（Connecting Vowel）+ 原級主動人稱結尾（Primary Active Personal Endings）**。
+在進入第 19 課時，我們首先要明確一個核心概念：我們正在學習的是「未來主動語氣」（Future Active）與「未來中動語氣」（Future Middle）。你可能會注意到本課沒有「未來被動語氣」（Future Passive），這是因為未來被動語氣的構成方式完全不同，我們會在之後的課程中專門處理。
 
-這裡的「時態標記」是關鍵的識別特徵：在未來時態中，這個標記就是 **Sigma (σ)**。當你在動詞詞幹後看到 Sigma，這幾乎就是未來時態的鐵證。教師特別提醒，希臘語動詞的結尾資訊量極大，學習者必須克服英語母語者「忽略詞尾」的習慣，轉而像學習德語一樣，精確地辨識每一個字母，因為 `λύσεις`（你將解開）與 `λύεις`（你現在解開）之間僅僅差了一個 Sigma，意義卻截然不同。
+在希臘文中，要表達「我將要……」（I will...）這樣的概念，我們需要掌握未來時態的構成。這並非要你死記硬背無數個孤立的詞形，而是要學會識別形態上的「觸發點」（triggers）。希臘動詞有六種基本的時態形式（tense forms），在詞典中，第二個列出的形式就是「未來主動時態形式」。例如，當你查閱 *ἀγαπάω*（愛）這個詞時，你會看到它的未來式是 *ἀγαπήσω*。請注意，這裡的詞幹（stem）與現在式幾乎一致，只是將末尾的元音拉長了（由 alpha 變為 eta）。這告訴我們一個關鍵原則：不要試圖去記憶每一個動詞的未來式，而是要學會識別構成未來式的規律。
 
-### 詞幹的識別與詞典的使用
+### 未來主動直說語氣的構成
 
-關於「未來主動詞幹」，教師澄清了與「主要部分」（Principal Parts）相關的術語問題。他建議將其視為「六種時態形式」。當你查閱詞典時，第二個列出的形式即為「未來主動詞幹」。
+構成未來主動語氣的公式非常簡單，這也是我們在「總動詞表」（Master Verb Chart）中必須熟練掌握的邏輯：
 
-對於大多數動詞而言，未來時態的詞幹與現在時態的詞幹是一致的（例如 `ἀκούω` 的現在詞幹與未來詞幹皆為 `ἀκου-`）。然而，詞幹的變化通常遵循規律的語音變換，而非隨機的例外：
+**未來主動時態詞幹 + 時態標記（Tense Formative）+ 連接元音（Connecting Vowel）+ 主要主動人稱結尾（Primary Active Personal Endings）**
 
-1.  **母音變換（Contract Verbs）**：當動詞詞幹以母音結尾時，在加上 Sigma 之前，該母音通常會拉長（例如 $\alpha$ 或 $\epsilon$ 變為 $\eta$，$\omicron$ 變為 $\omega$）。這不是需要額外記憶的例外，而是希臘語的自然拼讀規則。
-2.  **唇音（Labials）與 Sigma 的結合**：若詞幹以唇音（$\pi, \beta, \phi$）結尾，加上 Sigma 後會產生 $\psi$ 的音。例如 `βλέπω`（我看）的未來式 `βλέψω`。
-3.  **軟顎音（Velars）與 Sigma 的結合**：若詞幹以軟顎音（$\kappa, \gamma, \chi$）結尾，加上 Sigma 後會產生 $\xi$ 的音。例如 `διώκω`（我追趕）的未來式 `διώξω`。
-4.  **齒音（Dentals）的脫落**：若詞幹以齒音（$\tau, \delta, \theta$）結尾，該齒音會在 Sigma 前脫落。例如 `βαπτίζω`（我施洗）的未來式 `βαπτίσω`。
+1.  **時態標記（Tense Formative）：** 在未來時態中，這個標記就是 Sigma（σ）。希臘人將 Sigma 附加在詞幹之後，作為未來時態的標誌。
+2.  **連接元音與結尾：** 你會發現這裡使用的連接元音與結尾，與我們之前學過的現在式完全相同（例如 -ω, -εις, -ει 等）。這意味著你不需要學習一套全新的結尾，你只需要學會識別那個 Sigma。
 
-這些變化並非為了增加記憶負擔，而是為了讓發音順暢。學習者應學會「從詞尾往回推」，當看到 $\psi$ 或 $\xi$ 時，應意識到這是輔音與 Sigma 結合的結果。
+#### 形態變化的規律與「德語式」閱讀法
+在處理這些動詞時，我希望你們培養一種「德語式」的閱讀習慣。英語使用者習慣於關注單詞的開頭，但希臘文（如同德語）的語法意義往往隱藏在詞尾。當你看到 *λύσεις*（你將要解開）與 *λύεις*（你正在解開）時，兩者唯一的區別就是那個 Sigma。如果你忽略了詞尾的細節，就會錯失時態的關鍵信息。
 
-### 未來中動語氣與異相動詞（Deponent Verbs）
+此外，我們不需要將所有變形視為「例外」。例如：
+*   **縮略動詞（Contract Verbs）：** 當詞幹末尾的元音（如 α, ε, ο）遇到 Sigma 時，它們會自動拉長（α/ε 變為 η，ο 變為 ω）。這不是例外，這是規律。
+*   **唇音/軟顎音/齒音（Labials/Velars/Dentals）：** 當動詞詞幹以這些輔音結尾時，與 Sigma 結合會產生音變。例如 *βλέπω*（我看見）的詞幹是 *βλεπ-*，加上 Sigma 後變為 *βλέψω*（*π* + *σ* = *ψ*）。這同樣是可預測的規律，而非需要死記硬背的例外。
 
-未來中動語氣（Future Middle Indicative）的構成與主動語氣極為相似，唯一的區別在於結尾：它使用的是 **原級中動/被動人稱結尾（Primary Middle/Passive Personal Endings）**。
+### 未來中動直說語氣的構成
 
-教師特別探討了「異相動詞」（Deponent Verbs）的概念。異相動詞是指「形式上為中動或被動，但意義上為主動」的動詞。在未來時態中，識別異相動詞的關鍵在於：
-*   **觀察詞典中的第二個形式**：如果該形式以 `-ομαι` 結尾，則該動詞在未來時態中為中動異相。
-*   **功能性而非固定性**：一個動詞在現在時態可能是異相（如 `πορεύομαι`），在未來時態也可能是異相（`πορεύσομαι`）；但也有動詞在現在時態不是異相，到了未來時態才變為異相（如 `γιγνώσκω`）。
+未來中動語氣的構成邏輯與主動語氣如出一轍，唯一的區別在於結尾：
 
-教師強調，不要將異相動詞視為複雜的語法障礙。它們只是失去了主動形式，但保留了主動意義。只要掌握了「形式為中動/被動，意義為主動」這一核心定義，就能輕鬆應對。
+**未來主動時態詞幹 + Sigma + 連接元音 + 主要中動/被動人稱結尾（Primary Middle/Passive Personal Endings）**
 
-### 總結：大師級動詞表（Master Verb Chart）的重要性
+以 *πορεύομαι*（我走）為例，其未來中動形式為 *πορεύσομαι*。這裡我們使用的是主要中動/被動結尾（-μαι, -σαι, -ται 等）。
 
-本課的核心結論在於：不要試圖死記硬背數百個變位表。透過「大師級動詞表」，學習者可以透過識別「時態標記（Sigma）」、「連接母音」以及「人稱結尾」來解析動詞。
+#### 關於「異相動詞」（Deponent Verbs）的釐清
+這是我在學習希臘文時最困擾的部分，但其實它非常簡單。所謂「異相動詞」，是指那些**在形式上是中動或被動，但在意義上卻是主動**的動詞。
 
-當你面對一個陌生的動詞形式時，應採取偵探式的方法：
-1.  是否有 Sigma？（暗示未來時態）
-2.  詞幹末端是否有輔音變化？（暗示唇音、軟顎音或齒音的結合）
-3.  結尾是主動還是中動/被動？（決定語態）
+在未來時態中，判斷一個動詞是否為異相動詞的方法很直接：查看詞典中列出的第二個時態形式。如果它以 *-σομαι* 結尾，那麼它就是一個未來中動異相動詞。這意味著它沒有未來主動形式，且翻譯時必須保持主動語態（例如：*πορεύσομαι* 應翻譯為「我將要走」，而不是「我將被走」）。
 
-這種「拆解式」的學習法，能讓你在面對希臘語聖經文本時，不再依賴記憶，而是具備即時解析動詞結構的能力。這不僅是為了通過考試，更是為了在研讀神學時，能精確掌握經文的時態與語氣。
+請記住，一個動詞在現在式是異相動詞，並不代表它在未來式也一定是異相動詞，反之亦然。你需要觀察該動詞在未來時態的具體形式。一旦你掌握了「形式是中動/被動，意義是主動」這一核心定義，異相動詞就不再是障礙，而是希臘文表達中自然的一部分。
+
+### 總結與學習建議
+
+我們學習這些規律的最終目的，是為了擺脫對「死記硬背」的依賴。當你面對一個陌生的動詞時，不要恐慌，請按照以下步驟進行拆解：
+1.  尋找 Sigma（未來時態的標記）。
+2.  觀察詞幹末尾是否發生了音變（如唇音、軟顎音與 Sigma 的結合）。
+3.  識別連接元音與人稱結尾。
+4.  根據詞典中列出的時態形式，判斷其是否為異相動詞。
+
+這套「總動詞表」的邏輯是你們未來研讀聖經、處理複雜經文的基礎。不要試圖填滿大腦的記憶空間，而是要訓練大腦識別這些規律。當你能夠一眼看出一個動詞的時態與語態時，你就真正掌握了希臘文的動詞系統。
 
 
 ## Lesson 20: 動詞詞根與未來時態的其他形式 (Verbal Roots and Other Forms of the Future)
 
 > **大綱對照：**
-> 本文內容大致遵循所提供的大綱結構，但在處理「液音動詞」（Liquid Verbs）與「詞根變化模式」的細節上，為了邏輯連貫性，將教學內容進行了更為深入的整合與拆解。
+> 本講義遵循所提供的大綱結構，並根據課堂實際教學內容進行了詳細擴充與深化。
 
 
 
-### 一、 理解動詞詞根（Verbal Roots）與詞幹（Stems）的關鍵區別
+### 一、 動詞詞根與未來時態導論
 
-在希臘文動詞的學習中，學生最容易產生的誤區，就是將「現在時態詞幹」（Present Tense Stem）視為動詞的「基本形式」。老師強調，若要擺脫死記硬背數百個變位形式的痛苦，必須建立一個核心觀念：**詞根（Root）才是動詞最原始、最基本的形態。**
+在我們進入希臘文動詞系統的深水區時，有兩個核心概念是你必須牢牢掌握的：**詞根（Root）**與**詞幹（Stem）**。這兩者的區別是理解希臘文動詞變化的關鍵。
 
-*   **詞根（Root）**：是動詞意義的核心，不帶有任何時態或語氣的附加成分。
-*   **詞幹（Stem）**：是詞根在特定時態（如現在時、未來時）中的具體表現形式。
+#### A. 理解動詞詞根的重要性
+許多初學者習慣將「現在時態詞幹」視為動詞最基礎的形式，因為那是我們學習的第一個形式。然而，這是一個誤區。動詞最基礎的形式其實是它的「詞根」。當我們談到 `ἀκούω`（聽）時，它的詞根是 `ἀκου-`。在現在時態中，我們加上詞尾得到 `ἀκούω`；在未來時態中，我們加上時態標記（tense formative）sigma (σ) 得到 `ἀκούσω`。這裡，詞根在兩個時態中都沒有改變，這顯得非常規律。
 
-以 *ballō*（我丟）為例，其詞根是 *bal-*（單一 lambda）。在現在時態中，希臘語為了構詞需要，將 lambda 重疊變成了 *ball-*；但在未來時態中，它回歸了詞根的原始形態 *bal-*，加上未來時態標記後變為 *balō*。如果學生誤以為 *ballō* 是基本形式，就會認為未來時態的 *balō*（少了一個 lambda）是「不規則變化」。但若理解了 *bal-* 才是詞根，就會發現這其實是非常規則的演變。
+但請看 `βάλλω`（丟/投）這個詞。它的詞根是 `βαλ-`（單 lambda）。在現在時態中，希臘文為了構成現在時態詞幹，將 lambda 重疊了，變成了 `βαλλ-`。如果你認為現在時態的 `βαλλ-` 是最基礎的，那麼當你看到未來時態 `βαλῶ`（單 lambda）時，你會誤以為這是一個「不規則變化」，需要額外死記硬背。但如果你理解 `βαλ-` 才是真正的詞根，你就會明白：現在時態的重疊只是為了構成現在時態而做的修飾，而未來時態則是直接從詞根 `βαλ-` 衍生出來的，這其實非常規律。
 
-### 二、 動詞詞根的三種演變模式
+#### B. 未來時態在聖經希臘文中的角色
+我們學習這些規則的目的，是為了讓你擺脫「死記硬背」的痛苦。希臘文動詞系統中充滿了類似的變化——從雙輔音變為單輔音，或是詞根的微調。如果你能掌握這些模式（patterns），你就不需要背誦成百上千個獨立的動詞形式，而是能透過識別詞根來解析它們。
 
-老師將動詞從「詞根」轉化為「現在時態詞幹」的過程歸納為三種模式。掌握這些模式，能幫助我們在看到複雜的動詞形式時，迅速還原其詞根。
+### 二、 識別動詞詞根
 
-#### 1. 模式一：詞根無變化
-這是最簡單的情況，詞根直接進入現在時態與未來時態，沒有任何改變。例如 *akouō*（我聽），其詞根 *akou-* 在現在時態與未來時態中保持一致。這類動詞在第 19 章已經討論過，包含以元音結尾、收縮動詞（Contract Verbs）以及以塞音（Stop）結尾的動詞。
+我們將動詞分為三種基本模式，這能幫助我們預測詞根如何進入不同的時態詞幹。
 
-#### 2. 模式二：詞根有規律的變化
-這是本章的重點。許多動詞在形成現在時態詞幹時，會對詞根進行規律性的修飾，但在其他時態（如未來時）中，詞根會恢復原貌。
-*   **塞音變化**：例如以齒音（Dental）結尾的詞根 *baptid-*，在現在時態中變成了 *baptiz-*（以 zeta 結尾）。但在未來時態中，詞根 *baptid-* 與未來時態標記 sigma 結合，齒音脫落，形成 *baptis-*。這不是不規則，而是齒音在 sigma 前脫落的必然規律。
-*   **雙輔音變化**：如前述的 *ballō*，現在時態重疊了 lambda，但未來時態回歸單一 lambda。
-*   **添加字母**：有些動詞在現在時態中添加了特定字母（如 *-isk-* 或 *-n-*），例如 *apothnēskō*（我死），其詞根是 *apothan-*。未來時態 *apothanoumai* 是直接由詞根構成，不包含現在時態添加的 *-isk-*。
+#### A. 規律動詞與模式識別
+1. **模式一：詞根無變化**
+   這類動詞在現在時態與未來時態中，詞根保持一致。例如以 `ι` 或 `υ` 結尾的詞，或是我們在第 19 章學過的契約動詞（contract verbs）。在未來時態中，契約動詞的元音會在時態標記前延長，但詞根本身並未改變。
+2. **模式二：詞根有規律的修飾**
+   這類動詞在構成現在時態詞幹時會進行修飾，但其他時態則直接源自詞根。
+   * **牙音結尾（Dentals）**：例如 `βαπτίζω`（施洗），其詞根是 `βαπτιδ-`（以 delta 結尾）。在現在時態中，delta 變成了 zeta。但在未來時態中，delta 遇到 sigma 時會脫落，形成 `βαπτίσω`。如果你知道詞根是 `βαπτιδ-`，這一切就變得完全規律了。
+   * **雙輔音**：如前述的 `βάλλω`，現在時態重疊了 lambda，但未來時態回歸單 lambda。
+   * **附加字母**：有些動詞在現在時態中會加上特定字母（如 `-ισκ-`）。例如 `ἀποθνήσκω`（死），其詞根是 `ἀποθαν-`。現在時態加上了 `-ισκ-`，但在未來時態（`ἀποθανοῦμαι`）中，這些附加字母會消失，回歸詞根。
 
-#### 3. 模式三：完全不同的詞根（異幹動詞）
-這是最少見但頻率極高的類別。某些動詞在不同時態中會使用截然不同的詞根。例如 *horaō*（我看）與其未來時態 *opsomai*。這類動詞無法透過規律推導，必須單獨記憶。
+#### B. 不規則動詞
+3. **模式三：使用完全不同的詞根**
+   這是最少見但卻最常用的動詞。例如 `ὁράω`（看），其未來時態卻是 `ὄψομαι`。這並非詞根變化，而是兩個不同的詞根在不同時態中「分工合作」。對於這類詞，我們確實需要透過記憶來掌握。
 
-### 三、 液音未來時態（Liquid Futures）
+### 三、 未來時態的形式
 
-當動詞詞幹以液音（Liquid consonants：$\lambda, \mu, \nu, \rho$）結尾時，其未來時態的構成方式與一般動詞不同。
+#### A. 規律未來時態的構成
+我們在學習時，務必養成一個習慣：**背誦動詞時，一定要同時背誦它的詞根**。例如 `βάλλω`，出現 122 次，詞根是 `βαλ-`。當你看到一個動詞形式，先問自己：「它的詞根是什麼？現在時態詞幹做了什麼修飾？」這樣你就能輕鬆解析。
 
-#### 1. 構成規則的差異
-一般未來時態使用 sigma 作為時態標記（Tense Formative），但液音動詞使用 **epsilon-sigma (-es-)**。由於 sigma 夾在兩個元音之間（Intervocalic sigma），在希臘語中會脫落，隨後兩個元音發生收縮，導致未來時態看起來像是一個收縮動詞。
+#### B. 流音未來時態（Liquid Futures）
+這是本章最後一個重點。當動詞詞幹以流音（Liquid consonants：`λ`, `μ`, `ν`, `ρ`）結尾時，它們構成未來時態的方式很特別：
+1. **不使用 Sigma**：它們不使用 sigma 作為時態標記，而是使用 `ε-σ`。
+2. **中間的 Sigma 脫落**：由於 `ε-σ` 夾在元音之間，sigma 會脫落（這稱為「音間 sigma 脫落」），隨後兩個元音會發生收縮（contraction）。
+3. **例子**：`μένω`（停留），詞根是 `μεν-`。未來時態加上 `ε-σ` 後，sigma 脫落，`ε` 與後面的連接元音收縮，最終變為 `μενῶ`。
 
-#### 2. 識別液音未來時態
-以 *menō*（我停留）為例，其未來時態變位為 *menō, meneis, menei...*。這與現在時態的收縮動詞（如 *poieō*）極為相似。要區分它們，學生應注意：
-*   **記憶詞彙**：透過記憶動詞的基本形式，確認該詞是否為液音動詞。
-*   **輔音觀察**：老師特別提醒，希臘語學習者應「專注於輔音」（Concentrate on the consonants）。即使元音發生了收縮變化，詞根的輔音（如 *men-*）通常保持穩定。若看到一個動詞形式在輔音結構上與現在時態不同（例如 *ballō* 變為 *balō*），這就是識別時態變化的關鍵線索。
+##### 給學生的建議：專注於輔音
+如果你在學習過程中感到挫折，請記住一個秘訣：**專注於輔音**。元音在希臘文中變化多端，但輔音相對穩定。例如 `βάλλω`（雙 lambda）與 `βαλῶ`（單 lambda），如果你能記住詞根的輔音結構，你就能立刻判斷出這個詞不是現在時態。
 
-### 四、 學習建議：減輕記憶負擔
-老師最後總結，學習希臘文的挑戰在於「記憶負荷」。若試圖強記每一個動詞的每一個時態形式，在牧養或繁忙的服事中極易遺忘。透過理解「詞根」與「詞幹」的演變規律，我們能將數百個變位形式簡化為幾個核心模式。這不僅是為了通過考試，更是為了在長期的聖經研讀中，能夠具備自主解析原文的能力。
-
-
-## Lesson 21: 未完成式直說語氣 (Imperfect Indicative)
-
-> **大綱對照：**
-> 本次課程的錄音內容並未嚴格遵循所提供的四點大綱。錄音重點集中在「未完成式（Imperfect Indicative）」的定義、增強（Augment）的規則、以及「主要動詞人稱結尾表（Master Personal Ending Chart）」的完整化。因此，以下說明將依照錄音的教學順序進行編排，以確保讀者能掌握教師實際傳授的邏輯架構。
-
+最後，請務必反覆練習課本中的動詞表。我們學習這些理論，不是為了增加負擔，而是為了讓你即使在繁忙的牧養或事奉中，也能透過識別規則，隨時解析希臘文經文，而不需要重新背誦所有變格表。
 
 
-### 未完成式（Imperfect Indicative）的定義與特徵
-
-在希臘文動詞系統中，「未完成式」（Imperfect）是一個非常重要的時態。教師指出，其核心語義在於描述一個「持續性的動作」（continuous action），且該動作通常發生在「過去的時間」（past time）。
-
-這與「現在式」（Present tense）有所不同：現在式可以描述持續性動作，也可以描述未定義（undefined）的動作；但未完成式在語法上被嚴格限制為「持續性」。若希臘文要描述過去發生的「未定義動作」（例如單次發生的動作），則會使用另一個時態（即後續課程將學到的「不定過去式」，Aorist）。因此，當你在經文中看到未完成式時，應將其理解為過去某段時間內「正在進行」或「反覆發生」的動作，例如「我當時正在解開」或「我當時不斷地毀壞」。
-
-### 未完成式的構成要素
-
-要形成一個未完成式的動詞，必須結合四個基本組成部分：
-1. **增強（Augment）**：這是標示「過去時間」的關鍵前綴。
-2. **現在式詞幹（Present tense stem）**：動詞的核心意義來源。
-3. **連接母音（Connecting vowel）**：用於連接詞幹與結尾。
-4. **次要人稱結尾（Secondary personal endings）**：這是未完成式特有的結尾。
-
-以動詞 *luō* 為例，加上增強（*e-*）、詞幹（*lu-*）、連接母音（*-o-*）與次要結尾（*-n*），便形成了 *eluon*（我當時正在解開）。教師特別強調，若要轉為「中動/被動語態」（Middle/Passive），則需替換為「次要中動/被動人稱結尾」。
-
-### 增強（Augment）的規則
-
-「增強」是未完成式最顯著的標記，用以區分過去時態與非過去時態。根據動詞詞幹的首字母，有以下幾種處理方式：
-
-#### 1. 子音開頭的動詞
-若詞幹以子音開頭，增強的方法是在詞幹前加上一個「ε」（epsilon）。例如 *luō* 變為 *eluon*。這是最基礎的規則。
-
-#### 2. 母音開頭的動詞
-若詞幹以母音開頭，則無法簡單加上「ε」，而是將該首字母「延長」（lengthening）。
-*   **α（alpha）延長為 η（eta）**：例如 *agapao* 變為 *ēgapōn*。
-*   **ε（epsilon）延長為 η（eta）**：例如 *erchomai* 相關詞根變為 *ē-*.
-*   **雙母音（Diphthongs）**：通常保持不變，不進行增強。例如 *heuriskō* 在未完成式中變為 *hēuriskon*（注意：有時 ε 會變為 η，但雙母音通常維持原狀）。
-
-#### 3. 複合動詞（Compound Verbs）的增強
-這是學生容易犯錯的地方。教師強調，增強必須加在「動詞詞幹」上，而非加在「前置詞」（preposition）上。例如 *katabainō*，增強應加在 *bainō* 的部分，而非 *kata*。通常前置詞若以母音結尾，該母音會脫落，隨後加上增強的「ε」。若前置詞以「ι」（iota）結尾（如 *peri-*），則該「ι」通常保留，並在後方加上增強的「ε」。
-
-### 主要動詞人稱結尾表（Master Personal Ending Chart）的完成
-
-本課標誌著「主要動詞人稱結尾表」的完整。該表分為四個象限，理解這四個象限是掌握希臘文動詞的基石：
-
-*   **左上象限（Primary Active）**：用於現在主動式、未來主動式。
-*   **左下象限（Primary Middle/Passive）**：用於現在中動/被動式、未來中動式。
-*   **右上象限（Secondary Active）**：用於未完成主動式。結尾為：*-n, -s, -, -men, -te, -n*。
-*   **右下象限（Secondary Middle/Passive）**：用於未完成中動/被動式。結尾為：*-mēn, -sou, -to, -metha, -sthe, -nto*。
-
-教師特別提醒，未完成主動式的「第一人稱單數」與「第三人稱複數」結尾相同（皆為 *-n*），這在閱讀時可能會造成混淆。然而，透過上下文（Context）通常能輕易判斷主詞是「我」還是「他們」。
-
-### 學習建議：記憶的重要性
-
-教師在結尾處語重心長地提醒，這張「主要動詞人稱結尾表」是後續所有時態的基礎。未來的每一個時態，不是直接使用這些結尾，就是使用其變體。因此，務必將此表背誦至「絕對記憶」（perfect and absolute memory）的程度。不要拖延記憶進度，否則當後續課程累積更多時態時，學習壓力將會成倍增加。
-
-總結來說，未完成式不僅是關於過去的敘述，更是希臘文「時態與語態系統」中不可或缺的一環。掌握了增強規則與次要人稱結尾，就等於掌握了希臘文動詞系統中關於「過去持續動作」的核心邏輯。
-
-
-## Lesson 22: 第二不定過去式主動與中動語態直說語氣 (Second Aorist Active/Middle Indicative)
+## Lesson 21: 未完成時態 (Imperfect Indicative)
 
 > **大綱對照：**
-> 本解釋大致遵循所提供的大綱結構，但在處理「第二不定過去式」（Second Aorist）的形成機制時，為了讓學生更清晰地理解老師強調的「詞根與現在式詞幹差異」之邏輯，將部分內容進行了整合與深化。
+> 本次課程內容並未完全遵循所提供的 outline。課程重點集中在「未完成時態（Imperfect Indicative）」的定義、增強（Augment）的規則、以及「主詞人稱結尾（Personal Endings）」的四象限完整化，而非針對動詞變位分類（第一、二、三變位）進行逐一詳述。以下說明將依照課程實際講授的邏輯順序進行編排。
 
 
 
-### 一、 第二不定過去式（Second Aorist）簡介
+### 未完成時態的定義與本質
 
-在進入第二不定過去式之前，我們必須先回顧上一章所學的「未完成式」（Imperfect）。未完成式描述的是過去發生的動作，且強調動作的「持續性」（continuous aspect）。相比之下，「不定過去式」（Aorist）描述的是過去的動作，但其特點在於其「體」（aspect）是「未定義的」（undefined）。
+各位同學，早安。今天我們要進入第二十一章，探討所謂的「未完成時態」（Imperfect Indicative）。在希臘文中，時態（Tense）不僅僅代表時間，更重要的是它代表了動作的「體」（Aspect）。
 
-這意味著不定過去式並不告訴我們該動作是持續的、重複的還是瞬間完成的。在翻譯上，我們通常使用簡單過去式。例如：未完成式 *ἔλυον* (I was hitting) 強調過程，而不定過去式 *ἔλυσα* (I hit) 則僅陳述動作本身。
+未完成時態最核心的特徵是它描述的是一個「持續性的動作」（Continuous action），且通常發生在「過去」。請務必區分這一點：在現在時態中，動作可以是持續的，也可以是不定性的；但在未完成時態中，它永遠是持續的。希臘文有另一個過去時態（即我們之後會學到的不定過去時態，Aorist）專門用來描述「不定性」的動作，因此，當你看到未完成時態時，請立刻在腦海中建立一個概念：這是一個在過去持續進行、未曾中斷或重複發生的動作。
 
-#### 第一與第二不定過去式的區別
-希臘語動詞形成不定過去式有兩種方式：第一不定過去式（First Aorist）與第二不定過去式（Second Aorist）。這兩者在意義上沒有區別，僅在形式構成上有差異。本章我們專注於第二不定過去式，並將在下一章探討第一不定過去式。第二不定過去式在形式上與未完成式非常接近，因此從未完成式的基礎過渡到第二不定過去式會相對容易。
+### 未完成時態的構成要素
 
-### 二、 第二不定過去式的形成機制
+要構成一個未完成時態的動詞，我們需要四個基本零件。請記住這個公式：
+**增強（Augment） + 現在時態詞幹（Present Tense Stem） + 連接母音（Connecting Vowel） + 次要人稱結尾（Secondary Personal Endings）**
 
-第二不定過去式的構成非常規律，其公式為：
-**增強（Augment）+ 第二不定過去式詞幹（Second Aorist Tense Stem）+ 連接母音（Connecting Vowel）+ 次要主動語態人稱字尾（Secondary Active Personal Endings）。**
+其中，「增強」與「次要人稱結尾」是你們之前沒見過的新概念。我們以 *luō* 為例：詞幹是 *lu-*，加上增強 *e-*，連接母音，以及次要主動結尾 *-n*，就變成了 *eluon*（我當時正在解開）。如果我們要把它變成中動或被動語態，只需換成「次要中動被動結尾」即可。
 
-#### 1. 主動語態（Active Voice）
-以動詞 *βάλλω* (to throw) 為例，其詞根（Verbal Root）是 *βαλ-*。若要構成第二不定過去式，我們加上增強 *ἐ-*，加上詞根 *βαλ-*，加上連接母音與字尾，便得到 *ἔβαλον*（第一人稱複數形式為 *ἐβάλομεν*）。
+#### 什麼是增強（Augment）？
+增強是一個加在動詞開頭的前綴，用來標示這是一個「次要時態」（Secondary Tense），也就是告訴讀者：「這個動作發生在過去」。
 
-這裡有一個關鍵的語言學規律：**第二不定過去式的詞幹與「詞根」完全相同。** 老師強調，如果你在詞典中查閱動詞，第二不定過去式的詞幹通常是列出的第三個項目。但若能掌握「詞根」的概念，就不需要死記硬背。
+1.  **子音開頭的動詞**：如果詞幹以子音開頭，增強非常簡單，就是加一個 epsilon（ε）。例如 *luō* 變成 *eluon*。
+2.  **母音開頭的動詞**：如果詞幹以母音開頭，我們不能簡單地加一個 epsilon，而是要將該母音「延長」。例如 *agapao* 的詞幹以 alpha 開頭，延長後變成 eta（η），所以變成了 *ēgapōn*。請注意，這裡的 alpha 延長後變成了 eta，這與你們習慣的 alpha 延長規則略有不同，在增強時，alpha 一律延長為 eta。
+3.  **複合動詞（Compound Verbs）**：這是一個常見的陷阱。如果動詞是由「介系詞 + 動詞」組成的，我們必須將增強放在「動詞本體」之前，而不是介系詞之前。例如 *katabainō*，增強後變成 *katabainon*。通常介系詞末尾的母音會脫落，但如果介系詞以 iota 結尾（如 *peri-*），則該 iota 通常會保留。
 
-#### 2. 識別的關鍵：詞根與現在式詞幹的差異
-這是一個極為重要的邏輯點：
-*   **規律一：** 如果一個動詞有第二不定過去式，其詞根在形成「現在式詞幹」時，一定會經過某種變形。
-*   **規律二：** 第二不定過去式的詞幹會「原封不動」地保留詞根。
+#### 特殊情況：雙母音（Diphthongs）
+對於以雙母音開頭的動詞，例如 *heuriskō*，在未完成時態中通常不顯示增強，直接寫作 *heuriskon*。雖然有時 epsilon 會延長為 eta，但一般來說，初始雙母音保持不變。
 
-這兩者的對比是區分「未完成式」與「第二不定過去式」的關鍵。以 *βάλλω* 為例，其現在式詞幹是 *βαλλ-*（雙 lambda），而詞根是 *βαλ-*（單 lambda）。
-*   如果你看到 *ἐβάλλον*（雙 lambda），你立刻知道這是現在式詞幹，因此它是「未完成式」。
-*   如果你看到 *ἔβαλον*（單 lambda），你發現詞幹與現在式詞幹（*βάλλω*）不同，這意味著你已經脫離了現在式系統，進入了不定過去式系統。
+### 主詞人稱結尾的四象限圖
 
-#### 3. 中動語態（Middle Voice）
-第二不定過去式中動語態的形成方式與主動語態幾乎一致，唯一的區別在於結尾使用的是「次要中動/被動語態人稱字尾」（Secondary Middle/Passive Personal Endings）。
+現在，我們終於可以把「主詞人稱結尾表」（Master Personal Ending Chart）補齊了。這張表是你們未來學習所有動詞的基礎，請務必將其背到滾瓜爛熟。
 
-以動詞 *γίνομαι* (to become) 為例，其詞根是 *γεν-*（注意：是 epsilon 而非 iota）。其第二不定過去式中動語態形式為 *ἐγενόμην*。其構成為：增強 *ἐ-* + 詞根 *γεν-* + 連接母音 + 中動語態字尾。
+*   **左上象限（Primary Active）**：這是你們在現在主動與未來主動時態中使用的結尾。
+*   **左下象限（Primary Middle/Passive）**：這是現在中動被動與未來中動時態中使用的結尾。
+*   **右上象限（Secondary Active）**：這是我們今天學的，用於「未完成主動時態」。結尾是：*-n, -s, -, -men, -te, -n*。
+    *   注意：第一人稱單數（*-n*）與第三人稱複數（*-n*）形式相同。別擔心，在閱讀經文時，上下文會清楚告訴你主詞是「我」還是「他們」。
+*   **右下象限（Secondary Middle/Passive）**：這是用於「未完成中動被動時態」。結尾是：*-mēn, -sou, -to, -metha, -sthe, -nto*。
+
+### 總結與學習建議
+
+我們現在已經完成了整張主詞人稱結尾表。從現在開始，你們學到的每一個時態，都只是這張表的變體而已。
+
+最後我要提醒你們：不要拖延記憶工作。如果你們現在不跟上進度，等到後面時態變多時，你們會發現自己要背誦的內容呈指數級增長。未完成時態的重點在於「過去的持續性」，請在閱讀經文時，特別留意作者為何選用未完成時態而非不定過去時態——這通常是為了強調動作的過程、背景描述或習慣性的行為。繼續努力，我們下次見。
+
+
+## Lesson 22: 第二不定過去式主動/中動直說語氣 (Second Aorist Active/Middle Indicative)
+
+> **大綱對照：**
+> 本課的講解內容與所提供的大綱大致吻合，但我將重點放在了「第二不定過去式（Second Aorist）」的形態辨識邏輯上，特別是關於「詞根（Verbal Root）」與「現在時態詞幹（Present Tense Stem）」之間的關係，這部分是理解本課的核心。
+
+
+
+### 導論：什麼是不定過去式（Aorist）？
+
+歡迎來到第 22 章。我們現在要進入一個非常重要的時態：不定過去式（Aorist）。在上一個章節，我們學習了未完成過去式（Imperfect），它描述的是過去發生且具有「持續性（Continuous aspect）」的動作。相比之下，不定過去式（Aorist）描述的是過去發生的動作，但其特點是「未定義（Undefined aspect）」。
+
+這意味著什麼呢？當我們翻譯不定過去式時，通常使用簡單過去式。例如，未完成過去式 *imperfect* 翻譯為「我當時正在打（I was hitting）」，而不定過去式 *aorist* 則翻譯為「我打了（I hit）」。它不強調動作的持續過程，只強調動作作為一個整體在過去發生了。
+
+在希臘語中，不定過去式分為「第一不定過去式（First Aorist）」和「第二不定過去式（Second Aorist）」。雖然我們這章先學第二不定過去式，但請記住，它們的功能是一樣的，只是形態構造方式不同。我建議你們將第二不定過去式視為未完成過去式的延伸，因為它們的形態非常相似，這樣學習起來會更輕鬆。
+
+### 第二不定過去式主動語氣的構成
+
+構成第二不定過去式主動語氣（Second Aorist Active）的公式非常直觀：
+**增強（Augment）+ 第二不定過去式詞幹（Second Aorist Tense Stem）+ 連接元音（Connecting vowel）+ 二級主動語氣人稱詞尾（Secondary active personal endings）**。
+
+以動詞 *ballō* 為例，它的詞根（Verbal Root）是 *bal-*。若要構成第二不定過去式，我們加上增強 *e-*，接上詞根 *bal-*，加上連接元音，最後加上詞尾，便得到 *ebalon*（第一人稱單數）。這與未完成過去式的構造邏輯幾乎完全一致。
+
+#### 詞根（Verbal Root）與時態詞幹的關鍵關係
+
+這是本課最核心的邏輯，請務必反覆研讀：
+1. **詞根即詞幹**：對於擁有第二不定過去式的動詞，其第二不定過去式詞幹（Second Aorist Tense Stem）與該動詞的「詞根（Verbal Root）」是完全一致的。
+2. **現在時態的修改**：如果一個動詞有第二不定過去式，那麼它在構成「現在時態詞幹（Present Tense Stem）」時，一定對原始詞根進行了修改。
+
+讓我們以 *ballō* 為例。你記憶的詞彙是 *ballō*（現在時態），但它的詞根是 *bal-*。你會發現，從詞根 *bal-* 到現在時態 *ballō*，它增加了一個 *lambda*（變成了雙 *lambda*）。這就是「修改」。但在第二不定過去式中，它直接使用原始詞根 *bal-*，所以你看到的是單 *lambda* 的形式：*ebalon*。
+
+#### 如何區分未完成過去式與第二不定過去式？
+
+當你看到一個動詞形式時，請問自己一個關鍵問題：**「我看到的時態詞幹，和我記憶中的現在時態詞幹是一樣的嗎？」**
+
+*   **情況 A：詞幹相同**。如果你看到 *eballon*（雙 *lambda*），這與你記憶的 *ballō*（現在時態）詞幹一致。這意味著你看到的不是第二不定過去式，而是未完成過去式（因為它有增強，且詞幹未變）。
+*   **情況 B：詞幹不同**。如果你看到 *ebalon*（單 *lambda*），這與你記憶的 *ballō*（雙 *lambda*）不同。既然詞幹變了，且又帶有增強，這必然是第二不定過去式。
+
+這就是為什麼理解「詞根」如此重要。一旦你掌握了這個邏輯，你就不需要死記硬背，而是能透過分析詞幹的變化來辨識時態。
+
+### 第二不定過去式中動語氣的構成
+
+第二不定過去式中動語氣（Second Aorist Middle）的構成邏輯與主動語氣幾乎相同，唯一的區別在於詞尾。我們使用「二級中動/被動語氣人稱詞尾（Secondary middle/passive personal endings）」。
+
+以動詞 *ginomai* 為例，其詞根是 *gin-*（注意：這裡的詞根包含一個 *epsilon*）。構成時，我們加上增強 *e-*，接上詞根 *gin-*，加上連接元音和二級中動詞尾，得到 *egenomēn*。
 
 ##### 關於異相動詞（Deponent Verbs）的提醒
-老師特別指出，本章出現的所有第二不定過去式中動語態形式，在意義上都是「異相動詞」（Deponent），即它們雖然在形式上是中動語態，但在意義上卻是主動的。因此，在翻譯時應直接譯為對應的主動語態意義。
+在第 22 章中，你們所遇到的所有不定過去式中動語氣形式，全都是「異相動詞（Deponent verbs）」。這意味著雖然它們在形態上是中動語氣，但在意義上卻是「主動」的。因此，在翻譯時，請務必將其譯為主動語氣。
 
-### 三、 總結與應用
+### 總結與應用
 
-理解第二不定過去式的核心在於「詞根的穩定性」。當你面對一個動詞形式時，請遵循以下步驟：
-1.  **辨識詞幹：** 觀察該形式的詞幹是否與你記憶中的現在式詞幹（詞典形式）完全一致。
-2.  **判斷時態：**
-    *   若詞幹與現在式詞幹一致，且有增強，則為「未完成式」。
-    *   若詞幹與現在式詞幹不一致（通常是詞根的原始狀態），則為「不定過去式」。
+當你面對一個動詞時，請遵循以下步驟：
+1. **檢查增強**：是否有 *epsilon* 開頭？
+2. **對比詞幹**：將該形式的詞幹與你記憶中的現在時態詞幹進行比較。
+3. **判斷時態**：
+    *   若詞幹與現在時態相同，且有增強，則為未完成過去式。
+    *   若詞幹與現在時態不同（即詞根還原了），且有增強，則為第二不定過去式。
 
-這套邏輯不僅能幫助你準確識別第二不定過去式，還能讓你深刻理解希臘語動詞系統中「詞根」（Verbal Root）作為所有時態變化之基石的重要性。掌握了這一點，你就不再需要盲目背誦每一個變位，而是能透過詞根的演變規律，推導出正確的時態形式。
+這套邏輯是你們進入希臘語中級語法的重要基石。最後，請將這些新的規則加入到你們的「大師動詞表（Master Verb Chart）」中，分別標記出第二不定過去式主動與中動的欄位。只要掌握了詞根與時態詞幹的變化關係，這些形式對你們來說就不再是難題，而是規律的展現。
 
 
 ## Lesson 23: 第一不定過去式主動與中動語態直說語氣 (First Aorist Active/Middle Indicative)
 
 > **大綱對照：**
-> 本文內容大致遵循所提供的教學大綱，但針對教學內容的邏輯順序進行了整合。教學重點集中在第一不定過去式（First Aorist）的形態構成規則、液音動詞（Liquid Verbs）的特殊變化，以及如何透過詞根辨識來簡化記憶負擔，而非僅僅停留在定義層面。
+> 本講義內容與所提供的大綱並不完全吻合。教授在課堂中並未按照大綱的四個部分進行結構化教學，而是直接進入了「第一不定過去式」（First Aorist）的形態學（Morphology）規則、液音動詞（Liquid Verbs）的特殊變化，以及如何運用詞根知識來簡化記憶負擔。因此，本說明將依照教授實際的教學順序進行編排，以確保讀者能精確掌握課堂重點。
 
 
 
-### 第一不定過去式（First Aorist）的構成邏輯
+### 第一不定過去式（First Aorist）的形態構成
 
-在希臘文動詞系統中，不定過去式（Aorist）主要分為第一不定過去式（First Aorist）與第二不定過去式（Second Aorist）。從語義與翻譯的角度來看，兩者並無區別，皆表示過去發生的單一動作。兩者的核心差異僅在於「形態構成」（Formation）。
+各位同學，歡迎來到第 23 章。我們現在要處理的是與上一章「第二不定過去式」（Second Aorist）相對的另一面。首先我要強調一個核心觀念：在意義與翻譯上，第一與第二不定過去式是完全相同的。它們都屬於不定過去式（Aorist），表達過去發生的動作，翻譯時通常使用簡單過去式。我們今天學習的重點僅在於「形式上的差異」。
 
-第一不定過去式的構成公式非常規律：
-**增強（Augment）+ 不定過去式詞幹（Aorist Active Tense Stem）+ 時態標記（Tense Formative）+ 次要主動語態結尾（Secondary Active Personal Endings）**
+要構成第一不定過去式主動語態（First Aorist Active），你需要四個要素：
+1. **增強（Augment）**：通常是字首加一個 epsilon (ε)。
+2. **不定過去式詞幹（Aorist Active Tense Stem）**：這通常與現在式詞幹相同。
+3. **時態標記（Tense Formative）**：這是第一不定過去式的靈魂，即 **sigma-alpha (σα)**。
+4. **次要主動語態人稱詞尾（Secondary Active Personal Endings）**：因為這是增強時態，我們使用過去式的詞尾。
 
-其中，最關鍵的特徵是時態標記 **-σα- (sigma-alpha)**。當你在動詞中看到這個組合時，它應當成為你辨識該詞為第一不定過去式的「閃爍訊號」。由於時態標記以母音結尾，因此在構成時不需要連接母音（Connecting Vowel），這使得形態結構相對簡潔。
+這裡有一個非常重要的觀察：**第一不定過去式不需要連接母音（Connecting Vowel）**。為什麼？因為我們的時態標記 σ-α 已經以母音結尾了。當你看到 σ-α 出現時，它應該要像霓虹燈一樣對你「閃爍」，告訴你：「這就是第一不定過去式！」
 
-### 詞幹的穩定性與「規律」形態
+以動詞 *luō* (λύω) 為例：
+*   增強：*e-* (ε-)
+*   詞幹：*lu-* (λυ-)
+*   時態標記：*-sa-* (-σα-)
+*   詞尾：*-men* (-μεν)
+*   結果：*elusamen* (ἐλυσάμεν)
 
-在第二不定過去式中，詞幹往往會發生變化，與現在式詞幹（Present Tense Stem）不同。然而，第一不定過去式通常被稱為「規律形態」（Regular Formation）。這意味著，大多數動詞的現在式詞幹與不定過去式詞幹是完全一致的。
+### 詞尾的特殊變化與辨識
 
-例如動詞 *λύω* (luō)，其詞幹為 *λυ-*。無論是在現在式 *λύω*，還是在第一不定過去式 *ἔλυσα* (elusa) 中，詞幹皆保持不變。這種一致性大大降低了學習者的記憶負擔，因為你只需要掌握詞根，就能推導出大部分的變位形式。
+在第一不定過去式的變位中，有兩個地方需要特別留意，這也是你們需要標記在筆記上的細節：
 
-### 特殊變位規則：第三人稱單數的變化
-
-在第一不定過去式的變位中，有兩個細節需要特別留意：
-
-1. **第一人稱單數（1st Singular）**：此處不使用任何個人結尾（Personal Ending），僅保留時態標記 *-σα*。這與未完成式（Imperfect）形成了良好的區分。例如，若動詞為 *ἔλυσα*，我們不會將其誤認為未完成式，因為未完成式通常會有結尾。
-2. **第三人稱單數（3rd Singular）的變體**：為了區分第一人稱單數與第三人稱單數，第三人稱單數的結尾從 *-σα* 變成了 *-σε* (sigma-epsilon)。這是一種常見的形態調整，在學習過程中，建議將此類「微小但關鍵的變化」記錄在你的筆記清單中，以防在閱讀經文時產生混淆。
+1. **第一人稱單數（1st Singular）**：這裡沒有使用人稱詞尾，只有時態標記 *-sa*。這與未完成式（Imperfect）形成了很好的區分。在未完成式中，第一人稱單數與第三人稱複數常有混淆的可能（例如 *eluon*），但在第一不定過去式中，第一人稱單數是 *elusa*，第三人稱複數是 *elusan*，兩者截然不同。
+2. **第三人稱單數（3rd Singular）的變化**：通常我們預期這裡沒有詞尾，但為了與第一人稱單數區分，希臘文將 *-sa* 變成了 *-se* (σ-ε)。請務必將「*-sa* 變為 *-se*」這一點記錄在你的特殊變化清單中，這在其他時態中也會出現。
 
 ### 液音動詞（Liquid Verbs）的特殊性
 
-當動詞詞幹以液音字母（Liquid Consonants：λ, μ, ν, ρ）結尾時，會出現特殊的變位規則。在第一不定過去式中，液音動詞有兩個顯著特徵：
+當我們遇到液音動詞（即詞幹結尾為 λ, μ, ν, ρ 的動詞）時，第一不定過去式會出現一個「小插曲」。在未來式中，液音動詞會失去 sigma；而在不定過去式中，情況類似：**時態標記變成了單純的 alpha (α)**，sigma 脫落了。
 
-1. **時態標記的簡化**：時態標記中的 *sigma* 會脫落，僅剩下 *-α-*。
-2. **詞幹的潛在變化**：為了發音或形態上的需要，詞幹有時會發生母音變化。例如 *μένω* (menō) 的詞幹在不定過去式中可能變為 *μην-*。
+例如動詞 *menō* (μένω)，其不定過去式詞幹可能會發生元音變化（如 *mein-*），加上時態標記 *-a-* 和詞尾，變成 *emeina* (ἔμεινα)。當你看到一個動詞，發現它結尾是液音，且前面有一個 alpha 而非 sigma，這就是液音動詞不定過去式的訊號。請記得，只要你熟記詞彙表中的詞根，這些變化都是有跡可循的，不需要死記硬背。
 
-辨識液音動詞的關鍵在於：當你看到動詞結尾出現 *-α-* 加上個人結尾，且詞幹末尾是液音字母時，這通常就是液音動詞的不定過去式。透過熟記詞彙表中的詞根（例如 *μένω* 的詞根是 *μεν-*，而非 *μην-*），你可以輕易判斷出詞幹是否發生了變化。
+### 運用詞根知識簡化學習
 
-### 透過詞根知識簡化學習
+我常說，如果你了解詞根（Root）的變化規則，你就不需要背誦成百上千個動詞變位表。以 *baptizō* (βαπτίζω) 為例，如果你只記住現在式，你可能會覺得它的不定過去式 *ebaptisa* (ἐβάπτισα) 很奇怪，因為 delta 不見了。但如果你知道它的詞根是 *baptid-*，你就知道這是一個標準的「齒音（Dental）+ sigma」變化，齒音在 sigma 前脫落了。
 
-教師強調，掌握「詞根」（Root）是避免死記硬背九個以上範式（Paradigm）的關鍵。以 *βαπτίζω* (baptizō) 為例，若你只記憶變位後的形態，會覺得其不定過去式 *ἐβάπτισα* (ebaptisa) 很難理解。但若你清楚其詞根為 *βαπτιδ-*（以齒音 *delta* 結尾），你就會明白，當齒音遇到時態標記 *sigma* 時，齒音會脫落，這與第三變格名詞的變化規則完全一致。
+這就是為什麼我一直強調要掌握詞根。當你看到 *elepsa* (ἔλεψα) 這種形式，你要能反推：結尾的 *-psa* 是由「唇音（Labial）+ sigma」構成的，所以原詞根一定是以唇音結尾的 *blep-*。這種邏輯推演能力，能讓你省下背誦九個以上變位表的功夫。
 
-這種「規則導向」的學習方式，能讓你將原本看似不規則的動詞，還原為規律的語法現象，從而大幅提升解經時的效率。
+### 中動語態（Middle Voice）的處理
 
-### 第一不定過去式中動語態（Middle Indicative）
+第一不定過去式中動語態（First Aorist Middle）的構成邏輯與主動語態一致，差別僅在於使用「中動/被動語態詞尾」。你會看到 *-samēn, -sō, -sato* 等形式。雖然第二人稱單數會因為收縮而顯得有點不規則，但只要你抓住了 σ-α 這個核心標記，無論是主動還是中動，你都能一眼認出這是不定過去式。
 
-第一不定過去式中動語態的構成邏輯與主動語態相似，同樣建立在相同的時態詞幹上，唯一的區別在於結尾必須使用「中動/被動語態結尾」（Middle/Passive Endings）。
-
-雖然中動語態的變位看起來較為複雜，但只要看到 *-σα-* 這個核心標記，就能立刻辨識出這是第一不定過去式。教師提醒，不需要刻意區分它是第一還是第二不定過去式，因為兩者在翻譯上並無二致，重點在於辨識出「不定過去式」的時態意義，並準確地將其應用於經文的釋經之中。
+最後，關於「第一」還是「第二」不定過去式的分類，我並不要求你們在翻譯時特別區分，因為這不影響語意。重點是你要能辨識出這是不定過去式，並理解它在過去時態中的功能。繼續努力，我們在「大師動詞表」（Master Verb Chart）上又多了幾行要填寫的內容，這意味著你們的希臘文功力又更上一層樓了！
 
 
 ## Lesson 24: 不定過去與未來被動語態 (Aorist and Future Passive Indicative)
 
 > **大綱對照：**
-> 本文的解釋結構大致遵循所提供的大綱，但針對教學內容的邏輯順序進行了整合。教師在課堂中將「不定過去式被動語態」（Aorist Passive）與「未來被動語態」（Future Passive）視為同一詞幹系統的延伸，因此本文將此核心邏輯作為論述的基礎，並詳細拆解了教師對於詞彙記憶與規則應用的建議。
+> 本文內容完全遵循所提供的大綱結構，並根據課堂教學的實際順序進行了深入的擴充與解析。
 
 
 
-### 不定過去與未來被動語態的基礎概念
+### 不定過去與未來被動語態簡介
 
-在希臘文動詞系統中，將「不定過去式被動語態」（Aorist Passive）與「未來被動語態」（Future Passive）放在同一章節學習，初看之下或許令人困惑，但這背後有著嚴謹的形態學邏輯：兩者皆源自同一個「被動語態詞幹」（Passive Tense Stem）。
+歡迎來到第 24 章。我們今天要學習的是「不定過去被動語態」（Aorist Passive）與「未來被動語態」（Future Passive）。你可能會覺得這兩者放在一起學習有些奇怪，但事實上，它們在詞法結構上有著極為緊密的聯繫：它們都是由同一個詞幹——「不定過去被動詞幹」（Aorist Passive tense stem）所構成的。
 
-在希臘文的六個時態詞幹中，第六個詞幹同時負責不定過去被動與未來被動。當我們想要形成未來被動語態時，只需在不定過去被動的基礎上進行微小的調整（如移除增音、調整時態標記）。這種設計體現了希臘文動詞系統的經濟性——透過共享詞幹，減少了學習者需要記憶的詞根數量。
+在希臘語中，我們總共有六個時態詞幹。當我們想要構成未來被動語態時，我們只需要在不定過去被動詞幹的基礎上做一點小小的變動即可。因此，將這兩者合併在同一章節中，是為了幫助你們理解它們在形態學（Morphology）上的親緣關係。這一章的內容其實相當直觀，重點在於掌握幾個關鍵的構成規則，並熟悉相關的變化表（Paradigms）。
 
-### 不定過去被動語態（Aorist Passive Indicative）
+### 不定過去被動語態 (Aorist Passive Indicative)
 
-不定過去被動語態的形成規則相對固定，教師將第一不定過去（First Aorist）與第二不定過去（Second Aorist）合併討論，因為它們在結構上極為相似。
+#### 構成與用法
+構成不定過去被動語態（Aorist Passive）非常簡單，我將第一不定過去（First Aorist）與第二不定過去（Second Aorist）合併來講，因為它們除了極少數細節外，結構幾乎一致。構成公式如下：
 
-#### 形成規則
-要形成不定過去被動語態，需具備以下要素：
-1. **增音（Augment）**：作為不定過去式，必須加上增音（通常為 ε-）。
-2. **被動語態詞幹（Passive Tense Stem）**：這是該時態的核心。
-3. **時態標記（Tense Formative）**：
-   - 第一不定過去：使用 **θ-η** (theta-eta)。
-   - 第二不定過去：僅使用 **η** (eta)。
-4. **次要主動語態結尾（Secondary Active Endings）**：這是一個特殊的現象，即被動語態使用了主動語態的結尾。教師指出，由於 θη 的標記非常顯眼，學習者幾乎不會將其誤認為主動語態，因此這種「主動結尾」並不會造成混淆。
+1.  **增強（Augment）**：因為是不定過去時態，所以必須加上增強。
+2.  **不定過去被動詞幹（Aorist Passive tense stem）**。
+3.  **時態標記（Tense Formative）**：如果是第一不定過去，時態標記是 `theta-eta` (θη)；如果是第二不定過去，則僅為 `eta` (η)。
+4.  **次要主動語態結尾（Secondary Active endings）**：這點可能會讓你們感到困惑——為什麼被動語態會使用主動語態的結尾？這在希臘語中其實相當常見，尤其是在分詞（Participles）等其他形式中。但請放心，由於 `theta-eta` (θη) 這個時態標記非常顯眼，它會直接跳入你的眼簾，讓你一眼就能辨識出這是被動語態，因此你完全不必擔心會將其誤認為主動語態。
 
 #### 辨識與翻譯
-在辨識上，若看到詞尾出現 θη，幾乎可以斷定這是不定過去被動語態。第二不定過去雖然沒有 θ，但其 η 的出現同樣是明確的標記。翻譯時，不定過去被動語態通常對應中文的「被動式」（例如：被……了），其時態意義強調過去發生的動作。
+當你在詞典中查找一個動詞時，你會看到六個時態形式。如果你發現某個動詞在未完成時態（Imperfect）中出現，我通常會將其標註在現在時態後的括號中，因為增強的變化有時會顯得比較怪異。
 
-### 未來被動語態（Future Passive Indicative）
+在辨識上，第一不定過去通常非常規律，容易識別。第二不定過去則稍微困難一些，但請記住一個關鍵：在希臘語中，唯一會在人稱結尾前出現 `eta` (η) 的情況，就是第二不定過去被動語態。只要你看到這個 `eta`，就要對此保持高度警覺。
 
-未來被動語態的形成與不定過去被動語態高度相關，其邏輯是「以不定過去被動為基礎，進行去增音與變形」。
+### 未來被動語態 (Future Passive Indicative)
 
-#### 形成規則
-1. **移除增音**：由於未來式不表示過去時間，因此必須將不定過去被動詞幹中的增音移除。
-2. **調整時態標記**：
-   - 第一未來被動：在 θη 之後加上 **σ** (sigma)，形成 **θησ**。
-   - 第二未來被動：在 η 之後加上 **σ**，形成 **ησ**。
-3. **連接母音與主要被動結尾**：因為它是未來式，故使用主要被動結尾（Primary Passive Endings）。
+#### 構成與用法
+未來被動語態的構成與不定過去被動語態幾乎如出一轍，但有三個關鍵差異：
+
+1.  **移除增強**：未來時態不表示過去，因此必須去掉增強。如果原來的增強是 `epsilon` (ε)，它會直接消失；如果是 `eta` (η)，它會還原回原本的母音（如 `alpha` 或 `epsilon`）。
+2.  **增加時態標記**：在原本的時態標記後再加一個 `sigma` (σ)。第一未來被動的標記是 `theta-eta-sigma` (θησ)；第二未來被動則是 `eta-sigma` (ησ)。
+3.  **使用主要被動語態結尾（Primary Passive personal endings）**：因為它不再是過去時態，所以改用主要時態的結尾。
+
+總結來說，未來被動語態是使用「未增強的不定過去被動詞幹」，加上時態標記 `theta-eta-sigma` 或 `eta-sigma`，再接上連接母音與主要被動語態結尾。
 
 #### 翻譯技巧
-教師建議，未來被動語態在翻譯時，直接使用簡單未來式（例如：「將會被……」）即可，無需過度強調「未來進行」的語氣，這在聖經希臘文的翻譯中更為自然且準確。
+在翻譯上，我們通常直接使用簡單未來式（Simple Future）即可。雖然希臘語的未來式在語義上可能介於「未定義」與「持續」之間，但「未來進行式」在中文或英文中往往顯得生硬。例如，將 `λύσω` 翻譯為「我將學習」遠比「我將會正在學習」來得自然且準確。
 
-### 詞彙記憶與形態學應用
+### 應用與詞彙學習策略
 
-教師在課堂中強調了一個重要的學習策略：**「學習規則，而非盲目背誦」**。
+#### 詞彙記憶的原則
+我一直強調：**學習規則，而非死記硬背**。除非某個形式極度怪異，否則透過掌握詞幹變化規則來推導，遠比記憶成千上萬個表格有效。
 
-#### 區分「需要背誦」與「可以推導」
-學習者應檢視自己的動詞掌握程度。如果看到某個變形形式，能夠透過詞根與規則推導出其原形，就無需浪費記憶力去背誦該形式。只有當該形式極度不規則，或規則過於複雜以至於無法在閱讀時快速反應，才建議將其放入記憶清單（如教師課本中劃線的詞彙）。
+當你面對詞彙表時，請做一個決策：如果你看到這個詞的某個變形，你是否能憑藉對詞根的理解將其還原？如果答案是肯定的，就不要浪費記憶體去背誦它。如果答案是否定的，那就將其加入你的記憶清單。在我的教材附錄中，我特別標註了那些「雖然有規則可循，但因過於特殊而建議直接背誦」的形式。
 
 #### 輔音與母音的權重
-教師特別提醒，**輔音（Consonants）承載了動詞的語義核心**，而母音（Vowels）則相對「善變」。在處理如 *ballō* (拋擲) 變形為 *eblēthēn* 的過程中，學習者常會被母音的變化干擾。教師解釋，這是因為希臘文喜歡在 θ 之前插入字母（如 σ 或 η），這種插入是形態學上的常規，而非詞根的改變。只要抓住了輔音詞根（如 *ball-*），就能看穿這些變化的表象。
+請務必記住：**輔音承載了動詞的核心意義，而母音則是多變的**。母音可能會拉長、縮短、甚至完全消失（例如 `βάλλω` 在不定過去被動中變為 `ἐβλήθην`，其中的 `alpha` 就消失了）。
 
-#### 結論：掌握「主動詞表」
-本章節的學習目標，是讓學生能夠在看到動詞時，迅速連結到六個時態詞幹。隨著課程進展至第 25 章（完成式），所有的時態詞幹將會補齊。屆時，學生應回顧所有詞彙卡，根據「是否能一眼辨識」來篩選出真正需要死記硬背的例外詞彙，這才是高效研讀聖經希臘文的關鍵。
+當你看到 `ἐβλήθην` 時，不要誤以為它是來自某個以 `βλα-` 開頭的詞。你要看到的是 `βαλ-` 這個詞根。希臘語喜歡在 `theta` (θ) 前插入 `sigma` (σ) 或 `eta` (η)，這只是為了語音上的方便。一旦你識別出了詞根，並看到了 `theta` (θ)，你就能立刻判斷出這是被動語態，至於中間插入了什麼字母，其實並不影響你對動詞意義的掌握。
+
+在接下來的第 25 章，我們將學習最後一個時態——完成時態（Perfect）。屆時，你們將完成所有六個時態詞幹的學習。請務必在完成第 25 章後，徹底整理你的詞彙卡，並根據這六個時態的規則，重新審視你對動詞的掌握程度。這不僅是為了考試，更是為了讓你具備直接閱讀聖經原文的能力。
 
 
-## Lesson 25: 完成直說語氣 (Perfect Indicative)
+## Lesson 25: 完美時態直說語氣 (Perfect Indicative)
 
 > **大綱對照：**
-> 本文內容大致遵循所提供的大綱，但在教學順序上，講師先介紹了完成式（Perfect）的定義與意義，隨後詳細拆解了主動語態與中動/被動語態的構成規則，最後討論了中動語態的語義功能。本文將按照講師的教學邏輯進行詳細說明。
+> 本課的教學內容與所提供的大綱大致吻合，但教學順序上將「重疊（Reduplication）」的討論整合進了動詞形式的構建中，並在最後加入了關於「中間語態（Middle Voice）」意義的深入探討，這超出了大綱僅列出的「完美時態」範圍。以下說明將按照課堂實際講授的邏輯順序進行。
 
 
 
-### 完成式（Perfect Indicative）的定義與意義
+### 一、 完美時態的定義與功能 (Introduction to the Perfect Indicative)
 
-在希臘文動詞系統中，完成式（Perfect）是用來描述一個「過去已經完成，但其結果或影響持續到現在」的動作。為了幫助學生理解，講師透過三個英文句子的對比來闡明其核心邏輯：
-1. **I wrote**（我寫了）：這是簡單過去式（Aorist），僅描述過去的一個動作。
-2. **I have written**（我已經寫了）：這是完成式，強調動作在過去完成，且該動作的影響或結果在現在依然有效。
-3. **It is written**（這事已經被寫下來了）：這同樣是完成式，但強調的重點在於「該動作所帶來的持續性結果」。
+我們終於來到第 25 章了！這是我們學習動詞時態的最後一哩路。在進入複雜的變位之前，請先思考英文中這三個句子的細微差別：
+1. "I wrote"（我寫了）
+2. "I have written"（我已經寫了）
+3. "It is written"（經上記著說）
 
-在希臘文中，完成式不僅僅是時間上的過去，它更是一種「狀態」的描述。當我們翻譯完成式時，通常使用英文的 "have/has + 過去分詞" 來表達。雖然在進階閱讀中，我們可以根據上下文將其譯為「它已經寫成」或「這事已成定局」，但初學者應先掌握 "have/has" 的翻譯方式，以建立對「過去動作、現在影響」這一核心概念的認知。
+第一句 "I wrote" 描述的是過去的一個簡單動作，在希臘文中，這對應的是我們之前學過的「不定過去時態」（Aorist）。但當你說 "I have written" 時，你表達的是一個在過去完成的動作，且該動作的影響或結果一直持續到現在。這就是希臘文「完美時態」（Perfect Tense）的核心意義：**過去完成的動作，其結果在說話時仍然有效。**
 
-### 完成式的構成規則
+至於 "It is written"（例如聖經中常見的 *gegraptai*），它與 "I have written" 描述的是同一個事件，但重點不同。"I have written" 強調的是動作的「完成性」，而 "It is written" 則將焦點完全放在該動作所帶來的「持續性影響」上。在初學階段，我們通常使用英文的 "have/has" 來翻譯完美時態，但當你閱讀經文時，若發現上下文強調的是某個真理的恆久性，將其翻譯為 "it is..." 會更精確。
 
-完成式的構成有幾個關鍵要素，其中最顯著的特徵是「重疊」（Reduplication）。
+### 二、 完美主動語態的構建 (Forming the Perfect Active)
 
-#### 1. 重疊（Reduplication）
-重疊是完成式最容易辨識的特徵。根據詞幹開頭字母的不同，分為兩類：
-* **輔音重疊（Consonantal Reduplication）**：若詞幹以輔音開頭，則重複該輔音，並在中間插入一個 epsilon (ε)。例如：*luō* (λύω) 的詞幹是 *lu-*，重疊後變為 *le-lu-*，加上詞幹後形成 *le-luka*。
-* **元音重疊（Vocalic Reduplication）**：若詞幹以元音開頭，則其重疊形式看起來與「增添」（Augment）非常相似，即將首字母延長。但必須謹記：**這不是增添**。增添代表過去時間，而重疊代表動作的完成狀態。
+完美主動語態的構建並不困難，只要掌握三個關鍵要素：**重疊（Reduplication）**、**時態詞幹（Tense Stem）**，以及**時態標記（Tense Formative）**。
 
-#### 2. 完成主動語態（Perfect Active）
-完成主動語態的構成公式為：**重疊 + 完成主動詞幹 + 時態詞綴（Tense Formative） + 主動語態主要人稱詞尾（Primary Active Personal Endings）**。
-* **時態詞綴**：第一完成式使用 *kappa-alpha* (-κα-)，第二完成式則僅使用 *alpha* (-α-)。
-* **辨識技巧**：完成主動語態與不定過去式（Aorist）極為相似，但因為有「重疊」的存在，只要看到動詞開頭重複了輔音，幾乎可以立刻斷定它是完成式。
+#### 1. 重疊 (Reduplication)
+這是完美時態最顯著的特徵。如果動詞詞幹以輔音開頭，我們就重複該輔音，並在中間插入一個 epsilon（ε）。例如 *luō* 變成 *le-luka*。如果詞幹以元音開頭，則進行「元音重疊」（Vocalic Reduplication），這看起來很像「增添」（Augment），但請務必區分：增添是為了表示「過去時間」，而重疊是為了表示「動作的完成」。
 
-#### 3. 完成中動/被動語態（Perfect Middle/Passive）
-完成中動/被動語態的構成公式為：**重疊 + 完成中動/被動詞幹 + 中動/被動主要人稱詞尾**。
-* **關鍵特徵**：這是希臘文動詞系統中極少數**沒有連接元音（Connecting Vowel）**且**沒有時態詞綴**的結構。
-* **辨識技巧**：當你看到動詞詞幹直接接上人稱詞尾，且前方有重疊，這絕對是完成中動/被動語態，沒有其他可能。這使得它在辨識上反而比主動語態更為直接。
+#### 2. 時態標記與詞幹
+我們現在已經集齊了六個時態詞幹。完美主動語態的時態標記是 **kappa-alpha (κα)**。如果是「第二完美時態」（Second Perfect），則標記僅為 **alpha (α)**。由於完美時態不使用增添，因此我們直接接上「主要主動語態人稱詞尾」（Primary Active Personal Endings）。
 
-### 中動語態（Middle Voice）的語義與功能
+### 三、 完美中動/被動語態 (Perfect Middle/Passive)
 
-在完成式教學的尾聲，講師特別強調了中動語態的意義。雖然在希臘文學習中，我們常將中動語態與被動語態混為一談，但兩者在語義上有本質區別：
-* **主動語態**：主詞對直接受詞執行動作。
-* **被動語態**：主詞接受動作。
-* **中動語態**：主詞執行動作，但該動作以某種方式「回到主詞身上」，對主詞產生影響或與主詞有關。
+當你看到一個動詞，發現它**既沒有連接元音（Connecting Vowel），也沒有時態標記（Tense Formative）**，直接將人稱詞尾接在詞幹上，那麼它百分之百就是「完美中動/被動語態」。這是辨識上的一個絕佳捷徑。
+
+在變位時，我們使用第五時態詞幹，並加上「主要被動語態人稱詞尾」。例如 *luō* 的完美中動/被動形式 *le-lu-mai*。請注意，第二人稱單數形式 *le-lu-sai* 會完整呈現，這在其他時態中較為少見。我強烈建議你們現在就拿起課本後方的表格，將所有出現頻率 50 次以上的動詞進行標記，確認哪些是規則變化，哪些需要特別記憶。
+
+### 四、 中間語態的深層意義 (The Middle Voice)
+
+我們終於要面對「中間語態」（Middle Voice）了。請記住一個重要數據：新約中 75% 的中間語態形式都是「異相動詞」（Deponent），即它們雖然長得像中間語態，但意義上等同於主動語態。
+
+對於剩下的 25%，我們需要理解其真正的語法功能。主動語態是主詞對受詞做動作；被動語態是主詞接受動作；而**中間語態則是主詞做動作，但該動作的結果或影響會回饋到主詞身上**。
 
 #### 實例分析：馬可福音 11:24
-講師引用了馬可福音 11:24 中的 *aiteisthai* (αἰτεῖσθαι)。該詞源自 *aiteō* (αἰτέω)，在這裡是現在中動語態。若將其視為被動語態，翻譯會變得毫無意義。但若理解為中動語態，其含義就是「為自己祈求」。這顯示了中動語態的「反身性」色彩。
+經文提到 *aiteisthe*（你們祈求）。這個詞源自 *aiteō*（請求），它是異相動詞。在祈禱的語境中，若將其視為被動語態則完全不通。這裡的中間語態暗示了「為自己祈求」的意涵。雖然在希臘文中，若要表達強烈的反身意義，通常會使用反身代名詞，但中間語態本身就帶有一種「與主詞相關」的細微差別。
 
-然而，講師提醒學生：
-1. **75% 的中動語態是「異相動詞」（Deponent）**：意即它們形式上是中動語態，但意義上等同於主動語態。
-2. **其餘 25% 才是真正的中動語態**：當你發現一個動詞既不是異相動詞，翻譯成被動語態又不通時，那它很可能就是具有反身或利益相關意義的「真中動語態」。
-
-### 學習建議與總結
-進入第 25 章，學生應當開始系統性地整理「主動詞幹表」。講師強調，對於那些規則變化的動詞（如以元音結尾、流音動詞、塞音動詞），其時態變化是非常規律的。現在是時候將所有學過的動詞變化表（Master Indicative Verb Chart）進行最後的整合，透過標記與反覆練習，確保在閱讀經文時，能夠一眼辨識出動詞的時態與語態，而非僅僅依賴死記硬背。
+當你遇到一個非異相動詞，且翻譯成被動語態完全不合理時，請試著用「為自己」或「與自己有關」的角度去思考，這就是中間語態的精髓。我們已經完成了「主動語態動詞總表」（Master Indicative Verb Chart），現在你們手中有完整的工具來解讀新約希臘文的動詞系統了！
 
 
 ## Lesson 26: 分詞導論 (Introduction to Participles)
 
 > **大綱對照：**
-> 本課程的教學內容與提供的「大綱」並不完全吻合。教師在本次課程中主要專注於分詞（Participles）的語法結構、形態學（Morphology）以及其作為「動詞性形容詞」的本質，並未深入探討大綱中提到的「副詞性分詞」或「屬格絕對結構」（Genitive Absolute）等具體功能分類。因此，以下解釋將嚴格遵循教師在課堂上實際教授的順序與重點進行編寫。
+> 本次課程並未嚴格遵循所提供的大綱。講者將重點集中在分詞（Participles）的語法結構、形態學（Morphology）以及如何將已學過的動詞與名詞知識整合，而非按照大綱中的「形容詞/副詞分詞」或「屬格絕對結構」進行分類教學。以下說明將完全依照講者的教學順序與邏輯進行編排。
 
 
 
-### 分詞的本質：動詞性形容詞 (Verbal Adjectives)
+### 分詞的本質：動詞與形容詞的結合
 
-在希臘文語法中，分詞（Participles）常被視為學習者的「大魔王」，但教師強調，若能掌握其核心定義，分詞其實並不複雜。分詞最關鍵的定義是**「動詞性形容詞」（Verbal Adjectives）**。這意味著分詞同時具備了動詞與形容詞的特徵。
+歡迎來到第 26 課。我們今天正式進入「分詞」（Participles）的世界。為了讓學習更輕鬆，我將分詞的內容拆解為五個章節，而第 26 課的核心任務是掌握分詞的「語法」。如果你能理解什麼是「動詞性形容詞」（verbal adjective），那麼後續章節的形態變化就只是練習而已。
 
-*   **動詞特徵（Verbal Characteristics）：** 分詞源自動詞詞幹，因此保留了動詞的「時態」（Tense）與「語態」（Voice）。這意味著分詞可以表達動作的進行狀態（Aspect），並區分主動、中動或被動語態。
-*   **形容詞特徵（Noun/Adjective Characteristics）：** 分詞在句子中作為形容詞使用，因此必須具備「格」（Case）、「數」（Number）與「性」（Gender）。這意味著分詞必須與它所修飾的名詞在這些範疇上保持一致（Agreement）。
+在開始之前，我必須強調：如果你在名詞與動詞的語法上已經打好基礎，那麼分詞對你來說會非常簡單。分詞本質上就是將這兩者合併。如果你對之前的名詞變格或動詞變化感到生疏，現在是回頭複習的最佳時機。請不要對分詞感到恐懼，許多學生在掌握了核心邏輯後，都能迅速突破這一關。
 
-教師提醒，分詞的困難在於它將名詞系統與動詞系統「合併」了。如果學生對名詞變格（Noun grammar）與動詞變位（Verb grammar）不夠熟練，在處理分詞時就會感到混亂。因此，分詞並非全新的知識，而是舊知識的重新組合。
+關於分詞，你只需要記住三個核心概念：
+1. **它是「-ing」詞：** 在英語中，我們將動詞加上 -ing（如 eating, sleeping），這就是分詞的雛形。
+2. **它是「動詞性形容詞」：** 這是最重要的定義。它既有動詞的特徵（時態、語態），又像形容詞一樣在名詞系統中運作（有格、數、性）。
+3. **分詞詞素（Participle Morphemes）：** 我們只需要學習約四個主要的詞素，將其接在動詞詞幹後，再加上格位結尾，分詞就構成了。
 
-### 分詞的時態與「體」（Aspect）
+### 分詞的動詞特徵：時態與語態
 
-在分詞系統中，時態的意義與直說語氣（Indicative mood）有所不同。在直說語氣中，時態通常與「絕對時間」（Absolute time，如過去、現在、未來）掛鉤；但在分詞系統中，時態的核心意義在於**「體」（Aspect）**，即動作進行的狀態：
+分詞既然是「動詞性」的，它就具備了動詞的屬性。首先是**時態（Tense）**。我們有現在式、不定過去式（Aorist）與完成式分詞。但請務必注意：分詞的時態**不代表絕對時間（Absolute Time）**。
 
-1.  **現在分詞（Present Participle）：** 基於現在時態詞幹，強調「持續性動作」（Continuous action）。
-2.  **不定過去分詞（Aorist Participle）：** 基於不定過去時態詞幹，強調「未定動作」（Undefined action）。
-3.  **完成分詞（Perfect Participle）：** 基於完成時態詞幹，強調「完成體」（Perfected action），即動作已完成且具有持續性的後果。
+在直說語氣（Indicative）中，現在式代表現在，過去式代表過去；但在分詞系統中，時態代表的是**「體」（Aspect）**：
+*   **現在分詞（Present Participle）：** 描述「持續性」的動作。
+*   **不定過去分詞（Aorist Participle）：** 描述「未定義」或「單一性」的動作。
+*   **完成分詞（Perfect Participle）：** 描述「已完成且帶有持續結果」的動作。
 
-教師特別強調，分詞系統中沒有「過去時態」的概念。這解釋了為什麼分詞結構中**沒有「增音」（Augment）**。增音是直說語氣中表示過去時間的標記，既然分詞不表達絕對時間，增音自然就被捨棄了。
+此外，分詞也具備**語態（Voice）**：主動、中動、被動或異相動詞（Deponent）。這與你之前學過的動詞系統完全一致，沒有什麼新東西。
 
-### 分詞的構詞法：語素（Morphemes）與變格
+### 分詞的名詞特徵：格、數、性與一致性
 
-分詞的構成公式可以簡化為：**動詞詞幹 + 分詞語素（Participle Morpheme） + 格結尾（Case Endings）**。
+既然分詞是「形容詞」，它就必須與它所修飾的名詞在**格（Case）、數（Number）、性（Gender）**上保持一致。這意味著分詞會帶有變格結尾。
 
-*   **分詞語素：** 這是區分分詞類型的關鍵。教師列舉了幾個核心語素：
-    *   主動語態：`-nt-`（如 `-οντ-`）。
-    *   中動/被動語態：`-μεν-`。
-*   **變格特徵：** 分詞的變格大多遵循「3-1-3」模式（陽性為第三變格，陰性為第一變格，中性為第三變格）。陰性分詞全部屬於第一變格，這使得它們相對容易辨識。
+#### 構造方式
+構造一個分詞的理論很簡單：
+1. **動詞詞幹（Verbal Stem）：** 提供動作的意義。
+2. **分詞詞素（Participle Morpheme）：** 這是分詞的標記（如 -nt-）。
+3. **格位結尾（Case Endings）：** 根據它所修飾的名詞而定。
 
-教師提醒，在解析（Parsing）分詞時，不要被表面現象迷惑。例如，看到 `βαλόντες`（ballontes），必須認出這是 `βάλλω`（丟）的第二不定過去式（Second Aorist），因為它沒有增音，且詞幹有雙 lambda（λ），這需要學生對詞彙記憶非常精確。
+特別要注意的是，分詞**沒有人稱結尾**（沒有 -o, -eis, -ei 等）。我們使用中性的詞素（如 -nt-），並將其視為第三變格法（3-1-3 變格法）。陽性與中性通常是第三變格，而陰性則一律是第一變格，這讓陰性分詞變得非常容易辨認。
 
-### 翻譯的挑戰：翻譯即是「背叛」
+### 實戰解析：從形態看意義
 
-教師引用了「所有翻譯者都是叛徒」（All translators are traitors）這句名言，指出將希臘文分詞翻譯成英文（或中文）時，往往無法完全傳達其豐富的語法意義。
+讓我們透過幾個例子來練習。當你看到一個分詞形式，例如 `ballontes`（來自 *ballō*），不要慌張：
+*   **拆解：** 看到雙 lambda（λ），這是現在式詞幹；看到 -nt-，這是主動分詞詞素；看到 -es，這是陽性複數主格結尾。
+*   **結論：** 這是一個現在主動分詞，陽性複數主格。它修飾的是句子中的主詞。
 
-*   **翻譯策略：** 由於分詞在非直說語氣中承載了複雜的「體」與「語態」意義，直接翻譯往往顯得生硬。例如，現在分詞 `throwing`（拋擲中），若要強調其「持續性」，可能需要加上「持續地」或「當……之時」等副詞性短語。
-*   **教學與講道：** 教師建議，在翻譯時應盡力而為，但在講道或教學時，必須向聽眾解釋希臘文原文中隱含的「持續性」或「完成性」意義。翻譯是為了溝通，而解釋則是為了挖掘原文的深度。
+#### 關於翻譯的挑戰
+在翻譯分詞時，我們常會遇到困難。因為希臘文分詞的豐富意義（如持續性）往往無法完全對應到英語。你可能會發現翻譯出來的句子很生硬（例如「正在丟擲著的」）。這時，你需要運用上下文，有時將其轉譯為時間子句（如「當……的時候」）。記住，翻譯是為了傳達意義，當希臘文的細微差別無法在英語中完美呈現時，這就是為什麼我們需要講道與教導來補充解釋。
+
+#### 特殊情況：增補與詞素變化
+*   **無增補（No Augment）：** 分詞系統中沒有過去時間，因此**絕對沒有增補（Augment）**。如果你看到一個看似不定過去式的形式卻沒有增補，不要以為是拼寫錯誤，這是分詞的常態。
+*   **完成式的重疊（Reduplication）：** 完成式分詞會保留重疊，因為重疊代表的是「完成的狀態」，而非「過去的時間」。
+*   **異相動詞（Deponent）：** 如果一個動詞在現在式是異相的，它的分詞形式也會保持異相。這考驗的是你對詞彙記憶的精確度。
 
 ### 總結：心態的轉變
 
-分詞學習的關鍵在於「心態」。學生不應將分詞視為全新的負擔，而應將其視為「動詞」與「名詞」這兩塊已知拼圖的結合。當遇到複雜形式（如 `γραφθέντες`，被動不定過去分詞）時，應拆解其組成：詞幹、語素、格結尾。只要能認出這些零件，分詞就不再是不可逾越的障礙。
+最後，我要鼓勵你們。分詞並不是什麼全新的語言系統，它只是將你已經學過的「動詞拼圖」與「名詞拼圖」重新組合在一起。當你看到 `graphontes` 與 `graphthentes` 時，試著去辨識詞幹、詞素與結尾。只要你掌握了這些零件，分詞就不再是障礙，而是你解讀希臘文聖經時最強大的工具。保持冷靜，運用你已經擁有的知識，你會發現這一切其實非常合乎邏輯。
 
 
-## Lesson 27: 現在（持續性）副詞性分詞 (Present (Continuous) Adverbial Participles)
+## Lesson 27: 現在（持續）副詞性分詞 (Present (Continuous) Adverbial Participles)
 
 > **大綱對照：**
-> 本文內容大致遵循所提供的大綱結構，並根據教學內容進行了細節補充與深化。
+> 本解釋完全遵循所提供的大綱結構，並根據課堂內容對各部分進行了深入的擴展與說明。
 
 
 
-### 一、 現在持續性副詞性分詞簡介
+### 一、現在持續副詞性分詞簡介
 
-在希臘文語法中，分詞（Participle）主要分為兩大類：**形容詞性分詞（Adjectival Participles）**與**副詞性分詞（Adverbial Participles）**。雖然兩者在形態（Form）上完全相同，但它們在句子中的功能截然不同。
+在這一章中，我們將基於第26章所學的基礎，深入探討分詞（participle）的一個特定子類。首先，我們必須將分詞分為兩大基本類別：**形容詞性分詞（adjectival participles）**與**副詞性分詞（adverbial participles）**。請注意，這兩者在形式（form）上是完全一致的，僅憑外觀你無法判斷它是哪一種。然而，它們在句法功能與意義上卻截然不同。
 
 #### 定義與功能
-副詞性分詞的核心功能是「修飾動詞」。當一個分詞被歸類為副詞性時，其主要目的是提供關於主要動詞的額外資訊（例如時間、原因、方式等）。相比之下，形容詞性分詞則是用來修飾名詞。教師強調，在第 27 章中，我們僅專注於「現在時態（Present Tense）」且「副詞性（Adverbial）」的分詞。由於這些分詞皆建立在現在時態詞幹上，其語態特徵（Aspect）必然是「持續性（Continuous）」的。
+當分詞發揮「副詞性」功能時，它的主要任務是修飾動詞，幫助我們理解該動詞的背景、原因或方式。相反地，若分詞發揮「形容詞性」功能，它則是用來修飾名詞。在接下來的兩章中，我們將專注於副詞性分詞，而形容詞性分詞則會稍後再談。
 
-#### 在聖經希臘文中的重要性
-理解分詞的分類對於釋經至關重要。雖然分詞在形態上與名詞相似，具有格（Case）、數（Number）與性（Gender）的變化，但其意義的「推力（Thrust）」是針對動詞的。這意味著，即便分詞在語法上必須與其修飾的名詞保持格、數、性的一致（例如：若主詞是陰性複數，分詞也必須是陰性複數），但其在語意上卻是為了輔助說明主要動詞的動作。
+本章我們探討的是「現在」（present）時態的分詞。由於我們只處理現在時態詞幹（present tense stem），這意味著這些分詞在**體（aspect）**上必然是**持續的（continuous）**。請記住，分詞是「動詞性的形容詞」（verbal adjective），這意味著儘管它的意義重心在於修飾動詞，但它在語法上仍必須與它所修飾的名詞在格（case）、數（number）與性（gender）上保持一致。
 
-### 二、 識別現在持續性副詞性分詞
+### 二、識別現在持續副詞性分詞
 
-識別副詞性分詞的關鍵在於觀察其語法環境與形態結構。
-
-#### 形態與句法（Morphology and Syntax）
-所有分詞的構成公式皆為：**現在時態詞幹（Present Tense Stem）+ 連接元音（Connecting Vowel）+ 分詞詞素（Participle Morpheme）+ 格變化詞尾（Case Endings）**。
-*   **主動語態（Active）**：陽性與中性使用 *-nt-* 作為詞素。
-*   **中動/被動語態（Middle/Passive）**：使用 *-men-* 作為詞素。
-
-教師特別提醒，在陽性與中性單數主格中，由於沒有格詞尾，結尾的 *-nt-* 會脫落，導致前面的元音發生補償性延長（例如：*-on*）。這與第三變格法的名詞變化邏輯一致。
+#### 形態與句法
+雖然副詞性分詞的意義指向動詞，但它必須與句中的某個名詞達成一致。例如，若主詞是陰性複數，分詞就必須是陰性複數；若受詞是陽性複數，分詞就必須是陽性複數。不過，在大多數情況下，副詞性分詞會是**主格（nominative）**，因為通常是句子的主詞在執行該分詞所描述的動作。
 
 #### 關鍵線索：無冠詞（Anarthrous）
-這是識別副詞性分詞最簡單且最有效的規則：**所有副詞性分詞必然是無冠詞的（Anarthrous）**。如果一個分詞前面帶有定冠詞，它就不可能是副詞性分詞。這條規則在閱讀新約時是極為重要的判斷標準。
+在閱讀新約聖經時，辨識副詞性分詞有一個鐵律：**所有的副詞性分詞都必須是無冠詞的（anarthrous）**。如果一個分詞前面帶有定冠詞，它就不可能是副詞性分詞。這是一個絕對的規則，也是你在解經時最快判斷其功能的方法。
 
-此外，大多數副詞性分詞在格位上表現為「主格（Nominative）」，因為通常是句子的主詞同時在執行分詞所描述的動作。然而，這並非絕對，必須根據上下文判斷該分詞所修飾的名詞為何。
+關於構成方式，請務必掌握以下公式：
+1. **現在時態詞幹（Present tense stem）**
+2. **連接母音（Connecting vowel）**
+3. **分詞詞素（Participle morpheme）**
+4. **格結尾（Case endings）**
 
-### 三、 翻譯現在持續性副詞性分詞
+在主動語態中，陽性與中性使用 `-nt-` 作為詞素，陰性則使用 `-ous-`。若為中動或被動語態，則使用 `-men-`。
 
-翻譯分詞時，不能僅僅機械式地對應，必須綜合考量時態、語態與上下文。
+### 三、翻譯現在持續副詞性分詞
 
-#### 處理時間與語態（Time and Aspect）
-由於現在分詞代表持續性，翻譯時應體現出「正在進行」的意味。雖然在英文翻譯中常使用 "-ing" 結尾，但教師建議在初學階段，若有必要，可加上「持續地（continually）」等詞彙來強調其持續性的語態特徵。
+翻譯分詞時，你需要同時考量三個層面：**體（aspect）**、**語態（voice）**以及**詞義（lexical meaning）**。
 
-#### 管理句子結構
-翻譯副詞性分詞時，可以根據上下文將其轉化為不同的從句：
-1.  **時間從句**：使用「當……的時候（While...）」來連接。例如：「她（正在）吃的時候，走進了房間。」
-2.  **原因從句**：使用「因為（Because）」來連接。例如：「他因為鈴聲（正在）響起而醒來。」
+#### 處理時間與體
+由於現在分詞代表的是「持續」的體，翻譯時若能體現出這種連續性會更精確。雖然有時直接加上「-ing」（如：eating）即可，但若上下文需要，你可以加入「while」（當……時）來強調時間背景，或加入「because」（因為）來強調因果關係。
 
-這種翻譯過程屬於釋經的一部分，要求學生觀察句子，判斷該分詞是描述背景動作（時間），還是提供動作的動機（原因）。
+例如：「*Eating* (ἐσθίων)，she walked into the room.」（她一邊吃著，一邊走進房間。）這裡的分詞修飾了「walked」這個動詞，說明了動作發生時的背景狀態。
 
-### 四、 新約釋經中的應用
+#### 記憶重點：六個基本形式
+為了應對考試與閱讀，你不需要死背所有變格，但必須熟練掌握以下六個形式（陽性、陰性、中性的主格與屬格單數）：
+*   **主動語態：** `λύων` (masc. nom.), `λύοντος` (masc. gen.), `λύουσα` (fem. nom.), `λυσούσης` (fem. gen.), `λύον` (neut. nom.), `λύοντος` (neut. gen.)。
+*   **中動/被動語態：** `λυόμενος`, `λυομένου`, `λυομένη`, `λυομένης`, `λυόμενον`, `λυομένου`。
 
-#### 聖經文本的實例
-教師以「她（正在）吃的時候，走進了房間」為例，說明分詞如何為主要動詞「走進」提供背景資訊。分詞「吃」雖然在語法上與「她」一致，但其語意重心在於說明「走進」發生時的狀態。
+特別注意主動語態陽性主格單數 `λύων`，其結尾的 `-ων` 是因為原本的 `-οντ` 結尾在詞尾脫落後，母音拉長所致。這與屬格複數的 `-ων` 形式相似，閱讀時需透過上下文來區分。
 
-#### 釋經洞察
-在學習過程中，記憶範式（Paradigm）固然重要，但教師強調應優先記憶「主格與屬格的單數形式（Nominative and Genitive Singular）」。只要掌握了這六個形式（陽性、陰性、中性的主格與屬格），就能推導出整個分詞的變化規律。
+### 四、新約解經中的應用
 
-最後，教師提醒學生不要被「第三人稱複數現在直說語氣」與「與格複數分詞」的相似性所迷惑。雖然形態相似，但透過上下文的句法分析，兩者在功能上的區別是非常明顯的。掌握這些語法基礎，將使學生在解讀新約希臘文時，能更精確地捕捉作者所要表達的動作細節與邏輯關係。
+在實際解經中，副詞性分詞是作者用來豐富敘事層次的重要工具。當你看到一個分詞時，不要急著翻譯，先問自己：
+1. 它是否帶有冠詞？（若無，則為副詞性）。
+2. 它與句中哪個名詞在格數性上一致？
+3. 它如何修飾主要動詞？（是描述背景時間？還是說明原因？或是表達方式？）
+
+例如，當經文說「他因為鈴聲響起而醒來」（He woke up ringing...），這裡的分詞可能解釋了醒來的原因。掌握這些翻譯的彈性，能幫助你更精準地捕捉作者在希臘文原文中所要傳達的細微語氣。請務必將這些語法規則內化，因為這將成為你未來解讀新約聖經神學意涵的基礎工具。
 
 
 ## Lesson 28: 不定過去式分詞 (Aorist (Undefined) Adverbial Participles)
 
 > **大綱對照：**
-> 本課程的教學內容並未嚴格遵循所提供的 outline。講師主要集中於「不定過去式分詞」（Aorist Participles）的形態學（Morphology）、詞幹變化規則以及如何透過詞彙知識進行解析，而非詳細探討其在句法功能（如時間、因果、讓步、條件）上的分類。本指南將依照講師實際的教學順序進行詳細說明。
+> 本課程內容並未完全遵循所提供的大綱。講者將重點完全集中在「不定過去式分詞」（Aorist Participles）的形態學（Morphology）與構詞規則上，並未深入探討大綱中提到的「副詞性分詞的類型」（如因果、讓步、條件等）或具體的釋經應用。因此，以下說明將嚴格依照講者實際教學的順序與內容進行編寫。
 
 
 
-### 不定過去式分詞的形態特徵 (Morphology of Aorist Participles)
+### 導論：從現在分詞到不定過去式分詞
 
-在進入本章之前，學生應已掌握第 26 章（分詞基礎）與第 27 章（現在分詞）的內容。不定過去式分詞（Aorist Participle）與現在分詞在語法結構上有許多共通之處，但其核心差異在於「時態詞幹」（Tense Stem）的選擇。
+各位同學，歡迎來到第 28 章。在第 26 章，我們學習了分詞的基本語法；在第 27 章，我們專注於「現在分詞」（Present Participles），它們描述的是一種「持續進行的動作」。現在，我們進入第 28 章，學習「不定過去式分詞」（Aorist Participles）。
 
-#### 1. 增補（Augment）的消失
-這是初學者最容易混淆之處。在直說語氣（Indicative Mood）中，不定過去式通常帶有「增補」（Augment，即動詞開頭的 $\epsilon$-），用以表示過去的時間。然而，**分詞本身並不表示絕對時間**（Absolute Time），其時間性是相對的。因此，不定過去式分詞在構成時，必須將增補去掉。
+請大家放心，這並不是要你們從頭學起。你們在過去兩章所學的絕大多數規則，在這一章依然適用。這一章之所以看起來篇幅較長，主要是因為我們需要處理更複雜的詞形變化（Paradigms）。我們的目標不是死記硬背成百上千個表格，而是要學會如何拆解這些動詞，理解它們的構造邏輯。
 
-*   **教學重點**：若你在分詞中看到增補，那通常是錯誤的。解析時，若看到類似 $\lambda\acute{\upsilon}\sigma\alpha\nu\tau\epsilon\varsigma$（*lysantes*）這樣的形式，必須識別出其中的 $\sigma\alpha$（第一不定過去式詞綴）與第三變格法的詞尾，並意識到其詞幹已移除增補。
+### 不定過去式主動語態分詞的構造
 
-#### 2. 詞彙知識的重要性
-講師強調，僅僅依靠死記硬背詞形變化表（Paradigms）是不夠的。當遇到「第二不定過去式」（Second Aorist）時，詞幹可能會發生變化（例如 $\beta\alpha\acute{\lambda}\lambda\omega$ 變為 $\beta\alpha\lambda$-）。如果學生不熟悉詞彙，可能會因為找不到增補而誤以為它是現在時態。
-*   **例子**：$\lambda\epsilon\lambda\upsilon\kappa\acute{\omega}\varsigma$（雖然這是完成式，但講師以此類比）與 $\epsilon\lambda\theta\acute{\omega}\nu$（*elthōn*）。對於第二不定過去式，若其詞幹因增補而發生元音延長（如 $\epsilon\lambda\theta\epsilon\hat{\iota}\nu$），在分詞形式中，該元音會縮短回原形。因此，**熟記詞彙表是識別詞幹的唯一途徑**。
+讓我們從一個典型的例子開始：*λύσαντες* (lysantes)。當你看到這個詞，請試著拆解它：
+1. **時態標記**：你看到了 Sigma-Alpha (σα)，這立刻告訴你這是「不定過去式」（Aorist）。
+2. **格位結尾**：你看到了 Epsilon-Sigma (ες)，這表明它是第三變格法（Third Declension）的陽性複數主格。
+3. **分詞詞綴**：你看到了 *nu-tau* (ντ)，這是我們在現在分詞中就已經學過的「主動語態分詞詞綴」（Active Participle Morpheme）。
 
-### 不定過去式主動、中動與被動語態
+#### 為什麼沒有「增音」（Augment）？
+這是一個關鍵點。你們可能會問：「既然是不定過去式，為什麼沒有增音？」請記住：**分詞並不表示絕對時間**。增音在直說語氣（Indicative）中是用來表示「過去時間」的，但分詞的時態是「相對的」。因此，在不定過去式分詞中，我們必須去掉增音。如果你在解析時看到增音，那通常是不正確的。
 
-#### 1. 第一不定過去式主動語態 (First Aorist Active)
-其特徵是使用 $\sigma\alpha$ 作為時態詞綴（Tense Formative），並搭配分詞詞綴 -ντ-（*-nt-*）。
-*   **解析技巧**：注意陰性形式的變化。例如 $\lambda\acute{\upsilon}\sigma\alpha\varsigma$（陽性主格單數）到屬格 $\lambda\acute{\upsilon}\sigma\alpha\nu\tau\circ\varsigma$ 的變化，涉及了 $\nu\tau$ 詞綴與變格規則的相互作用。
+### 詞彙量的重要性與第二不定過去式
 
-#### 2. 不定過去式中動語態 (Aorist Middle)
-中動語態分詞非常規律，使用中動/被動分詞詞綴 -μενος-（*-menos-*）。
-*   **關鍵點**：不要忘記直說語氣的語法規則。不定過去式中動語態沒有 $\sigma\alpha$ 詞綴，而是直接接上中動分詞詞綴。這再次證明了「理解構詞邏輯」遠比「死記硬背」有效。
+當我們處理「第一不定過去式」（First Aorist）時，去掉增音通常很明顯。但當我們遇到「第二不定過去式」（Second Aorist）時，情況就變得棘手了。
 
-#### 3. 不定過去式被動語態 (Aorist Passive)
-第一不定過去式被動語態使用 $\theta\epsilon$ 作為詞綴。
-*   **音變現象**：在某些形式中，$\theta\epsilon$ 會縮短為 $\theta\epsilon\nu\tau$-。這與第 7 章提到的元音延長/縮短規則一致。例如，$\lambda\upsilon\theta\acute{\epsilon}\nu\tau\epsilon\varsigma$（*lythentes*）中，$\eta$ 縮短為 $\epsilon$，這是為了適應後續的詞尾結構。
+例如動詞 *βάλλω* (ballō)，其第二不定過去式詞幹是 *βαλον*。當它變成不定過去式分詞時，變成了 *βαλόντες* (balontes)。如果你不熟悉詞彙，你可能會誤以為它的詞幹是 *bal-*，然後去字典裡找一個不存在的詞。
 
-### 第二不定過去式 (Second Aorist) 的特殊性
+更複雜的情況是那些透過「延長母音」來增音的動詞（如 *αἴρω* 變成的 *ἦρον*）。當它們進入分詞形式時，增音會被「縮短」回去。這就像是增音過程的逆向操作。因此，我再次強調：**掌握詞彙量是解析這些動詞的唯一捷徑**。如果你認不出詞幹，你就無法分辨它是現在時態還是不定過去式。
 
-第二不定過去式與第一不定過去式的區別在於：它沒有特殊的時態詞綴（如 $\sigma\alpha$ 或 $\theta\epsilon$），而是使用「連接元音」（Connecting Vowel）。
+### 中動語態與被動語態的辨析
 
-*   **辨識難點**：由於沒有特殊的時態詞綴，第二不定過去式分詞在視覺上非常接近現在分詞。
-*   **解決方案**：必須回到詞彙本身。例如 $\beta\alpha\lambda\acute{\omega}\nu$（*balōn*），其詞幹 $\beta\alpha\lambda$- 明顯不同於現在時態的 $\beta\alpha\lambda\lambda$-（雙 $\lambda$）。如果學生能識別出這不是現在時態的詞幹，就能斷定這是第二不定過去式。
+我們不能忘記動詞語態的基本規則。不定過去式有其獨特的主動、中動與被動形式。
 
-### 語義與翻譯原則
+#### 不定過去式中動分詞 (Aorist Middle Participle)
+請看 *λυσάμενος* (lysamenos)。這裡沒有增音，有 Sigma-Alpha (σα) 作為時態標記，但關鍵在於分詞詞綴 *μενος* (menos)。只要看到這個詞綴，你就知道這一定是「中動語態」或「中動被動語態」。這再次證明了，與其死背表格，不如理解這些構詞成分如何組合。
 
-講師在結尾處簡要提到了不定過去式分詞的語義功能：
+#### 不定過去式被動分詞 (Aorist Passive Participle)
+再看 *λυθέντες* (lythentes)。這裡的時態標記是 Theta-Epsilon (θε)，這是不定過去式被動語態的標誌。雖然 Theta-Eta (θη) 在直說語氣中很常見，但在分詞中，它會縮短為 Theta-Epsilon (θε)。這遵循了我們在第 7 章學過的母音變換規則：希臘語中的母音是可以延長、縮短或脫落的。
 
-1.  **非持續性**：與現在分詞（描述持續動作）不同，不定過去式分詞描述的是「未定義的動作」（Undefined action），通常被視為一個整體的動作。
-2.  **時間關係**：
-    *   現在分詞若作時間狀語，常翻譯為「當……時」（While）。
-    *   **不定過去式分詞**若作時間狀語，則翻譯為「在……之後」（After），因為它強調動作的完成或先於主要動詞。
+### 總結：翻譯的視角
 
-### 總結與學習建議
+最後，關於意義的理解，請記住兩點：
+1. **非持續性**：不定過去式分詞不描述持續動作，它描述的是「未定義的」（Undefined）動作。
+2. **時間關係**：如果分詞是時間性的，現在分詞通常翻譯為「當……時」（while），而不定過去式分詞則翻譯為「在……之後」（after）。
 
-本章的核心不在於記憶海量的表格，而在於理解希臘文動詞的「組裝邏輯」：
-*   **詞幹（Stem）**：決定了時態（現在、不定過去等）。
-*   **詞綴（Formative）**：決定了語態（主動、中動、被動）。
-*   **分詞詞綴（Participle Morpheme）**：如 -ντ- 或 -μενο-。
-*   **詞尾（Case Endings）**：決定了格、數、性。
-
-只要掌握了這些組件的拼裝規則，並對詞彙有足夠的敏感度，即使面對複雜的第二不定過去式，也能精確地進行解析。
+這一章的核心在於「拆解」。只要你能認出詞幹、時態標記與分詞詞綴，你就能處理絕大多數的動詞形式。不要被長長的表格嚇倒，理解它們的構造邏輯，你就能駕馭這些不定過去式分詞。
 
 
 ## Lesson 29: 形容詞性分詞 (Adjectival Participles)
 
 > **大綱對照：**
-> 本課教學內容並未嚴格遵循所提供的大綱。教學重點集中在「形容詞性分詞（Adjectival Participles）」的語法功能、與形容詞的類比關係，以及如何透過「冠詞（Article）」的有無論斷其功能。大綱中的「II. Forms」與「III. Predicate Position」在課堂中並未深入探討，因此本指南將依照教師實際教學的邏輯順序進行說明。
+> 本解釋遵循了課程的實際教學流程，並未完全對應所提供的簡略大綱。課程重點在於「分詞的形容詞用法」與「形容詞文法」之間的關聯，而非對時態形式的逐一列舉。
 
 
 
-### 形容詞性分詞的本質與定位
+### 分詞的雙重性格：從副詞到形容詞
 
-分詞（Participle）在希臘文中被視為「動詞性的形容詞（Verbal Adjectives）」。在之前的課程中，我們主要探討了分詞的「副詞性用法（Adverbial use）」，即分詞作為修飾動詞的從屬子句。而在本課中，我們將焦點轉向其「形容詞性用法（Adjectival use）」。
+在進入本課之前，我們已經熟悉了現在分詞（present participles）與不定過去分詞（aorist participles），但我們之前的討論都集中在它們的「副詞用法」（adverbial use）。請務必記住，分詞（participle）本質上是「動詞性的形容詞」（verbal adjectives）。這意味著它們既有動詞的特性（如時態、語態），也有形容詞的特性。
 
-教師強調一個核心概念：**分詞的形式（Form）並不會因為其功能是副詞性還是形容詞性而改變。** 無論是現在式（Present）還是不定過去式（Aorist），其時態意義（Aspect）保持不變。這意味著學生不需要學習新的詞形變化，而是要將已學過的「形容詞語法（Adjectival grammar）」應用到分詞上。
+在第 29 課中，我們要探討的是分詞的另一半功能：形容詞用法。這並非全新的領域，因為分詞在句中始終與它所修飾的名詞在格（case）、數（number）、性（gender）上保持一致。但現在，我們要將焦點轉向那些在句中發揮「形容詞功能」的分詞。
 
-### 形容詞性分詞的兩大功能
+### 核心觀念：沒有新形式，只有新功能
 
-形容詞性分詞的運作邏輯與普通形容詞完全一致，主要分為「定語用法（Attributive）」與「名詞性用法（Substantive）」。
+我常提醒你們，學習希臘文時不要被術語嚇倒。關於形容詞性分詞，最重要的一點是：**形式上完全沒有改變**。一個分詞無論是作副詞用還是作形容詞用，它的形式（form）都是一樣的，它的時態意義（aspect）也是一樣的。
 
-#### 1. 定語用法（Attributive Position）
-當分詞修飾一個名詞時，它必須在性（Gender）、數（Number）、格（Case）上與該名詞保持一致。判斷的關鍵在於「冠詞（Article）」。
+這就像是形容詞的文法一樣。如果你已經掌握了形容詞的基礎文法，那麼理解形容詞性分詞就只是「換湯不換藥」。我們不需要學習新的詞尾變化，只需要將我們對形容詞的理解，遷移到分詞上即可。
 
-*   **語法結構：** 若分詞前有冠詞，且該分詞修飾一個名詞，它便發揮定語功能。例如：*hē gunē hē akouousa*（那聽見的婦人）。
-*   **翻譯策略：** 學生可以先將分詞譯為「-ing」形式，再根據上下文調整為更自然的中文表達，如「聽見的婦人」或「那正在聽的婦人」。教師建議，若翻譯卡住，可將其轉化為「關係子句（Relative clause）」，例如「那婦人，她正在聽」。
+### 形容詞文法的複習：定語與名詞性用法
 
-#### 2. 名詞性用法（Substantive Use）
-當分詞前有冠詞，但句子中沒有與之對應的名詞時，該分詞便「實體化（Substantive）」，獨立作為名詞使用。
+為了讓你們能順利銜接，我們快速複習一下形容詞的兩種基本功能：
 
-*   **語法結構：** 例如 *ho pisteuōn*（那信的人）。此時，分詞的格由其在句中的功能（如主詞或受詞）決定，而性與數則由其所指代的人或事物決定。
-*   **翻譯策略：** 由於此用法較靈活，翻譯時必須根據上下文判斷其指代對象。例如 *ho pisteuōn sōthēsetai*（那信的人將要得救），這裡的 *pisteuōn* 是陽性單數，故譯為「那信的人（或那信者）」。
+1.  **定語用法（Attributive Adjective）**：當形容詞前面有冠詞（article）時，它通常是在修飾一個名詞，提供該名詞的屬性。例如「第一定語位置」（first attributive position）或「第二定語位置」（second attributive position），這都是在告訴我們關於名詞的資訊。
+2.  **名詞性用法（Substantival Adjective）**：如果形容詞前面有冠詞，但後面沒有名詞可以修飾，那麼這個形容詞本身就「變成了名詞」。這時，它的格由它在句中的功能決定，而它的性與數則由它所指代的人或事物決定。
 
-### 關鍵判斷指標：冠詞（The Article）
+### 形容詞性分詞的運作機制
 
-教師提供了一個極為實用的語法捷徑：**冠詞是區分副詞性與形容詞性分詞的最重要線索。**
+現在，讓我們將上述的形容詞規則套用到分詞上。
 
-*   **副詞性分詞（Adverbial Participles）：** 通常是「無冠詞的（Anarthrous）」。如果你看到一個分詞沒有冠詞，它極大機率是副詞性用法。
-*   **形容詞性分詞（Adjectival Participles）：** 通常是「有冠詞的（Articular）」。如果你看到一個分詞帶有冠詞，它就不可能是副詞性用法，必須視為形容詞性用法。
+#### 1. 定語分詞（Attributive Participles）
+當你看到一個分詞前面有冠詞，且後面有一個名詞時，這就是「定語分詞」。
+*   **例子**：*hē gunē hē akouousa*（那位聽見的婦人）。
+*   **分析**：這裡的 *akouousa*（現在主動分詞，陰性單數主格）被冠詞 *hē* 所引導，它修飾前面的名詞 *gunē*。
+*   **翻譯策略**：你可以將其翻譯為「那位聽見的婦人」或「那位正在聽的婦人」。如果翻譯時感到卡住，請先將分詞翻譯為「正在...的」（-ing），再根據上下文調整為關係子句（如「那位正在聽的婦人」）。
 
-### 學習建議與總結
+#### 2. 名詞性分詞（Substantival Participles）
+當分詞前面有冠詞，但句中沒有其他名詞供其修飾時，它就發揮了名詞的功能。
+*   **例子**：*ho pisteuōn sōthēsetai*（那信的人將要得救）。
+*   **分析**：*pisteuōn*（現在主動分詞，陽性單數主格）前面有冠詞 *ho*，但沒有名詞修飾。因此，它本身就代表了「信的人」。
+*   **翻譯策略**：這需要靈活性。根據上下文，你可以譯為「信的人」、「那信者」或「凡信的人」。因為它是名詞性用法，你需要根據希臘文的性與數來決定中文的翻譯（例如陽性單數可能譯為「那信的人」）。
 
-教師提醒學生，在閱讀希臘文時，若遇到分詞，應遵循以下步驟：
-1.  **辨識形式：** 確定分詞的時態與語態，並初步理解其詞義。
-2.  **尋找冠詞：** 檢查該分詞是否帶有冠詞。
-3.  **判定功能：**
-    *   若有冠詞：它是形容詞性（定語或名詞性）。
-    *   若無冠詞：它極可能是副詞性。
-4.  **上下文驗證：** 若句子結構複雜（例如無冠詞且位置特殊），則需依賴上下文語境來判斷。
+### 如何區分：副詞性 vs. 形容詞性
 
-總結來說，形容詞性分詞並非新知識，而是將形容詞的語法規則「遷移」到分詞上。只要掌握了形容詞的定語與名詞性用法，學生便能順利處理絕大多數的分詞結構。
+這是你們最需要掌握的判斷標準。當你看到一個分詞時，如何判斷它是副詞性還是形容詞性？
+
+*   **冠詞是關鍵（The Article is the Clue）**：
+    *   **副詞性分詞（Adverbial）**：通常是「無冠詞的」（anarthrous）。如果分詞前面沒有冠詞，它極大機率是副詞性的。
+    *   **形容詞性分詞（Adjectival）**：通常是「有冠詞的」（articular）。如果分詞前面有冠詞，它就不可能是副詞性的，它必然是形容詞性的（定語或名詞性）。
+
+我建議你們建立一個簡單的邏輯：**看到冠詞，就往形容詞的方向思考；沒有冠詞，就往副詞的方向思考。** 雖然在極少數情況下，沒有冠詞的分詞也可能作形容詞用（這時需要依賴上下文），但掌握「冠詞」這個標記，能幫助你們解決絕大多數的翻譯問題。
+
+### 總結給學生的建議
+
+當你們在閱讀希臘文聖經時，請按照以下步驟處理分詞：
+1.  **辨識形式**：確認分詞的時態與詞尾。
+2.  **檢查冠詞**：有沒有冠詞？有的話，它是形容詞性；沒有的話，它是副詞性。
+3.  **套用文法**：
+    *   如果是形容詞性，問自己：它是在修飾名詞（定語）嗎？還是它本身就代表一個名詞（名詞性）？
+    *   如果是副詞性，則回到我們之前學過的副詞分詞規則。
+4.  **靈活翻譯**：不要死板地翻譯。如果直譯出來很生硬，試著轉換成關係子句（who/which...）或名詞短語。
+
+分詞並不難，它只是將我們已經學過的動詞變化與形容詞文法結合在一起。只要你們能掌握「冠詞」這個分水嶺，你們就能準確地拆解並翻譯這些句子。
 
 
-## Lesson 30: 完成式分詞與屬格絕對結構 (Perfect Participles and Genitive Absolutes)
+## Lesson 30: 完成式分詞與屬格獨立結構 (Perfect Participles and Genitive Absolutes)
 
 > **大綱對照：**
-> 本文大致遵循所提供的大綱，但在處理「完成式分詞」的細節時，依照講師的教學順序進行了更深入的結構拆解，並在最後補充了講師提到的「迂迴結構」（Periphrastic construction），這部分在原大綱中未列出，但屬於本課的核心內容。
+> 本課說明大致遵循所提供的大綱，但在細節安排上，我將重點放在了希臘文形態的拆解與句法功能的理解，並特別針對「完成式分詞」與「屬格獨立結構」的實務應用進行了深入解析。
 
 
 
-### 完成式分詞 (Perfect Participles)
+### 一、完成式分詞 (Perfect Participles)
 
-完成式分詞（Perfect Participles）在希臘文中的核心功能是表示「已完成的動作」（completed action），這與完成式直說語氣（Perfect indicative）的語義一致。要掌握這些分詞，關鍵在於識別其形態特徵，特別是重疊（Reduplication）的使用。
+我們進入了第三十章，這意味著我們已經跨越了希臘文學習的門檻，進入了最後的階段。今天我們要探討的是「完成式分詞」。正如我們在直說語氣（Indicative）中所學，完成式是用來表達「已完成的動作」。當我們將其轉化為分詞時，其核心意義依然是強調動作的完成狀態。
 
-#### 1. 主動語態 (Active Voice)
-完成式主動分詞的形態結構非常規律。首先，它必須具備完成式的標誌——**重疊（Reduplication）**。在詞幹部分，它使用一個 Kappa（κ）作為時態標記（tense formative），後接分詞詞綴（participle morpheme）——**-κοτ- (-kot-)**，最後加上第三變格法的詞尾。
+#### 1. 主動語態的構成
+讓我們從主動語態開始。當你看到一個完成式主動分詞，你會發現幾個熟悉的特徵：
+*   **重疊 (Reduplication)**：這是完成式系統的標誌。
+*   **時態詞綴 (Tense Formative)**：我們使用 $\kappa$ (Kappa) 作為時態詞綴。
+*   **分詞詞素 (Participle Morpheme)**：在完成式主動語態中，我們使用 $-\kappa o\tau-$ (Kappa-Omicron-Tau) 作為分詞詞素。
+*   **格變化詞尾**：由於詞素以 $\tau$ 結尾，它會採取第三變格法的詞尾（例如陽性單數主格為 $-s$）。
 
-以 *λελυκώς* (lelykōs) 為例：
-*   **重疊**：表示完成狀態。
-*   **時態標記**：Kappa (κ)。
-*   **分詞詞綴**：-κοτ- (-kot-)。
-*   **詞尾**：-ώς (-ōs)（陽性單數主格）。
-當詞綴中的 Tau (τ) 遇到詞尾的 Sigma (σ) 時，Tau 會脫落，這解釋了為什麼在變格過程中會出現拼寫上的變化。學習者應將這六種形式（如 *λελυκώς, λελυκός* 等）視為一個整體來記憶，而不必過度糾結於語音變化的細節。
+以 *lelukos* (λελυκώς) 為例，它是 *luō* (λύω) 的完成式主動分詞（陽性單數主格）。請注意，當我們將其變格為陽性複數主格 *lelukotes* (λελυκότες) 時，你會看到詞素與詞尾的結合。雖然這些形態變化看起來有些複雜，但只要你掌握了「重疊 + $\kappa$ + $-\kappa o\tau-$ + 詞尾」這個公式，就能拆解絕大多數的詞彙。
 
-#### 2. 中間與被動語態 (Middle and Passive Voice)
-完成式中間/被動分詞的特徵非常鮮明：**沒有時態標記，也沒有連接母音**。它直接將重疊的詞幹與分詞詞綴 **-μεν- (-men-)** 相連，並接上第一或第二變格法的詞尾。
+#### 2. 中間與被動語態的構成
+完成式中間與被動分詞的構成則更為簡潔，因為它們**沒有時態詞綴**，也**沒有連接母音**。
+*   **詞素**：我們使用 $-men-$ (μέν) 作為分詞詞素。
+*   **重疊**：同樣保留重疊。
 
-以 *λελυμένος* (lelymenos) 為例：
-*   **重疊**：*λε-* (le-)。
-*   **詞幹**：*λυ-* (ly-)。
-*   **分詞詞綴**：*-μεν-* (-men-)。
-*   **詞尾**：*-ος* (-os)。
-由於沒有連接母音，這種形式在視覺上非常容易辨認。若詞幹以母音結尾，重疊後的母音通常會拉長（如 *ἀπολυμένος* 中的 Alpha 保持長音，這並非增音，而是完成式重疊的特性）。
+以 *lelumenos* (λελυμένος) 為例，這是一個典型的完成式中間/被動分詞。你會發現它直接將重疊的詞幹與 $-men-$ 詞素結合，並加上第一/第二變格法的詞尾。這種結構上的「簡潔」反而是我們辨識它的關鍵——只要看到重疊加上 $-men-$，卻沒有中間的時態詞綴或連接母音，你就能立刻斷定它是完成式中間或被動分詞。
 
 #### 3. 翻譯技巧
-翻譯完成式分詞時，通用的準則是在英語中使用 "after having..." 的結構。
-*   **主動語態**：*λελυκώς* 翻譯為 "after having loosed"（在已經釋放之後）。
-*   **被動語態**：若為被動，則加上被動語態的助動詞，翻譯為 "after having been loosed"（在已經被釋放之後）。
-這種翻譯方式強調了動作在主句動作發生之前已經完成的「先時性」（anteriority）。
+翻譯完成式分詞時，我們通常使用「在……之後」加上「已經……」的結構。
+*   **主動語態**：例如 *lelukos*，翻譯為「在已經釋放之後」。
+*   **被動語態**：例如 *lelumenos*，翻譯為「在已經被釋放之後」。
+這種翻譯方式精確地捕捉了完成式分詞所強調的「動作已完成」以及「分詞的附屬時間性」。
 
 ---
 
-### 屬格絕對結構 (Genitive Absolutes)
+### 二、屬格獨立結構 (Genitive Absolutes)
 
-屬格絕對結構（Genitive Absolute）是希臘文敘事中常見的慣用語。若不理解其語法規則，讀者常會因找不到該分詞在句中的修飾對象而感到困惑。
+這是本課中最具挑戰性，但一旦掌握便會覺得極其優雅的語法結構。如果你在閱讀希臘文聖經時，發現某個名詞與分詞同時以「屬格 (Genitive)」出現，且在句法上與主句中的任何成分都沒有直接的修飾關係，這就是「屬格獨立結構」。
 
-#### 1. 定義與功能
-「絕對」（Absolute）一詞在語法上的意思是「與句中其他成分脫離關係」。屬格絕對結構由一個**屬格名詞（或代名詞）**加上一個**屬格分詞**組成。它們在句中不擔任主詞、受詞或修飾語，而是作為一個獨立的短語存在。
+#### 1. 為什麼稱之為「獨立」？
+所謂「獨立」，是指這個結構在語法上是「懸空」的。它不作為主句的受詞、主詞或補語，而是作為一個獨立的短語，用來提供背景資訊。
 
-講師舉例：*τοῦ Ἰησοῦ γεννηθέντος* (tou Iēsou gennēthentos) ——「耶穌既已出生」。
-這裡的 *Ἰησοῦ*（屬格）與 *γεννηθέντος*（屬格分詞）在語法上與後面的主句沒有直接聯繫。這種結構通常出現在敘事文體的句首，用來交代背景，且分詞的動作執行者（耶穌）與主句的主詞通常不同。
+舉個例子：*tou Iēsou gennēthentos* (τοῦ Ἰησοῦ γεννηθέντος)。
+這裡 *tou Iēsou* 是屬格，*gennēthentos* 也是屬格分詞。當你讀到這句話時，你會發現它並沒有與主句中的動詞發生語法連動。這就是典型的屬格獨立結構。它的作用通常是為了描述一個與主句主詞不同的動作主體。例如，當作者想表達「當耶穌出生時（背景），博士們來了（主句動作）」，他就會使用這種結構，因為「耶穌出生」與「博士來到」是兩個不同的主體。
 
-#### 2. 翻譯策略
-翻譯屬格絕對結構時，應採取以下步驟：
-*   **判斷語氣**：通常具有時間性（temporal），翻譯時使用 "while"（當...時）或 "after"（在...之後）。
-*   **處理主詞**：將屬格名詞視為該分詞的「邏輯主詞」。
-*   **轉化動詞**：為了符合中文或英文的流暢度，建議將分詞轉化為一個完整的子句。例如，將 *τοῦ Ἰησοῦ γεννηθέντος* 翻譯為 "After Jesus had been born"（在耶穌出生之後），而不是生硬地翻譯為 "Jesus' having been born"。
-*   **無名詞情況**：若結構中沒有名詞，則直接翻譯為 "After having been born" 即可。
+#### 2. 翻譯的黃金法則
+翻譯屬格獨立結構時，請遵循以下步驟：
+1.  **判定時間性**：通常將其譯為「當……時」或「在……之後」。
+2.  **處理主體**：如果屬格名詞（如 *tou Iēsou*）存在，它就充當分詞的「主詞」。在翻譯時，請將分詞轉化為一個完整的子句動詞。例如：*tou Iēsou gennēthentos* 翻譯為「當耶穌出生時」或「在耶穌出生之後」。
+3.  **若無名詞**：如果沒有出現名詞，僅有分詞，則直接翻譯為「在……之後」加上分詞的動作即可。
 
 ---
 
-### 迂迴結構 (Periphrastic Construction)
+### 三、迂迴結構 (Periphrastic Constructions)
 
-本課最後提到的「迂迴結構」（Periphrastic construction）是指使用「be 動詞」（*εἰμί*）加上一個分詞來表達動詞的時態。
+最後，我們要談談「迂迴結構」。這是一種用來強調動作「持續性」或「線性」的表達方式。希臘文作者會使用「*eimi* (εἰμί，我是) 的某種形式」加上「分詞」來構成。
 
-*   **目的**：最初，這種結構是為了強調動作的「持續性」（linear or ongoing action）。例如，*ἦν διδάσκων* (ēn didaskōn) 翻譯為 "He was teaching"（他當時正在教導），比單純的未完成過去式更能強調動作的過程感。
-*   **演變**：隨著希臘文的發展，這種強調持續性的功能逐漸淡化。在許多新約經文中，迂迴結構可能僅僅是表達一般時態的另一種方式，而非刻意強調持續性。
-*   **辨識**：當你看到 *εἰμί* 的形式與分詞並列時，應將它們視為一個整體動詞結構，並根據上下文判斷其是否帶有強調持續性的語氣。這種結構可以組合出多種時態（如現在、未完成、未來與完成式分詞的組合），但在翻譯時，通常只需將其視為該時態的動詞即可。
+*   **功能**：這種結構旨在強調動作的持續狀態，而非單純的動作發生。
+*   **翻譯**：例如 *ēn didaskōn* (ἦν διδάσκων)，翻譯為「他當時正在教導」。透過 *ēn* (未完成式) 加上分詞，我們強調了教導這個動作在過去是持續進行的。
+
+雖然在後期的希臘文中，這種強調有時會減弱，但作為初學者，當你看到 *eimi* 的形式與分詞並列時，請務必先考慮它是否在強調動作的連續性。這六種不同的時態組合（透過 *eimi* 的不同時態與分詞搭配）為希臘文提供了極為細膩的表達空間，讓作者能精確地描繪動作的狀態。
 
 
 ## Lesson 31: 虛擬語氣 (Subjunctive Mood)
 
 > **大綱對照：**
-> 本文大致遵循所提供的大綱結構，但在「第三部分：功能」中，為了配合講師的教學順序與重點，我們將重點放在講師實際提及的「疑問句分類」與「條件句」，並將其整合進對語法功能的討論中。
+> 本文大致遵循了所提供的大綱，但在結構上為了教學邏輯的連貫性，將「如何辨識」與「功能」進行了整合，並針對講義中提到的具體語法現象（如疑問句的語氣）進行了詳細的擴充說明。
 
 
 
-### 一、 虛擬語氣的定義與重要性
+### 虛擬語氣的本質：現實與可能
 
-在希臘文動詞系統中，「語氣」（Mood）反映了說話者對動作真實性的態度。在之前的課程中，我們主要接觸的是「直說語氣」（Indicative Mood）。直說語氣是「現實的語氣」（mood of reality），用於陳述事實、提出斷言或詢問客觀問題。無論內容是否為真，只要說話者意圖將其呈現為現實，就會使用直說語氣。
+在我們學習希臘文動詞的初期，我曾告訴你們，暫時只需要關注直說語氣（Indicative Mood）。現在，我們終於來到了一個轉折點。要理解「虛擬語氣」（Subjunctive Mood），我們必須先回顧什麼是「直說語氣」。
 
-相比之下，「虛擬語氣」（Subjunctive Mood）則是「可能性或概率的語氣」（mood of probability or possibility）。當我們從現實退後一步，談論「可能」、「或許」或「假設」的情況時，就會使用虛擬語氣。講師以英文為例：直說語氣是 "I am rich"（我是富有的），而虛擬語氣則是 "If I were a rich man"（如果我是個富有的人）。這種語氣轉換在希臘文中是語法結構的必然要求，而非僅是修辭上的選擇。
+直說語氣是「現實的語氣」（mood of reality），它描述的是「是什麼」（what is）。無論是陳述事實、做出斷言，還是提出問題，只要我們在直說語氣中，我們就是在處理現實層面的語言。即便有人在直說語氣中說謊，那依然是語言對現實的一種描繪，因為他試圖讓聽者相信某事是真實的。
 
-### 二、 虛擬語氣的構成
+相比之下，虛擬語氣是「可能性或概率的語氣」（mood of probability or possibility）。當你想要表達某事「可能」或「或許」會發生，或者你想從現實中退後一步，進入假設的領域時，動詞就會轉向虛擬語氣。我喜歡用一個音樂劇的例子來解釋：直說語氣是「我很富有」（I am rich），而虛擬語氣則是「如果我是一個富有的人」（If I were a rich man）。這不是在陳述一個當下的事實，而是在構建一個假設的場景。
 
-虛擬語氣的構成並不複雜，因為它脫離了直說語氣的「時間」系統。在虛擬語氣中，沒有過去、現在、未來的絕對時間區分，只有「動作的體貌」（aspect）：即「持續性」（continuous）與「未定性」（undefined）。
+### 虛擬語氣的構成：形式上的簡化
 
-#### 1. 變化的核心：延長連結元音
-虛擬語氣最顯著的特徵是「延長連結元音」（lengthened connecting vowel）。原本在直說語氣中使用的短元音（omicron 和 epsilon），在虛擬語氣中會分別延長為長元音（omega 和 eta）。這是一個非常關鍵的識別標記。
+虛擬語氣的構成其實比你想像中簡單得多。首先，我們要記住一個核心原則：**在直說語氣系統之外，沒有「時間」的概念。** 因此，虛擬語氣只有兩種時態，它們分別對應兩種「語態」（aspect）：
+1. **現在時態（Present tense stem）**：用於表達「持續性」（continuous）的動作。
+2. **不定過去時態（Aorist tense stem）**：用於表達「未定義」（undefined）的動作。
 
-*   **現在虛擬語氣（Present Subjunctive）：** 使用現在時態詞幹，加上延長的連結元音。例如 *luomen* 變為 *luōmen*。
-*   **不定過去虛擬語氣（Aorist Subjunctive）：** 使用不定過去時態詞幹。這裡有一個重要的規則：**虛擬語氣沒有增音（augment）**。因為增音是直說語氣表示過去時間的標記，既然虛擬語氣脫離了時間系統，增音便隨之消失。
-*   **第一與第二不定過去（First & Second Aorist）：** 第一不定過去保留了時態標記（如 sigma），而第二不定過去則沒有。若在閱讀時遇到看似像未來時態的詞（例如 *lusōmen*），必須檢查是否有 sigma 後接 alpha 的結構。若沒有，且該詞幹不符合現在時態詞幹，則應考慮其為不定過去虛擬語氣。
+#### 辨識的關鍵：加長的連接母音
+虛擬語氣最顯著的特徵就是「加長的連接母音」（lengthened connecting vowel）。在直說語氣中，我們習慣了微小的 omicron 或 epsilon，但在虛擬語氣中，omicron 會變成長母音 omega（ω），而 epsilon 會變成長母音 eta（η）。這就是你看到動詞時，腦中應該響起的警報——這是一個虛擬語氣的標誌。
 
-### 三、 識別虛擬語氣的線索與功能
+#### 關於不定過去時態（Aorist）的注意事項
+當我們使用不定過去時態來構成虛擬語氣時，你會發現一個有趣的現象：**增強（augment）消失了**。這是因為增強是直說語氣中表示過去時間的標誌，既然虛擬語氣不處理時間，增強也就沒有存在的必要了。此外，第一不定過去時態（First Aorist）的 sigma（σ）依然存在，但第二不定過去時態（Second Aorist）則沒有 tense formative。如果你看到一個動詞形式，卻在字典裡查不到詞根，請務必停下來問自己：這是不是我背誦過的詞根？如果不是，它很可能是一個非直說語氣的變體。
 
-講師強調，與其死記硬背所有形式，不如學會識別「觸發點」（triggers）。當你在經文中看到以下標記時，應立即警覺虛擬語氣的出現：
+### 關鍵線索：如何偵測虛擬語氣
 
-#### 1. 否定詞的區別：*ou* 與 *mē*
-這是最重要的識別線索之一。
-*   **ou (οὐ):** 用於否定直說語氣，表示客觀事實的否定。
-*   **mē (μή):** 當你看到 *mē* 時，這是一個強烈的信號，表示後面的動詞**不是**直說語氣。它用於否定分詞、命令語氣、不定詞以及虛擬語氣。看到 *mē*，就意味著你已經進入了非現實的語法領域。
+為了讓你們在閱讀經文時能精準捕捉虛擬語氣，我建議你們建立一套「紅旗系統」。當你看到以下詞彙時，請立刻提高警覺，因為它們幾乎總是伴隨著虛擬語氣：
+
+#### 1. 否定的區分：ou 與 mē
+在直說語氣中，我們使用 *ou* 來否定；但在非直說語氣（包括虛擬語氣、分詞、不定詞、命令語氣）中，我們必須使用 *mē*。當你看到 *mē*，你立刻就知道接下來的動詞絕對不是直說語氣。
 
 #### 2. 目的子句（Purpose Clauses）
-當句子出現 *hina*（為了）時，它後面引導的子句必須使用虛擬語氣。這是因為「目的」本質上是尚未發生的可能性，而非既定事實。因此，看到 *hina*，就應預期後方會出現虛擬語氣動詞。
+當你看到 *hina*（為了……）時，這是一個強烈的信號。*hina* 引入的目的子句，其動詞必須使用虛擬語氣。因為目的本身就是一種「尚未發生的可能性」，這完全符合虛擬語氣的定義。
 
 #### 3. 條件句與 *ean*
-在條件句（If-then 結構）中，若要描述「可能發生」的情況，條件子句（if clause）通常會使用 *ean*（即 *ei* + *an* 的結合），且該子句的動詞必須是虛擬語氣。這與 *hina* 的邏輯一致，都是將動作置於「可能性」的範疇內。
+當你看到 *ean*（加上 *an* 的結構）時，這通常是在構成條件句。在希臘文中，這類條件句的「如果」部分（protasis）通常會使用虛擬語氣，因為它描述的是一種可能發生的情況，而非既定的事實。
 
-#### 4. 疑問句的細微差別
-希臘文詢問問題的方式多樣，虛擬語氣在其中扮演了重要的釋經角色：
-*   **商議性虛擬語氣（Deliberative Subjunctive）：** 用於說話者不希望得到簡單「是/否」回答的問題，而是邀請聽者共同思考。例如耶穌問：「你們為什麼憂慮呢？」這不是要一個答案，而是要人深思。
-*   **預期答案的暗示：** 
-    *   若問題以 *ou* 開頭，作者暗示預期的答案是「是」。
-    *   若問題以 *mē* 開頭，作者暗示預期的答案是「否」。
-    *   講師特別提到《哥林多前書》12 章關於恩賜的排比句，原文使用 *mē* 開頭，明確表示預期答案為「否」（即：並非人人都是使徒、人人都是先知）。這在釋經上能避免許多對經文的誤讀。
+### 疑問句中的虛擬語氣：語氣的細微差別
 
-### 四、 學習建議
-在處理虛擬語氣時，若無法立刻辨識動詞形式，請務必先確認該詞幹是否為「現在時態詞幹」。若不是，則應將思維轉向不定過去時態系統。記住，虛擬語氣的重點在於「體貌」而非「時間」，且務必對 *mē*、*hina*、*ean* 等觸發詞保持高度敏感，這些詞彙是解開希臘文語氣系統的鑰匙。
+希臘文問問題的方式非常豐富，理解這些方式對於釋經至關重要。
+
+*   **商議性虛擬語氣（Deliberative Subjunctive）**：當耶穌問「為什麼你們憂慮？」（Why do you worry?）時，他不是在尋求一個簡單的「是」或「否」的答案，他是在邀請聽者去思考、去商議。這就是商議性虛擬語氣的功能。
+*   **預期答案的暗示**：
+    *   如果你在問題開頭看到 *ou*，作者是在暗示：「我認為答案是『是』」。
+    *   如果你在問題開頭看到 *mē*，作者是在暗示：「我認為答案是『否』」。
+
+這在釋經上非常重要。例如在哥林多前書 12 章，保羅問「豈都是使徒嗎？豈都是先知嗎？」。很多人誤以為這些問題的答案是「是」，並以此推論每個人都應該有某種恩賜。但希臘文的 *mē* 明確地告訴我們，保羅預期的答案是「不」。這就是為什麼掌握虛擬語氣和這些語氣助詞，能防止我們在解經時偏離作者的原意。
 
 
 ## Lesson 32: 不定詞 (Infinitive)
 
 > **大綱對照：**
-> 本課的講解內容與所提供的大綱大致吻合，但教師在教學時更側重於「不定詞的語法功能」與「特定句型（如帶冠詞不定詞與介系詞的組合）」的實務操作，而非嚴格按照大綱的分類順序進行。以下說明將整合教師的教學重點，並補充必要的語法背景。
+> 本次教學內容與所提供的大綱大致吻合，但在細節處理上，我更側重於解釋「不定詞」（Infinitive）在希臘文語法系統中的特殊地位，以及它如何脫離了「直說語氣」（Indicative）的時態限制。大綱中提到的「不定詞作為修飾語」與「不定詞與介系詞的結合」在我的講解中被整合為「不定詞的特殊用法與慣用語」，以幫助你們更直觀地掌握其翻譯邏輯。
 
 
 
-### 不定詞的本質：動詞名詞化 (The Verbal Noun)
+### 什麼是不定詞（Infinitive）？
 
-在希臘文語法中，不定詞（Infinitive）被定義為「動詞名詞」（Verbal Noun）。這是一個至關重要的概念：如同分詞（Participle）是「動詞形容詞」，不定詞雖然保有動詞的動作特徵，但在句法功能上卻扮演名詞的角色。
+在進入希臘文的動詞系統時，我們已經花了很多時間處理「直說語氣」（Indicative mood）。今天我們要跨入一個新的領域：不定詞。如果你能掌握這個概念，你在希臘文的學習上就已經跨過了一大步。
 
-在英文中，我們透過在動詞前加上 "to" 來形成不定詞（例如：*to study*）。教師舉例：「*To study is my highest aspiration*」（讀書是我最高的志向），在此句中，*to study* 作為句子的主詞（Subject）。同樣地，在「*I began to sweat*」中，*to sweat* 則作為動詞 *began* 的受詞，補足了該動詞的意義。希臘文的不定詞同樣具備這種「實體功能」（Substantive function）。
+首先，我們要給它一個明確的定義：**不定詞是一個「動詞性名詞」（Verbal Noun）**。這與我們之前學過的「分詞」（Participle）不同，分詞是「動詞性形容詞」。既然是不定詞是名詞，它在句子中主要發揮的是「實質功能」（Substantive function）。
 
-### 不定詞的語法特徵：脫離指示語氣系統
+在英文中，我們透過在動詞前加上 "to" 來構成不定詞（例如：to study）。請看這個句子：「To study is my highest aspiration.」（讀書是我最高的志向）。在這裡，"to study" 雖然源自動詞，但它在句中扮演的是「主詞」的角色。同樣地，在「I began to sweat」（我開始流汗）中，"to sweat" 則是作為動詞 "began" 的受詞，補充了動詞的意義。這就是不定詞的核心邏輯：它雖然保有動詞的動作特質，但在句法上卻是作為一個名詞在運作。
 
-學習不定詞時，必須建立一個核心觀念：**不定詞不屬於指示語氣（Indicative mood）系統**。這意味著：
-1. **無時態（No Time）**：不定詞本身不表示時間（過去、現在、未來）。
-2. **無人稱與數（No Person/Number）**：它沒有主詞人稱的變化。
-3. **僅存「體」（Aspect）**：雖然失去了時間概念，但不定詞保留了希臘文動詞最重要的特徵——「體」。
-    * **現在不定詞**：表示持續性動作（Continuous action）。
-    * **不定過去不定詞（Aorist）**：表示無定動作（Undefined action）。
-    * **完成不定詞**：表示已完成的動作（Completed action）。
+### 不定詞的語法特性：脫離時態的束縛
 
-教師提醒，雖然在理論上可以區分「持續」與「無定」，但在實際翻譯成英文時，這種細微差別往往難以精確表達。因此，學習者應將重點放在記憶不定詞的形態（Paradigm）上，因為這是少數無法透過邏輯推導、必須死記硬背的語法結構。
+在希臘文中，不定詞是「不可變格的」（Indeclinable），它沒有格（Case）與數（Number）的變化。不過，有時你會看到不定詞前面帶有冠詞（Article），這時該冠詞永遠是「中性」（Neuter）。
 
-### 不定詞的形態辨識
+這裡有一個非常重要的觀念，請務必記住：**一旦進入不定詞，我們就離開了「直說語氣」的動詞系統，這意味著「時間」（Time）的概念消失了。** 在直說語氣中，我們有過去、現在、未來的時間區分，但在不定詞中，唯一剩下的意義是「語態」（Aspect）。
 
-不定詞的形態由「詞幹 + 時態詞綴 + 不定詞後綴」組成。教師指出，大多數不定詞以 *-ein* (Alpha-Iota) 結尾。
+我們根據三個語態來區分不定詞：
+1. **現在時態詞幹（Present tense stem）**：表示「持續性動作」（Continuous action）。
+2. **不定過去時態詞幹（Aorist tense stem）**：表示「未定義的動作」（Undefined action）。
+3. **完成時態詞幹（Perfect tense stem）**：表示「已完成的動作」（Completed action）。
 
-* **辨識技巧**：
-    * **現在不定詞**：通常保留現在時態詞幹（例如 *lambanein*）。
-    * **不定過去不定詞（Aorist）**：由於脫離了指示語氣，**沒有增強（Augment）**。這是辨識不定過去不定詞的關鍵指標。
-    * **中動態與被動態**：在現在與完成時態中，中動態與被動態形式相同，這與一般的動詞系統一致。
+雖然理論上現在時態不定詞帶有「持續」的細微差別，但在英文翻譯中，要表達這種細微差異非常困難，通常我們就簡單地翻譯為「to + 動詞」。這就是為什麼我們需要研經者與傳道人，因為在解經時，我們需要根據上下文來捕捉這些細微的語態意義。
 
-教師透過「猜謎遊戲」示範：看到 *lambanein*，因為有現在時態詞幹，故判斷為現在主動不定詞；看到 *labein*，雖然詞幹變了，但沒有增強，且具備不定過去的詞綴，故判斷為不定過去主動不定詞。
+### 必須背誦的詞形變化（Paradigms）
+
+我嘗試過各種方法，希望能讓你們不用死記硬背，但很遺憾，不定詞的詞形變化（Morphemes）是少數幾個你必須下功夫記憶的項目。請注意，大多數不定詞都以 **-αι (alpha-iota)** 結尾。
+
+在記憶時，請特別留意「時態標記」（Tense formative）。例如，在現在時態和完成時態中，中動態（Middle）與被動態（Passive）的形式是相同的，這與我們在直說語氣中學到的規律是一致的。當你看到一個動詞形式，例如 *lambanein* (λαμβάνειν)，因為它源自 *lambanō* 的現在時態詞幹，你就能判斷它是「現在主動不定詞」。反之，如果看到 *labein* (λαβεῖν)，因為它沒有增添（Augment），且詞幹發生了變化，你就能認出這是「不定過去主動不定詞」。
 
 ### 不定詞的三大主要功能
 
-教師將不定詞在希臘文中的用法歸納為三類，這對於解經至關重要：
+在希臘文中，不定詞主要有三種用法，掌握這些能讓你閱讀經文時如虎添翼：
 
-#### 1. 實體用法 (Substantive Use)
-這是最基礎的用法，不定詞直接作為句子的主詞或受詞。例如：「*To eat is good*」（吃是好的）。
+#### 1. 實質用法（Substantive Use）
+這是最基礎的用法，不定詞直接作為句子的主詞或受詞。例如：*to esthein estin agathon* (τὸ ἐσθίειν ἐστὶν ἀγαθόν)，意即「吃是好的」。這裡的 *to esthein* 就是主詞。
 
-#### 2. 補足用法 (Complementary Infinitive)
-這是最常見的用法。某些動詞本身意義不完整，必須加上不定詞才能構成完整概念。例如：
-* *dei*（必須）：*dei autēn phagein*（她必須吃）。
-* *exestin*（是合法的）：*exestin autō phagein*（對他而言，吃是合法的）。
-* *mellō*（即將）：*mellō phagein*（我即將吃）。
-這些動詞若沒有不定詞，語意便會懸空。
+#### 2. 補充用法（Complementary Infinitive）
+這是最常見的用法。有些動詞本身意義不完整，必須加上不定詞才能構成完整的概念。例如：
+* *dei* (δεῖ)：必須……
+* *exestin* (ἔξεστιν)：是合法的……
+* *mellō* (μέλλω)：我正要……
+這些動詞後面若沒有不定詞，句子就無法成立。例如：*dei autēn esthein*（她必須吃）。這種用法在翻譯上非常直觀，因為它與英文的邏輯高度一致。
 
-#### 3. 帶冠詞的介系詞結構 (Articular Infinitive with Preposition)
-這是希臘文中的特殊慣用語，教師強調必須將這六種組合視為獨立的詞彙單元來記憶。當介系詞加上中性定冠詞（*to*）與不定詞時，其意義會發生轉變：
+#### 3. 帶有冠詞的介系詞結構（Articular Infinitive with Prepositions）
+這是最容易讓人困惑的部分，也是一種特殊的希臘文慣用語。當你看到「介系詞 + 中性冠詞 + 不定詞」的結構時，千萬不要照字面翻譯。
 
-* **表示原因**：*dia* + 冠詞 + 不定詞 = 「因為……」。
-* **表示目的**：*eis* 或 *pros* + 冠詞 + 不定詞 = 「為了……」。
+* **表示原因**：*dia* (διά) + 冠詞 + 不定詞 = 「因為……」。
+* **表示目的**：*eis* (εἰς) 或 *pros* (πρός) + 冠詞 + 不定詞 = 「為了……」。
 * **表示時間**：
-    * *pro* + 冠詞 + 不定詞 = 「在……之前」。
-    * *en* + 冠詞 + 不定詞 = 「當……的時候」。
-    * *meta* + 冠詞 + 不定詞 = 「在……之後」。
+    * *pro* (πρό) + 冠詞 + 不定詞 = 「在……之前」。
+    * *en* (ἐν) + 冠詞 + 不定詞 = 「當……之時」。
+    * *meta* (μετά) + 冠詞 + 不定詞 = 「在……之後」。
 
-**關鍵語法點**：在此結構中，出現在不定詞前的名詞（通常為受格 Accusative）會被視為該不定詞的「主詞」。例如：*dia to blepein auton*，雖然 *auton* 是受格，但在翻譯時應視為「因為**他**看見」，而非「因為看見他」。這種結構挑戰了傳統的格位規則，是研讀希臘文時必須特別留意的「慣用語」。
+這裡有一個關鍵技巧：在這個結構中，不定詞前面的名詞（通常是屬格或賓格）往往充當了不定詞的「主詞」。例如，若看到 *dia to auton blepein*，我們不應翻譯為「因為看他」，而應翻譯為「因為他看見」。這需要你們在詞彙卡上特別標註這六種結構，因為它們是希臘文閱讀中非常重要的語法路標。
 
 
-## Lesson 33: 命令語氣 (Imperative)
+## Lesson 33: 祈使語氣 (Imperative)
 
 > **大綱對照：**
-> 本文並未完全遵循所提供的教學大綱。教學大綱中列出的「III. Negating the Imperative Mood」與「IV. The Subjunctive as an Imperative Alternative」並未在本次課程錄音中出現。課程內容主要集中在命令語氣（Imperative Mood）的定義、人稱與數的表達、以及時態（現在式與不定過去式）的形態學分析。以下說明將嚴格依照錄音內容的順序進行編排。
+> 本次說明並未完全遵循所提供的大綱。講者在課堂中主要集中於「祈使語氣（Imperative）」的定義、人稱用法、以及各時態（現在式與不定過去式）的詞形變化邏輯。大綱中提到的「否定祈使」與「虛擬語氣作為替代」在本次錄音內容中並未涉及，因此我將根據講者實際教授的內容進行結構安排，以確保教學重點的準確性。
 
 
 
-### 命令語氣的定義與基本特性
+### 祈使語氣的定義與基本概念
 
-在希臘文語法中，命令語氣（Imperative Mood）是用於表達「命令」（Command）的語氣。當說話者希望要求某人執行某個動作時，動詞就會採用此語氣。
+歡迎來到第 33 章，我們已經進入課程的尾聲，只剩下最後三章了。今天我們要學習的是「祈使語氣」（Imperative Mood）。在希臘文中，語氣（Mood）表達的是動詞與現實的關係。祈使語氣非常直觀，它是「命令的語氣」。當你想要告訴某人去做某事時，動詞就會使用祈使語氣。
 
-在理解命令語氣時，有三個核心觀念需要掌握：
+在英文中，祈使句幾乎總是第二人稱（例如："Answer me!"，隱含的主詞是 "you"）。但在希臘文中，祈使語氣涵蓋了第二人稱與第三人稱。當我們處理第三人稱時，翻譯上需要加上「讓」（let）這個詞。例如，第二人稱是 "Answer!"（回答！），而第三人稱則是 "Let him answer!"（讓他回答！）。
 
-1.  **語氣的功能**：命令語氣最直接的功能就是發出指令。
-2.  **人稱的擴展**：在英文中，命令句通常隱含第二人稱（例如："Answer me!"，隱含的主詞是 "you"）。但在希臘文中，命令語氣擁有完整的第二人稱與第三人稱。
-    *   **第二人稱**：直接翻譯為命令，如 "Answer!"（回答！）。
-    *   **第三人稱**：在翻譯時，我們通常會加上 "Let" 作為助動詞，例如 "Let him answer"（讓他回答）或 "Let them answer"（讓他們回答）。這對於初學者來說是一個重要的轉換點，必須從單純的動詞變化轉向考慮語境中的主詞。
-3.  **時態的選擇**：本課程僅教授現在式（Present）與不定過去式（Aorist）的命令語氣。
-    *   **現在命令語氣**：基於現在時態詞幹（Present Tense Stem），表示「持續性動作」（Continuous action）。
-    *   **不定過去式命令語氣**：基於未增強（Unaugmented）的不定過去式詞幹，表示「定義不明的動作」（Undefined action）。
+我們在這一章只會學習兩種時態的祈使語氣：**現在式祈使（Present Imperative）**與**不定過去式祈使（Aorist Imperative）**。新約中僅有四個完成式（Perfect）祈使，我們不需要特別學習。請記住我們之前學過的時態特徵：現在式詞幹表示「持續性動作」（continuous action），而不定過去式詞幹則表示「無定動作」（undefined action）。這就是祈使語氣的核心，非常簡單，重點在於語態（aspect）的區別。
 
-### 形態學的挑戰與規律
+### 詞形變化的邏輯與記憶策略
 
-Dr. Mounce 強調，命令語氣的形態學（Morphology）並非完全雜亂無章。雖然第二人稱單數（Second person singular）的形式在不同時態間變化較大，導致初學者容易誤以為命令語氣是不規則的，但事實上，其餘形式是非常規律的。
+我嘗試過各種方法來總結祈使語氣的詞尾，但我必須誠實告訴你們：第二人稱單數（Second Person Singular）的詞尾在不同時態下變化不一，沒有一個簡單的規律。當我初學時，因為這些變化，我誤以為祈使語氣是不規則的，但事實並非如此。
 
-#### 記憶口訣與規律
-為了簡化記憶，可以將命令語氣的詞尾（Morpheme）視為一個系統：
-*   **第二人稱單數**：這部分沒有統一規律，必須針對每個時態單獨記憶。
-*   **其餘形式**：遵循一套規律的詞尾變化，即 `-τω` (tow)、`-τε` (te)、`-τωσαν` (tosan)。
-*   **中動態/被動態**：當遇到中動態或被動態時，`-τ` 會被 `-σθ` 取代，變為 `-σθω` (stho)、`-σθε` (sthe)、`-σθωσαν` (sthosan)。
+除了第二人稱單數之外，祈使語氣的其餘變化是非常規律的。我建議你們這樣記憶：
+*   **第二人稱單數**：這是一個「問號」，代表它會隨時態變化，必須個別背誦。
+*   **其餘人稱**：請記住這組詞尾：`-τω` (tow)、`-τε` (te)、`-τωσαν` (tosan)。
+*   **中動詞/被動詞**：將 `-τ` 替換為 `-σθ`，就會得到 `-σθω`、`-σθε`、`-σθωσαν`。
 
-#### 關於「異態動詞」（Deponent Verbs）的提醒
-Dr. Mounce 特別提醒，一個動詞是否為異態（Deponent，即形式為中動態但意義為主動態），與其「語氣」無關，只與其「時態」有關。如果在現在直說語氣（Present Indicative）中該動詞是異態的，那麼它在所有現在時態的語氣（包括命令語氣）中也都會保持異態。例如 `ἔρχου` (erchou) 是 `ἔρχομαι` 的命令語氣形式，即便它是命令語氣，依然保留了異態的特性。
+只要掌握這個規律，祈使語氣就變得非常容易。此外，請注意表格左欄的「主動語態」與「不定過去式被動語態」的詞尾是相同的，這與我們之前在其他動詞變化中看到的規律一致。
 
-### 翻譯的實務與時態區分
+### 實戰解析：如何辨識與翻譯
 
-在實際翻譯中，區分「現在命令語氣」與「不定過去式命令語氣」往往非常困難。
+讓我們來看幾個例子。如果你看到 `πιστεύετε`（pisteuete），這是一個現在式主動語氣的第二人稱單數祈使，翻譯為「相信」（Believe）。雖然在理論上，現在式強調持續性（continue to believe），不定過去式強調簡單動作（believe），但在實際翻譯中，這兩者在英文中很難區分。這也是為什麼講道者在研經時，會特別去探討原文何時使用現在式、何時使用不定過去式，因為這背後隱含了「持續」與「單次」的細微差別。
 
-*   **翻譯上的困境**：雖然理論上現在式代表「持續」，不定過去式代表「簡單/定義不明」，但在英文翻譯中，強行區分（如 "Continue to believe" vs "Believe"）往往顯得生硬且不自然。
-*   **實務建議**：大多數譯者會將兩者譯為相同的命令形式。這也是為什麼研讀希臘文的釋經學（Exegesis）如此重要——透過觀察新約聖經中作者在何處選擇了現在式，何處選擇了不定過去式，我們才能捕捉到作者在「持續性」與「單一動作」之間細微的語氣差異。
+再看一個例子：`ἔρχου`（erchou）。這是一個第二人稱單數的祈使。請記住，如果一個動詞在現在式直說語氣中是「異相動詞」（deponent verb），那麼它在祈使語氣中也必然是異相的。動詞是否為異相，與語氣無關，只與時態有關。所以 `ἔρχου` 直接翻譯為「來」（Come）。
 
-### 辨識過程的邏輯分析
+#### 辨識過程的思維路徑
+當你們遇到一個動詞，例如 `λάβετε`（labete），你們可能會誤以為它是第二人稱複數的直說語氣。但請務必檢查詞幹：
+1.  這不是現在式詞幹（Present stem）。
+2.  這是不定過去式詞幹（Aorist stem）。
+3.  結合詞尾 `-τε`，這就是第二人稱複數的不定過去式主動祈使。
+4.  翻譯時，要根據上下文轉化為英文命令句，例如「領受」（Receive）。
 
-Dr. Mounce 透過一個具體的例子展示了如何辨識動詞：
-當看到 `λάβετε` (labete) 時，初學者可能會誤以為它是第二人稱複數的直說語氣。但經過邏輯推演：
-1.  **檢查詞幹**：發現這不是現在時態詞幹，而是不定過去式詞幹。
-2.  **排除直說語氣**：因為不定過去式直說語氣通常會有增強（Augment），而此處沒有。
-3.  **確認命令語氣**：確認其詞尾符合命令語氣的規律，從而判斷出這是「不定過去式主動語氣第二人稱複數命令式」。
+#### 處理第三人稱
+如果看到 `βληθήτωσαν`（blethetōsan），首先看到 `βληθ-`，這是不定過去式被動語態的特徵。加上 `-τωσαν`，這就是第三人稱複數的不定過去式被動祈使。翻譯時要加上「讓」：Let them be thrown（讓他們被丟出去）。
 
-這種「先看詞幹、再看詞尾、最後確認語氣」的過程，是處理希臘文動詞變化的標準程序。特別是當遇到第二不定過去式（Second Aorist）時，它們常借用現在式的詞尾，這時對詞幹的熟悉度就成了辨識的關鍵。
+### 總結與展望
 
-### 總結
-命令語氣的學習重點在於：
-1.  **接受第二人稱單數的特殊性**：這部分沒有捷徑，必須死記硬背。
-2.  **掌握規律詞尾**：熟練 `-τω`、`-τε`、`-τωσαν` 等詞尾組合。
-3.  **語境優先**：在翻譯時，若無法區分時態的細微差別，應以語境中的命令性質為優先，並在釋經時回頭探討時態帶來的語義深度。
+我們在這一章走過了主動、中動與被動的各種變化。你們會發現，無論是第一不定過去式（First Aorist）還是第二不定過去式（Second Aorist），只要掌握了詞幹與詞尾的對應，祈使語氣其實非常規律。
 
-隨著本章結束，我們已完成了希臘文所有主要語氣的學習。接下來的課程將進入「μ-動詞」（mi-verbs）的特殊變化，這將是動詞形態學的最後一塊拼圖。
+最後，我要給你們一個好消息：我們已經學完了所有的「語氣」。在希臘文的學習中，我們已經跨過了最艱難的門檻。接下來的章節將會探討「μ-動詞」（mi-verbs），它們在詞形變化上稍微不同，但在時態與語氣的架構上，我們已經大功告成了。請務必花時間練習課本中的表格，特別是那些需要死背的第二人稱單數形式，一旦跨過這一步，你們就掌握了希臘文命令句的精髓。
 
 
 ## Lesson 34: μι 動詞（δίδωμι 的主動語態直說語氣） (Lesson 34: μι Verbs (Active Indicative of δίδωμι))
 
 > **大綱對照：**
-> 本次課程講授的內容為「μi 動詞」（μi Verbs），特別聚焦於 δίδωμι（給）的主動語態直說語氣。提供的課程大綱（關於「祈使語氣」）與實際講授內容完全不符。因此，以下說明將嚴格按照老師在課堂中實際教授的「μi 動詞」結構與規則進行編寫。
+> 本次課程內容與所提供的「大綱」完全不符。提供的課程大綱關於「祈使語氣（Imperative Mood）」，但實際授課內容是關於「μ-動詞（μ-verbs）」的介紹與 δίδωμι 的主動語態直說語氣。以下說明將嚴格依照實際授課內容進行。
 
 
 
-### μi 動詞概論：第二種變位法
+### 導論：認識第二變位法
 
-在希臘文的動詞系統中，我們之前所學的絕大多數動詞都屬於「主題變位法」（Thematic conjugation）。這類動詞的特徵是使用「連接母音」（Connecting vowel / Thematic vowel）來銜接詞幹與字尾，且其詞彙形式（Lexical form）通常以 -ω 結尾。
+歡迎來到第 34 章。我們已經快要完成整本希臘文教材了，只剩下最後兩章。回顧過去，我們已經學完了所有的時態（tenses）、語氣（moods）和格（cases），詞彙量也只剩下最後一點點。現在，我們只剩下最後一個挑戰，那就是「μ-動詞」（μ-verbs）。
 
-然而，希臘文還存在第二種變位法，稱為「μi 變位法」（μi conjugation）。這類動詞的詞彙形式以 -μι 結尾。老師強調，學生不必對此感到恐慌，認為自己需要重新學習一套龐大的動詞系統。事實上，μi 動詞的構成邏輯與我們之前學過的動詞非常相似，只是在「現在式主動語態」中出現了一些特殊的變化。一旦跨出現在式系統，μi 動詞的變化規則與我們熟悉的動詞幾乎是一致的。
+在進入細節前，你們需要先建立一個觀念：我們之前所學的動詞系統，專業名稱叫做「主題變位」（thematic conjugation）。這意味著我們學習的動詞，在詞幹與詞尾之間通常會有一個「連接母音」（connecting vowel，或稱主題母音 thematic vowel）。這些動詞的詞彙形式（lexical form）通常以 -ω 結尾（如果是異態動詞則以 -ομαι 結尾）。
 
-### 什麼是「無主題變位法」（Athematic conjugation）？
+然而，希臘文還有第二種變位法，稱為「無主題變位」（athematic conjugation），也就是我們所說的「μ-動詞」。請不要驚慌，這並不代表你們要重新學習一套全新的動詞系統。這兩者之間的差異其實很小，主要集中在「現在式主動語態」中。只要你們掌握了動詞組成的邏輯，就會發現 μ-動詞只是在組合方式上稍微不同，核心的「零件」依然是你們熟悉的那些。
 
-μi 動詞又被稱為「無主題變位法」（Athematic conjugation）。所謂「主題」（Theme），指的就是連接母音。因此，這類動詞的特徵就是**不使用連接母音**。之所以不需要連接母音，是因為 μi 動詞的詞幹本身就以母音結尾，這使得詞幹與字尾可以直接相連。
+### 核心概念：從詞根（Root）出發
 
-### μi 動詞的五大規則
+我們以動詞 δίδωμι（我給）為例。雖然它的詞彙形式是 δίδωμι，但它的詞根（root）其實是 δο-。在 μ-動詞中，最關鍵的原則就是：**不要只依賴詞彙形式，一定要找出它的詞根。**
 
-為了幫助學生掌握這些動詞，老師總結了五條核心規則。理解這些規則後，μi 動詞便不再是難題：
+如果你們習慣從現在式詞幹去推導其他時態，那麼面對 μ-動詞會感到非常痛苦。但如果你們是從「詞根」出發，就會發現這些動詞其實非常規律。例如：
+*   **δώςετε**：這是一個未來式（future），你們看到 δο- 詞根、σ 標記、連接母音 ε 和詞尾 -τε。這就是「你們將要給」，非常規律。
+*   **δεδώκατε**：這是一個完成式（perfect），有重疊（reduplication）加上 ε，以及完成式的詞尾。這同樣沒有什麼特別的。
 
-#### 1. 現在式的重疊（Reduplication with iota）
-μi 動詞在現在式系統中，會將詞幹的第一個字母重疊，並在中間插入一個 iota（ι）。例如，動詞 δίδωμι（給）的詞幹是 δο-。在現在式中，它會重疊為 δι-δο-，最終形成 δίδωμι。這與我們在完成式（Perfect）中看到的重疊（通常使用 epsilon）不同，因此，看到這種「輔音-ι-輔音」的重疊形式，即可立即判斷該動詞處於現在式系統。
+### μ-動詞的五大規則
 
-#### 2. 無連接母音（No connecting vowel）
-如前所述，這類動詞屬於「無主題」（Athematic）變位，直接將字尾附加在詞幹上。這也是為什麼它們被稱為 μi 動詞的原因。
+為了幫助你們掌握這些動詞，我將其歸納為五個規則。請記住，這些規則主要是為了處理「現在式」的特殊性，其他時態通常都是規律的。
 
-#### 3. 現在式主動語態的特殊字尾
-在現在式主動語態中，μi 動詞使用了一些特殊的個人字尾（Personal endings）。雖然這看起來是新的負擔，但老師提醒，第一人稱單數（-μι）已經包含在詞彙形式中，因此不需要額外記憶。需要特別留意的是第三人稱單數（-σι）以及第三人稱複數（-ασι）。特別是第三人稱單數，由於其結尾帶有 sigma 和 iota，容易被誤認為是與格或複數形式，必須多加辨識。
+#### 規則一：現在式的重疊（Reduplication with iota）
+μ-動詞在現在式中會進行重疊，這看起來像完成式，但它用的是 ι（iota）而不是 ε。例如，詞根 δο- 重疊後變成了 διδω-，加上詞尾就成了 δίδωμι。這是一個明確的信號，告訴你這是在「現在時態系統」中。
 
-#### 4. 詞幹母音的長短變化（Fluctuation of stem vowel length）
-μi 動詞的詞幹母音長度會隨語境波動。老師特別指出，對於學習者而言，不必過度糾結於何時該長、何時該短，因為只要掌握了詞幹（Root），並結合語境中的其他線索（如重疊、字尾），就能準確判斷動詞的時態與意義。
+#### 規則二：無連接母音（No connecting vowel）
+這就是為什麼它們被稱為「無主題變位」（athematic）。因為這些動詞的詞根本身就以母音結尾，所以不需要連接母音來銜接詞尾。這也是「無主題」（a-thematic）名稱的由來。
 
-#### 5. Kappa 不定過去式（Kappa Aorist）
-大多數 μi 動詞在不定過去式（Aorist）中，不使用常見的 -σα 字尾，而是使用 -κα（Kappa Aorist）。這是一個重要的辨識特徵。學生可能會擔心這與「完成式」（Perfect）混淆，因為完成式也常出現 kappa。但老師給出了一個簡單的判斷標準：**不定過去式沒有重疊，而完成式有重疊**。只要檢查有無重疊，就不會搞錯。
+#### 規則三：特殊的現在式主動語態詞尾
+這是你們唯一需要額外記憶的部分。在現在式主動語態中，μ-動詞使用了一些特殊的詞尾：
+*   **第一人稱單數**：-μι（如 δίδωμι）。
+*   **第二人稱單數**：-ς（如 δίδως）。
+*   **第三人稱單數**：-σι（如 δίδωσι，注意這裡有可移動的 ν，即 movable nu）。這是最需要小心的一個，因為它容易與其他形式混淆。
+*   **複數形式**：你們會發現母音縮短了（如 δίδομεν），但這並不影響理解。
 
-### 實戰分析：從詞幹出發
+#### 規則四：詞幹母音的長短變化
+你們會注意到詞幹母音在長短之間波動。有些教材會要求你們死記硬背什麼時候變長、什麼時候變短，但我認為這不重要。只要你們認得詞根 δο-，並且知道它在現在式中會出現，上下文中的其他線索足以讓你判斷它的意義。
 
-老師反覆強調一個核心觀念：**學習動詞必須從「詞幹」（Root）出發，而非僅僅依賴「現在式詞幹」。**
+#### 規則五：Kappa 簡單過去式（Kappa Aorist）
+大多數 μ-動詞在簡單過去式（aorist）中使用 κ（kappa）作為標記，而不是常見的 σ。例如 ἐδώκαμεν（我們給）。你們可能會擔心這與完成式混淆，但請放心：**簡單過去式沒有重疊**。只要看到沒有重疊但有 κ 的形式，它就是簡單過去式。
 
-*   **δῶτε (dōte)**：雖然看起來陌生，但若認出詞幹 δο-，加上 sigma 和字尾，便能推斷這是第二人稱複數的「未來式」。
-*   **ἐδίδοτε (edidote)**：看到重疊（di-）加上增強（augment，ἐ-），即可判定為「未完成式」（Imperfect）。
-*   **ἔδωκαν (edōkan)**：看到增強（ἐ-）加上 kappa，即可判定為「不定過去式」（Aorist）。
+### 總結與應用
 
-總結來說，μi 動詞的難點僅在於「現在式主動語態」的特殊性。只要學生能跳脫「所有時態都由現在式推導」的舊習，轉而從詞幹進行分析，μi 動詞將會變得非常規律且易於掌握。這也是為什麼課程前期花費大量時間訓練學生拆解動詞結構的原因——這正是為了讓學生在面對這類「特殊」動詞時，依然能運用既有的分析能力，而不必死記硬背數百個新的變位形式。
+當你們看到像 **ἔδωκαν** 這樣的詞時，請按步驟分析：
+1.  有增強（augment）ἔ-，所以是過去時態。
+2.  有 κ，所以是簡單過去式（aorist）。
+3.  詞根是 δο-，所以是「給」。
+
+如果你們在學習過程中一直堅持「從詞根出發」的原則，而不是單純背誦變位表，那麼 μ-動詞對你們來說將會是「極度規律」的。我們之所以在課程初期花那麼多時間練習動詞的拆解，就是為了讓你們在面對這些看似複雜的 μ-動詞時，能夠一眼看穿它們的結構，而不必額外死記 300 多個新的形式。你們已經準備好迎接最後的挑戰了！
 
 
 ## Lesson 35: δίδωμι 的非直說語氣與條件句 (Nonindicative of δίδωμι and Conditional Sentences)
 
 > **大綱對照：**
-> 本文完全遵循所提供的大綱結構進行說明。教學內容與大綱的邏輯順序一致，涵蓋了 δίδωμι 的非直說語氣變化以及條件句的完整分類。
+> 本文完全遵循所提供的大綱結構，並按照課程內容的邏輯順序進行了詳細的擴充與解釋。
 
 
 
-### δίδωμι 的非直說語氣 (Non-Indicative Forms of δίδωμι)
+### 非直說語氣 (Non-Indicative Forms)
 
-在希臘文動詞系統中，δίδωμι（給予）屬於 μι 動詞，其特徵在於詞幹的重疊（reduplication）。當我們處理非直說語氣（non-indicative moods）時，關鍵在於觀察這些形式如何保留或簡化直說語氣中的重疊特徵。
+在進入本課之前，我們已經對 δίδωμι（給予）的直說語氣（indicative）有了相當的掌握。現在，我們要處理的是非直說語氣的形態。請記住，δίδωμι 是一個「重疊動詞」（reduplicated verb），這意味著它在現在時態中會有詞幹重疊的現象。當我們進入非直說語氣時，觀察這些形態變化的關鍵在於：如何處理這個重疊，以及如何運用長母音。
 
 #### 虛擬語氣 (Subjunctive Active and Passive)
-在主動語態中，虛擬語氣與現在直說語氣（present indicative）極為相似。若將直說語氣中的重疊部分移除，兩者在形式上幾乎完全一致。這是一個重要的識別線索：當你看到一個動詞具備虛擬語氣的特徵（如長母音），且結構上與現在直說語氣對應時，它很可能就是 δίδωμι 的虛擬語氣。
+當你查看虛擬語氣主動態（subjunctive active）時，請將其與現在時態主動態（present active）並排比較。你會發現一個非常簡單的規律：只要移除重疊（reduplication），兩者的形態幾乎完全一致。這對你們來說是一個極大的福音，因為這意味著你不需要額外記憶一套全新的詞尾。
 
-在被動語態中，現在虛擬語氣（present subjunctive passive）遵循一般規則，即使用長母音作為連接母音。而不定過去式（aorist subjunctive passive）則不包含重疊，但保留了時態標記（tense formative）以及相應的長母音與詞尾。這種規律性使得識別過程變得相對直觀。
+至於虛擬語氣被動態（subjunctive passive），請注意，它遵循了我們在其他動詞中看到的規律，即使用長詞幹母音（long stem vowels）。在非直說語氣中，這些長母音是識別語氣的關鍵標記。對於不定過去式虛擬語氣被動態（aorist subjunctive passive），雖然它沒有重疊，但它擁有特定的時態標記（tense formative）以及同樣的長母音與適當的詞尾。只要掌握了這些規律，識別它們將變得非常直觀。
 
 #### 命令語氣、不定詞與分詞 (Imperative, Infinitives, and Participles)
-命令語氣（imperative）的識別核心在於第二人稱單數（second singular）。現在命令語氣保留了重疊，而不定過去命令語氣則無重疊。其餘人稱的變化遵循固定的詞尾模式（如 -τω, -τωσαν）。
+在命令語氣（imperative）中，我們同樣對比現在時態（左側）與不定過去時態（右側）。你們只需要重點記憶第二人稱單數的形態，剩下的形式（如 -τω, -τωσαν）則是標準的命令語氣詞尾。現在時態保留了重疊，而不定過去時態則沒有，這種對比非常鮮明。
 
-不定詞（infinitive）的規律同樣清晰：現在不定詞保留重疊並加上 -ναι，而不定過去不定詞則無重疊。分詞（participle）雖然形式較多，但只要掌握了 μι 動詞的基本詞幹變化，其構成方式與一般動詞並無本質差異。
-
----
+不定詞（infinitives）的處理方式也很直接：現在不定詞保留了重疊並加上了 -ναι，而不定過去不定詞則省略了重疊。至於分詞（participles），雖然形態看起來較長，但只要你們拆解出詞幹與分詞詞尾，就會發現它們的構造邏輯與其他動詞並無二致。
 
 ### 條件句 (Conditional Sentences)
 
-條件句由兩個部分組成：前件（protasis，即「if」子句，是條件的核心）與後件（apodosis，即「then」子句，是結果）。理解條件句的關鍵在於識別其語氣與時態，這決定了該條件的性質。
+在希臘文中，條件句由兩個部分組成：前件（protasis）與後件（apodosis）。「前件」是包含「如果」（if）的子句，這是條件的核心；而「後件」則是「那麼」（then）的結果子句。我們在第 31 章已經學過第三類條件句（third class conditional sentences），它們使用 ἐάν 加上虛擬語氣，表示「未來更有可能」（future more probable）或「現在一般性事實」（present general）。現在，我們要補全第一類與第二類條件句。
 
 #### 第一類條件句：事實條件 (First Class Conditional Sentences)
-第一類條件句被稱為「事實條件」（condition of fact）。其結構為：前件使用 εἴ 加上直說語氣（indicative）。這類句子的邏輯是：「如果 A 是真的（我們暫且假設它是真的），那麼 B 就會發生。」
+第一類條件句被稱為「事實條件」（condition of fact）。其結構是：前件使用 εἰ 加上直說語氣（indicative）。這句話的含義是：「如果某事是真的（我們暫且假設它是真的），那麼某事就會發生。」
 
-*   **翻譯上的提醒**：雖然我們通常將 εἴ 翻譯為「如果」（if），但在某些經文中，若翻譯為「既然」（since）會更準確。例如保羅在論述復活時說：「如果我們信耶穌死而復活了……」（參羅馬書 10:9），這裡並非表達懷疑，而是基於一個既定的事實。因此，翻譯時需謹慎，若上下文顯示該條件已成事實，使用「既然」更能傳達原意。
+在翻譯時，我們通常將 εἰ 譯為「如果」。例如，耶穌說：「若是你的右手叫你跌倒，就把它砍下來。」（參馬太福音 5:30）。在英語或中文翻譯中，我們有時會省略「那麼」（then），直接陳述結果。然而，你們必須小心，有時將 εἰ 翻譯為「如果」會產生誤導。例如，保羅說：「如果我們信耶穌死而復活了……」（參帖撒羅尼迦前書 4:14）。這裡的語境並非在質疑我們是否相信，保羅是在陳述一個事實。在這種情況下，將 εἰ 翻譯為「既然」（since）可能更精確。但請記住，翻譯時應優先考慮「如果」，除非語境明確要求轉譯為「既然」。
 
 #### 第二類條件句：反事實條件 (Second Class Conditional Sentences)
-第二類條件句被稱為「反事實條件」（contrary to fact）。其結構為：前件使用 εἴ 加上過去直說語氣（通常帶有增加的擴大音，augment），後件則包含粒子 ἄν。
+第二類條件句被稱為「反事實條件」（contrary to fact）。這類句子的邏輯是：「如果某事是真的（儘管事實上它並非如此），那麼某事就會發生。」
 
-*   **例子分析**：保羅提到：「若是他們知道，就不會把榮耀的主釘在十字架上了。」（參哥林多前書 2:8）。這裡的邏輯是：他們當時並不知道，但如果他們當時知道（事實上並不知道），結果就會不同。這種結構明確地將條件與現實區隔開來，用來反思歷史或假設性的情境。
-
-#### 第三類條件句：未來可能性與一般條件 (Third Class Conditional Sentences)
-第三類條件句在第 31 章已初步介紹。其特徵是前件使用 ἐάν 加上虛擬語氣（subjunctive）。這類句子通常表達「未來更有可能發生的條件」（future more probable）或「現在一般性條件」（present general）。這類條件句不預設條件是否為真，而是將其作為一個開放的假設。
-
----
+在結構上，前件使用 εἰ 加上過去直說語氣（indicative），而後件則包含 ἄν（alpha-nu）。這種組合加上上下文，能明確告訴讀者這是一個與事實相反的假設。例如保羅所言：「如果他們認識主，就不會把榮耀的主釘在十字架上了。」（參哥林多前書 2:8）。這裡的含義很清楚：他們事實上並不認識主，但如果他們認識，結果就會不同。這就是第二類條件句在神學論證中的力量。
 
 ### 詞彙學習 (Vocabulary)
 
-本課詞彙涵蓋了神學與實踐層面的重要用語，建議重點記憶以下詞彙：
+在這一章的詞彙中，有幾個關鍵詞彙與我們的神學詞彙庫密切相關，請務必熟記：
 
-*   **ἁγιάζω (hagiazō)**：意為「分別為聖」或「聖化」。在歸正神學中，這與信徒在基督裡的地位（positional sanctification）及生活中的成聖（progressive sanctification）密切相關。
-*   **ἁμαρτάνω (hamartanō)** 與 **ἁμαρτωλός (hamartōlos)**：前者是動詞「犯罪」，後者作為名詞時指「罪人」。這提醒我們罪不僅是行為，更是一種狀態。
-*   **ἀνάστασις (anastasis)**：意為「復活」。這是基督教信仰的基石，指死後的生命重建。
-*   **δικαιόω (dikaioō)**：意為「稱義」或「辯明」。在保羅神學中，這是指神在法庭上宣告罪人為義的法律性行動（forensic justification）。
-*   **ἱλαστήριον (hilastērion)**：意為「挽回祭」或「贖罪之處」。這詞與舊約會幕中的施恩座（mercy seat）有關，指基督透過祂的血，平息了神的忿怒並滿足了公義的要求。
-*   **σταυρόω (stauroō)**：意為「釘十字架」。這是基督救贖工作的核心行動。
-*   **σωτήρ (sōtēr)** 與 **σωτηρία (sōtēria)**：分別指「救主」與「救恩」。這兩者構成了救贖論（soteriology）的核心詞彙。
+*   **ἁγιάζω (hagiazō)**：意為「我分別為聖」或「我成聖」。
+*   **ἁμαρτάνω (hamartanō)**：意為「我犯罪」。由此派生出形容詞 **ἁμαρτωλός (hamartōlos)**，作形容詞時為「罪惡的」，作名詞時則為「罪人」。
+*   **ἀνάστασις (anastasis)**：這是「復活」的意思，是我們信仰的核心。
+*   **διακονέω (diakoneō)**：意為「我服事」。其名詞形式 **διακονία (diakonia)** 即為「服事」或「職事」。
+*   **δικαιόω (dikaioō)**：意為「我稱義」或「我辯護」。這在保羅神學中至關重要。
+*   **θλῖψις (thlipsis)**：意為「患難」或「苦難」。
+*   **ἱλαστήριον (hilastērion)**：意為「挽回祭」、「贖罪」或「施恩座」。這是一個充滿舊約獻祭背景的詞彙。
+*   **σταυρόω (stauroō)**：意為「我釘十字架」。
+*   **σωτήρ (sōtēr)** 與 **σωτηρία (sōtēria)**：分別指「救主」與「救恩」。
+*   **φανερόω (phaneroō)**：意為「我顯明」或「使之為人所知」。
+*   **φόβος (phobos)**：意為「恐懼」或「敬畏」。在聖經中，這通常指對神聖潔的敬畏。
 
 
-## Lesson 36: ἵστημι, τίθημι, δείκνυμι 與其他 -μι 動詞 (ἵστημι, τίθημι, δείκνυμι and Odds 'n Ends)
+## Lesson 36: ἵστημι, τίθημι, δείκνυμι 與其他動詞 (ἵστημι, τίθημι, δείκνυμι and Odds 'n Ends)
 
 > **大綱對照：**
-> 本次課程內容與所提供的「大綱」完全不符。教師在課堂中並未討論條件句（Conditional Sentences）或希臘文助詞（Particles），而是專注於「-μι 動詞」（-μι verbs）的變位規則、詞幹變化，以及如何透過理解詞根（root）與重疊（reduplication）來辨識這些動詞。以下說明將嚴格按照教師實際教學的內容進行編寫。
+> 本次課程內容並未遵循所提供的「條件句與助詞」大綱。講者實際教授的內容集中於 $\mu\iota$ 動詞（$\mu\iota$-verbs）的變位規律、特殊動詞（如 $\tau\acute{\iota}\theta\eta\mu\iota$、$\delta\epsilon\acute{\iota}\kappa\nu\upsilon\mu\iota$、$\text{\textipa{h}}\acute{\iota}\sigma\tau\eta\mu\iota$）的形態變化，以及如何透過理解詞根與重疊（reduplication）來解析這些複雜的動詞形式。以下內容將完全依照講者的實際教學順序進行說明。
 
 
 
-### -μι 動詞系統的邏輯：以 δίδωμι 為基礎
-在進入本課之前，教師強調了一個核心觀念：學習 -μι 動詞不需要死記硬背每一個單字。如果你已經掌握了第 35 章中 δίδωμι（給予）的變位規則，那麼其他 -μι 動詞的變位邏輯幾乎是一樣的。-μι 動詞的分類是根據其詞幹末端的元音（stem vowel）來決定的，這與契約動詞（contract verbs）的分類邏輯相同。
+### 掌握 $\mu\iota$ 動詞的邏輯：以 $\delta\acute{\iota}\delta\omega\mu\iota$ 為基礎
 
-當我們面對像 τίθημι（放置）或 ἵστημι（站立）這類動詞時，我們實際上是在處理相同的「重疊 + 詞根」結構。教師提醒學生，若無法看出這些動詞背後的共同規律，學習過程將會非常痛苦且效率低落。
+在進入本課之前，我們已經在第 34 章詳細探討了 $\delta\acute{\iota}\delta\omega\mu\iota$（給予）的直說語氣。現在，我們要將這個邏輯擴展到其他的 $\mu\iota$ 動詞。請記住一個核心原則：**所有的 $\mu\iota$ 動詞都是根據其詞幹末端的母音來分類的**，這與我們之前學過的契約動詞（contract verbs）邏輯一致。
 
-### τίθημι 的特殊變化：輔音的變形
-τίθημι 是以 ε（epsilon）結尾的 -μι 動詞代表。其變位過程與 δίδωμι 極為相似，但有一個關鍵的「變形」需要注意。
+如果你已經徹底掌握了 $\delta\acute{\iota}\delta\omega\mu\iota$（以 omicron 為詞幹母音），那麼其他的 $\mu\iota$ 動詞對你來說就只是「變體」而已。它們的變位方式幾乎完全相同，差別僅在於詞幹母音的變化。如果你試圖死記硬背每一個動詞的變位表，這會是一場災難；但如果你能看出它們背後的共同規律，這些動詞就會變得非常直觀。
 
-*   **重疊的規則（Reduplication）**：正常情況下，以 θ（theta）開頭的動詞在重疊時應重複該輔音，即 θι-θη-μι。然而，希臘文不喜歡連續出現兩個送氣音（aspirated consonants），這在語音學上被稱為「格拉斯曼定律」（Grassmann's Law）的應用。因此，第一個 θ 會轉變為不送氣的 τ（tau），形成 τίθημι。
-*   **辨識技巧**：當你看到 τίθημι 時，要能辨識出 τ-ι-θ-η-μι 的結構。其中 τ-ι 是重疊部分，θ-η 是詞根。這與 δίδωμι 的 δ-ι-δ-ω-μι 結構完全對應。只要看到這種重疊形式，就能立即判斷這是「現在時態系統」（present tense system）。
+### 特殊動詞的形態變化：$\tau\acute{\iota}\theta\eta\mu\iota$ 與 $\text{\textipa{h}}\acute{\iota}\sigma\tau\eta\mu\iota$
 
-### ἵστημι 的特殊變化：σ 的處理
-ἵστημι（站立）的詞根是 στα-。當它進行重疊時，理論上應該是 σι-στα-μι。然而，希臘文同樣不喜歡連續出現重疊的 σ（sigma）。
+#### 1. $\tau\acute{\iota}\theta\eta\mu\iota$（放置）的變位規律
+當我們觀察 $\tau\acute{\iota}\theta\eta\mu\iota$ 時，你會發現它與 $\delta\acute{\iota}\delta\omega\mu\iota$ 的結構如出一轍。唯一的區別在於詞幹母音（epsilon 變為 eta）。然而，這裡有一個重要的語音現象：原本的重疊（reduplication）應該是 $\theta\iota\theta\eta\mu\iota$（兩個 theta），但希臘語不喜歡連續出現兩個送氣音（aspirated consonants），因此第一個 theta 變成了 tau，變成了 $\tau\acute{\iota}\theta\eta\mu\iota$。這在語言學上稱為「格拉斯曼定律」（Grassmann's Law）的應用。
 
-*   **粗氣符號（Rough Breathing）的替代**：希臘文將重疊的 σ 轉化為粗氣符號（'）。因此，原本的 σι-στα-μι 變成了 ἵστημι。
-*   **教學重點**：教師強調，在分析這類動詞時，應將那個粗氣符號視為「重疊的 σ」。這種變化雖然看起來與其他動詞不同，但其底層邏輯依然是「重疊 + 詞根」。一旦理解了這個規則，ἵστημι 的變位就不再是難題。
+當你看到 $\tau\acute{\iota}\theta\eta\sigma\iota$ 時，請拆解它：
+*   **重疊部分**：$\tau\iota$-（原本的 $\theta\iota$-）。
+*   **詞幹**：$\theta\eta$-。
+*   **結尾**：$-\sigma\iota$（第二人稱單數）。
+這與 $\delta\acute{\iota}\delta\omega\sigma\iota$ 的結構完全對應。一旦你認出這個模式，你就不用再額外記憶，因為這就是 $\mu\iota$ 動詞的標準語法。
 
-### δείκνυμι 與動詞的演變趨勢
-在 -μι 動詞中，δείκνυμι（顯示）是一個特例。它沒有重疊（no reduplication），且正在逐漸向一般的「主題動詞」（thematic conjugation，即 -ω 動詞）靠攏。
+#### 2. $\text{\textipa{h}}\acute{\iota}\sigma\tau\eta\mu\iota$（站立）的「扭曲」
+$\text{\textipa{h}}\acute{\iota}\sigma\tau\mu\iota$ 是以 alpha 為詞幹的動詞，它同樣遵循上述規律，但有一個有趣的「扭曲」。原本的詞根是 $sta-$，重疊後應該是 $si-sta-mi$。然而，希臘語不喜歡重疊的 sigma，因此它將重疊的 sigma 轉化為「送氣符號」（rough breathing，即 $\text{\textipa{h}}$）。這就是為什麼我們看到的是 $\text{\textipa{h}}\acute{\iota}\sigma\tau\eta\mu\iota$ 而不是 $si\sigma\tau\eta\mu\iota$。
 
-*   **過渡狀態**：教師指出，許多 -μι 動詞在希臘文的發展過程中，都有轉向主題動詞變位的趨勢。這導致了新約聖經中出現了一些混雜的形態。
-*   **辨識要點**：由於 δείκνυμι 沒有重疊，我們不能單靠重疊來判斷時態。這提醒學生，必須熟練掌握詞根，並透過詞尾（endings）來輔助判斷。
+#### 3. $\delta\epsilon\acute{\iota}\kappa\nu\upsilon\mu\iota$（展示）的過渡性
+$\delta\epsilon\acute{\iota}\kappa\nu\upsilon\mu\iota$ 是一個特殊的例子。它是一個以 upsilon 為詞幹的 $\mu\iota$ 動詞，但它正在經歷向一般動詞（thematic conjugation）轉化的過程。你會發現它沒有重疊（reduplication），這使得它在 $\mu\iota$ 動詞中顯得有些「異類」。但即便如此，它依然保留了 $\mu\iota$ 動詞的詞尾（如 $-\mu\iota, -\varsigma, -\sigma\iota$）。
 
-### 實戰解析：如何處理複雜的動詞形態
-教師在課堂最後進行了「猜謎遊戲」，展示了如何拆解複雜的動詞形式：
+### 實戰解析：如何處理複雜的動詞形式
 
-1.  **辨識重疊**：看到重疊（如 διδω- 或 ἱστα-），立刻鎖定「現在時態系統」。
-2.  **辨識增強（Augment）**：如果看到重疊的同時又出現了增強（如 ε-），這通常意味著它是「未完成時態」（imperfect）。
-3.  **處理連接元音與詞尾**：有時 -μι 動詞會表現得像主題動詞一樣，使用連接元音（如 -ο- 或 -ε-）。例如，在未完成時態中，第三人稱單數可能會出現 ε 作為結尾。教師解釋，雖然這在嚴格的語法分析中可能被視為連接元音，但 -μι 動詞在實際運用中常表現得好像該元音就是人稱詞尾。
+當你在閱讀新約聖經時，遇到這些動詞的非直說語氣（如假設語氣 Subjunctive）形式，不要驚慌。請遵循以下步驟：
 
-### 總結與建議
-教師最後給予學生的核心建議是：**不要試圖背誦所有的變位表**。相反地，應該花時間瀏覽課本後方的動詞範式（paradigms）。當你看到一個陌生的動詞形式時，問自己：「我有沒有看到重疊？詞根是什麼？有沒有增強？」
+1.  **尋找重疊**：如果看到重疊（如 $\delta\iota\delta\omega\dots$），你幾乎可以確定這是在「現在時態系統」（present tense system）中。
+2.  **檢查詞幹母音**：辨認它是 omicron、epsilon 還是 alpha 類型的動詞。
+3.  **辨識語氣與時態**：
+    *   如果看到長母音（如 $\omega$ 或 $\eta$）且沒有增音（augment），這通常是假設語氣。
+    *   如果看到增音且有重疊，這通常是未完成時態（imperfect）。
 
-如果你能看出這些動詞是由「重疊 + 詞根 + 詞尾」組成的，那麼即使是複雜的虛擬語氣（subjunctive）或未完成時態，你也能透過邏輯推導出來。這不僅是學習希臘文的技巧，更是深入理解語言結構的唯一途徑。
+例如，當你看到 $\delta\iota\delta\tilde{\omega}\varsigma$（假設語氣），雖然結尾看起來不像你熟悉的 $-\eta\varsigma$，那是因為詞幹的 $\omega$ 吞噬了原本的結尾母音。這就是為什麼我一直強調：**你必須非常熟悉基本詞根**。如果你只看結尾，你會迷失；但如果你認出詞根 $\delta\omega-$，你就能推斷出它的語法功能。
+
+### 給學生的建議：瀏覽範式（Paradigms）
+
+我無法在課堂上帶你們逐一瀏覽所有的動詞範式，但這是你們必須完成的功課。請翻開課本後面的附錄，花時間觀察這些動詞在不同語氣下的變化。問自己：「如果我現在看到這個形式，我能認出它的時態和語氣嗎？」
+
+這門課的學習過程確實充滿挑戰，特別是在處理這些形態變化時。但請記住，這不是為了折磨你們，而是為了讓你們具備解讀聖經原文的能力。當你能夠看穿這些「扭曲」的語音變化，並還原出動詞的本質時，你就不再是死記硬背，而是真正掌握了希臘語的邏輯。你們已經走過了最艱難的部分，繼續保持這種分析的習慣，你們會做得很好。
 
