@@ -10,16 +10,7 @@ import warnings
 from pathlib import Path
 from typing import Literal, Optional
 
-from bt.paths import (
-    EXPLAIN_CN_DIR,
-    EXPLAIN_ZH_DIR,
-    PARAGRAPH_DIR,
-    PARAGRAPH_OUTLINED_DIR,
-    OUTLINES_DIR,
-    TRANSCRIPTS_DIR,
-    TRANSLATE_CN_DIR,
-    TRANSLATE_ZH_DIR,
-)
+from bt.paths import course_dir, course_outline_path, course_transcript_path
 
 _COURSE_TITLE_LINE = re.compile(r"^#\s+(?!Lesson\s+\d+:)(.+)$", re.MULTILINE)
 _LESSON_TRANSCRIPT_START = re.compile(r"^# Lesson (\d+):\s*.+$", re.MULTILINE)
@@ -130,12 +121,17 @@ def format_plain_paragraph_markdown_file(*, lesson_h1: Optional[str], gemini_bod
     return f"{body}\n"
 
 
-_EXPLAIN_ZH_H2_HTML = re.compile(r"<!--\s*explain-zh-h2:\s*(.+?)\s*-->", re.DOTALL)
-_EXPLAIN_CN_H2_HTML = re.compile(r"<!--\s*explain-cn-h2:\s*(.+?)\s*-->", re.DOTALL)
+# Accept legacy ``explain-*-h2`` and current ``study-note-*-h2`` comments in existing Markdown.
+_STUDY_NOTE_ZH_H2_HTML = re.compile(
+    r"<!--\s*(?:explain-zh-h2|study-note-zh-h2):\s*(.+?)\s*-->", re.DOTALL
+)
+_STUDY_NOTE_CN_H2_HTML = re.compile(
+    r"<!--\s*(?:explain-cn-h2|study-note-cn-h2):\s*(.+?)\s*-->", re.DOTALL
+)
 
 
 def split_plain_paragraph_course_into_lessons(md: str) -> list[tuple[int, str]]:
-    """Split ``data/paragraph/…`` course Markdown on ``## Lesson N:`` headings."""
+    """Split ``courses/<slug>/paragraph/…`` course Markdown on ``## Lesson N:`` headings."""
     matches = list(_LESSON_OUTLINE_START.finditer(md))
     if not matches:
         return []
@@ -149,7 +145,7 @@ def split_plain_paragraph_course_into_lessons(md: str) -> list[tuple[int, str]]:
     return out
 
 
-def format_chinese_explanation_markdown_file(
+def format_chinese_study_note_markdown_file(
     *,
     lesson_h1: Optional[str],
     gemini_body: str,
@@ -158,14 +154,14 @@ def format_chinese_explanation_markdown_file(
     """
     Like ``format_paragraph_markdown_file`` but prefers bilingual ``##`` from an HTML comment in the model output:
 
-    - Traditional: ``<!-- explain-zh-h2: Lesson N: … (English) -->``
-    - Simplified: ``<!-- explain-cn-h2: Lesson N: … (English) -->``
+    - Traditional: ``<!-- study-note-zh-h2: Lesson N: … (English) -->`` (legacy: ``explain-zh-h2``)
+    - Simplified: ``<!-- study-note-cn-h2: Lesson N: … (English) -->`` (legacy: ``explain-cn-h2``)
 
     If that comment is missing, falls back to the English lesson line as ``##``.
     """
     text = gemini_body.strip()
     h2_line: Optional[str] = None
-    pat = _EXPLAIN_CN_H2_HTML if variant == "cn" else _EXPLAIN_ZH_H2_HTML
+    pat = _STUDY_NOTE_CN_H2_HTML if variant == "cn" else _STUDY_NOTE_ZH_H2_HTML
     m = pat.search(text)
     if m:
         inner = " ".join(m.group(1).split())
@@ -394,7 +390,7 @@ def build_paragraph_transcript_only_prompt(transcription: str) -> str:
     )
 
 
-GEMINI_SYSTEM_INSTRUCTION_EXPLAIN_ZH = """Task:
+GEMINI_SYSTEM_INSTRUCTION_STUDY_NOTE_ZH = """Task:
 - Read the lesson (transcription below).
 - Read the outline of the lesson (below).
 - Write a **substantial, study-guide-level** explanation: your goal is depth and clarity, not a short summary. Err on the side of **more** explanation when the transcript gives enough material.
@@ -425,7 +421,7 @@ Examples and Scripture (be thorough):
 
 Bilingual lesson heading (required):
 - After the 大綱對照 blockquote, on its own line, output exactly one HTML comment (the tool turns this into ``##``):
-  <!-- explain-zh-h2: Lesson N: 繁體中文標題 (English lesson title) -->
+  <!-- study-note-zh-h2: Lesson N: 繁體中文標題 (English lesson title) -->
   Use the real lesson number N. The Traditional Chinese part should be a concise translation of the lesson topic. The English part in parentheses must match the official lesson title given above (same wording as after ``Lesson N:``).
 - Do **not** follow this with a ``###`` heading that only repeats the same topic—that would duplicate the merged title.
 
@@ -435,7 +431,7 @@ Formatting:
 """
 
 
-GEMINI_SYSTEM_INSTRUCTION_EXPLAIN_CN = """Task:
+GEMINI_SYSTEM_INSTRUCTION_STUDY_NOTE_CN = """Task:
 - Read the lesson (transcription below).
 - Read the outline of the lesson (below).
 - Write a **substantial, study-guide-level** explanation: your goal is depth and clarity, not a short summary. Err on the side of **more** explanation when the transcript gives enough material.
@@ -466,7 +462,7 @@ Examples and Scripture (be thorough):
 
 Bilingual lesson heading (required):
 - After the 大纲对照 blockquote, on its own line, output exactly one HTML comment (the tool turns this into ``##``):
-  <!-- explain-cn-h2: Lesson N: 简体中文标题 (English lesson title) -->
+  <!-- study-note-cn-h2: Lesson N: 简体中文标题 (English lesson title) -->
   Use the real lesson number N. The Simplified Chinese part should be a concise translation of the lesson topic. The English part in parentheses must match the official lesson title given above (same wording as after ``Lesson N:``).
 - Do **not** follow this with a ``###`` heading that only repeats the same topic—that would duplicate the merged title.
 
@@ -513,7 +509,7 @@ Bilingual lesson heading (required):
 """
 
 
-def build_chinese_explanation_prompt(
+def build_chinese_study_note_prompt(
     transcription: str,
     outline: str,
     *,
@@ -527,7 +523,7 @@ def build_chinese_explanation_prompt(
             f"{lesson_h1_line.strip()}\n\n"
             "---\n\n"
         )
-    system = GEMINI_SYSTEM_INSTRUCTION_EXPLAIN_CN if simplified else GEMINI_SYSTEM_INSTRUCTION_EXPLAIN_ZH
+    system = GEMINI_SYSTEM_INSTRUCTION_STUDY_NOTE_CN if simplified else GEMINI_SYSTEM_INSTRUCTION_STUDY_NOTE_ZH
     kind = "Simplified Chinese" if simplified else "Traditional Chinese"
     return (
         f"{system}\n\n"
@@ -629,7 +625,7 @@ def run_gemini_paragraph_transcript_only(
     return _generate_gemini_text(api_key, prompt, model, temperature=0.0)
 
 
-def run_gemini_chinese_explanation(
+def run_gemini_chinese_study_note(
     *,
     api_key: str,
     transcription: str,
@@ -638,7 +634,7 @@ def run_gemini_chinese_explanation(
     lesson_h1_line: Optional[str] = None,
     simplified: bool = False,
 ) -> str:
-    prompt = build_chinese_explanation_prompt(
+    prompt = build_chinese_study_note_prompt(
         transcription, outline, lesson_h1_line=lesson_h1_line, simplified=simplified
     )
     # Slightly higher temperature helps varied, expansive explanatory prose; paragraphing stays at default 0.2.
@@ -680,8 +676,8 @@ def resolve_transcript_outline_paths(
     transcript: Optional[str] = None,
     outline: Optional[str] = None,
 ) -> tuple[Path, Path]:
-    t = Path(transcript) if transcript else TRANSCRIPTS_DIR / f"{course_slug}.md"
-    o = Path(outline) if outline else OUTLINES_DIR / f"{course_slug}.outline.md"
+    t = Path(transcript) if transcript else course_transcript_path(course_slug)
+    o = Path(outline) if outline else course_outline_path(course_slug)
     return t, o
 
 
@@ -701,7 +697,7 @@ def resolve_english_course_title_for_translation(
         t = extract_course_title_from_transcript(read_text(combined))
         if t:
             return t
-    tp = TRANSCRIPTS_DIR / f"{course_slug}.md"
+    tp = course_transcript_path(course_slug)
     if tp.is_file():
         t = extract_course_title_from_transcript(read_text(tp))
         if t:
@@ -782,65 +778,75 @@ def sanitize_model_for_path(model: str) -> str:
 
 def default_paragraph_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
     d = sanitize_model_for_path(model)
-    return PARAGRAPH_OUTLINED_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.paragraph-outlined.md"
+    return (
+        course_dir(course_slug)
+        / "paragraph-outlined"
+        / d
+        / f"{course_slug}.lesson{lesson_num:02d}.paragraph-outlined.md"
+    )
 
 
 def default_paragraph_course_out_path(course_slug: str, *, model: str) -> Path:
-    """Single file for all lessons: ``data/paragraph-outlined/<model>/<slug>.paragraph-outlined.md``."""
+    """Single file for all lessons: ``courses/<slug>/paragraph-outlined/<model>/<slug>.paragraph-outlined.md``."""
     d = sanitize_model_for_path(model)
-    return PARAGRAPH_OUTLINED_DIR / d / f"{course_slug}.paragraph-outlined.md"
+    return course_dir(course_slug) / "paragraph-outlined" / d / f"{course_slug}.paragraph-outlined.md"
 
 
 def default_plain_paragraph_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
     d = sanitize_model_for_path(model)
-    return PARAGRAPH_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.paragraph.md"
+    return (
+        course_dir(course_slug)
+        / "paragraph"
+        / d
+        / f"{course_slug}.lesson{lesson_num:02d}.paragraph.md"
+    )
 
 
 def default_plain_paragraph_course_out_path(course_slug: str, *, model: str) -> Path:
-    """Single file for all lessons: ``data/paragraph/<model>/<slug>.paragraph.md``."""
+    """Single file for all lessons: ``courses/<slug>/paragraph/<model>/<slug>.paragraph.md``."""
     d = sanitize_model_for_path(model)
-    return PARAGRAPH_DIR / d / f"{course_slug}.paragraph.md"
+    return course_dir(course_slug) / "paragraph" / d / f"{course_slug}.paragraph.md"
 
 
-def default_explain_zh_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
+def default_study_note_zh_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
     d = sanitize_model_for_path(model)
-    return EXPLAIN_ZH_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.zh.md"
+    return course_dir(course_slug) / "study-note-zh" / d / f"{course_slug}.lesson{lesson_num:02d}.zh.md"
 
 
-def default_explain_zh_course_out_path(course_slug: str, *, model: str) -> Path:
-    """Single file for all lessons: ``data/explain-zh/<model>/<slug>.zh.md``."""
+def default_study_note_zh_course_out_path(course_slug: str, *, model: str) -> Path:
+    """Single file for all lessons: ``courses/<slug>/study-note-zh/<model>/<slug>.zh.md``."""
     d = sanitize_model_for_path(model)
-    return EXPLAIN_ZH_DIR / d / f"{course_slug}.zh.md"
+    return course_dir(course_slug) / "study-note-zh" / d / f"{course_slug}.zh.md"
 
 
-def default_explain_cn_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
+def default_study_note_cn_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
     d = sanitize_model_for_path(model)
-    return EXPLAIN_CN_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.cn.md"
+    return course_dir(course_slug) / "study-note-cn" / d / f"{course_slug}.lesson{lesson_num:02d}.cn.md"
 
 
-def default_explain_cn_course_out_path(course_slug: str, *, model: str) -> Path:
-    """Single file for all lessons: ``data/explain-cn/<model>/<slug>.cn.md``."""
+def default_study_note_cn_course_out_path(course_slug: str, *, model: str) -> Path:
+    """Single file for all lessons: ``courses/<slug>/study-note-cn/<model>/<slug>.cn.md``."""
     d = sanitize_model_for_path(model)
-    return EXPLAIN_CN_DIR / d / f"{course_slug}.cn.md"
+    return course_dir(course_slug) / "study-note-cn" / d / f"{course_slug}.cn.md"
 
 
 def default_translate_zh_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
     d = sanitize_model_for_path(model)
-    return TRANSLATE_ZH_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.zh.md"
+    return course_dir(course_slug) / "translate-zh" / d / f"{course_slug}.lesson{lesson_num:02d}.zh.md"
 
 
 def default_translate_zh_course_out_path(course_slug: str, *, model: str) -> Path:
-    """Single file for all lessons: ``data/translate-zh/<model>/<slug>.zh.md``."""
+    """Single file for all lessons: ``courses/<slug>/translate-zh/<model>/<slug>.zh.md``."""
     d = sanitize_model_for_path(model)
-    return TRANSLATE_ZH_DIR / d / f"{course_slug}.zh.md"
+    return course_dir(course_slug) / "translate-zh" / d / f"{course_slug}.zh.md"
 
 
 def default_translate_cn_out_path(course_slug: str, lesson_num: int, *, model: str) -> Path:
     d = sanitize_model_for_path(model)
-    return TRANSLATE_CN_DIR / d / f"{course_slug}.lesson{lesson_num:02d}.cn.md"
+    return course_dir(course_slug) / "translate-cn" / d / f"{course_slug}.lesson{lesson_num:02d}.cn.md"
 
 
 def default_translate_cn_course_out_path(course_slug: str, *, model: str) -> Path:
-    """Single file for all lessons: ``data/translate-cn/<model>/<slug>.cn.md``."""
+    """Single file for all lessons: ``courses/<slug>/translate-cn/<model>/<slug>.cn.md``."""
     d = sanitize_model_for_path(model)
-    return TRANSLATE_CN_DIR / d / f"{course_slug}.cn.md"
+    return course_dir(course_slug) / "translate-cn" / d / f"{course_slug}.cn.md"

@@ -32,7 +32,7 @@ python -m bt download nt201
 # 或：bt download nt201
 ```
 
-会写入 **`data/transcripts/nt201-biblical-greek.md`** 与 **`data/outlines/nt201-biblical-greek.outline.md`**（实际路径取决于解析出的 slug）。
+会写入 **`courses/nt201-biblical-greek/nt201-biblical-greek.md`**（逐字稿）与 **`courses/nt201-biblical-greek/nt201-biblical-greek.outline.md`**（大纲；实际路径取决于解析出的 slug）。
 
 **可选 — Gemini 分段**（设置 **`GEMINI_API_KEY`**，或在工作目录的 **`.env`** 中配置；详见下方 **`paragraph`** 与 **`paragraph-outline`**）：
 
@@ -78,20 +78,20 @@ python -m bt download \
 # 或使用本地课程索引的 slug 前缀：
 python -m bt download nt201
 
-# 多门课（各写入 data/transcripts/<slug>.md；勿使用 --out）：
+# 多门课（各写入 courses/<slug>/<slug>.md；勿使用 --out）：
 python -m bt download nt201 nt203
 ```
 
-默认输出：`data/transcripts/<course-slug>.md`（例如 `data/transcripts/nt201-biblical-greek.md`）。
+默认输出：`courses/<course-slug>/<course-slug>.md`（例如 `courses/nt201-biblical-greek/nt201-biblical-greek.md`）。
 
-工具始终将课程大纲写入 **`data/outlines/<course-slug>.outline.md`**（与逐字稿文件同主文件名）。文件以课程标题 `# …` 开头，随后每课为 `## Lesson {n}: {课名}` 与 Markdown 项目式大纲（已去除 HTML）。若存在内嵌 `__NEXT_DATA__` 则优先使用；否则大纲来自 JSON:API（`include=field_lessons`）。若无法获取大纲，**`download` 以退出码 4 结束**，且不再抓取课时页面。
+工具始终将课程大纲写入 **`courses/<course-slug>/<course-slug>.outline.md`**（与逐字稿同目录）。文件以课程标题 `# …` 开头，随后每课为 `## Lesson {n}: {课名}` 与 Markdown 项目式大纲（已去除 HTML）。若存在内嵌 `__NEXT_DATA__` 则优先使用；否则大纲来自 JSON:API（`include=field_lessons`）。若无法获取大纲，**`download` 以退出码 4 结束**，且不再抓取课时页面。
 
 自定义逐字稿路径（仅单门课；下载多门课时不可用）：
 
 ```bash
 python -m bt download \
   "https://www.biblicaltraining.org/learn/institute/nt605-textual-criticism" \
-  --out data/transcripts/nt605.md
+  --out courses/nt605-textual-criticism/nt605-textual-criticism.md
 ```
 
 安装后也可使用控制台脚本：
@@ -138,22 +138,22 @@ python -m bt download "COURSE_URL" --cookies-json /path/to/cookies.json --fetche
 
 ### `paragraph` — Gemini 分段（仅逐字稿）
 
-使用 **`GEMINI_API_KEY`**。若环境变量未设置，CLI 会从**当前工作目录**的 **`.env`** 加载（`python-dotenv`）；行为与下方 **`paragraph-outline`** 一致。请在项目目录（或 `data/transcripts/` 与 `.env` 所在处）执行：
+使用 **`GEMINI_API_KEY`**。若环境变量未设置，CLI 会从**当前工作目录**的 **`.env`** 加载（`python-dotenv`）；行为与下方 **`paragraph-outline`** 一致。请在项目目录（或 `courses/` 与 `.env` 所在处）执行：
 
 ```bash
-# 单课（默认：data/paragraph/<model>/<slug>.lessonNN.paragraph.md）
+# 单课（默认：courses/<slug>/paragraph/<model>/<slug>.lessonNN.paragraph.md）
 python -m bt paragraph nt203-greek-tools-for-bible-study --lesson 3
 
 python -m bt paragraph nt203 --lesson 3
 
-# 全部课时（每课一次 Gemini 请求；一个合并文件：data/paragraph/<model>/<slug>.paragraph.md）
+# 全部课时（每课一次 Gemini 请求；一个合并文件：courses/<slug>/paragraph/<model>/<slug>.paragraph.md）
 python -m bt paragraph nt203-greek-tools-for-bible-study
 
 # 多门课（每门课默认路径；勿使用 --transcript 或 --out）
 python -m bt paragraph nt203 nt201
 ```
 
-读取 **`data/transcripts/<course-slug>.md`**，提取课文（仅 **`--lesson`** 指定一课，或省略时处理每个 `# Lesson N:` 区块），并**不**使用课程大纲调用 Gemini（每课一次请求）。系统提示要求模型为逐字稿分段且不改动措辞、不为段落加标题；工具再将每课标题以 **`##`** 置于开头（来自逐字稿的 `# Lesson N:`），并以课程 **`#`** 标题与**目录**包装，目录会链接文件中**每一个** `##`–`######` 标题（按层级缩进），外层版式与 `paragraph-outline` 相同。
+读取 **`courses/<course-slug>/<course-slug>.md`**，提取课文（仅 **`--lesson`** 指定一课，或省略时处理每个 `# Lesson N:` 区块），并**不**使用课程大纲调用 Gemini（每课一次请求）。系统提示要求模型为逐字稿分段且不改动措辞、不为段落加标题；工具再将每课标题以 **`##`** 置于开头（来自逐字稿的 `# Lesson N:`），并以课程 **`#`** 标题与**目录**包装，目录会链接文件中**每一个** `##`–`######` 标题（按层级缩进），外层版式与 `paragraph-outline` 相同。
 
 ### `paragraph-outline` — Gemini 大纲分段
 
@@ -171,13 +171,13 @@ GEMINI_API_KEY=your_key_here
 - **一次性：** `export GEMINI_API_KEY=your_key_here` 后在同一终端会话中运行。
 - **在 shell 中加载 `.env`**（zsh/bash）：`set -a && source .env && set +a`（`.env` 须为 `KEY=value` 格式）。
 
-请在项目目录（或 `data/transcripts/`、`data/outlines/`、`.env` 所在处）执行。**`paragraph-outline`** 另需 **`data/outlines/`**：
+请在项目目录（或 `courses/` 与 `.env` 所在处）执行。**`paragraph-outline`** 需要逐字稿与大纲文件同在 **`courses/<slug>/`** 下：
 
 ```bash
-# 单课（默认：data/paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md）
+# 单课（默认：courses/<slug>/paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md）
 python -m bt paragraph-outline nt203-greek-tools-for-bible-study --lesson 3
 
-# 全部课时（每课一次 Gemini；单文件：data/paragraph-outlined/<model>/<slug>.paragraph-outlined.md）
+# 全部课时（每课一次 Gemini；单文件：courses/<slug>/paragraph-outlined/<model>/<slug>.paragraph-outlined.md）
 python -m bt paragraph-outline nt203-greek-tools-for-bible-study
 
 # slug 前缀亦可（须唯一）：
@@ -187,38 +187,52 @@ python -m bt paragraph-outline nt203 --lesson 3
 python -m bt paragraph-outline nt203 nt201
 ```
 
-读取 **`data/transcripts/<course-slug>.md`** 与 **`data/outlines/<course-slug>.outline.md`**，提取每课的**逐字稿正文**与**大纲区块**（或仅 `--lesson` 指定的一课），再调用 Gemini。系统说明（见 `src/bt/lesson_paragraph.py`）要求模型分段、保留措辞、将大纲内嵌为标题、不重复课名、大纲最浅层使用 **`###`**，且模型输出中不使用 **`#`** / **`##`**。用户消息包含逐字稿与大纲文本。
+读取 **`courses/<course-slug>/<course-slug>.md`** 与 **`courses/<course-slug>/<course-slug>.outline.md`**，提取每课的**逐字稿正文**与**大纲区块**（或仅 `--lesson` 指定的一课），再调用 Gemini。系统说明（见 `src/bt/lesson_paragraph.py`）要求模型分段、保留措辞、将大纲内嵌为标题、不重复课名、大纲最浅层使用 **`###`**，且模型输出中不使用 **`#`** / **`##`**。用户消息包含逐字稿与大纲文本。
 
 输出文件中的课名为**二级标题**（`##`）；工具会规范化标题层级，使模型正文最浅为 **`###`**。
 
 **输出：** **Markdown**（`.md`）。文件以**课程标题**为**一级标题**（`#`，取自逐字稿第一个非课名的 `# …` 行，若无则由 slug 推导），接着 **`## Table of contents`**，以缩进列表链接合并后文件内**每一个** `##`–`######` 标题（不限课名），水平线后为正文。链接锚点采用 GitHub 风格；相同标题文字重复时会加数字后缀。
 
-默认路径：有 **`--lesson`** 时为 **`data/paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md`**；无则为 **`data/paragraph-outlined/<model>/<slug>.paragraph-outlined.md`**。此处 ``<model>`` 为经文件名安全处理后的 Gemini 模型 id。每课一次 Gemini 请求。每课区块对应逐字稿的 `## Lesson N: …`（由 `# Lesson N: …` 提升），接大纲分段正文。
+默认路径：有 **`--lesson`** 时为 **`courses/<slug>/paragraph-outlined/<model>/<slug>.lessonNN.paragraph-outlined.md`**；无则为 **`courses/<slug>/paragraph-outlined/<model>/<slug>.paragraph-outlined.md`**。此处 ``<model>`` 为经文件名安全处理后的 Gemini 模型 id。每课一次 Gemini 请求。每课区块对应逐字稿的 `## Lesson N: …`（由 `# Lesson N: …` 提升），接大纲分段正文。
 
 **单门**课可用 **`--out 路径`** 覆盖输出文件（**无**扩展名时会自动加 **`.md`**）。**多门**课时请省略 **`--out`**（并省略 **`--transcript`** / **`--outline`**）。可用 **`--transcript`** / **`--outline`** 覆盖输入，**`--model`** 指定模型（默认 **`gemini-3.1-flash-lite-preview`**）。若有课失败（缺逐字稿或大纲、或 Gemini 错误），命令在非零退出码下仍会尽量处理其余内容；合并文件会跳过失败的课。
 
-**`explain-zh`**（繁体中文）与 **`explain-cn`**（简体中文）使用与 **`paragraph-outline`** 相同的逐字稿 + 大纲输入与 **`GEMINI_API_KEY`**，但生成学习指南式说明 Markdown，位于 **`data/explain-zh/…`** 或 **`data/explain-cn/…`**（见**输出布局**）。模型会输出简短大纲对照引言块，以及 HTML 注释（`explain-zh-h2` / `explain-cn-h2`）供工具生成双语 **`##`** 课名；提示词要求圣经用语优先采用**改革宗／归正神学**惯用中文。示例：`python -m bt explain-cn nt203 --lesson 1`。
+**`study-note-zh`**（繁体中文）与 **`study-note-cn`**（简体中文）使用与 **`paragraph-outline`** 相同的逐字稿 + 大纲输入与 **`GEMINI_API_KEY`**，但生成学习指南式说明 Markdown，位于 **`courses/<slug>/study-note-zh/…`** 或 **`courses/<slug>/study-note-cn/…`**（见**输出布局**）。模型会输出简短大纲对照引言块，以及 HTML 注释（`study-note-zh-h2` / `study-note-cn-h2`；旧版 `explain-zh-h2` / `explain-cn-h2` 仍兼容）供工具生成双语 **`##`** 课名；提示词要求圣经用语优先采用**改革宗／归正神学**惯用中文。示例：`python -m bt study-note-cn nt203 --lesson 1`。命令 **`explain-zh`** / **`explain-cn`** 为弃用别名。
 
 ## 工作原理
 
 1. **`download`：** 抓取**课程**页面并收集课时链接。从内嵌 JSON 或 JSON:API 解析课程大纲；若失败，命令在尚未下载课时逐字稿前即停止（退出码 **4**）。
 2. 抓取每个课时页面，将 **Transcription** 区块提取为纯文本。
-3. 将逐字稿 Markdown 写入 **`data/transcripts/`**，大纲写入 **`data/outlines/`**，含**课程标题**（来自课程页）、**目录**，以及每课 `# Lesson {n}: {title}`。
+3. 将逐字稿与大纲写入 **`courses/<course-slug>/`**（平铺：`<slug>.md` 与 `<slug>.outline.md`），含**课程标题**（来自课程页）、**目录**，以及每课 `# Lesson {n}: {title}`。
 
 ## 输出布局
 
+路径均在 **`courses/<course-slug>/`** 下。Gemini 输出含经文件名安全处理的 **`/<model>/`** 目录段。
+
 | 类型 | 默认路径 |
 |------|----------------|
-| 课程逐字稿 | `data/transcripts/<course-slug>.md` |
-| 课程大纲 | `data/outlines/<course-slug>.outline.md` |
-| 分段单课（Gemini，仅逐字稿，`--lesson`） | `data/paragraph/<model>/<course-slug>.lessonNN.paragraph.md` |
-| 分段整课（Gemini，仅逐字稿，全部课） | `data/paragraph/<model>/<course-slug>.paragraph.md` |
-| 大纲分段单课（Gemini，`--lesson`） | `data/paragraph-outlined/<model>/<course-slug>.lessonNN.paragraph-outlined.md` |
-| 大纲分段整课（Gemini，全部课） | `data/paragraph-outlined/<model>/<course-slug>.paragraph-outlined.md` |
-| 中文说明单课，繁体（`explain-zh`，`--lesson`） | `data/explain-zh/<model>/<course-slug>.lessonNN.zh.md` |
-| 中文说明整课，繁体（`explain-zh`，全部课） | `data/explain-zh/<model>/<course-slug>.zh.md` |
-| 中文说明单课，简体（`explain-cn`，`--lesson`） | `data/explain-cn/<model>/<course-slug>.lessonNN.cn.md` |
-| 中文说明整课，简体（`explain-cn`，全部课） | `data/explain-cn/<model>/<course-slug>.cn.md` |
+| 课程逐字稿 | `courses/<course-slug>/<course-slug>.md` |
+| 课程大纲 | `courses/<course-slug>/<course-slug>.outline.md` |
+| 分段单课（Gemini，仅逐字稿，`--lesson`） | `courses/<course-slug>/paragraph/<model>/<course-slug>.lessonNN.paragraph.md` |
+| 分段整课（Gemini，仅逐字稿，全部课） | `courses/<course-slug>/paragraph/<model>/<course-slug>.paragraph.md` |
+| 大纲分段单课（Gemini，`--lesson`） | `courses/<course-slug>/paragraph-outlined/<model>/<course-slug>.lessonNN.paragraph-outlined.md` |
+| 大纲分段整课（Gemini，全部课） | `courses/<course-slug>/paragraph-outlined/<model>/<course-slug>.paragraph-outlined.md` |
+| 中文学习笔记单课，繁体（`study-note-zh`，`--lesson`） | `courses/<course-slug>/study-note-zh/<model>/<course-slug>.lessonNN.zh.md` |
+| 中文学习笔记整课，繁体（`study-note-zh`，全部课） | `courses/<course-slug>/study-note-zh/<model>/<course-slug>.zh.md` |
+| 中文学习笔记单课，简体（`study-note-cn`，`--lesson`） | `courses/<course-slug>/study-note-cn/<model>/<course-slug>.lessonNN.cn.md` |
+| 中文学习笔记整课，简体（`study-note-cn`，全部课） | `courses/<course-slug>/study-note-cn/<model>/<course-slug>.cn.md` |
+| 中文翻译单课，繁体（`translate-zh`，`--lesson`） | `courses/<course-slug>/translate-zh/<model>/<course-slug>.lessonNN.zh.md` |
+| 中文翻译整课，繁体（`translate-zh`，全部课） | `courses/<course-slug>/translate-zh/<model>/<course-slug>.zh.md` |
+| 中文翻译单课，简体（`translate-cn`，`--lesson`） | `courses/<course-slug>/translate-cn/<model>/<course-slug>.lessonNN.cn.md` |
+| 中文翻译整课，简体（`translate-cn`，全部课） | `courses/<course-slug>/translate-cn/<model>/<course-slug>.cn.md` |
+
+### 从 `data/` 迁移
+
+若您仍有旧版 **`data/transcripts/`**、**`data/outlines/`** 与 **`data/<command>/<model>/…`** 目录，可按上文迁移，例如：
+
+- `data/transcripts/<slug>.md` → `courses/<slug>/<slug>.md`
+- `data/outlines/<slug>.outline.md` → `courses/<slug>/<slug>.outline.md`
+- `data/paragraph/<model>/…` → `courses/<slug>/paragraph/<model>/…`（文件名不变）；`paragraph-outlined`、`study-note-zh`、`study-note-cn`、`translate-zh`、`translate-cn` 同理（旧目录 `explain-zh` / `explain-cn` 请改名为 `study-note-zh` / `study-note-cn`）。
 
 ## 说明
 
