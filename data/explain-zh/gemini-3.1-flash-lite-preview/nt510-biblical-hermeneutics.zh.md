@@ -2,2087 +2,2028 @@
 
 ## Table of contents
 
-- [Lesson 1: 英文聖經的早期歷史（上） (Early Beginnings (Part 1))](#lesson-1-英文聖經的早期歷史上-early-beginnings-part-1)
+- [Lesson 1: 早期開端（第一部分） (Early Beginnings (Part 1))](#lesson-1-早期開端第一部分-early-beginnings-part-1)
   - [課程目標與詮釋學導論](#課程目標與詮釋學導論)
   - [英文語言的形成與早期聖經傳播](#英文語言的形成與早期聖經傳播)
-  - [早期聖經翻譯的挑戰](#早期聖經翻譯的挑戰)
-    - [盎格魯-撒克遜時期的翻譯](#盎格魯-撒克遜時期的翻譯)
-    - [約翰·威克里夫（John Wycliffe）的貢獻](#約翰威克里夫john-wycliffe的貢獻)
-  - [威廉·廷代爾（William Tyndale）與印刷術的影響](#威廉廷代爾william-tyndale與印刷術的影響)
-  - [邁爾斯·科弗代爾（Miles Coverdale）與次經問題](#邁爾斯科弗代爾miles-coverdale與次經問題)
-- [Lesson 2: 早期英語聖經譯本的發展 (Early Beginnings (Part 2))](#lesson-2-早期英語聖經譯本的發展-early-beginnings-part-2)
-  - [威廉·廷代爾（William Tyndale）的遺產：英語聖經的根基](#威廉廷代爾william-tyndale的遺產英語聖經的根基)
-  - [托馬斯·馬修聖經（Matthew Bible）與約翰·羅傑斯（John Rogers）](#托馬斯馬修聖經matthew-bible與約翰羅傑斯john-rogers)
-  - [理查·塔弗納（Richard Taverner）譯本](#理查塔弗納richard-taverner譯本)
-  - [大聖經（The Great Bible）與權威的建立](#大聖經the-great-bible與權威的建立)
-  - [歷史轉折：瑪麗一世與伊莉莎白一世](#歷史轉折瑪麗一世與伊莉莎白一世)
-  - [日內瓦聖經（Geneva Bible）與分節系統](#日內瓦聖經geneva-bible與分節系統)
-  - [主教聖經（Bishop’s Bible）與欽定本（KJV）](#主教聖經bishops-bible與欽定本kjv)
-  - [杜埃-蘭斯譯本（Douay-Rheims Version）](#杜埃-蘭斯譯本douay-rheims-version)
-  - [現代譯本的省思](#現代譯本的省思)
-- [Lesson 3: 釋經學議題（第一部分） (Hermeneutical Issues (Part 1))](#lesson-3-釋經學議題第一部分-hermeneutical-issues-part-1)
-  - [聖經翻譯的哲學與語言障礙](#聖經翻譯的哲學與語言障礙)
-    - [詞彙的重疊與文化差異](#詞彙的重疊與文化差異)
-    - [翻譯的實例：文化語境的不可譯性](#翻譯的實例文化語境的不可譯性)
-  - [翻譯的品質：基於最佳手稿](#翻譯的品質基於最佳手稿)
-    - [Textus Receptus（公認文本）的局限](#textus-receptus公認文本的局限)
-    - [文本批判學的挑戰：以約翰一書 5:7 為例](#文本批判學的挑戰以約翰一書-57-為例)
-  - [牧養與釋經的平衡](#牧養與釋經的平衡)
-- [Lesson 4: 釋經學議題（下） (Hermeneutical Issues (Part 2))](#lesson-4-釋經學議題下-hermeneutical-issues-part-2)
-  - [準確性（Accuracy）](#準確性accuracy)
-  - [可讀性與理解力（Understandability）](#可讀性與理解力understandability)
-  - [時代性（Contemporary Language）](#時代性contemporary-language)
-  - [普世性（Universal Language）](#普世性universal-language)
-  - [尊嚴性（Dignity）](#尊嚴性dignity)
-  - [避免神學偏見（Avoiding Theological Bias）](#避免神學偏見avoiding-theological-bias)
-- [Lesson 5: 聖經翻譯的議題 (Various Issues in Hermeneutics)](#lesson-5-聖經翻譯的議題-various-issues-in-hermeneutics)
-  - [聖經翻譯的動態性與必要性](#聖經翻譯的動態性與必要性)
-  - [聖經無誤論與翻譯的精確度](#聖經無誤論與翻譯的精確度)
-  - [翻譯哲學：逐字翻譯與意譯](#翻譯哲學逐字翻譯與意譯)
-  - [譯本的用途與委員會制度](#譯本的用途與委員會制度)
-  - [聖經註腳與研讀本的潛在風險](#聖經註腳與研讀本的潛在風險)
-  - [案例分析：加拉太書 3:23-28](#案例分析加拉太書-323-28)
+  - [早期譯本的發展](#早期譯本的發展)
+    - [1. 約翰·威克里夫（John Wycliffe）](#1-約翰威克里夫john-wycliffe)
+    - [2. 威廉·廷代爾（William Tyndale）](#2-威廉廷代爾william-tyndale)
+    - [3. 邁爾斯·科弗代爾（Miles Coverdale）](#3-邁爾斯科弗代爾miles-coverdale)
+- [Lesson 2: 早期英文聖經譯本的發展 (Early Beginnings (Part 2))](#lesson-2-早期英文聖經譯本的發展-early-beginnings-part-2)
+  - [丁道爾的傳承：馬太聖經與塔弗納聖經](#丁道爾的傳承馬太聖經與塔弗納聖經)
+    - [湯瑪斯·馬太聖經 (Thomas Matthew Bible)](#湯瑪斯馬太聖經-thomas-matthew-bible)
+    - [理查·塔弗納 (Richard Taverner)](#理查塔弗納-richard-taverner)
+  - [大聖經 (The Great Bible) 與權威的建立](#大聖經-the-great-bible-與權威的建立)
+  - [歷史的轉折：瑪麗一世與伊莉莎白一世](#歷史的轉折瑪麗一世與伊莉莎白一世)
+  - [日內瓦聖經 (Geneva Bible) 與分節的起源](#日內瓦聖經-geneva-bible-與分節的起源)
+  - [欽定本 (King James Version, KJV)](#欽定本-king-james-version-kjv)
+  - [杜埃-蘭斯譯本 (Douay-Rheims Version)](#杜埃-蘭斯譯本-douay-rheims-version)
+  - [結語：現代譯本的氾濫與反思](#結語現代譯本的氾濫與反思)
+- [Lesson 3: 釋經學議題（上） (Hermeneutical Issues (Part 1))](#lesson-3-釋經學議題上-hermeneutical-issues-part-1)
+  - [翻譯的哲學：語言與文化的鴻溝](#翻譯的哲學語言與文化的鴻溝)
+    - [文化情境的實例：海德堡的學校制度](#文化情境的實例海德堡的學校制度)
+  - [聖經中的文化翻譯難題：約瑟與馬利亞的關係](#聖經中的文化翻譯難題約瑟與馬利亞的關係)
+  - [翻譯的基礎：最佳手稿的重要性](#翻譯的基礎最佳手稿的重要性)
+    - [伊拉斯謨（Erasmus）與《公認經文》（Textus Receptus）](#伊拉斯謨erasmus與公認經文textus-receptus)
+    - [現代文本批判的進展](#現代文本批判的進展)
+    - [牧者的責任](#牧者的責任)
+- [Lesson 4: 釋經學問題（二）：聖經翻譯的原則 (Hermeneutical Issues (Part 2))](#lesson-4-釋經學問題二聖經翻譯的原則-hermeneutical-issues-part-2)
+  - [一、 追求準確性 (Be Accurate)](#一-追求準確性-be-accurate)
+  - [二、 追求可理解性 (Be Understandable)](#二-追求可理解性-be-understandable)
+  - [三、 追求當代性 (Be Contemporary)](#三-追求當代性-be-contemporary)
+  - [四、 追求普世性 (Be Universal)](#四-追求普世性-be-universal)
+  - [五、 追求莊重性 (Be Dignified)](#五-追求莊重性-be-dignified)
+  - [六、 避免神學偏見 (Avoid a Theological Bias)](#六-避免神學偏見-avoid-a-theological-bias)
+- [Lesson 5: 釋經學中的各類議題 (Various Issues in Hermeneutics)](#lesson-5-釋經學中的各類議題-various-issues-in-hermeneutics)
+  - [翻譯的動態性與「最終譯本」的迷思](#翻譯的動態性與最終譯本的迷思)
+  - [翻譯哲學：字對字與意對意](#翻譯哲學字對字與意對意)
+  - [性別語言與翻譯的陷阱](#性別語言與翻譯的陷阱)
+  - [委員會翻譯與個人翻譯的權衡](#委員會翻譯與個人翻譯的權衡)
+  - [實例分析：加拉太書 3:23-28 的翻譯差異](#實例分析加拉太書-323-28-的翻譯差異)
 - [Lesson 6: 詮釋學導論（上） (Introduction to Hermeneutics (Part 1))](#lesson-6-詮釋學導論上-introduction-to-hermeneutics-part-1)
-  - [詮釋學的定義與詞源](#詮釋學的定義與詞源)
-  - [溝通的三大要素](#溝通的三大要素)
-  - [意義的決定權：三種主要觀點](#意義的決定權三種主要觀點)
-    - [1. 文本中心論（The Autonomy of the Text）](#1-文本中心論the-autonomy-of-the-text)
-    - [2. 讀者中心論（Reader-Response Approach）](#2-讀者中心論reader-response-approach)
-    - [3. 作者中心論（Author-Oriented Meaning）](#3-作者中心論author-oriented-meaning)
-  - [對「作者意圖」的常見反駁與回應](#對作者意圖的常見反駁與回應)
-  - [總結](#總結)
-- [Lesson 7: 釋經學導論（第二部分） (Introduction to Hermeneutics Part 2)](#lesson-7-釋經學導論第二部分-introduction-to-hermeneutics-part-2)
-  - [作者的角色與意義的恆定性](#作者的角色與意義的恆定性)
-  - [意義的「模式」與「含義」 (Implications)](#意義的模式與含義-implications)
-  - [溝通的隱含意義與作者意圖](#溝通的隱含意義與作者意圖)
-  - [關於「字面意義」 (Literal Meaning)](#關於字面意義-literal-meaning)
-  - [文本的角色：可分享性 (Share-ability)](#文本的角色可分享性-share-ability)
-  - [讀者的角色：意義、重要性與應用](#讀者的角色意義重要性與應用)
-- [Lesson 8: 詮釋學的詞彙（上） (Vocabulary for Interpretation (Part 1))](#lesson-8-詮釋學的詞彙上-vocabulary-for-interpretation-part-1)
-  - [意義（Meaning）的定義與核心要素](#意義meaning的定義與核心要素)
-    - [為什麼要強調「有意識地」（Consciously）？](#為什麼要強調有意識地consciously)
-    - [作者、文本與讀者的三位一體](#作者文本與讀者的三位一體)
-  - [含義（Implications）：定義與範疇](#含義implications定義與範疇)
-    - [區分「意義」與「含義」](#區分意義與含義)
-    - [實例一：加拉太書 5:2 與馬丁路德的應用](#實例一加拉太書-52-與馬丁路德的應用)
-    - [實例二：申命記 22:8（屋頂護欄）](#實例二申命記-228屋頂護欄)
-    - [實例三：哥林多前書 16:20（聖潔的親嘴）](#實例三哥林多前書-1620聖潔的親嘴)
-  - [關於「含義」的關鍵原則：作者的控制權](#關於含義的關鍵原則作者的控制權)
-    - [橡樹的例子](#橡樹的例子)
-    - [敘事文體的應用](#敘事文體的應用)
-  - [結論：聖靈的引導與個人應用](#結論聖靈的引導與個人應用)
+  - [詮釋學（Hermeneutics）的定義與詞源](#詮釋學hermeneutics的定義與詞源)
+  - [溝通的三大要素：作者、文本、讀者](#溝通的三大要素作者文本讀者)
+    - [1. 文本決定論（The Text as Determiner）](#1-文本決定論the-text-as-determiner)
+    - [2. 讀者決定論（The Reader as Determiner）](#2-讀者決定論the-reader-as-determiner)
+    - [3. 作者決定論（The Author as Determiner）](#3-作者決定論the-author-as-determiner)
+  - [對作者意圖論的常見反駁與回應](#對作者意圖論的常見反駁與回應)
+  - [結論：為什麼這很重要？](#結論為什麼這很重要)
+- [Lesson 7: 詮釋學導論（二） (Introduction to Hermeneutics (Part 2))](#lesson-7-詮釋學導論二-introduction-to-hermeneutics-part-2)
+  - [溝通中的作者角色：意義的鎖定](#溝通中的作者角色意義的鎖定)
+  - [蘊含（Implications）與原則（Pattern of Meaning）](#蘊含implications與原則pattern-of-meaning)
+    - [模式的辨識（Pattern of Meaning）](#模式的辨識pattern-of-meaning)
+    - [耶穌的「反論」（Antithesis）](#耶穌的反論antithesis)
+  - [關於「神是作者」的迷思](#關於神是作者的迷思)
+  - [文本的角色：共享性（Share-ability）](#文本的角色共享性share-ability)
+  - [區分「主題內容」與「文本意義」](#區分主題內容與文本意義)
+  - [讀者的角色：意義、蘊含與重要性](#讀者的角色意義蘊含與重要性)
+- [第八課：釋經學詞彙（上） (Lesson 8: Vocabulary for Interpretation (Part 1))](#第八課釋經學詞彙上-lesson-8-vocabulary-for-interpretation-part-1)
+  - [意義的定義：作者的意志與符號](#意義的定義作者的意志與符號)
+  - [含義（Implications）：意義的延伸](#含義implications意義的延伸)
+    - [案例分析：加拉太書 5:2 與馬丁路德](#案例分析加拉太書-52-與馬丁路德)
+    - [案例分析：申命記 22:8 與現代安全責任](#案例分析申命記-228-與現代安全責任)
+  - [處理文化差異：哥林多前書 16:20 的「聖潔的親嘴」](#處理文化差異哥林多前書-1620-的聖潔的親嘴)
+  - [關於崇拜的原則：詩篇 150 篇](#關於崇拜的原則詩篇-150-篇)
+  - [總結：作者的控制權](#總結作者的控制權)
 - [Lesson 9: 詮釋學詞彙（下） (Vocabulary for Interpretation (Part 2))](#lesson-9-詮釋學詞彙下-vocabulary-for-interpretation-part-2)
-  - [意義 (Meaning)、含義 (Implications) 與重要性 (Significance)](#意義-meaning含義-implications-與重要性-significance)
-  - [主題 (Subject Matter) 與描述 (Description) vs. 處方 (Prescription)](#主題-subject-matter-與描述-description-vs-處方-prescription)
-  - [理解 (Understanding) 與解釋 (Interpretation)](#理解-understanding-與解釋-interpretation)
+  - [意義 (Meaning) 與意涵 (Implications) 的區分](#意義-meaning-與意涵-implications-的區分)
+  - [主旨 (Subject Matter) 與描述 (Description) vs. 處方 (Prescription)](#主旨-subject-matter-與描述-description-vs-處方-prescription)
+  - [理解 (Understanding) 與詮釋 (Interpretation)](#理解-understanding-與詮釋-interpretation)
   - [心理活動 (Mental Acts) 與 C.S. Lewis 的警示](#心理活動-mental-acts-與-cs-lewis-的警示)
   - [語言規範 (Norms of Language) 與話語規範 (Norms of Utterance)](#語言規範-norms-of-language-與話語規範-norms-of-utterance)
-  - [結論：關於「意義」的定義](#結論關於意義的定義)
+  - [關於意義的定義：與學者的對話](#關於意義的定義與學者的對話)
 - [Lesson 10: 聖靈的角色（上） (Role of the Holy Spirit (Part 1))](#lesson-10-聖靈的角色上-role-of-the-holy-spirit-part-1)
-  - [釋經學中聖靈角色的核心爭議](#釋經學中聖靈角色的核心爭議)
-  - [區分「正確的心理掌握」與「屬靈的認信」](#區分正確的心理掌握與屬靈的認信)
-  - [重新審視哥林多前書 2:14](#重新審視哥林多前書-214)
-  - [意義（Meaning）與重要性（Significance）的區別](#意義meaning與重要性significance的區別)
-  - [結論：聖靈的必要性](#結論聖靈的必要性)
+  - [釋經學中的聖靈：我們遺漏了什麼？](#釋經學中的聖靈我們遺漏了什麼)
+  - [聖靈的啟示與確信：客觀與主觀的平衡](#聖靈的啟示與確信客觀與主觀的平衡)
+  - [警惕：當「聖靈的啟示」被濫用](#警惕當聖靈的啟示被濫用)
+  - [非信徒能理解聖經嗎？](#非信徒能理解聖經嗎)
+  - [重新定義「理解」：哥林多前書 2:14 的啟示](#重新定義理解哥林多前書-214-的啟示)
+  - [結論：意義與重要性的區別](#結論意義與重要性的區別)
 - [Lesson 11: 聖靈的角色（下） (Role of the Holy Spirit (Part 2))](#lesson-11-聖靈的角色下-role-of-the-holy-spirit-part-2)
-  - [罪對釋經的影響：雙向的障礙](#罪對釋經的影響雙向的障礙)
-  - [區分「理解」與「意義」：認知與應用](#區分理解與意義認知與應用)
-  - [聖靈的「光照（Illumination）」與「知罪（Conviction）」](#聖靈的光照illumination與知罪conviction)
-  - [實例分析：約翰福音 3:16 的個人化](#實例分析約翰福音-316-的個人化)
-  - [總結：釋經中的聖靈論](#總結釋經中的聖靈論)
-- [Lesson 12: 聖經中的神蹟 (The Miraculous in Scripture)](#lesson-12-聖經中的神蹟-the-miraculous-in-scripture)
-  - [一、 對待神蹟的三種進路](#一-對待神蹟的三種進路)
+  - [聖靈與釋經：認知與確信的區別](#聖靈與釋經認知與確信的區別)
+  - [聖靈的工作：從一般意義到個人應用](#聖靈的工作從一般意義到個人應用)
+  - [關於「啟示（Illumination）」的神學反思](#關於啟示illumination的神學反思)
+  - [聖經學者的觀點與我們的立場](#聖經學者的觀點與我們的立場)
+  - [個人的見證：約翰福音 3:16 的光照](#個人的見證約翰福音-316-的光照)
+- [第12課：聖經中的神蹟 (Lesson 12: The Miraculous in Scripture)](#第12課聖經中的神蹟-lesson-12-the-miraculous-in-scripture)
+  - [三種解經進路：面對神蹟的態度](#三種解經進路面對神蹟的態度)
     - [1. 超自然進路 (The Supernatural Approach)](#1-超自然進路-the-supernatural-approach)
     - [2. 理性主義進路 (The Rationalist Approach)](#2-理性主義進路-the-rationalist-approach)
     - [3. 神話進路 (The Mythical Approach)](#3-神話進路-the-mythical-approach)
-  - [二、 預設（Presuppositions）與知識論的衝突](#二-預設presuppositions與知識論的衝突)
-    - [1. Borowitz 的洞見： epistemological disagreement](#1-borowitz-的洞見-epistemological-disagreement)
-    - [2. Bultmann 與歷史批判法](#2-bultmann-與歷史批判法)
-  - [總結](#總結-1)
-- [Lesson 13: 體裁的含義 (Implications of Genre)](#lesson-13-體裁的含義-implications-of-genre)
-  - [詮釋學的基礎：G.B. Caird 與意義的區分](#詮釋學的基礎gb-caird-與意義的區分)
-    - [避免「意圖謬誤」（Intentional Fallacy）](#避免意圖謬誤intentional-fallacy)
-  - [箴言的文體規則：普遍真理與例外](#箴言的文體規則普遍真理與例外)
-    - [箴言的定義](#箴言的定義)
-    - [箴言的普遍性與例外](#箴言的普遍性與例外)
-  - [約伯記：箴言被誤用的反面教材](#約伯記箴言被誤用的反面教材)
+  - [認識預設（Presuppositions）：認識論的衝突](#認識預設presuppositions認識論的衝突)
+    - [尤金·波羅維茲（Eugene B. Borowitz）的洞見](#尤金波羅維茲eugene-b-borowitz的洞見)
+    - [布特曼的「歷史方法」與我們的回應](#布特曼的歷史方法與我們的回應)
+- [Lesson 13: 文體對釋經的含義 (Implications of Genre)](#lesson-13-文體對釋經的含義-implications-of-genre)
+  - [G.B. Caird 與意義的維度](#gb-caird-與意義的維度)
+  - [區分「語言的公共意義」與「言談的用戶意義」](#區分語言的公共意義與言談的用戶意義)
+  - [箴言的本質：一般性真理而非絕對律法](#箴言的本質一般性真理而非絕對律法)
+  - [箴言的應用：如何避免「約伯的三友」式的謬誤](#箴言的應用如何避免約伯的三友式的謬誤)
 - [Lesson 14: 先知書釋經學（上） (Hermeneutics for Prophecy (Part 1))](#lesson-14-先知書釋經學上-hermeneutics-for-prophecy-part-1)
   - [一、 審判預言的釋經原則](#一-審判預言的釋經原則)
-    - [A. 審判預言的隱含條件](#a-審判預言的隱含條件)
-    - [B. 聖經案例分析](#b-聖經案例分析)
-    - [C. 釋經學觀點：預測 vs. 警告](#c-釋經學觀點預測-vs-警告)
-  - [二、 先知預言的語言：宇宙性術語](#二-先知預言的語言宇宙性術語)
-    - [A. 詩歌語言的象徵性](#a-詩歌語言的象徵性)
-    - [B. 聖經案例與上下文脈絡](#b-聖經案例與上下文脈絡)
-    - [C. 釋經總結](#c-釋經總結)
+    - [審判預言的隱含條件](#審判預言的隱含條件)
+    - [聖經中的明確教導](#聖經中的明確教導)
+  - [二、 先知語言的特徵：宇宙性術語](#二-先知語言的特徵宇宙性術語)
+    - [詩歌語言與象徵意義](#詩歌語言與象徵意義)
+    - [聖經中的一致性用法](#聖經中的一致性用法)
+    - [總結：如何解讀](#總結如何解讀)
 - [Lesson 15: 預言的釋經學（下） (Hermeneutics for Prophecy (Part 2))](#lesson-15-預言的釋經學下-hermeneutics-for-prophecy-part-2)
-  - [預言中的象徵語言與「字面意義」](#預言中的象徵語言與字面意義)
-  - [以賽亞書中的和平異象：多重意象的統一性](#以賽亞書中的和平異象多重意象的統一性)
+  - [預言中的「宇宙性語言」與文學體裁](#預言中的宇宙性語言與文學體裁)
+  - [以賽亞書中的預言意象：多重描繪，同一真理](#以賽亞書中的預言意象多重描繪同一真理)
   - [啟示錄的象徵與安全感](#啟示錄的象徵與安全感)
-  - [使徒行傳與路加福音中的「宇宙性語言」](#使徒行傳與路加福音中的宇宙性語言)
-  - [馬太福音與何西阿書：預言的「含義延伸」（Implication）](#馬太福音與何西阿書預言的含義延伸implication)
-- [Lesson 16: 先知預言的釋經學（第三部分） (Hermeneutics for Prophecy (Part 3))](#lesson-16-先知預言的釋經學第三部分-hermeneutics-for-prophecy-part-3)
+  - [使徒行傳與路加福音：預言的應驗](#使徒行傳與路加福音預言的應驗)
+  - [結論：從「寓意」到「含義」](#結論從寓意到含義)
+- [Lesson 16: 預言的釋經學（第三部分） (Hermeneutics for Prophecy (Part 3))](#lesson-16-預言的釋經學第三部分-hermeneutics-for-prophecy-part-3)
   - [一、 關於「更豐滿的意義」（Sensus Plenior）](#一-關於更豐滿的意義sensus-plenior)
-  - [二、 先知預言中「宇宙性語言」的性質](#二-先知預言中宇宙性語言的性質)
-  - [三、 先知預言與《馬可福音》第 13 章的解讀](#三-先知預言與馬可福音第-13-章的解讀)
+  - [二、 預言為何使用此類語言？](#二-預言為何使用此類語言)
+  - [三、 預言與馬可福音第 13 章的初步討論](#三-預言與馬可福音第-13-章的初步討論)
     - [A. 馬可福音 13:7-12](#a-馬可福音-137-12)
     - [B. 馬可福音 13:14-23](#b-馬可福音-1314-23)
     - [C. 馬可福音 13:24-27](#c-馬可福音-1324-27)
-    - [D. 馬可福音 13:28-31 與總結](#d-馬可福音-1328-31-與總結)
-  - [四、 釋經術語的釐清](#四-釋經術語的釐清)
+    - [D. 馬可福音 13:28-31](#d-馬可福音-1328-31)
+    - [E. 總結與反思](#e-總結與反思)
+  - [四、 術語定義練習](#四-術語定義練習)
 - [Lesson 17: 詩歌釋經學（上） (Hermeneutics for Poetry (Part 1))](#lesson-17-詩歌釋經學上-hermeneutics-for-poetry-part-1)
-  - [一、 散文與詩歌的區別及舊約實例](#一-散文與詩歌的區別及舊約實例)
-    - [1. 判斷文體的線索](#1-判斷文體的線索)
-    - [2. 士師記 4 章與 5 章的對照](#2-士師記-4-章與-5-章的對照)
-  - [二、 詩歌中的「詩意許可」與神學表達](#二-詩歌中的詩意許可與神學表達)
-    - [1. 詩意許可（Poetic License）的必要性](#1-詩意許可poetic-license的必要性)
-    - [2. 出埃及記 14 章與 15 章](#2-出埃及記-14-章與-15-章)
-    - [3. 新約中的詩歌：歌羅西書 1:15-20](#3-新約中的詩歌歌羅西書-115-20)
-    - [4. 哥林多前書 15:22 與羅馬書 5:18](#4-哥林多前書-1522-與羅馬書-518)
-  - [三、 詩歌的文學力量：詩篇 18 篇與撒母耳記下 1 章](#三-詩歌的文學力量詩篇-18-篇與撒母耳記下-1-章)
-    - [1. 詩篇 18 篇：大衛的讚美](#1-詩篇-18-篇大衛的讚美)
-    - [2. 撒母耳記下 1 章：哀歌](#2-撒母耳記下-1-章哀歌)
-  - [總結](#總結-2)
-- [Lesson 18: 詩歌釋經學（下） (Hermeneutics for Poetry (Part 2))](#lesson-18-詩歌釋經學下-hermeneutics-for-poetry-part-2)
-  - [一、 聖經中的詩歌類型](#一-聖經中的詩歌類型)
-    - [A. 同義平行體 (Synonymous Parallelism)](#a-同義平行體-synonymous-parallelism)
-    - [B. 反義平行體 (Antithetic Parallelism)](#b-反義平行體-antithetic-parallelism)
-    - [C. 階梯式/漸進式平行體 (Step/Climactic Parallelism)](#c-階梯式漸進式平行體-stepclimactic-parallelism)
-    - [D. 交錯平行體 (Chiasmic Parallelism)](#d-交錯平行體-chiasmic-parallelism)
-  - [二、 為何使用詩歌語言？](#二-為何使用詩歌語言)
-  - [三、 慣用語 (Idioms) 的釋經](#三-慣用語-idioms-的釋經)
-    - [A. 慣用語的檢測與原則](#a-慣用語的檢測與原則)
-    - [B. 關鍵範例：「愛與恨」](#b-關鍵範例愛與恨)
-    - [C. 釋經建議](#c-釋經建議)
-- [Lesson 19: 誇張法的釋經學（上） (Hermeneutics for Exaggeration (Part 1))](#lesson-19-誇張法的釋經學上-hermeneutics-for-exaggeration-part-1)
-  - [導論：理解「誇張法」的必要性](#導論理解誇張法的必要性)
-  - [一、 如何辨識耶穌教導中的誇張法](#一-如何辨識耶穌教導中的誇張法)
-    - [A. 字面上的不可能（Hyperbolic - literally impossible）](#a-字面上的不可能hyperbolic-literally-impossible)
-    - [B. 與耶穌的其他教導衝突](#b-與耶穌的其他教導衝突)
-    - [C. 與耶穌的行為與行動衝突](#c-與耶穌的行為與行動衝突)
-    - [D. 與舊約聖經的教導衝突](#d-與舊約聖經的教導衝突)
-    - [E. 與新約聖經的教導衝突](#e-與新約聖經的教導衝突)
-- [Lesson 20: 誇張修辭的釋經學（下） (Hermeneutics for Exaggeration (Part 2))](#lesson-20-誇張修辭的釋經學下-hermeneutics-for-exaggeration-part-2)
-  - [一、 識別耶穌教導中的誇張修辭（續）](#一-識別耶穌教導中的誇張修辭續)
+  - [散文與詩歌的區別](#散文與詩歌的區別)
+  - [舊約與新約中的詩歌案例](#舊約與新約中的詩歌案例)
+    - [1. 士師記第 4 章與第 5 章：敘事與詩歌的對照](#1-士師記第-4-章與第-5-章敘事與詩歌的對照)
+    - [2. 出埃及記第 14 章與第 15 章：紅海的審判](#2-出埃及記第-14-章與第-15-章紅海的審判)
+    - [3. 歌羅西書第 1 章：詩歌節奏與神學表達](#3-歌羅西書第-1-章詩歌節奏與神學表達)
+    - [4. 哥林多前書 15:22 與羅馬書第 5 章：對稱的平衡](#4-哥林多前書-1522-與羅馬書第-5-章對稱的平衡)
+    - [5. 詩篇第 18 章：詩意的讚美](#5-詩篇第-18-章詩意的讚美)
+    - [6. 撒母耳記下第 1 章：英雄的輓歌](#6-撒母耳記下第-1-章英雄的輓歌)
+  - [總結：如何運用詩意許可](#總結如何運用詩意許可)
+- [Lesson 18: 聖經詩歌釋經學（下） (Hermeneutics for Poetry (Part 2))](#lesson-18-聖經詩歌釋經學下-hermeneutics-for-poetry-part-2)
+  - [一、 聖經詩歌的四種平行體裁](#一-聖經詩歌的四種平行體裁)
+    - [A. 同義平行法（Synonymous Parallelism）](#a-同義平行法synonymous-parallelism)
+    - [B. 反義平行法（Antithetic Parallelism）](#b-反義平行法antithetic-parallelism)
+    - [C. 漸進/頂真平行法（Step/Climactic Parallelism）](#c-漸進頂真平行法stepclimactic-parallelism)
+    - [D. 交錯平行法（Chiasmic Parallelism）](#d-交錯平行法chiasmic-parallelism)
+  - [二、 為何耶穌使用詩歌體裁？](#二-為何耶穌使用詩歌體裁)
+  - [三、 慣用語（Idioms）的釋經原則](#三-慣用語idioms的釋經原則)
+    - [1. 如何偵測慣用語？](#1-如何偵測慣用語)
+    - [2. 關於「愛與恨」的慣用語](#2-關於愛與恨的慣用語)
+    - [3. 釋經者的責任](#3-釋經者的責任)
+- [Lesson 19: 誇張修辭的釋經學（上） (Hermeneutics for Exaggeration (Part 1))](#lesson-19-誇張修辭的釋經學上-hermeneutics-for-exaggeration-part-1)
+  - [一、 辨識耶穌教導中的誇張修辭](#一-辨識耶穌教導中的誇張修辭)
+    - [A. 誇張法：字面上的不可能 (Hyperbolic - literally impossible)](#a-誇張法字面上的不可能-hyperbolic-literally-impossible)
+    - [B. 與耶穌的其他教導衝突 (Conflicts with what Jesus says elsewhere)](#b-與耶穌的其他教導衝突-conflicts-with-what-jesus-says-elsewhere)
+    - [C. 與耶穌的行為與舉止衝突 (Conflicts with Jesus' behavior and actions elsewhere)](#c-與耶穌的行為與舉止衝突-conflicts-with-jesus-behavior-and-actions-elsewhere)
+    - [D. 與舊約聖經的教導衝突 (Conflicts with teachings of the Old Testament)](#d-與舊約聖經的教導衝突-conflicts-with-teachings-of-the-old-testament)
+    - [E. 與新約聖經的教導衝突 (Conflicts with teachings of the New Testament)](#e-與新約聖經的教導衝突-conflicts-with-teachings-of-the-new-testament)
+- [Lesson 20: 誇張法的釋經學（下） (Hermeneutics for Exaggeration (Part 2))](#lesson-20-誇張法的釋經學下-hermeneutics-for-exaggeration-part-2)
+  - [一、 識別耶穌教導中的誇張法（續）](#一-識別耶穌教導中的誇張法續)
     - [A. 由福音書作者以非字面方式詮釋](#a-由福音書作者以非字面方式詮釋)
     - [B. 在實踐中並非總是字面實現](#b-在實踐中並非總是字面實現)
-    - [C. 字面實現無法達成預期目標](#c-字面實現無法達成預期目標)
-    - [D. 語句使用了易於誇張的特定文學形式](#d-語句使用了易於誇張的特定文學形式)
+    - [C. 字面實現無法達到預期目標](#c-字面實現無法達到預期目標)
+    - [D. 經文使用了易於誇張的特定形式](#d-經文使用了易於誇張的特定形式)
     - [E. 使用了不再具備字面意義的慣用語](#e-使用了不再具備字面意義的慣用語)
-    - [F. 使用了全包容與普遍性的語言](#f-使用了全包容與普遍性的語言)
-  - [二、 為何使用誇張修辭？](#二-為何使用誇張修辭)
+    - [F. 使用了全稱與普遍性語言](#f-使用了全稱與普遍性語言)
+  - [二、 為什麼要使用誇張法？](#二-為什麼要使用誇張法)
 - [Lesson 21: 比喻的釋經學（上） (Hermeneutics for Parables (Part 1))](#lesson-21-比喻的釋經學上-hermeneutics-for-parables-part-1)
-  - [比喻的定義與本質 (Introduction and Definition)](#比喻的定義與本質-introduction-and-definition)
-  - [歷史中的比喻詮釋 (Historical Interpretations)](#歷史中的比喻詮釋-historical-interpretations)
-    - [早期教會與寓意解經的興起](#早期教會與寓意解經的興起)
-    - [中世紀的四重解經法](#中世紀的四重解經法)
-    - [宗教改革時期的轉折](#宗教改革時期的轉折)
-  - [釋經原則的反思 (Reflections on Hermeneutics)](#釋經原則的反思-reflections-on-hermeneutics)
+  - [引言：比喻的定義與本質](#引言比喻的定義與本質)
+  - [歷史詮釋的演變：從寓意解經到改革宗的轉向](#歷史詮釋的演變從寓意解經到改革宗的轉向)
+    - [1. 早期教會的寓意解經（Allegorical Interpretation）](#1-早期教會的寓意解經allegorical-interpretation)
+    - [2. 中世紀的發展：四重意義法](#2-中世紀的發展四重意義法)
+    - [3. 宗教改革時期的突破](#3-宗教改革時期的突破)
+  - [結語：釋經者的責任](#結語釋經者的責任)
 - [Lesson 22: 比喻的釋經學（下） (Hermeneutics for Parables (Part 2))](#lesson-22-比喻的釋經學下-hermeneutics-for-parables-part-2)
   - [一、 歷史背景：阿道夫·尤利赫（Adolf Jülicher）的貢獻](#一-歷史背景阿道夫尤利赫adolf-jülicher的貢獻)
-  - [二、 詮釋比喻的四項原則](#二-詮釋比喻的四項原則)
-    - [1. 比喻通常只教導一個核心重點](#1-比喻通常只教導一個核心重點)
-    - [2. 設身處地理解第一世紀的聽眾](#2-設身處地理解第一世紀的聽眾)
-    - [3. 考量福音書作者的寫作意圖（編修批判）](#3-考量福音書作者的寫作意圖編修批判)
-    - [4. 應用於當下的處境](#4-應用於當下的處境)
-  - [三、 案例分析：好撒馬利亞人的比喻](#三-案例分析好撒馬利亞人的比喻)
-    - [拒絕寓意解經的陷阱](#拒絕寓意解經的陷阱)
-    - [第一世紀聽眾的視角](#第一世紀聽眾的視角)
-    - [現代應用：賦予比喻生命力](#現代應用賦予比喻生命力)
-    - [結論](#結論)
+  - [二、 比喻釋經的四大原則](#二-比喻釋經的四大原則)
+    - [1. 比喻通常只教導一個主要觀點](#1-比喻通常只教導一個主要觀點)
+    - [2. 設身處地：回到第一世紀的聽眾視角](#2-設身處地回到第一世紀的聽眾視角)
+    - [3. 考量福音書作者的意圖（Redaction Criticism）](#3-考量福音書作者的意圖redaction-criticism)
+    - [4. 應用：神要我做什麼？](#4-應用神要我做什麼)
+  - [三、 實踐應用：以「好撒馬利亞人」為例](#三-實踐應用以好撒馬利亞人為例)
+    - [挑戰傳統的寓意解經](#挑戰傳統的寓意解經)
+    - [感受第一世紀的文化衝擊](#感受第一世紀的文化衝擊)
+    - [現代應用：賦予比喻生命](#現代應用賦予比喻生命)
 - [Lesson 23: 比喻的釋經學（第三部分） (Hermeneutics for Parables (Part 3))](#lesson-23-比喻的釋經學第三部分-hermeneutics-for-parables-part-3)
-  - [比喻釋經的四項核心原則](#比喻釋經的四項核心原則)
-  - [比喻的討論與分析](#比喻的討論與分析)
-    - [A. 藏寶的比喻（馬太福音 13:44）](#a-藏寶的比喻馬太福音-1344)
+  - [一、 比喻的具體應用與分析](#一-比喻的具體應用與分析)
+    - [A. 隱藏的寶藏（馬太福音 13:44）](#a-隱藏的寶藏馬太福音-1344)
     - [B. 十個童女的比喻（馬太福音 25:1-13）](#b-十個童女的比喻馬太福音-251-13)
     - [C. 不義管家的比喻（路加福音 16:1-8）](#c-不義管家的比喻路加福音-161-8)
-    - [D. 迷羊的比喻（路加福音 15:3-7 與 馬太福音 18:12-14）](#d-迷羊的比喻路加福音-153-7-與-馬太福音-1812-14)
-  - [釋經學與無誤論的省思](#釋經學與無誤論的省思)
-- [Lesson 24: 比喻的釋經學（四） (Hermeneutics for Parables (Part 4))](#lesson-24-比喻的釋經學四-hermeneutics-for-parables-part-4)
+    - [D. 迷失的羊（路加福音 15:3-7 與 馬太福音 18:12-14）](#d-迷失的羊路加福音-153-7-與-馬太福音-1812-14)
+  - [二、 關於「耶穌的原話」與「聖經無誤」的省思](#二-關於耶穌的原話與聖經無誤的省思)
+- [Lesson 24: 寓言的釋經學（第四部分） (Hermeneutics for Parables (Part 4))](#lesson-24-寓言的釋經學第四部分-hermeneutics-for-parables-part-4)
   - [葡萄園工人的比喻（馬太福音 20:1-16）](#葡萄園工人的比喻馬太福音-201-16)
-    - [詮釋比喻的子法則（Sub-rules for arriving at the main point）](#詮釋比喻的子法則sub-rules-for-arriving-at-the-main-point)
-    - [比喻的應用與神學意涵](#比喻的應用與神學意涵)
-  - [浪子回頭的比喻（路加福音 15:11-32）](#浪子回頭的比喻路加福音-1511-32)
-    - [結構與焦點分析](#結構與焦點分析)
-    - [寓意解經的危險](#寓意解經的危險)
-    - [故事的警示](#故事的警示)
+    - [寓意解經（Allegorical Interpretation）的陷阱](#寓意解經allegorical-interpretation的陷阱)
+  - [詮釋比喻的次級規則（Sub-rules）](#詮釋比喻的次級規則sub-rules)
+    - [1. 確定主要角色](#1-確定主要角色)
+    - [2. 結尾強調原則（Rule of End Stress）](#2-結尾強調原則rule-of-end-stress)
+    - [3. 誰佔據了最多的篇幅（What gets the most press）](#3-誰佔據了最多的篇幅what-gets-the-most-press)
+  - [應用：誰是那個抱怨的工人？](#應用誰是那個抱怨的工人)
+  - [浪子回頭的比喻（The Prodigal Son）](#浪子回頭的比喻the-prodigal-son)
+    - [父親與大兒子的衝突](#父親與大兒子的衝突)
+    - [關於「寓意解經」的再次警示](#關於寓意解經的再次警示)
 - [Lesson 25: 比喻中的寓言（上） (Allegory in Parables (Part 1))](#lesson-25-比喻中的寓言上-allegory-in-parables-part-1)
-  - [比喻與寓言的區別：重申原則](#比喻與寓言的區別重申原則)
-  - [偵測寓言的兩大核心規則](#偵測寓言的兩大核心規則)
-  - [案例一：園戶的比喻（The Parable of the Tenants, 馬可福音 12:1-12）](#案例一園戶的比喻the-parable-of-the-tenants-馬可福音-121-12)
-    - [細節的象徵意義](#細節的象徵意義)
-  - [案例二：大筵席的比喻（The Parable of the Great Banquet, 路加福音 14:15-24）](#案例二大筵席的比喻the-parable-of-the-great-banquet-路加福音-1415-24)
-    - [寓言的社會與救贖背景](#寓言的社會與救贖背景)
-  - [結論：何時該停止過度解讀？](#結論何時該停止過度解讀)
+  - [回顧：比喻解釋的基礎原則](#回顧比喻解釋的基礎原則)
+  - [如何偵測比喻中的寓言成分](#如何偵測比喻中的寓言成分)
+    - [實例一：園戶的比喻（The Parable of the Tenants, Mark 12:1-12）](#實例一園戶的比喻the-parable-of-the-tenants-mark-121-12)
+    - [實例二：大筵席的比喻（The Parable of the Great Banquet, Luke 14:15-24）](#實例二大筵席的比喻the-parable-of-the-great-banquet-luke-1415-24)
+  - [總結](#總結)
 - [Lesson 26: 比喻中的寓意（下） (Allegory in Parables (Part 2))](#lesson-26-比喻中的寓意下-allegory-in-parables-part-2)
-  - [一、關於比喻的最終詮釋性討論](#一關於比喻的最終詮釋性討論)
-    - [A. 最後的審判（馬太福音 25:31-46）](#a-最後的審判馬太福音-2531-46)
-      - [1. 關鍵詞的定義：誰是「弟兄」？](#1-關鍵詞的定義誰是弟兄)
-      - [2. 歷史背景與應用](#2-歷史背景與應用)
-    - [B. 財主與拉撒路（路加福音 16:19-31）](#b-財主與拉撒路路加福音-1619-31)
-      - [1. 形式批判與文學特徵](#1-形式批判與文學特徵)
-      - [2. 比喻的核心教訓：對神話語的順服](#2-比喻的核心教訓對神話語的順服)
+  - [一、末日審判的比喻（馬太福音 25:31-46）](#一末日審判的比喻馬太福音-2531-46)
+    - [1. 「最小的弟兄」是誰？](#1-最小的弟兄是誰)
+    - [2. 實踐意義：對待神僕人的態度](#2-實踐意義對待神僕人的態度)
+  - [二、財主與拉撒路的比喻（路加福音 16:19-31）](#二財主與拉撒路的比喻路加福音-1619-31)
+    - [1. 為什麼這是比喻而非真實故事？](#1-為什麼這是比喻而非真實故事)
+    - [2. 比喻的核心教訓：對神話語的順服](#2-比喻的核心教訓對神話語的順服)
 - [Lesson 27: 歷史敘事的釋經學（上） (Hermeneutics for Historical Narrative (Part 1))](#lesson-27-歷史敘事的釋經學上-hermeneutics-for-historical-narrative-part-1)
-  - [歷史敘事與文體（Genre）的重要性](#歷史敘事與文體genre的重要性)
-  - [1700 年代的轉折：歷史與敘事的脫節](#1700-年代的轉折歷史與敘事的脫節)
-  - [意義的尋求：作者原意與歷史評估](#意義的尋求作者原意與歷史評估)
-  - [意義的來源：作者、文本，還是讀者？](#意義的來源作者文本還是讀者)
+  - [歷史敘事與體裁（Genre）的關鍵性](#歷史敘事與體裁genre的關鍵性)
+  - [18世紀的轉折：事實與意義的斷裂](#18世紀的轉折事實與意義的斷裂)
+  - [歷史評估與釋經的界線](#歷史評估與釋經的界線)
+  - [尋找意義的來源：作者、文本與讀者](#尋找意義的來源作者文本與讀者)
 - [Lesson 28: 歷史敘事的釋經學（下） (Hermeneutics for Historical Narrative (Part 2))](#lesson-28-歷史敘事的釋經學下-hermeneutics-for-historical-narrative-part-2)
-  - [歷史敘事中的釋經方法：意義的定位](#歷史敘事中的釋經方法意義的定位)
-    - [超自然主義者（Supernaturalists）與自然主義者（Naturalists）](#超自然主義者supernaturalists與自然主義者naturalists)
-    - [妥協論（Accommodation）與神話論（Mythical Approach）](#妥協論accommodation與神話論mythical-approach)
-  - [解讀歷史敘事的實用線索](#解讀歷史敘事的實用線索)
+  - [一、 歷史敘事的詮釋方法](#一-歷史敘事的詮釋方法)
+    - [1. 超自然主義者與自然主義者的分歧](#1-超自然主義者與自然主義者的分歧)
+  - [二、 解讀歷史敘事的關鍵線索](#二-解讀歷史敘事的關鍵線索)
     - [1. 敘事脈絡（Context）](#1-敘事脈絡context)
     - [2. 作者的評論（Authorial Comments）](#2-作者的評論authorial-comments)
-    - [3. 重複與主題陳述（Repetition and Thematic Statements）](#3-重複與主題陳述repetition-and-thematic-statements)
-  - [總結：歷史敘事的獨特性](#總結歷史敘事的獨特性)
-- [Lesson 29: 書信的釋經學（上） (Hermeneutics for Epistles (Part 1))](#lesson-29-書信的釋經學上-hermeneutics-for-epistles-part-1)
-  - [語言規範與話語規範的區別](#語言規範與話語規範的區別)
-  - [如何辨識關鍵詞](#如何辨識關鍵詞)
-  - [詞源學（Etymology）的迷思與陷阱](#詞源學etymology的迷思與陷阱)
-  - [案例研究：新約中的「酒」（Oinos）](#案例研究新約中的酒oinos)
-- [Lesson 30: 書信釋經學（下） (Hermeneutics for Epistles (Part 2))](#lesson-30-書信釋經學下-hermeneutics-for-epistles-part-2)
-  - [釋經的漏斗：從語言規範到語意脈絡](#釋經的漏斗從語言規範到語意脈絡)
-    - [希臘古典文學與早期教父](#希臘古典文學與早期教父)
-    - [七十士譯本（LXX）與聖經作者的思維](#七十士譯本lxx與聖經作者的思維)
-  - [保羅是保羅最好的詮釋者](#保羅是保羅最好的詮釋者)
-    - [案例分析：腓立比書 1:29 的「恩賜」](#案例分析腓立比書-129-的恩賜)
-    - [案例分析：腓立比書 2:12 的「做成」](#案例分析腓立比書-212-的做成)
-  - [處理聖經作者間的表面衝突：保羅與雅各](#處理聖經作者間的表面衝突保羅與雅各)
-    - [語意範圍（Semantic Range）的差異](#語意範圍semantic-range的差異)
-    - [結論：兩者並不衝突](#結論兩者並不衝突)
-  - [釋經的實踐順序](#釋經的實踐順序)
+    - [3. 重複與主題（Repetition and Themes）](#3-重複與主題repetition-and-themes)
+  - [總結建議](#總結建議)
+- [Lesson 29: 書信釋經學（上） (Hermeneutics for Epistles (Part 1))](#lesson-29-書信釋經學上-hermeneutics-for-epistles-part-1)
+  - [一、詞彙的使用：從語言規範到話語規範](#一詞彙的使用從語言規範到話語規範)
+    - [1. 如何篩選重要的詞彙](#1-如何篩選重要的詞彙)
+    - [2. 詞源學（Etymology）的問題](#2-詞源學etymology的問題)
+  - [二、從語言規範到話語規範的實踐：以「酒」為例](#二從語言規範到話語規範的實踐以酒為例)
+      - [給學生的牧養建議](#給學生的牧養建議)
+- [Lesson 30: 書信的釋經學（下） (Hermeneutics for Epistles (Part 2))](#lesson-30-書信的釋經學下-hermeneutics-for-epistles-part-2)
+  - [從語言規範到語境規範：尋找詮釋的「漏斗」](#從語言規範到語境規範尋找詮釋的漏斗)
+    - [1. 希臘古典文學與早期教父 (Greek Classical Literature & Early Church Fathers)](#1-希臘古典文學與早期教父-greek-classical-literature-early-church-fathers)
+    - [2. 七十士譯本 (The Septuagint, LXX)](#2-七十士譯本-the-septuagint-lxx)
+    - [3. 同一作者的書信 (Letters Written by the Same Author)](#3-同一作者的書信-letters-written-by-the-same-author)
+    - [4. 同一書卷或段落的語境 (Use of the Word in the Same Letter or Passage)](#4-同一書卷或段落的語境-use-of-the-word-in-the-same-letter-or-passage)
+    - [5. 比較不同作者的用法：信心與行為 (Comparing Faith and Works)](#5-比較不同作者的用法信心與行為-comparing-faith-and-works)
+  - [總結：詮釋的實踐原則](#總結詮釋的實踐原則)
 - [Lesson 31: 書信釋經學（第三部分） (Hermeneutics for Epistles (Part 3))](#lesson-31-書信釋經學第三部分-hermeneutics-for-epistles-part-3)
-  - [理解句子與命題（Understanding Propositions）](#理解句子與命題understanding-propositions)
-    - [語法結構的重要性](#語法結構的重要性)
+  - [理解語句與命題（Understanding Propositions）](#理解語句與命題understanding-propositions)
   - [子句關係（Clausal Relationships）](#子句關係clausal-relationships)
-  - [區分「手段」（Means）與「原因」（Cause）：以以弗所書 2:8-9 為例](#區分手段means與原因cause以以弗所書-28-9-為例)
-    - [恩典與信心的關係](#恩典與信心的關係)
-    - [「這」指代什麼？](#這指代什麼)
-  - [實踐中的釋經：羅馬書與腓立比書](#實踐中的釋經羅馬書與腓立比書)
-    - [羅馬書 12:2：轉化與心意更新](#羅馬書-122轉化與心意更新)
-    - [腓立比書 2:12-13：救恩的顯明](#腓立比書-212-13救恩的顯明)
-  - [結論：語言工具的價值](#結論語言工具的價值)
-- [Lesson 32: 書信釋經學（第四部分） (Hermeneutics for Epistles (Part 4))](#lesson-32-書信釋經學第四部分-hermeneutics-for-epistles-part-4)
-  - [一、 追蹤論證：以《羅馬書》13:1-7 為例](#一-追蹤論證以羅馬書131-7-為例)
-    - [1. 神學基礎與結果（13:1-2）](#1-神學基礎與結果131-2)
-    - [2. 實踐層面的論證（13:3-4）](#2-實踐層面的論證133-4)
-    - [3. 良心與基督徒實踐（13:5-7）](#3-良心與基督徒實踐135-7)
-    - [4. 歷史處境的應用：如何面對邪惡政府？](#4-歷史處境的應用如何面對邪惡政府)
-  - [二、 古代書信的格式（The Form of an Ancient Letter）](#二-古代書信的格式the-form-of-an-ancient-letter)
-    - [1. 標準書信結構](#1-標準書信結構)
-    - [2. 透過格式洞察保羅的意圖](#2-透過格式洞察保羅的意圖)
-    - [3. 釋經建議](#3-釋經建議)
-- [Lesson 33: 聖約的體裁（上） (Genre of Covenant (Part 1))](#lesson-33-聖約的體裁上-genre-of-covenant-part-1)
-  - [一、 聖約的兩種類型 (Two Types of Covenants)](#一-聖約的兩種類型-two-types-of-covenants)
-    - [A. 平等之約 (Parity Covenant)](#a-平等之約-parity-covenant)
-    - [B. 君王之約 (Suzerainty Covenant)](#b-君王之約-suzerainty-covenant)
-  - [二、 亞伯拉罕之約 (Abrahamic Covenant)](#二-亞伯拉罕之約-abrahamic-covenant)
-  - [三、 聖經中的聖約語言 (Covenant Language in Scripture)](#三-聖經中的聖約語言-covenant-language-in-scripture)
-  - [四、 聖約的結構 (Parts of a Covenant)](#四-聖約的結構-parts-of-a-covenant)
-- [Lesson 34: 盟約的文體（下） (Genre of Covenant (Part 2))](#lesson-34-盟約的文體下-genre-of-covenant-part-2)
-  - [盟約的結構：以約書亞記 24 章為例](#盟約的結構以約書亞記-24-章為例)
-    - [1. 序言（Preamble）與歷史序言（Historical Prologue）](#1-序言preamble與歷史序言historical-prologue)
-    - [2. 條款（Stipulations）與誓言（Oath）](#2-條款stipulations與誓言oath)
-    - [3. 見證（Witnesses）與持續閱讀的規定（Provision for continuous reading）](#3-見證witnesses與持續閱讀的規定provision-for-continuous-reading)
+  - [區分「工具」與「原因」（Distinguishing between Means and Cause）](#區分工具與原因distinguishing-between-means-and-cause)
+  - [應用：原文釋經的必要性](#應用原文釋經的必要性)
+    - [羅馬書 12:2 與心意更新](#羅馬書-122-與心意更新)
+    - [腓立比書 2:12-13 與救恩的展現](#腓立比書-212-13-與救恩的展現)
+- [Lesson 32: 書信釋經學（四） (Hermeneutics for Epistles (Part 4))](#lesson-32-書信釋經學四-hermeneutics-for-epistles-part-4)
+  - [一、 追蹤使徒保羅的論證（羅馬書 13:1-7）](#一-追蹤使徒保羅的論證羅馬書-131-7)
+    - [1. 神學基礎：權柄的來源](#1-神學基礎權柄的來源)
+    - [2. 實踐基礎：賞善罰惡的職責](#2-實踐基礎賞善罰惡的職責)
+    - [3. 良心與基督徒的實踐](#3-良心與基督徒的實踐)
+    - [4. 關於「不義政府」的思考](#4-關於不義政府的思考)
+  - [二、 古代書信的形式（The Form of an Ancient Letter）](#二-古代書信的形式the-form-of-an-ancient-letter)
+    - [1. 標準結構](#1-標準結構)
+    - [2. 形式背後的洞見](#2-形式背後的洞見)
+- [Lesson 33: 聖約的文學類型（上） (Genre of Covenant (Part 1))](#lesson-33-聖約的文學類型上-genre-of-covenant-part-1)
+  - [聖約的兩種類型](#聖約的兩種類型)
+  - [亞伯拉罕之約（創世記 17 章）](#亞伯拉罕之約創世記-17-章)
+  - [聖經中的聖約語言](#聖經中的聖約語言)
+  - [聖約的組成部分：以西奈之約為例](#聖約的組成部分以西奈之約為例)
+- [Lesson 34: 約的文體（下） (Genre of Covenant (Part 2))](#lesson-34-約的文體下-genre-of-covenant-part-2)
+  - [約的結構要素：以約書亞記 24 章為例](#約的結構要素以約書亞記-24-章為例)
+    - [1. 序言（Preamble）](#1-序言preamble)
+    - [2. 歷史序言（Historical Prologue）](#2-歷史序言historical-prologue)
+    - [3. 條款（Stipulations）](#3-條款stipulations)
+    - [4. 見證人（Witnesses）與持續閱讀的規定](#4-見證人witnesses與持續閱讀的規定)
   - [舊約律法的分類與應用](#舊約律法的分類與應用)
     - [1. 民事律（Civil Laws）](#1-民事律civil-laws)
     - [2. 禮儀律（Cultic Laws）](#2-禮儀律cultic-laws)
     - [3. 道德律（Moral Laws）](#3-道德律moral-laws)
-  - [神學反思：恩典與律法的關係](#神學反思恩典與律法的關係)
-    - [關於「一次得救，永遠得救」的省思](#關於一次得救永遠得救的省思)
-    - [關於禱告與赦免](#關於禱告與赦免)
+  - [總結：恩典與律法的關係](#總結恩典與律法的關係)
 - [Lesson 35: 詩篇的文體 (Genre of Psalms)](#lesson-35-詩篇的文體-genre-of-psalms)
   - [詩篇的結構 (Structure)](#詩篇的結構-structure)
   - [作者與歸屬 (Authorship)](#作者與歸屬-authorship)
-  - [詩篇的類別 (Categories of Psalms)](#詩篇的類別-categories-of-psalms)
-    - [錫安詩 (Psalms of Zion)](#錫安詩-psalms-of-zion)
-    - [君王詩 (Royal Psalms)](#君王詩-royal-psalms)
-    - [智慧詩 (Wisdom Psalms)](#智慧詩-wisdom-psalms)
-    - [懺悔詩 (Penitential Psalms)](#懺悔詩-penitential-psalms)
-    - [咒詛詩 (Imprecatory Psalms)](#咒詛詩-imprecatory-psalms)
-    - [讚美詩 (Hymns / Praise Psalms)](#讚美詩-hymns-praise-psalms)
-    - [哀歌詩 (Lament Psalms)](#哀歌詩-lament-psalms)
+  - [詩篇的文體類別 (Categories of Psalms)](#詩篇的文體類別-categories-of-psalms)
+    - [1. 錫安詩 (Psalms of Zion)](#1-錫安詩-psalms-of-zion)
+    - [2. 君王詩 (Royal Psalms)](#2-君王詩-royal-psalms)
+    - [3. 智慧詩 (Wisdom Psalms)](#3-智慧詩-wisdom-psalms)
+    - [4. 懺悔詩 (Penitential Psalms)](#4-懺悔詩-penitential-psalms)
+    - [5. 咒詛詩 (Imprecatory Psalms)](#5-咒詛詩-imprecatory-psalms)
+    - [6. 讚美詩 (Hymns / Praise Psalms)](#6-讚美詩-hymns-praise-psalms)
+    - [7. 哀歌 (Lament Psalms)](#7-哀歌-lament-psalms)
 - [Lesson 36: 釋經學與聖經正典（上） (Hermeneutics and the Canon of Scripture (Part 1))](#lesson-36-釋經學與聖經正典上-hermeneutics-and-the-canon-of-scripture-part-1)
-  - [I. 背景資訊：耶穌時代與早期教會的聖經觀](#i-背景資訊耶穌時代與早期教會的聖經觀)
-  - [II. 正典意識的興起：歷史催化因素](#ii-正典意識的興起歷史催化因素)
-  - [III. 歷史發展：新約內部的見證與早期教父](#iii-歷史發展新約內部的見證與早期教父)
-    - [A. 新約內部的正典萌芽](#a-新約內部的正典萌芽)
-    - [B. 早期教會著作與教父的見證](#b-早期教會著作與教父的見證)
-    - [C. 歸正神學視角下的分類：Homolegoumena 與 Antilegomena](#c-歸正神學視角下的分類homolegoumena-與-antilegomena)
-  - [IV. 正典的澄清：優西比烏的總結](#iv-正典的澄清優西比烏的總結)
+  - [一、 背景資訊：耶穌時代與早期教會的聖經觀](#一-背景資訊耶穌時代與早期教會的聖經觀)
+  - [二、 正典形成的催化因素](#二-正典形成的催化因素)
+  - [三、 新約內部的正典意識](#三-新約內部的正典意識)
+  - [四、 早期教會的發展與分類](#四-早期教會的發展與分類)
 - [Lesson 37: 釋經學與聖經正典（下） (Hermeneutics and the Canon of Scripture (Part 2))](#lesson-37-釋經學與聖經正典下-hermeneutics-and-the-canon-of-scripture-part-2)
-  - [正典的確認與歷史發展](#正典的確認與歷史發展)
-  - [新教與羅馬天主教的根本分歧](#新教與羅馬天主教的根本分歧)
-  - [確認正典的四項準則](#確認正典的四項準則)
-  - [新約書卷的編排邏輯](#新約書卷的編排邏輯)
-  - [啟示、無誤性與原始手稿](#啟示無誤性與原始手稿)
-  - [關於「失落書信」與文本校勘的牧養建議](#關於失落書信與文本校勘的牧養建議)
+  - [一、 聖經正典的釐清](#一-聖經正典的釐清)
+    - [A. 對 27 卷新約書卷的確認](#a-對-27-卷新約書卷的確認)
+    - [B. 新教與羅馬天主教的爭論](#b-新教與羅馬天主教的爭論)
+  - [二、 辨識權威書卷的因素](#二-辨識權威書卷的因素)
+  - [三、 新約書卷的編排](#三-新約書卷的編排)
+  - [四、 結語與反思](#四-結語與反思)
+    - [A. 無誤性與啟示](#a-無誤性與啟示)
+    - [B. 保羅對其書信權威的認知](#b-保羅對其書信權威的認知)
+    - [C. 關於失落書信的假設](#c-關於失落書信的假設)
 
 ---
 
-## Lesson 1: 英文聖經的早期歷史（上） (Early Beginnings (Part 1))
+## Lesson 1: 早期開端（第一部分） (Early Beginnings (Part 1))
 
 > **大綱對照：**
-> 本次課程內容與所提供的「大綱」完全不符。講員 Dr. Robert Stein 在課堂中實際講授的主題是「英文聖經的歷史與翻譯發展」（History of the English Bible），而非大綱中所列的「聖經詮釋學的早期歷史」（Early Beginnings of Biblical Interpretation）。以下說明將嚴格依照講員實際的授課內容進行整理。
+> 本次課程內容與所提供的「大綱」完全不符。提供的課程錄音內容專注於「英文聖經的翻譯歷史」（從盎格魯-撒克遜時期到威廉·廷代爾與邁爾斯·科弗代爾），而大綱內容則屬於「聖經詮釋學（Hermeneutics）的歷史發展」。因此，以下說明將嚴格按照錄音內容進行編排，以確保學習者能準確掌握老師實際講授的知識點。
 
 
 
 ### 課程目標與詮釋學導論
-本課程的核心目的在於探討「我們手中的英文聖經是如何產生的」。講員指出，許多神學生在畢業時對聖經翻譯史缺乏基本概念，這是一個嚴重的缺口。此外，這段歷史與「聖經詮釋學」（Hermeneutics）息息相關。詮釋學不僅是關於如何解讀古老文本，更涉及作者意圖、讀者預設（presuppositions）、文體（genre）以及當代意義的應用。
+我們這門課的核心目的是帶領你們進入「英文聖經歷史」的概覽。在神學院的課程設計中，這往往是一個被忽略的環節，但你們作為神學生，若不了解「我們手中的這本英文聖經究竟是如何而來」，將會是一個巨大的缺憾。
 
-講員強調，課程將以 R. H. Stein 的《A Basic Guide to Interpreting the Bible》為主要教材，並要求學生精確掌握約 12 個關鍵術語。在神學討論中，若雙方對術語的定義不一致，往往會造成「雞同鴨講」（talking at cross purposes）。因此，建立一套統一且精確的詞彙框架，是進入詮釋學研究的必要前提。
+這門課不僅是歷史回顧，更是進入「聖經詮釋學」（Hermeneutics）的門戶。詮釋學是關於「如何正確理解古代文本並應用於當代」的學問。我們將會以 R. H. Stein 所著的 *A Basic Guide to Interpreting the Bible* 為主要教材，並建立一套精確的技術性詞彙系統。在詮釋學中，若我們對術語的定義不一致，就會陷入「雞同鴨講」的困境。因此，我要求你們在課堂上必須使用我所定義的詞彙，這將成為我們討論所有議題的共同框架。
 
 ### 英文語言的形成與早期聖經傳播
-英文並非一開始就存在，它是多種語言融合的產物。其起源可追溯至西元 5 世紀，當時日耳曼部落（Angles, Saxons, Jutes）遷徙至英國，形成了「古英語」（Old English）或稱「盎格魯-撒克遜語」（Anglo-Saxon）。講員指出，現代英語與德語在許多基礎詞彙（如 house, book, hand）上的相似性，正是源於此歷史淵源。
+要理解英文聖經，首先必須理解英文語言本身的演變。英文並非一開始就存在，它是多種方言的混合體。大約在公元 5 世紀，日耳曼部落（Angles, Saxons, Jutes）移居英國，形成了「盎格魯-撒克遜語」（Anglo-Saxon），也就是「古英語」（Old English）。如果你學過德語，你會發現許多基本詞彙（如 house, book, hand, fire）與古英語極為相似。
 
-到了 11 世紀，諾曼征服（1066 年黑斯廷斯戰役）引入了法語影響，再加上拉丁語的滲透，最終形成了現代英語。在這一時期，教會使用的聖經是《拉丁武加大譯本》（Latin Vulgate）。由於當時識字率極低，平民百姓學習聖經的方式主要依賴教會藝術（如彩繪玻璃、雕刻）以及「遊吟詩人」（troubadours）以歌唱方式傳遞聖經故事，這與現代兒童透過詩歌學習聖經故事的模式有異曲同工之妙。
+隨後，1066 年諾曼征服（Norman Conquest）將法語引入英國，加上原有的古英語與拉丁語，經過歷史的「攪拌機」，最終形成了我們現代的英語。
 
-### 早期聖經翻譯的挑戰
-#### 盎格魯-撒克遜時期的翻譯
-從西元 7 世紀開始，教會開始嘗試將聖經翻譯成古英語。早期的翻譯重點在於教會崇拜的「剛需」，例如《詩篇》（用於歌唱）、《主禱文》（用於共同禱告）以及《十誡》（用於道德教導）。這顯示了聖經翻譯的動力往往源於牧養與崇拜的實際需要，而非僅是學術研究。
+在那個時期，普通百姓大多不識字，甚至許多神職人員也無法閱讀。當時教會的「聖經」是《拉丁武加大譯本》（Latin Vulgate）。既然無法閱讀，人們如何學習聖經？
+*   **教會藝術**：教堂的彩繪玻璃和門上的雕刻就是「視覺化的聖經」。
+*   **吟遊詩人（Troubadours）**：他們像現代兒童主日學老師一樣，將聖經故事編成歌曲傳唱。這種方式對於無法閱讀的群體來說，是極其有效的教導工具。
 
-#### 約翰·威克里夫（John Wycliffe）的貢獻
-威克里夫於 1382 年完成了第一部英文聖經。由於他不懂希臘文與希伯來文，他是從《拉丁武加大譯本》翻譯而來。儘管這在學術上並非最理想，但在當時「有總比沒有好」的處境下，這是一個巨大的突破。威克里夫的追隨者（Lollards）四處傳播聖經，這導致教會與政治當局的恐懼。1414 年，閱讀英文聖經甚至被定為死罪。威克里夫死後，其遺骸甚至被挖出焚燒，這反映了當時權力機構對聖經平民化運動的極度敵視。
+### 早期譯本的發展
+聖經翻譯的早期嘗試，多半是為了教會敬拜的實際需求。例如，公元 7 世紀的詩歌翻譯（詩篇）、主禱文以及十誡（Decalogue），這些都是教會生活最核心的部分。隨後，聖徒比德（Venerable Bede）推動了四福音書的翻譯，但這些仍屬於古英語時期。
 
-### 威廉·廷代爾（William Tyndale）與印刷術的影響
-廷代爾是英文聖經歷史上的關鍵人物，他利用印刷術出版了第一部英文新約聖經（1526 年）。廷代爾不僅精通希臘文與希伯來文，更具備卓越的文學造詣。後世的《欽定版聖經》（KJV）中，約 90% 的新約內容直接承襲自廷代爾的譯本。
+#### 1. 約翰·威克里夫（John Wycliffe）
+威克里夫在 1382 年完成了第一部全本英文聖經。必須注意，他是從《拉丁武加大譯本》翻譯而來，而非直接從希臘文或希伯來文翻譯。雖然這在學術上不夠完美，但對於當時「零」英文聖經的狀況來說，這是極大的突破。
 
-廷代爾的譯本帶有濃厚的宗教改革色彩，例如他使用「悔改」（repentance）取代「做補贖」（doing penance），使用「會眾」（congregation）取代「教會」（church），這些詞彙選擇直接挑戰了當時羅馬天主教會的權威。此外，他模仿馬丁·路德的新約編排順序（將希伯來書、雅各書、猶大書、啟示錄置於最後），這使他被明確標記為路德的支持者。
+威克里夫的翻譯引發了教會內部的危機：當人們讀到聖經時，他們開始質疑教會領袖的腐敗與政治權力，因為這些行為與聖經教導不符。教會當局隨即將閱讀英文聖經定為「死罪」。威克里夫雖在 1384 年去世，但教會仍在他死後挖出他的屍骨並焚燒，這顯示了當時體制對平民接觸聖經的極度恐懼。
 
-講員特別提到，當時教會當局對廷代爾譯本的仇視達到了極致，甚至有主教稱其為「死亡的食物」與「罪惡的燃料」。廷代爾最終於 1536 年殉道，其臨終禱告「求主開啟英國國王之眼」展現了極高的屬靈品格。
+#### 2. 威廉·廷代爾（William Tyndale）
+廷代爾是印刷術時代的關鍵人物。他在 1526 年出版了第一部印刷版的新約聖經。他是一位精通希臘文與希伯來文的頂尖學者，他的翻譯極具現代感，甚至後來 1611 年的《欽定版聖經》（KJV）中，有 90% 的新約內容直接承襲自廷代爾。
 
-### 邁爾斯·科弗代爾（Miles Coverdale）與次經問題
-廷代爾的同工科弗代爾完成了第一部完整的印刷版英文聖經。科弗代爾在處理「次經」（Apocrypha）問題上採取了改革宗的立場，將其從舊約正文中分離出來，放置在舊約與新約之間。這反映了當時改革者對正典（Canon）界定的嚴謹態度。直到 18 世紀，為了降低印刷成本，次經才逐漸從英文聖經中被完全移除。這一歷史細節說明了聖經的編排與收錄，往往受到神學立場與出版實務的雙重影響。
+廷代爾的翻譯帶有明顯的宗教改革色彩，他使用「悔改」（repentance）取代「做補贖」（doing penance），使用「會眾」（congregation）取代「教會」（church），這些用詞直接挑戰了當時天主教會的權威。儘管教會極力焚毀他的譯本，甚至最終將他處以火刑，但他的殉道與翻譯工作為後世留下了不可磨滅的遺產。他在火刑架上的遺言——「主啊，打開英格蘭國王的眼睛」——展現了極高的屬靈生命。
 
-
-## Lesson 2: 早期英語聖經譯本的發展 (Early Beginnings (Part 2))
-
-> **大綱對照：**
-> 提供的課程大綱與實際講課內容完全不符。大綱內容涉及「早期基督教的猶太、希臘與羅馬背景」，但實際講課內容聚焦於「十六、十七世紀英語聖經譯本的發展史」。以下說明將嚴格依照教師實際講授的內容進行編撰。
+#### 3. 邁爾斯·科弗代爾（Miles Coverdale）
+科弗代爾是廷代爾的同工，他在 1535 年出版了第一部完整的印刷版英文聖經。他的一項重要貢獻是將「次經」（Apocrypha）從舊約正文中分離出來，放置在舊約與新約之間。這反映了宗教改革家對「正典」（Canon）的嚴謹態度：他們認為次經不具備聖經的權威性，因此將其與正典區隔開來。直到 18 世紀，為了降低印刷成本，次經才逐漸從英文聖經中完全移除。
 
 
-
-### 威廉·廷代爾（William Tyndale）的遺產：英語聖經的根基
-在討論各個譯本之前，必須理解一個核心事實：所有十六世紀的英語聖經譯本，幾乎都是威廉·廷代爾（William Tyndale）工作的延伸。廷代爾的譯本如同「主幹」，後續的譯本多半是在其基礎上進行修訂。當時的譯者普遍持有一種保守的態度：「若非必要，不要更動」，因此他們在修訂時，若發現廷代爾的譯文準確，便會予以保留。這種對原著的尊重，使得廷代爾的文字成為英語聖經的靈魂。
-
-### 托馬斯·馬修聖經（Matthew Bible）與約翰·羅傑斯（John Rogers）
-約翰·羅傑斯（John Rogers）是廷代爾的同工，他在1537年出版了《馬修聖經》（Matthew Bible）。之所以命名為「馬修」，是因為羅傑斯深知廷代爾因翻譯聖經而殉道的命運，他以筆名發表，意在保護自己。然而，這並未讓他逃過迫害，羅傑斯最終在1555年被瑪麗一世（Mary Tudor）處以火刑。
-
-《馬修聖經》在很大程度上是廷代爾譯本的修訂版，並補充了廷代爾未完成的部分（主要參考了邁爾斯·科弗代爾 Coverdale 的譯本）。極具諷刺意味的是，這部譯本在出版後僅一年，就獲得了亨利八世（Henry VIII）的官方許可，這顯示了當時宗教與政治權力之間複雜且反覆無常的關係。
-
-### 理查·塔弗納（Richard Taverner）譯本
-1539年出版的《塔弗納聖經》（Taverner Bible）同樣是《馬修聖經》的修訂版。這再次印證了上述觀點：當時的譯者視廷代爾的工作為權威根基。他們在修訂時，若對某處感到疑慮，會回頭檢視科弗代爾的譯本，而科弗代爾的譯本最終仍可追溯至廷代爾。這形成了一種「回歸源頭」的翻譯傳統。
-
-### 大聖經（The Great Bible）與權威的建立
-《大聖經》（1539年）因其巨大的開本（約15x9英吋或更大）而得名，它並非供個人攜帶的袖珍本，而是被鎖在講台上供公眾閱讀的「講台聖經」。這是歷史上第一部獲得官方授權的英語聖經，由亨利八世、托馬斯·克倫威爾（Thomas Cromwell）及科弗代爾推動。
-
-為了讓這部聖經能被當時的教權與政權接受，譯者採取了兩項策略：
-1. **恢復傳統書卷順序**：不再遵循路德（Luther）對新約書卷順序的調整，而是回歸傳統排序。
-2. **禁止註釋（Footnotes）**：這是為了避免政治與神學爭議。當時的註釋往往帶有強烈的反教宗色彩，例如將「獸的數目」或「巴比倫」直接指向羅馬教廷，這對當時的政治穩定構成威脅。
-
-### 歷史轉折：瑪麗一世與伊莉莎白一世
-亨利八世死後，愛德華六世（Edward VI）繼續推動宗教改革。然而，瑪麗一世（Bloody Mary）繼位後，試圖強行恢復天主教，導致約300名改革者殉道。在此期間，幾乎所有聖經譯本都被銷毀，唯獨《大聖經》因有國王授權而倖免於難。直到1558年伊莉莎白一世（Queen Elizabeth I）繼位，英國才正式確立了新教（Protestant）的宗教地位。
-
-### 日內瓦聖經（Geneva Bible）與分節系統
-科弗代爾在流亡日內瓦期間編纂了《日內瓦聖經》（1560年）。這部譯本具有劃時代的意義，它是第一部將聖經內容劃分為「節」（verses）的英語譯本。
-
-關於分節的起源，必須提到羅伯特·斯蒂芬努斯（Robert Stephanus，又名 Robert Estienne）。他在1551年出版的希臘文新約中首次引入了分節。據傳，其中許多分節是在他騎馬穿越法國時完成的，這解釋了為何有些分節位置顯得突兀。儘管如此，分節系統極大地便利了聖經的查考與引用，成為後世不可或缺的標準。此外，《日內瓦聖經》因在創世記3章將「皮衣」翻譯為「breeches」（馬褲），而被稱為「馬褲聖經」（Breeches Bible）。
-
-### 主教聖經（Bishop’s Bible）與欽定本（KJV）
-《主教聖經》是為了回應《日內瓦聖經》過於濃厚的加爾文主義（Calvinistic）色彩而產生的折衷方案，由當時的英國主教們編纂。
-
-1604年，詹姆士一世（King James I）下令進行新的翻譯工作，即著名的《欽定本》（King James Version, 1611）。這項工程動員了47位頂尖學者，分為六個小組，旨在取代所有既有的譯本。其翻譯品質極高，據估計，其新約內容有90%直接源自廷代爾。直到1769年，除了拼寫上的現代化調整外，該譯本長期保持穩定，成為英語世界影響力最深遠的譯本。
-
-### 杜埃-蘭斯譯本（Douay-Rheims Version）
-作為對抗新教改革的舉措，天主教會在特倫托會議（Council of Trent, 1546）後，決定以《拉丁通行本》（Latin Vulgate）為最終權威，而非希臘文或希伯來文原文。這導致了《杜埃-蘭斯譯本》的誕生（舊約在杜埃，新約在蘭斯翻譯）。這部譯本成為天主教英語世界的標準，直到20世紀才被現代譯本取代。
-
-### 現代譯本的省思
-自1881年《英國修訂本》（English Revised Version）以來，英語聖經譯本呈現爆炸式增長。教師指出，現代譯本的頻繁修訂（如NIV、RSV等）雖然能保持語言的現代化，但也帶來了「變動過快」的隱憂。他提醒讀者，翻譯聖經背後往往涉及巨大的商業利益，在許多語言尚未擁有聖經譯本的當下，我們應當反思：是否真的需要如此眾多且頻繁更新的英語譯本？這是一個值得深思的教會論與宣教論問題。
-
-
-## Lesson 3: 釋經學議題（第一部分） (Hermeneutical Issues (Part 1))
+## Lesson 2: 早期英文聖經譯本的發展 (Early Beginnings (Part 2))
 
 > **大綱對照：**
-> 本次課程的內容與所提供的大綱並不相符。大綱列出了關於新約釋經學（Hermeneutics）的廣泛主題，如歷史、文學與神學背景；然而，講師實際講授的內容聚焦於「聖經翻譯的哲學」以及「文本批判學（Textual Criticism）」的實務問題。以下說明將嚴格按照講師實際講授的順序與主題進行整理。
+> 本次課程的實際教學內容與所提供的「大綱」完全不符。提供的講稿內容聚焦於「英文聖經譯本的歷史發展」（從丁道爾到現代譯本），而所附大綱則列出了關於「早期基督教的猶太、希臘與羅馬背景」。我將嚴格按照講稿的實際教學內容進行詳細說明。
 
 
 
-### 聖經翻譯的哲學與語言障礙
+### 丁道爾的傳承：馬太聖經與塔弗納聖經
 
-講師首先引用了 C. H. Dodd 的觀點，指出翻譯藝術的第一條公理（axiom）是：不同語言的詞彙之間，不存在「完全等同的意義（exact equivalence of meaning）」。這背後的原因在於語言是文化的載體，而文化之間存在差異。
+在我們探討聖經翻譯史時，必須先建立一個核心觀念：威廉·丁道爾（William Tyndale）的工作是所有後續英文譯本的「根莖」。當我們談到後來的譯者時，他們並非從零開始，而是不斷地回到丁道爾的譯本，問一個問題：「如果它沒壞，為什麼要修它？」
 
-#### 詞彙的重疊與文化差異
-講師以「spirit」（靈）為例，說明在英語中，這個詞可以指鬼魂（ghost）、聖靈（Holy Spirit）、靈魂（soul），甚至是酒精飲料（alcoholic spirits）。在德語中，「geist」一詞有類似的重疊，但無法指代酒精；在希臘語中，「pneuma」（原文作 duma，應為 pneuma 之誤）可用於指稱人的靈或聖靈，同樣不能指代酒精。這說明了語言間的詞彙僅是「重疊（overlapping）」，而非「完全同義（identical synonyms）」。
+#### 湯瑪斯·馬太聖經 (Thomas Matthew Bible)
+1537年出版的《馬太聖經》是由約翰·羅傑斯（John Rogers）編輯的。這裡有一個有趣的歷史細節：為什麼叫「馬太」？羅傑斯深知丁道爾因翻譯聖經被處火刑的下場，他幽默又悲壯地說：「讓他們去燒任何他們抓得到的『湯瑪斯·馬太』吧，只要放過我約翰·羅傑斯就行。」這其實是一個化名。遺憾的是，當局最終還是查出了他的真實身份，羅傑斯後來也為信仰殉道。這部譯本主要修訂了丁道爾的作品，並在丁道爾未完成的部分引用了邁爾斯·科弗代爾（Miles Coverdale）的譯文。
 
-#### 翻譯的實例：文化語境的不可譯性
-講師透過他在德國海德堡的親身經歷，說明翻譯的困難。他的孩子就讀的「Bundson Gymnasium」，在英語中很難找到對應詞。如果翻譯成「Junior High」（初中），會忽略該校涵蓋五年級到十三年級的學制；如果翻譯成「High School」（高中），則忽略了德國教育體系中「Grundschule」（基礎學校）、「Fachschule」（職業學校）、「Mittelschule」（中學）與「Gymnasium」（大學預備學校）的嚴格分流。
+#### 理查·塔弗納 (Richard Taverner)
+1539年出現的《塔弗納聖經》同樣是《馬太聖經》的修訂版。請注意，這些譯本全都源自同一個「母體」——丁道爾的譯本。這種反覆修訂的過程，反映了當時譯者對丁道爾譯文準確性的高度敬重。
 
-這類問題在聖經中同樣存在。例如馬太福音 1:18-24 中，約瑟與馬利亞的關係。當時的「訂婚（betrothed）」在法律上已具備夫妻身分，若要解除婚約必須經過「離婚（divorce）」程序。如果將其翻譯為現代意義上的「訂婚（engagement）」，會讓讀者誤以為只是「穩定交往（going steady）」，從而無法理解為何約瑟需要「離婚」才能結束關係。這顯示了翻譯不僅是語言的轉換，更是文化語境的傳遞。
+### 大聖經 (The Great Bible) 與權威的建立
 
-### 翻譯的品質：基於最佳手稿
+《大聖經》因其巨大的開本（約15x9英寸或更大）而得名，它不是用來隨身攜帶的，而是被鎖在講台上供大眾閱讀。這是歷史上第一部「被授權」（authorized）的英文聖經，但請務必區分：它不是我們常說的「欽定本」（The Authorized Version, 即1611年的King James Version）。
 
-翻譯的品質受限於所使用的底本（text）。講師強調，翻譯絕不可能超越其所依據的文本。
+為了讓這部譯本能被亨利八世（Henry VIII）及當時的教會領袖接受，譯者採取了兩個關鍵策略：
+1. **恢復傳統順序**：將新約書卷的排列順序改回傳統順序，而非跟隨路德（Luther）的排列。
+2. **禁止註釋**：這點至關重要。當時的譯本（如後來的日內瓦聖經）常帶有強烈的政治與神學註釋，例如將教宗稱為「敵基督」或將羅馬比作「巴比倫」。亨利八世作為國王，自然無法容忍這些挑戰王權與教權的註釋，因此《大聖經》必須是「純淨」的文本。
 
-#### Textus Receptus（公認文本）的局限
-講師回顧了伊拉斯謨（Erasmus）在 1516 年編纂的希臘文文本。當時他僅憑四份 12 至 14 世紀的希臘文手稿，且因啟示錄最後六節經文缺失，他不得不將拉丁文武加大譯本（Latin Vulgate）回譯為希臘文。這份文本後來被稱為「Textus Receptus」，成為丁道爾（Tyndale）及英王欽定本（KJV）的基礎。
+### 歷史的轉折：瑪麗一世與伊莉莎白一世
 
-然而，自那時起，學界已發現了約 5,500 份手稿，其中許多比伊拉斯謨所用的手稿早了 1,000 年。這些發現（如梵蒂岡抄本 Codex Vaticanus 與西乃抄本 Codex Sinaiticus）對現代翻譯至關重要，因為它們更接近原始作者的寫作時間，受傳抄錯誤的影響較小。
+亨利八世在1545年去世，他雖然動機複雜（主要是為了離婚問題），但客觀上推動了英國的宗教改革。隨後愛德華六世（Edward VI）繼位，繼續推行新教政策。然而，瑪麗一世（Mary Tudor，即「血腥瑪麗」）繼位後，試圖強行恢復天主教，迫害了約300名改革者。
 
-#### 文本批判學的挑戰：以約翰一書 5:7 為例
-講師以約翰一書 5:7（關於三位一體的經文）為例，說明文本批判（textual criticism）的必要性。這段經文在早期的希臘文手稿中並不存在，僅出現在極少數且多為後世邊註的手稿中。伊拉斯謨最初拒絕將其納入，直到後來有人為了讓他收錄，特意製作了一份 16 世紀的希臘文手稿。
+在那個動盪時期，唯有《大聖經》因其「國王授權」的身份而未被焚毀。這是一個諷刺的歷史現象：當權者往往會為了維護自己的權威而保護某些事物，即便這些事物本身是他們所反對的改革產物。直到1558年伊莉莎白一世（Queen Elizabeth I）繼位，英國的宗教走向才正式定格在改革宗（Protestant）的陣營。
 
-講師指出，在尼西亞會議（Council of Nicaea）等早期教會辯論三位一體教義時，從未引用過這節經文，證明它在當時並非聖經文本的一部分。現代翻譯（如 NASB, NIV, ESV）將其刪除或加註，並非為了「刪減聖經」，而是為了「恢復」聖經的原始面貌，避免人為添加。
+### 日內瓦聖經 (Geneva Bible) 與分節的起源
 
-### 牧養與釋經的平衡
+當科弗代爾在瑪麗一世迫害期間逃往日內瓦時，他編纂了《日內瓦聖經》。這部譯本對後世有兩大貢獻：
+1. **章節劃分**：這是第一部包含「節」（verses）的英文聖經。在此之前，聖經只有章（chapters）。分節的工作始於1551年羅伯特·斯蒂芬努（Robert Stephanus）的希臘文新約。據說他是在騎馬穿越法國時完成的，這解釋了為什麼有些分節位置顯得有些突兀。
+2. **大眾普及性**：它因在創世記3章將「皮子」譯為「breeches」（馬褲）而被戲稱為「馬褲聖經」（Breeches Bible）。這部譯本因其加爾文主義（Calvinistic）的色彩與實用的註釋，深受當時英國民眾喜愛。
 
-最後，講師談到了牧者在處理這些釋經議題時的態度。
+### 欽定本 (King James Version, KJV)
 
-1.  **謙卑與誠實**：牧者不應表現得傲慢或自以為擁有「上帝的直通車」。當面對文本批判的複雜性時，應以謙卑的態度向會眾解釋。
-2.  **建立信任**：牧者與會眾的關係是關鍵。如果會眾感受到牧者對上帝的愛與對聖經的敬畏，他們會更願意接受關於文本來源的專業解釋。
-3.  **實用建議**：對於堅持使用 KJV 的會眾，建議他們閱讀新英王欽定本（NKJV），因為它在保留傳統語感的同時，也修正了一些過時的詞彙，且在處理文本問題時，牧者可以透過長期的講道過程，逐步引導會眾理解手稿差異的本質。
+1604年，詹姆士一世下令製作一部新的譯本，旨在取代當時市面上所有的版本。這項工程動員了當時英國最頂尖的47位學者，分為六個小組進行翻譯。
 
-總結而言，翻譯的目標是忠於最古老、最可靠的希臘文與希伯來文手稿，並在跨文化的過程中，透過適當的解釋（而非僅是字面翻譯）來傳達神的話語。
+這部譯本的成功之處在於其文學性與嚴謹的審核機制。有趣的是，直到1769年，KJV才進行了一次重大修訂，但那次修訂主要僅限於拼寫的現代化（例如將「ffe」改為「if」）。這再次印證了丁道爾譯本那強大的生命力——據估計，KJV新約中90%的內容直接源自丁道爾。
 
+### 杜埃-蘭斯譯本 (Douay-Rheims Version)
 
-## Lesson 4: 釋經學議題（下） (Hermeneutical Issues (Part 2))
+面對新教譯本的崛起，羅馬天主教面臨挑戰。1546年的特利騰大公會議（Council of Trent）決定，天主教的權威譯本必須基於《武加大譯本》（Latin Vulgate），而非希臘文或希伯來文原文。因此，這部在法國杜埃（舊約）與蘭斯（新約）翻譯的譯本，成為了天主教的標準譯本。這反映了當時天主教與改革宗在「唯獨聖經」（Sola Scriptura）與翻譯權威來源上的根本分歧。
 
-> **大綱對照：**
-> 本次課程內容並未遵循所提供的「大綱」。講員在課堂中直接延續了關於聖經翻譯與釋經原則的討論，重點在於翻譯時應具備的特質（如準確性、可讀性、時代性等），而非大綱中列出的歷史文法釋經法或文學/文化/神學背景的定義。以下說明將完全依照講員課堂教學的實際順序進行編寫。
+### 結語：現代譯本的氾濫與反思
 
+從丁道爾的種子開始，我們看到了聖經翻譯史的繁茂。然而，作為你們的老師，我必須提出一個反思：今天我們擁有數十種現代譯本（如RSV, NIV, NASB等），這是否真的必要？
 
-
-### 準確性（Accuracy）
-講員強調，翻譯的首要任務是基於對語言與文化的最新研究成果。自 1611 年《欽定版聖經》（King James Version, KJV）問世以來，學界對聖經原文（希伯來文與希臘文）的理解已大幅提升。例如，現代學者能更精確地辨識聖經中的詩體結構，並運用相應的釋經原則，這是 18 世紀以前的譯者所缺乏的知識。
-
-講員特別警告「意譯」可能帶來的偏差。他以《當代聖經》（The Living Bible）在約翰福音 21:2 的翻譯為例，該譯本將「西庇太的兩個兒子」擅自改寫為「雅各和我（約翰）」。即便譯者推測作者可能是約翰，但翻譯的原則應是忠於原文，而非將譯者的推論強加於文本之中。
-
-此外，準確性不僅涉及翻譯過程，還涉及印刷過程。講員列舉了歷史上著名的「印刷錯誤聖經」（notorious goofs）：
-*   **「姦淫聖經」（Wicked Bible, 1631）：** 印刷工人在十誡中漏掉了一個詞，導致誡命變成了「你當姦淫」。
-*   **「印刷工聖經」（Printers' Bible）：** 將詩篇 119:161 的「君王（Princes）」誤印為「印刷工人（Printers）」。
-*   **「殺戮聖經」（1795）：** 將馬可福音 7:27 的「吃飽（filled）」誤印為「殺死（killed）」。
-這些案例提醒我們，即便翻譯本身準確，印刷與校對的疏失也可能完全扭曲聖經的原意。
-
-### 可讀性與理解力（Understandability）
-講員指出，準確性與可讀性之間往往存在張力。例如《新美國標準版聖經》（New American Standard Bible, NASB）在逐節分析上極為精確，但因過於拘泥原文結構，閱讀起來顯得生硬難懂。
-
-講員強調，翻譯必須是「可理解的」。《當代聖經》雖然在可讀性上表現優異，甚至在原文模糊之處強行給出明確解釋，但這種做法往往犧牲了準確性。釋經者的目標是在「準確」與「通順」之間尋求平衡，避免為了讓讀者容易理解而過度簡化或曲解經文。
-
-### 時代性（Contemporary Language）
-語言是活的，會隨時間演變。講員指出，KJV 雖然經典，但許多詞彙在現代英語中已產生歧義或完全失去原意：
-*   **Charity：** 在 KJV 中意指「愛（Love）」，但在現代英語中常被誤解為「施捨（Alms）」。
-*   **Let：** 在羅馬書 1:13 中意指「攔阻（hinder）」，現代英語卻意為「允許（allow）」。
-*   **Gay：** 在雅各書 2:3 原指「華麗的（bright/gorgeous）」，現代語境下已完全改變。
-
-講員強調，譯本必須與時俱進。由於現代語言缺乏像過去那樣由《聖經》與莎士比亞作品共同「定調」的穩定性，語言變遷速度極快，這意味著聖經譯本必須持續修訂，以確保當代讀者能準確接收原文信息。
-
-### 普世性（Universal Language）
-翻譯必須考慮目標讀者的文化背景。講員以《新英語聖經》（New English Bible, NEB）為例，該譯本雖然文筆優美，但過於偏向英式英語（British English），導致美國或其他地區的讀者難以理解。
-
-例如，馬可福音 2:23 的「玉米田（cornfields）」，在美國讀者眼中是「玉米（maize）」，但在英國讀者眼中則是「穀物（wheat/barley）」。此外，譯本若使用過於地方性的度量衡（如「法尋」或「便士」），會造成閱讀障礙。講員建議，一個理想的普世譯本應由來自不同英語系國家（美、加、英、澳、南非）的學者共同參與，以確保譯文能跨越文化藩籬，避免使用特定地區的生僻俚語。
-
-### 尊嚴性（Dignity）
-翻譯應保持聖經的莊重感，不應為了追求「震撼效果」或「通俗化」而使用粗俗語言。講員批評了《當代聖經》早期版本中將撒母耳記上 20:30 的憤怒咒罵翻譯為現代粗口（如 "son of a bitch"），以及《棉花地譯本》（Cotton Patch Version）將「斷乎不可」翻譯為 "Hell, no!"。這種做法雖然讓年輕讀者感到「親切」，卻嚴重損害了經文的神聖性與莊重感，導致讀者無法嚴肅對待神的話語。
-
-### 避免神學偏見（Avoiding Theological Bias）
-這是釋經中最關鍵的挑戰。講員指出，某些譯本會為了維護特定教義而刻意曲解原文。例如，耶和華見證人的譯本常在涉及基督神性的經文上進行竄改。
-
-講員以羅馬書 1:25 為例，討論了天主教譯本如何透過翻譯技巧來支持「馬利亞永久童貞」的教義。他強調，即便譯者個人的神學立場是正統的，也不應將神學結論強行寫入翻譯中。他反對在翻譯時詢問「哪一個版本有最高的基督論（highest Christology）」，因為翻譯的標準應是「準確性」，而非「神學正確性」。他總結道：「神不需要我們的幫助去維護祂的真理，只要讓聖經說它自己想說的話，我們就會平安。」
+翻譯的修訂本（如每隔幾年更新一次的現代譯本）確實能幫助我們避免因語言變遷而產生的隔閡，但我們也必須警惕，翻譯工作背後往往伴隨著龐大的商業利益。當世界上仍有許多語言尚未擁有聖經時，我們是否需要不斷地推出新的英文譯本？這是一個值得我們在研讀聖經歷史時，同時放在心上的問題。
 
 
-## Lesson 5: 聖經翻譯的議題 (Various Issues in Hermeneutics)
+## Lesson 3: 釋經學議題（上） (Hermeneutical Issues (Part 1))
 
 > **大綱對照：**
-> 本次課程的錄音內容與所提供的「釋經學中的各類議題」大綱並不吻合。錄音內容主要聚焦於「聖經翻譯的哲學與實踐」，而非大綱所列的釋經學歷史、文學體裁或神學體系。因此，以下解釋將嚴格依照錄音內容的教學順序進行編寫，以確保讀者能準確掌握教師所傳達的重點。
+> 本次課程內容並未遵循所提供的「大綱」，而是聚焦於聖經翻譯的哲學、語言文化差異的挑戰，以及文本批判（Textual Criticism）在聖經翻譯中的重要性。因此，以下解釋將直接根據課堂實際講授的內容順序進行編排。
 
 
 
-### 聖經翻譯的動態性與必要性
+### 翻譯的哲學：語言與文化的鴻溝
 
-教師首先指出，聖經翻譯並非一勞永逸的工作。由於語言本身是隨時間演變的（Language change），過去被視為準確的譯詞，在當代可能已失去原意或變得晦澀。即便我們擁有完美的希臘文與希伯來文原文手稿，並在 2002 年完成了一部完美的英文譯本，到了 2050 年，該譯本仍需更新。
+我們首先要探討的是聖經翻譯的哲學。曾參與《修訂標準版》（RSV）翻譯工作的 C. H. Dodd 曾提出一個核心公理：「翻譯藝術的第一個公理，就是不同語言的詞彙之間，不存在所謂的『精確對等』（exact equivalence）。」
 
-這背後的邏輯在於：翻譯的目標受眾是「當代人」。我們並非要求 2050 年的讀者將思維轉換回 2002 年的語境，而是要將上帝無誤的道（Infallible word of God）以 2050 年的語言表達出來。這種「翻譯的動態性」意味著，翻譯工作是一項持續的任務，旨在確保神的話語能跨越時代的鴻溝，精準地傳遞給每一個世代的讀者。
+這句話對我們理解聖經至關重要。語言是文化的載體，而沒有兩種文化是完全相同的，這就導致了翻譯上的困境。以「靈」（spirit）這個詞為例：在英語中，它可以指鬼魂（ghost）、聖靈（Holy Spirit）、靈魂（soul），甚至是指酒精飲料（alcoholic spirits）。在德語中，對應的詞是 *Geist*，雖然與英文有重疊，但你不能用 *Geist* 來形容酒精飲料。同樣地，希臘文中的 *pneuma*（靈）可以用來指人的靈或聖靈，但同樣無法用來指酒精。這種詞彙意義的「重疊」而非「完全等同」，是翻譯時最棘手的問題。
 
-### 聖經無誤論與翻譯的精確度
+#### 文化情境的實例：海德堡的學校制度
+為了讓你們明白這種文化差異如何阻礙翻譯，我分享一個親身經歷。1975 年，我的孩子在德國海德堡就讀當地的 *Gymnasium*。在英語中，我們很難翻譯這個詞。如果我說他們讀的是「高中」，這並不準確，因為德國的學校體系與美國截然不同：
+1. **Grundschule**（基礎學校）：所有孩子 1 至 4 年級都讀這裡。
+2. 5 年級後，學生會分流到三種學校：
+   - **Fachschule**：職業學校，學習電工、木工等技能。
+   - **Mittelschule**：商業與經濟導向。
+   - **Gymnasium**：專門為進入大學做準備。
 
-在討論「聖經無誤」（Inerrancy）時，教師提出了一個關鍵的區分：我們所主張的「無誤」，是指聖經作者在原文中所要傳達的原意。翻譯本本身並非無誤的啟示，但若翻譯能忠實地再現作者的原意，那麼該譯本在傳遞真理上就是無誤的。
+更複雜的是，海德堡當時有三種不同類型的 *Gymnasium*（科學、現代語言、古典語言）。當我說「我的孩子讀 *Gymnasium*」時，單單一個詞彙根本無法傳達其背後的教育體系與學術路徑。翻譯時，我們往往只能選擇「保留原文並加上長篇註釋」，或者「尋找一個不完美的近似詞」。這就是翻譯聖經時我們所面臨的困境。
 
-教師強調，我們不應認為現有的主流譯本（如 King James Version, New King James Version 等）充滿錯誤。然而，對於視聖經為神聖之道的信徒而言，我們對翻譯的精確度有極高的要求。教師以「象牙肥皂」（Ivory soap）的廣告詞「99.44% 純淨」為例，指出這種標準在商業上或許足夠，但在面對神的話語時，我們絕不能滿足於「幾乎完美」。雖然在今生我們無法達到絕對的完美，但這種對精確度的追求，正是推動翻譯不斷修訂的動力。
+### 聖經中的文化翻譯難題：約瑟與馬利亞的關係
 
-### 翻譯哲學：逐字翻譯與意譯
+將這種困境應用到聖經中，請看馬太福音 1:18-24。這段經文描述了約瑟與馬利亞的關係：
+- 18 節稱他們為「訂婚」（betrothed）。
+- 19 節稱約瑟為「丈夫」（husband），且他打算「離婚」（divorce）。
+- 20 節與 24 節又稱馬利亞為他的「妻子」（wife）。
 
-翻譯聖經時，主要存在兩種哲學取向：
+你們可能會問：他們到底是訂婚還是結婚？答案是：兩者皆是，但又不完全等同於現代意義。在當時的文化中，訂婚是一種具有法律約束力的契約，雙方在法律上已被視為夫妻，儘管尚未發生性關係。若要解除這種關係，必須經過「離婚」程序。如果你將其翻譯為現代的「訂婚」（engagement），現代讀者會誤以為這只是「穩定交往」的關係，從而無法理解為什麼約瑟需要「離婚」，也無法理解為什麼馬利亞若與他人發生關係會被視為「姦淫」。
 
-1.  **逐字翻譯（Word-for-word / Formal Equivalence）：** 如 King James, American Standard, RSV, New American Standard。其目標是尋找原文在目標語言中最接近的對等詞。例如在《以賽亞書》53:6，逐字翻譯會保留原文的意象。
-2.  **意譯（Thought-for-thought / Dynamic Equivalence）：** 如 NIV, Revised English Bible。其目標是傳達作者的原意，而非僅僅是詞彙的對應。
+這提醒我們，聖經翻譯不僅是詞彙的轉換，更是文化世界的轉譯。如果我們對讀者說「耶穌像羊被牽到宰殺之地」，對於從未見過羊的愛斯基摩人來說，這句話毫無意義。翻譯者必須在「忠於原文」與「讀者理解」之間尋找平衡。
 
-教師指出，意譯法在處理性別包容性語言（Gender-inclusive language）時面臨挑戰。例如希臘文的 *adelphoi*（弟兄們）在教會語境中通常指「弟兄姊妹」。逐字翻譯傾向保留「弟兄」，而意譯則傾向改為「弟兄姊妹」。教師以《馬可福音》8:34 為例，說明當原文使用陽性單數代名詞（*tis*，意為「任何人」）時，翻譯者必須在「保留原文陽性詞彙但解釋其集體含義」與「使用性別中立的代名詞」之間做出抉擇。教師認為，若目標是傳達作者原意，翻譯者有時必須在譯文中揭示原文中陽性詞彙所包含的「集體性」（Corporate usage）。
+### 翻譯的基礎：最佳手稿的重要性
 
-### 譯本的用途與委員會制度
+一個好的譯本，其品質絕不能超越它所依據的底本。我們必須基於現存最古老、最可靠的希臘文與希伯來文手稿。
 
-教師對於如何選擇譯本給出了實用的建議：
-*   **研讀與比較：** 若要進行嚴謹的經文研究，特別是比較《符類福音》（Synoptic Gospels），RSV 是首選，因為其逐字翻譯的特性最適合學術對照。
-*   **閱讀與教導：** 若是為了個人閱讀或兒童教導，NIV、Revised English Bible 或 New Living Bible 則更為流暢。
+#### 伊拉斯謨（Erasmus）與《公認經文》（Textus Receptus）
+威廉·廷代爾（Tyndale）翻譯新約時，使用的是伊拉斯謨編輯的希臘文版本。伊拉斯謨是文藝復興時期的天才學者，但他當時編纂《公認經文》（*Textus Receptus*）時，手邊僅有四份 12 至 14 世紀的希臘文手稿。甚至，他手上的啟示錄手稿缺了最後六節，他竟直接將拉丁文《武加大譯本》（Vulgate）回譯成希臘文補上。這意味著，他所使用的底本中，有一部分在歷史上從未存在於任何希臘文手稿中。
 
-此外，教師強烈傾向於「委員會翻譯」（Committee project）而非「個人翻譯」。委員會能提供制衡，防止單一譯者將個人的偏見或錯誤解讀強加於譯文中。
+#### 現代文本批判的進展
+自那時起，我們發現了約 5,500 份新的希臘文手稿，其中許多比伊拉斯謨當年的底本早了 1,000 年，例如《梵蒂岡抄本》（*Codex Vaticanus*）和《西奈抄本》（*Codex Sinaiticus*）。這些手稿比《公認經文》的基礎早了 800 年。
 
-### 聖經註腳與研讀本的潛在風險
+我們在處理這些手稿差異時，必須保持謙卑。例如《約翰一書》5:7 關於「天上有三位作見證」的經文，在所有早期的希臘文手稿中根本不存在。這段經文是後來才被加入的，甚至連伊拉斯謨本人最初都不想收錄，直到有人為了讓他收錄而偽造了一份 16 世紀的手稿。當我們面對這些文本批判（Textual Criticism）的問題時，我們不能因為「擔心破壞讀者的信心」而拒絕使用最古老、最準確的證據。
 
-教師對聖經中的「註腳」（Footnotes）和「研讀本聖經」（Study Bibles）表達了深切的憂慮。他指出，讀者往往會將聖經本文的「無誤權威」不自覺地投射到註腳上。當註腳的解釋與讀者的認知衝突時，讀者常會因為「這是聖經裡寫的」而盲目接受註腳的觀點，忽略了註腳僅是譯者或編輯的個人見解。這種對註腳的過度信賴，可能會導致讀者在解經上失去批判性思考的能力。
+#### 牧者的責任
+作為牧者，我們在講台上處理這些問題時，必須具備愛心與耐心。如果你的會眾對聖經有深厚的敬畏之心，他們會理解你對上帝話語的忠誠。當你解釋說「最古老的手稿中沒有這段經文」時，你不是在刪減聖經，而是在拒絕人為的添加。我們追求的是最接近原作者筆下的文字，這才是對上帝話語真正的敬畏。
 
-### 案例分析：加拉太書 3:23-28
+最後，無論是舊約死海古卷（Qumran）的發現，還是新約手稿的比較，原則都是一樣的：我們越接近原稿的年代，抄寫錯誤和人為增補的可能性就越低。這不是機械式的學術遊戲，而是為了確保我們所讀的，確實是上帝所默示的真理。
 
-教師最後透過《加拉太書》3:23-28 的六種譯本對照，展示了翻譯如何影響神學理解：
 
-*   **「律法」的角色：** 某些譯本可能讓人誤以為「律法」是在「信心」來到之前才存在，而忽略了保羅所指的「信心」是指基督信仰。此外，律法是「監獄般的看守」還是「引導我們到基督面前的導師」（Schoolmaster），在不同譯本中呈現出截然不同的語氣。
-*   **「在基督裡」與「信基督」：** 關於「因信基督耶穌」是形容詞用法（Faith in Christ）還是副詞用法（In Christ Jesus），這直接影響了對救恩論的理解。
-*   **神學偏見的干擾：** 教師提到 NIV 早期版本在《加拉太書》3:27 的翻譯上，曾因神學偏見（如加爾文主義對「穿戴基督」是主動還是被動的爭議）而出現偏差，後來才進行了修正。
+## Lesson 4: 釋經學問題（二）：聖經翻譯的原則 (Hermeneutical Issues (Part 2))
 
-這些例子說明，翻譯不僅是語言的轉換，更是神學的詮釋。譯者在翻譯過程中的神學立場，往往會隱微地影響讀者對經文的理解。因此，研讀聖經時，參考多種譯本並保持批判性的閱讀，是每一位信徒應具備的基本素養。
+> **大綱對照：**
+> 本次課堂內容並未遵循所提供的「釋經學問題（第二部分）」大綱。所提供的原始大綱似乎是針對釋經學方法論的概論，但實際課堂內容聚焦於「聖經翻譯的原則與實務」。因此，我將依照課堂實際講授的順序，針對聖經翻譯的六大核心原則進行深入解析。
+
+
+
+在探討釋經學時，我們必須處理一個基礎問題：我們所閱讀的譯本是否忠實地傳達了原文的意涵？翻譯不僅是語言的轉換，更是釋經的第一步。如果譯本本身存在偏差或過時，我們的釋經工作就會從錯誤的基礎開始。以下我將從六個層面，為你們解析一個理想的聖經譯本應具備的特質。
+
+### 一、 追求準確性 (Be Accurate)
+
+我們對譯本的第一要求是「準確」。這意味著譯者必須運用最新的語言學與文化研究成果。自 1611 年《欽定本聖經》（King James Version, KJV）問世以來，我們對聖經原文的理解已大幅提升。例如，我們現在能更精確地辨識聖經中的詩體結構，這在 1700 年代以前是幾乎無人知曉的領域。
+
+然而，準確性絕非「意譯」的藉口。我曾提到《當代聖經》（The Living Bible）在約翰福音 21:2 的翻譯，它將「西庇太的兩個兒子」改譯為「我（約翰）和我的兄弟雅各」。雖然譯者可能推測約翰是作者，但這並非原文的字面意義。我們必須堅持：**譯者不應將自己的推論強加於文本之上。** 準確的翻譯必須忠於原文所寫的，而非譯者認為「應該」寫的。
+
+此外，我們必須區分「手稿的準確」與「印刷的準確」。歷史上出現過許多著名的「印刷錯誤」，例如 1631 年的「邪惡聖經」（Wicked Bible），因漏掉了一個「不」字，竟將第七誡印成了「你當犯姦淫」。這些案例提醒我們，出版過程中的疏忽會嚴重扭曲神的話語。同時，準確性與可讀性之間往往存在張力，如《新美國標準版》（NASB）雖然在逐節分析上極其精確，但若要流暢閱讀長篇經文，其語法有時顯得過於生硬。
+
+### 二、 追求可理解性 (Be Understandable)
+
+譯本必須是可理解的，但這不能以犧牲準確性為代價。有些譯本為了追求通俗易懂，會將原文中原本模糊或艱澀的地方強行「解釋清楚」。這種做法雖然讓讀者感到舒適，卻可能掩蓋了原文的張力。我們在翻譯時，必須在「準確」與「可讀」之間尋求平衡，確保當代讀者能讀懂，同時又不至於將譯本變成一本「註釋書」。
+
+### 三、 追求當代性 (Be Contemporary)
+
+語言是活的，會隨著時間演變。KJV 雖然經典，但其中許多詞彙在四百年後的今天已完全變質。例如，哥林多前書 13 章的「慈愛」（Charity），在現代英語中常被誤解為「救濟金」或「施捨」，而非原文所指的「愛」（Agape）。
+
+我年輕時曾被羅馬書 1:13 的「let」（阻擋）一詞困擾，因為在 1611 年，「let」意為「阻礙」，而現代英語中它卻是「允許」的意思。這種詞義的逆轉在聖經中比比皆是，如「waxed strong」（變強壯）、「wist」（知道）、「Holy Ghost」（聖靈，現代英語中 Ghost 帶有負面靈異色彩）。如果譯本不與時俱進，讀者就會在閱讀中產生嚴重的誤解。因此，聖經翻譯必須持續更新，以反映當代語言的實際用法。
+
+### 四、 追求普世性 (Be Universal)
+
+當我們談論「普世性」時，是指譯本應適用於全球英語使用者。許多譯本（如《新英語聖經》NEB）過於偏向英國慣用語，例如在約翰福音 21:6 中使用「starboard」（右舷），這對不熟悉航海術語或英國文化的讀者來說是極大的障礙。
+
+此外，文化背景的差異也會造成誤解。馬可福音 2:23 提到門徒掐了「麥穗」（corn），美國讀者會聯想到「玉米」（maize），而英國讀者則理解為「穀物」。為了達到普世性，翻譯委員會必須包含來自美國、英國、加拿大、澳洲、南非等地的學者，以確保譯文不會在某個文化中變成令人費解的方言或錯誤的成語。
+
+### 五、 追求莊重性 (Be Dignified)
+
+譯本應保持莊重，不應為了追求「震撼效果」或「政治正確」而使用粗俗的語言。我曾看過《當代聖經》早期版本中，將掃羅對約拿單的責罵譯為粗俗的髒話（son of a bitch），這不僅破壞了經文的莊重感，更轉移了讀者的注意力，使人無法專注於神的話語。同樣地，某些過於「接地氣」的譯本（如《棉花地版》Cotton Patch Version）使用極度口語化的詞彙，雖然生動，卻失去了聖經作為神聖啟示的尊嚴。
+
+### 六、 避免神學偏見 (Avoid a Theological Bias)
+
+這是最重要的一點。譯者若帶著神學預設去翻譯，就會扭曲原文。例如，耶和華見證人的譯本為了否認基督的神性，刻意修改了相關經文。即便是在傳統教會的譯本中，我們也要警惕。例如《耶路撒冷聖經》在馬太福音 1:25 的翻譯中，為了支持馬利亞「終身童貞」的神學觀點，刻意將原文的「直到」（until）處理得模糊不清，這在學術上是站不住腳的。
+
+我曾參與一間大型教會的聖經選用研究，他們問：「哪一個譯本有最高的基督論（Christology）？」我的回答是：**我們不需要幫助聖經。** 如果我們為了強調基督的神性而刻意在譯文中加入神學註解，那就不再是翻譯，而是篡改。我們對譯本的唯一要求是：它是否最準確地傳達了原文？讓聖經說它自己要說的話，這才是我們對神的話語應有的敬畏。
+
+
+## Lesson 5: 釋經學中的各類議題 (Various Issues in Hermeneutics)
+
+> **大綱對照：**
+> 本次課程內容並未嚴格遵循所提供的大綱。講者將重點集中於「翻譯哲學」、「翻譯中的性別語言處理」、「委員會翻譯與個人翻譯的優劣」，以及「譯本中的神學偏見與註腳問題」。因此，以下說明將直接依照講者的教學順序進行深度解析。
+
+
+
+### 翻譯的動態性與「最終譯本」的迷思
+
+我們必須先建立一個認知：沒有任何一種翻譯是「最終的」。語言是活的，隨著時間推移，詞彙的意義會發生偏移。即便我們擁有最完美的希臘文與希伯來文底本，並在 2002 年翻譯出完美的英文譯本，到了 2050 年，這些語言的表達方式必然會改變。我們的目標是向 2050 年的人傳達神的話語，而不是強迫他們將思維轉換回 2002 年。因此，翻譯工作必須不斷更新，以確保神無誤（inerrant）的話語能精確地傳遞給當代讀者。
+
+當我們談論聖經的「無誤性」時，我所堅持的是：**聖經作者原意所表達的內容是無誤的**。翻譯本身並非無誤，但若翻譯能忠實地再現作者的原意，那麼它就是無誤的。我們對翻譯的精確度要求極高，因為這是神的話語，我們絕不能滿足於「差不多就好」。這不是像廣告中說的「99.44% 純淨」的肥皂，我們追求的是對神話語的極致忠誠。
+
+### 翻譯哲學：字對字與意對意
+
+在翻譯聖經時，你必須面對一個核心的哲學選擇：你是要採取「字對字」（word-for-word）還是「意對意」（thought-for-thought）的翻譯策略？
+
+*   **字對字（形式對等，Formal Equivalence）：** 如《欽定本》（KJV）、《新美國標準版》（NASB）或《修訂標準版》（RSV）。這類翻譯試圖尋找最接近的英文對應詞。例如在以賽亞書 53:6，字對字翻譯會保留其原始意象。
+*   **意對意（動態對等，Dynamic Equivalence）：** 如《新國際譯本》（NIV）或《現代中文譯本》（雖然講者未提中文，但概念相同）。這類翻譯更看重如何最好地表達作者的意圖，而非僅僅是詞彙的對應。
+
+這兩種路徑在處理「性別語言」時會產生巨大的差異。例如希臘文的 *adelphoi*（弟兄們），在字對字翻譯中可能直接譯為「弟兄們」，但這在現代語境中可能讓人誤以為僅指男性；而意對意翻譯則可能譯為「弟兄姊妹」，以反映其群體性的原意。
+
+### 性別語言與翻譯的陷阱
+
+在處理馬可福音 8:34 時，我們看到翻譯如何影響讀者對「群體性」的理解。希臘文的 *tis*（任何人）可以指男性或女性，但隨後的代名詞在希臘文中是陽性單數。字對字翻譯常保留陽性代名詞（him），並期待讀者理解這是一種「群體性用法」；而意對意翻譯（如《新修訂標準版》NRSV）則傾向改為複數（them），以避免性別排他性。
+
+然而，我必須提醒你們，過度追求「性別中立」有時會破壞聖經的文學結構。例如在路加福音中，路加刻意將男性與女性的例子並列（如撒種的比喻與麵酵的比喻，或失去羊的男人與失去錢的女人）。若翻譯為了消除性別語言，將「男人」改為「人」，就會抹殺路加刻意安排的男女對稱結構。這是我對 NRSV 感到失望的地方，它有時為了政治正確而犧牲了聖經作者的文學意圖。
+
+### 委員會翻譯與個人翻譯的權衡
+
+我個人對於「由個人獨立翻譯」的聖經版本持保留態度。如果翻譯者是個人，當有人質疑其翻譯時，他可能會說：「這是我的翻譯，你不喜歡就自己去翻。」但如果是「委員會翻譯」（Committee project），則存在一種制衡機制。委員會成員會互相挑戰，確保翻譯不被個人的偏見所左右。這種集體審查機制賦予了譯本更高的可靠性。
+
+此外，我對聖經中的「註腳」（footnotes）和「研讀本聖經」（study Bibles）也非常謹慎。當你還是個年輕基督徒時，你很容易將聖經正文的「無誤性」不自覺地轉移到註腳上。如果你對某個經文有疑問，而註腳給出了一個解釋，你往往會認為「這是聖經說的」。但寫註腳的人可能和我一樣，並不比我聰明。我們必須警惕，不要讓人的解釋披上神聖的外衣。
+
+### 實例分析：加拉太書 3:23-28 的翻譯差異
+
+為了讓你們理解翻譯差異如何影響神學理解，我們來看加拉太書 3:23-28 的六種譯本比較。
+
+1.  **「律法」的角色：** 某些譯本讓人感覺我們在「信心」來到之前，是被律法「監禁」的。但這是否意味著律法是一個惡意的監獄看守？還是像「訓蒙的師傅」（schoolmaster / disciplinarian）一樣，是為了引導我們歸向基督？不同的翻譯詞彙會引導讀者產生完全不同的神學印象。
+2.  **「在基督裡」還是「因信基督」：** 經文中的「在基督耶穌裡」究竟是形容詞（修飾信心）還是副詞（描述狀態）？這直接影響到我們對救恩論的理解。
+3.  **神學偏見的干擾：** 早期 NIV 在加拉太書 3:27 的翻譯中，將「你們已經穿上了基督」譯為被動語態，這反映了當時翻譯委員會中加爾文主義者的神學偏見（認為是神為你做的，而非你主動做的）。後來他們修正了這一點，這證明了即便是專業的委員會，也難免會受到自身神學背景的影響。
+
+總結來說，我們在閱讀聖經時，必須具備批判性思維。了解翻譯的哲學、認識委員會翻譯的必要性，並警惕註腳可能帶來的誤導，這些都是我們作為嚴謹的聖經研讀者必須具備的基本功。
 
 
 ## Lesson 6: 詮釋學導論（上） (Introduction to Hermeneutics (Part 1))
 
 > **大綱對照：**
-> 本文並未嚴格遵循所提供的課程大綱。講師在本次課程中主要集中於「詮釋學的基本定義」以及「意義的決定權歸屬」（作者、文本、讀者）這一核心爭議。大綱中列出的「歷史文法法」、「正典進路」等具體方法論，在本次錄音內容中尚未展開討論。因此，下文將嚴格按照講師實際授課的邏輯順序進行深度解析。
+> 本次課程內容並未完全按照所提供的大綱進行。講員主要集中於「詮釋學的定義」以及「意義的決定權（作者、文本、讀者）」這一核心爭議。大綱中列出的「歷史文法法」、「正典進路」等後續專題，在本次錄音中尚未詳細展開。因此，以下說明將嚴格依照講員實際授課的邏輯順序進行編排。
 
 
 
-### 詮釋學的定義與詞源
-「詮釋學」（Hermeneutics）這個詞常讓初學者感到畏懼，但其實它源自希臘文動詞 *hermeneuō*，意指「解釋」或「說明」。在路加福音 24:27 中，耶穌向門徒解釋關於祂自己的經文時，所用的正是這個動詞。
+### 詮釋學（Hermeneutics）的定義與詞源
 
-有趣的是，在使徒行傳 14:12 中，路司得的百姓將保羅稱為「希耳米」（Hermes）。在希臘神話中，希耳米是眾神的信使，負責將神的訊息傳達給人類。保羅被稱為希耳米，正是因為他是主要的發言者，承擔了「詮釋者」的角色。因此，詮釋學並非高深莫測的學問，它的本質非常接地氣：就是人類在溝通中為了理解彼此而進行的解釋工作。
+很多時候，「詮釋學」（Hermeneutics）這個詞會讓人感到畏懼，但這其實是不必要的。這個詞源自希臘文動詞 *hermeneuō*，意為「解釋」或「說明」。我們可以在《路加福音》24:27 看到這個詞的應用，經文描述耶穌向門徒「講解」（interpreted/explained）聖經中關於祂自己的事。
 
-### 溝通的三大要素
-任何形式的溝通（無論是口頭還是書面）都必須具備三個基本要素：
-1. **作者（Author / Encoder）**：編碼者，即訊息的發出者。
-2. **文本（Text / Code）**：編碼的內容，即訊息本身。
-3. **讀者（Reader / Decoder）**：解碼者，即試圖理解訊息的人。
+此外，《使徒行傳》14:12 提供了一個有趣的文化背景：當保羅在路司得行神蹟後，眾人稱巴拿巴為「宙斯」（Zeus），稱保羅為「希耳米」（Hermes，即赫爾墨斯）。為什麼稱保羅為希耳米呢？因為他是「領頭講話的」。在希臘神話中，希耳米正是眾神的「詮釋者」（*hermeneus*），負責將神的信息傳達給人類。因此，詮釋學的本質非常平實：它就是關於如何理解與傳達信息的學問。我們不需要把它想得過於複雜，因為人類幾千年來一直在進行溝通，這是一項非常基礎的活動。
 
-這三者缺一不可。然而，詮釋學的核心爭議在於：這三者之中，究竟誰才是「意義的決定者」？
+### 溝通的三大要素：作者、文本、讀者
 
-### 意義的決定權：三種主要觀點
+在任何形式的溝通（無論是口頭還是書面）中，都必須具備三個基本要素：**作者（Author）**、**文本（Text）**、**讀者（Reader）**。語言學家有時稱之為「編碼者」（encoder）、「代碼」（code）與「解碼者」（decoder）。
 
-#### 1. 文本中心論（The Autonomy of the Text）
-這種觀點認為文本是「自主的」（autonomous）。它主張文本一旦脫離作者，就成為一個獨立的藝術品，其意義與作者的意圖、寫作背景完全無關。
+問題在於，當我們面對一個文本時，究竟是誰決定了它的「意義」？這引發了詮釋學中三種主要的爭論方向：
 
-*   **新批評（New Criticism）**：在 20 世紀中葉，這一流派主張文學作品應被視為獨立的客體。他們認為詢問「保羅寫這段話時在想什麼」是毫無意義的，因為文本本身就承載了意義。
-*   **講師的批判**：講師指出，這種觀點在邏輯上有重大缺陷。文本本身是無生命的（墨水、紙張、石頭），無生命的物體無法「思考」，因此無法「產生意義」。意義是思想的建構，只有具備思考能力的作者或讀者才能建構意義。若將文本視為孤立的藝術品，就像是在棋局中只看棋盤上的棋子，卻無視棋手的策略與歷史，這會導致對溝通本質的誤解。
+#### 1. 文本決定論（The Text as Determiner）
+這種觀點認為文本是「自主的」（autonomous）。它主張文本本身就擁有意義，彷彿它是從天上掉下來的，與作者的意圖、寫作的歷史背景或地理空間毫無關係。
 
-#### 2. 讀者中心論（Reader-Response Approach）
-這是當代學術界與聖經研究中極為盛行的觀點。它主張意義並非「被發現」，而是由讀者「賦予」的。
+在 20 世紀中葉，這被稱為「新批評」（New Criticism）運動。他們認為文學作品應被視為一個獨立的對象。如果你在研讀《加拉太書》時，保羅本人突然走進教室告訴你他當時的意思，這種觀點會說：「那很有趣，但與文本無關。」他們將文本比作棋盤：你不需要知道棋手之前的策略，只需要看棋盤上現在的局面。
 
-*   **鏡子與窗戶的隱喻**：學者 Ziesler 提出，文本究竟是「窗戶」（讓我們看見另一個世界，即作者的世界）還是「鏡子」（反映讀者自己的光照）？讀者中心論傾向於將文本視為「鏡子」或「墨跡測驗」（inkblot），讀者看到什麼，意義就是什麼。
-*   **講師的擔憂**：這種觀點導致了「意義的多元化」。如果每個人都可以賦予文本自己的意義，那麼聖經就失去了客觀的權威。如果一個查經小組中每個人都說「這對我來說意味著……」，最終的結果就是聖經什麼意義都沒有。這反映了當代文化中對權威的普遍反叛——讀者拒絕讓作者（或神）的權威凌駕於自己的主觀感受之上。
+**我的反思：** 我認為這種觀點有一個致命的邏輯漏洞。文本是無生命的（墨水、紙張、石頭），它們無法思考。既然無法思考，它們就無法「產生」意義。意義是思想的建構，只有作者或讀者才能建構意義。因此，說「文本本身有意義」在邏輯上是站不住腳的。
 
-#### 3. 作者中心論（Author-Oriented Meaning）
-這是傳統且合乎常理的詮釋路徑。它主張意義在於作者寫作時所意圖表達的內容。
+#### 2. 讀者決定論（The Reader as Determiner）
+這是當代學術界與聖經研究中非常強勢的觀點。它認為意義是由讀者「賦予」的。讀者不是在「發現」或「解碼」意義，而是在「供應」意義。
 
-*   **溝通的本質**：當我們閱讀任何書籍或聽人說話時，我們的目標都是為了理解對方想表達什麼。如果我們在考試中試圖用「我自己的解讀」來回答教授的問題，教授會給我們不及格，因為溝通的基礎在於理解發訊者的意圖。
-*   **聖經研究的應用**：我們在研讀加拉太書遇到困難時，會去參考羅馬書，是因為我們相信這兩卷書的作者（保羅）是同一人，且在相似的背景下思考。這種「常識性」的做法，正建立在「作者決定意義」的預設之上。如果我們不尋求作者的意圖，我們就不是在進行溝通，而是在進行一種主觀的藝術賞析。
+這種觀點認為，如果每個人讀出來的意義都不同，那完全沒問題。這就像看雲朵，你看到的是一隻狗，我看到的是一艘船，我們都對。這種觀點將文本視為「墨跡測驗」（inkblot），讀者就是意義的創造者。
 
-### 對「作者意圖」的常見反駁與回應
+**我的警告：** 這種觀點在當今的聖經研究中非常流行，許多福音派學者也深受影響。但我對此感到非常不安。如果聖經的意義取決於讀者，那麼聖經就失去了客觀的權威。正如我常說的，如果聖經可以有無限種意義，那麼它實際上就「沒有」任何確定的意義。
 
-針對「作者中心論」，學界常提出一些反駁，講師逐一給予了回應：
+#### 3. 作者決定論（The Author as Determiner）
+這是傳統的、也是我所堅持的觀點。我們認為，文本的意義在於作者在寫作時「有意識地想要表達的內容」。當我們研讀《羅馬書》時，我們追求的是保羅當時寫下這些字句時的意圖。
 
-*   **意圖謬誤（Intentional Fallacy）**：有人認為我們無法重溫作者當時的心理體驗。
-    *   *回應*：我們並非要重溫作者的心理感受（例如保羅寫作時是否有腳氣病並不重要），我們是要理解作者透過文字所傳達的「意義」。這兩者有本質的區別。
-*   **作者能力不足**：有人認為作者可能無法精確表達其意圖。
-    *   *回應*：雖然人類有時會詞不達意，但大多數作者（尤其是像保羅這樣的智者）通常具備足夠的表達能力。更重要的是，對於基督徒而言，聖經作者受聖靈啟示，這保證了他們能將神所要傳達的意義準確地表達出來。
-*   **歷史距離（Radical Historicism）**：有人認為現代人無法理解古代文化。
-    *   *回應*：雖然文化差異確實存在，但人類擁有共同的形象（上帝的形象）與基本需求（對愛、永生、希望的渴望）。這些共同的人性使得跨越時空的溝通成為可能。人類學家雖然聲稱原始部落難以理解，但仍能透過解釋將其傳達給大眾，這證明了理解並非不可能。
+這也是我們日常溝通的常識。當你聽我講課時，你是在努力理解「我」的意思。如果你在考試中寫下你自己的解讀，而忽略了我的原意，我只能給你不及格。我們之所以在研讀《加拉太書》遇到困難時會去參考《羅馬書》，是因為我們承認這兩卷書出自同一位作者，我們是在努力進入作者的思想世界。
 
-### 總結
-講師強調，詮釋學不僅是學術議題，更關乎我們如何面對上帝的權威。若我們拒絕作者（上帝）的意圖，我們就是在拒絕權威，轉而將自己置於意義的中心。因此，作者導向的詮釋路徑，不僅是溝通的必然要求，更是對聖經作為神的話語應有的尊重。
+### 對作者意圖論的常見反駁與回應
 
+有人會提出「意圖謬誤」（Intentional Fallacy）來反駁作者決定論，主要有兩點：
 
-## Lesson 7: 釋經學導論（第二部分） (Introduction to Hermeneutics Part 2)
+*   **反駁一：我們無法重現作者的經驗。**
+    批評者認為我們無法回到過去，無法體驗保羅當時的感受。**回應：** 這沒錯，但我們並不是要「重現」作者的心理狀態，我們是要「理解」作者透過文字傳達了什麼。當你看到「火災，請離開」的告示，你並不需要體驗寫告示者當時的焦慮，你只需要理解他傳達的指令。
 
-> **大綱對照：**
-> 本課講授內容與所提供的「大綱」並不相符。所提供的講義大綱似乎是關於釋經學（Hermeneutics）的宏觀歷史與方法論概覽，但實際的錄音內容則聚焦於「溝通的三要素」（作者、文本、讀者）以及「意義、含義與重要性」的具體操作。以下解釋將嚴格遵循講員實際教授的內容順序進行整理。
+*   **反駁二：作者可能無法精確表達其意圖。**
+    批評者認為作者可能詞不達意。**回應：** 雖然這在人類溝通中偶爾發生，但我們通常假設作者是具備溝通能力的。更重要的是，作為基督徒，我們相信聖經是受聖靈默示的。如果上帝要透過作者說話，祂必然會確保作者能將其意圖充分地傳達給讀者。
+
+### 結論：為什麼這很重要？
+
+這不僅僅是學術爭論，它關乎權威。這場關於「誰決定意義」的爭戰，同樣發生在憲法解釋（如美國最高法院大法官的提名爭議）與藝術鑑賞中。當我們拒絕作者的權威，實際上是在進行一場對權威的叛逆——我們不願讓保羅（或上帝）的意圖來規範我們的閱讀。
+
+我們必須回到最基本的原則：溝通的本質就是理解對方。若我們放棄了尋求作者的意圖，我們就放棄了溝通本身，轉而進入了一種自我中心的藝術欣賞。作為聖經的讀者，我們蒙召去謙卑地順服在作者——最終是聖靈——的意圖之下。
 
 
-
-### 作者的角色與意義的恆定性
-講員首先強調，文本並非憑空出現，而是歷史中某個思考主體（作者）為了溝通而產生的結果。作者在溝通過程中「立意」（willed a meaning），即賦予文本特定的意義。
-
-此處的核心神學與邏輯觀點在於：**意義是鎖定在歷史中的（Meanings are locked forever in history）**。因為作者的意圖是過去發生的事實，而歷史一旦發生便無法改變，因此文本的意義不會隨著時間推移而改變。講員以自己撰寫書籍為例，說明作者可以公開撤回（recant）或修正觀點，甚至出版第二版，但這並不代表「第一版的文字」在當時有了新的意義；文字在當時所承載的意義已經成為歷史，是不可逆的。
-
-### 意義的「模式」與「含義」 (Implications)
-講員透過保羅在以弗所書 5:18 的命令「不要醉酒」來探討「意義的模式」（pattern of meaning）。他指出，雖然保羅當時所指的「酒」是稀釋過的葡萄酒，但這條命令背後存在一個「原則」（principle）或「範式」（paradigm）。
-
-*   **原則的延伸**：當我們面對現代的烈酒（如威士忌、伏特加）或毒品時，雖然保羅當時並未提及這些具體事物，但這些事物符合「導致失去理智控制」這一原則。因此，這些現代事物包含在保羅當初的命令含義中。
-*   **界限與誤用**：講員提醒，這並非意味著我們可以隨意將任何事物（如吃太多漢堡或腰果）納入此原則。我們必須先找出文本背後的「模式」，確認該事物是否確實導致了「失去對思考與行為的控制」。
-*   **耶穌的教導**：馬太福音 5:21 之後的「反合性教導」（antithesis）即是此邏輯的體現。耶穌並非要廢除舊約命令，而是揭示其深層的「含義」。例如，「不可殺人」的含義延伸至「不可恨人」，因為恨是邁向殺人的心理路徑。
-
-### 溝通的隱含意義與作者意圖
-講員使用「給孩子零用錢」的例子說明：當父母禁止孩子去 Target 買遊戲時，即便父母沒有列出 Walmart 或 K-mart，孩子也明白父母的意圖是「不要買那個遊戲」。這說明了**作者在溝通時，往往包含了他自己可能未曾意識到，但卻客觀存在的隱含意義（implications）**。
-
-關於「神是聖經的作者」這一神學議題，講員提出了一個重要的歸正神學視角：雖然神是最終作者，但聖經並未宣稱神是「直接的執筆者」。神的意義是透過祂所揀選的代言人（使徒、先知）傳達的。因此，**要明白神的意思，必須先明白這些受靈感啟示的作者的意思**。若有人聲稱自己找到了「神的意思」，卻與保羅或路加的原意相悖，那便不是神的意思。
-
-### 關於「字面意義」 (Literal Meaning)
-講員重新定義了宗教改革時期所強調的「字面意義」：**字面意義就是作者透過文字所要表達的意思**。這並不排除比喻（figurative language）或誇張法（hyperbole）。
-*   例如，「若右眼叫你跌倒，就把它剜出來」，其字面意義並非真的要自殘，而是作者要表達「沒有任何罪值得讓人下地獄，悔改的代價再大也值得」。這才是該文本的「字面意義」。
-
-### 文本的角色：可分享性 (Share-ability)
-文本作為溝通的媒介，必須遵循語言的規範（norms of language）。講員引用法語詞彙 *lingua*（語言規範）與 *parole*（話語/言說），說明作者為了被理解，必須使用受眾能懂的詞彙與語法。
-*   **詞典與文法**：字典（lexicon）幫助我們理解詞彙的規範意義，而文法（grammar）則幫助我們理解詞彙在組合中的運作方式。
-*   **主旨與意義的區別**：講員區分了「主旨」（subject matter）與「意義」（meaning）。例如，研究加利利海的船隻結構或風暴成因是研究「主旨」，但研究馬可福音為何記載耶穌平靜風浪（為了顯明祂是神的兒子）才是研究「意義」。
-
-### 讀者的角色：意義、重要性與應用
-最後，講員區分了三個關鍵概念：
-1.  **含義 (Implications)**：由作者決定，讀者負責「發現」。
-2.  **重要性 (Significance)**：涉及讀者的意志與回應（Yes or No）。在意義與含義上，作者是王；但在重要性上，讀者是王。
-3.  **應用 (Application)**：講員刻意不使用此詞，因為他認為「應用」是「含義」與「重要性」的混合體（compound）。為了保持釋經的嚴謹，他傾向將這兩者分開處理，以避免混淆。
-
-讀者在閱讀時，首要任務是識別「文學形式」（literary form），因為不同的形式（如詩歌、比喻、敘事）有不同的詮釋規則。我們必須學習這些古老的規則，才能準確地挖掘出作者原本的意義。
-
-
-## Lesson 8: 詮釋學的詞彙（上） (Vocabulary for Interpretation (Part 1))
+## Lesson 7: 詮釋學導論（二） (Introduction to Hermeneutics (Part 2))
 
 > **大綱對照：**
-> 本次課程內容並未遵循所提供的「大綱」。教師在課堂中實際探討的是「意義」（Meaning）的定義，以及「含義」（Implications）的性質與應用。因此，下文將直接根據教師課堂講授的邏輯順序進行整理與解釋。
+> 本次課程內容並未嚴格遵循所提供的大綱。講者將重點聚焦於「溝通的三大要素」（作者、文本、讀者）以及詮釋學中的核心概念（意義、蘊含、重要性），而非按照大綱中關於詮釋學歷史或流派的分類進行教學。以下說明將完全依照講者的實際授課順序進行編排。
 
 
 
-### 意義（Meaning）的定義與核心要素
+### 溝通中的作者角色：意義的鎖定
 
-在詮釋學（Hermeneutics）中，精確定義「意義」是所有解經工作的基石。教師提出了一個核心定義，並強調必須將「有意識地」（consciously）納入其中：
+在我們探討詮釋學時，首先要釐清溝通過程中的三個核心角色。我們從「作者」開始。請記住，文本並非憑空出現，也不是歷史長河中自然生成的產物。文本的出現，意味著在過去的某個時間點，有一個具備思考能力的人，懷著溝通的意圖（willed a meaning），將其思想記錄在紙莎草、泥板或石頭上。
 
-**「文本的意義，是指作者透過其所使用的文字或可共享的符號，有意識地意欲傳達的意義模式（pattern of meaning）。」**
+這裡有一個關鍵的原則：**作者所要表達的意義，一旦寫下，就成為了歷史事實，從此無法改變。** 意義（meaning）是被鎖定在歷史之中的。即便作者後來反悔，或者寫了第二版來修正觀點，他也無法改變「第一版文本在當時所代表的意義」。這就是為什麼我們在解經時，必須回到作者寫作的當下，去尋求他當時究竟想說什麼。
 
-#### 為什麼要強調「有意識地」（Consciously）？
-教師之所以堅持加入「有意識地」這一詞，是為了排除現代詮釋學中常見的錯誤傾向——即將「作者本人完全未察覺的潛意識」視為文本的意義。若我們允許將作者完全無意識的心理狀態解讀為文本意義，那麼解經將會失去客觀標準，淪為讀者主觀的投射。
+### 蘊含（Implications）與原則（Pattern of Meaning）
 
-#### 作者、文本與讀者的三位一體
-在詮釋過程中，有三個實體同時存在：
-1. **作者（Author）：** 透過意志（will）賦予文本意義。
-2. **文本（Text）：** 透過可共享的符號（shareable symbols）呈現意義。
-3. **讀者（Reader）：** 透過符號的可共享性（shareable nature）來理解意義。
+當我們談到作者的意義時，必須區分「明確的陳述」與「蘊含」。以保羅在以弗所書 5:18 的教導為例：「不要醉酒」。保羅當時所指的「酒」，是當時常見的稀釋葡萄酒（約三份水兌一份酒）。
 
-雖然作者可能未完全意識到其所傳達之意義模式中的所有細節，但這些意義仍是作者「有意識地」意欲傳達的。這意味著意義並非隱藏在作者的潛意識裡，而是存在於作者所選擇的符號系統中。
+#### 模式的辨識（Pattern of Meaning）
+如果保羅今天來到我們教會，發現我們喝的是威士忌，他會說：「我當時只說了酒，沒說威士忌，所以沒關係嗎？」當然不會。保羅的命令背後存在著一個「原則」或「模式」（pattern of meaning）。這個原則是：**不要攝取那些會讓你失去理智控制、無法正確思考的物質。**
 
----
+因此，威士忌、伏特加、毒品等，雖然保羅在寫作當下並未直接提及，但它們完全符合這個「模式」。我們在解經時，並非在創造新的意義，而是在「發現」作者當時意圖中已經包含的蘊含。這就像父母告訴孩子「不要去 Target 買遊戲」，即便孩子改去 Walmart 買，他依然違反了父母「不要買那個遊戲」的意圖。作者的意圖中，往往包含了他自己可能未曾意識到，但邏輯上必然存在的蘊含。
 
-### 含義（Implications）：定義與範疇
+#### 耶穌的「反論」（Antithesis）
+我們在馬太福音 5:21 之後看到的「你們聽見有話說……只是我告訴你們……」，正是這種原則的體現。耶穌並非要推翻舊約，而是將舊約誡命的「蘊含」揭示出來。例如，「不可殺人」的蘊含延伸到了「不可恨人」。我們在解經時，就是要找出這些從原則中流淌出來的、必然的蘊含。
 
-「含義」（Implications）是指那些作者在寫作時可能未曾明確意識到，但卻合乎邏輯地包含在作者所意欲傳達的「意義模式」之中的內涵。
+### 關於「神是作者」的迷思
 
-#### 區分「意義」與「含義」
-*   **意義（Meaning）：** 作者有意識地意欲傳達的模式。
-*   **含義（Implications）：** 從該模式中自然延伸出的應用或推論。
+有些人會問：「難道神不是聖經的作者嗎？為什麼一直強調保羅、路加或馬可？」這聽起來很屬靈，但卻不準確。聖經中沒有一本書宣稱神是其「直接的作者」（immediate author）。神是透過祂所授權的發言人（先知、使徒）來傳達祂的意義。因此，要明白神的意思，我們唯一的途徑就是明白這些受感作者的意思。若有人宣稱他找到了「神的意思」，卻與作者的意思相違背，那他根本沒有找到神的意思。
 
-教師透過多個聖經實例說明了這一點：
+### 文本的角色：共享性（Share-ability）
 
-#### 實例一：加拉太書 5:2 與馬丁路德的應用
-保羅在加拉太書中警告，若依靠割禮（律法行為）來稱義，就是與基督的恩典隔絕。
-*   **保羅的原始意義：** 針對當時試圖透過割禮來「補足」救恩的猶太主義者（Judaizers）。
-*   **馬丁路德的含義：** 路德將此原則應用於當時教會販賣「贖罪券」的行為。雖然保羅當時並未直接討論贖罪券，但「靠行為稱義即拒絕基督恩典」這一核心原則，完全涵蓋了贖罪券的錯誤。這就是一個合法的含義。
+作者寫作的目的是為了被理解。為了達到這個目的，作者必須遵守語言的規範（norms of language），即法語中的 *langue*。如果作者想被理解，他就不能隨意發明詞彙的定義。
 
-#### 實例二：申命記 22:8（屋頂護欄）
-律法規定蓋新房時要為屋頂造護欄，以免有人跌落。
-*   **原則（Paradigm）：** 對他人生命安全的關懷。
-*   **含義的延伸：** 這不僅限於屋頂。在現代生活中，這延伸至游泳池的安全防護、對危險寵物的管理責任等。這些雖然不是經文當時的具體情境，卻是經文所傳達之「愛鄰舍」原則的必然含義。
+*   **詞典（Lexicon）與語法（Grammar）：** 詞典幫助我們理解詞彙在當時的常規意義；語法幫助我們理解這些詞彙在組合後的意義。
+*   **上下文（Context）：** 這是決定意義的關鍵。同一個詞（如「愛」）在不同的情境（如網球比賽中的零分、性關係、或基督徒的愛）下，意義截然不同。上下文限制了詞彙的可能範圍，使我們能精確鎖定作者的意圖。
 
-#### 實例三：哥林多前書 16:20（聖潔的親嘴）
-保羅勸勉信徒以「聖潔的親嘴」彼此問安。
-*   **核心原則：** 基督徒之間應有溫暖、聖潔的團契與問安。
-*   **文化差異：** 在不同文化中，表達溫暖的方式不同（握手、鞠躬、擁抱）。「親嘴」是當時文化的表達形式，而非原則本身。因此，我們不必強求在現代文化中實行親嘴，但必須實行「溫暖問安」這一核心原則。
+### 區分「主題內容」與「文本意義」
 
----
+這是一個極易混淆的領域。當我們閱讀使徒行傳或福音書時，我們可以從中挖掘大量的「主題內容」（subject matter），例如：當時的船隻結構、加利利海的地理、羅馬的公民法等。這些資訊很有價值，但它們不是「文本的意義」。
 
-### 關於「含義」的關鍵原則：作者的控制權
+以耶穌平靜風浪為例，你可以研究當時漁船的構造，這屬於「主題內容」。但馬可寫這段故事的「意義」，是為了彰顯耶穌是自然的主宰，是神的兒子。我們在解經時，必須區分這兩者，不要讓對歷史背景的考究取代了作者想要傳達的屬靈教導。
 
-教師特別提醒，含義並非由讀者任意發揮，而是由作者所設定的「意義模式」所控制。
+### 讀者的角色：意義、蘊含與重要性
 
-#### 橡樹的例子
-教師以「橡樹多麼美好啊！」這句話為例：
-*   若是一個**爬樹的小男孩**說的，其含義與「玩樂」有關。
-*   若是一個**木匠**說的，其含義與「木材品質」有關。
-*   若是一個**水利工程師**說的，其含義與「水土保持」有關。
+讀者的第一步是辨識「文學形式」（literary form）。比喻、詩歌、歷史敘事，它們的解讀規則完全不同。我們必須學習這些形式的規則，因為這是作者與當時讀者共享的默契。
 
-這證明了「含義」的範圍是由說話者（作者）的意圖所界定的。文本本身並沒有無限的含義，只有在作者意圖的框架內，含義才是合法的。
+最後，我們必須區分三個關鍵詞：
+1.  **意義（Meaning）：** 作者在文本中想要傳達的內容。
+2.  **蘊含（Implications）：** 從作者意義中自然延伸出的邏輯結果（由作者決定，我們負責發現）。
+3.  **重要性（Significance）：** 這是讀者對文本的回應。意義與蘊含是客觀的，由作者掌控；但重要性涉及你的意志（will），是你對該真理的「是」或「否」。
 
-#### 敘事文體的應用
-在馬可福音關於耶穌平靜風浪的敘事中，重點在於「耶穌是誰」。我們不能將其解讀為「如何建造漁船」或「加利利海的氣候學」。當我們在生活中面臨困難（如財務、學業壓力）時，將耶穌平靜風浪的權能應用在我們個人的困境中，這就是合法的含義，因為這符合經文所啟示的基督位格。
+我們不使用「應用」（application）這個詞，因為它混淆了「蘊含」與「重要性」。我們應將其視為兩個獨立的層次：先發現作者的意義與蘊含，再由我們做出意志上的回應。
 
-### 結論：聖靈的引導與個人應用
-最後，教師提到像使徒行傳 1:8（作見證）這樣的經文，其原則是「作見證」，但具體的應用（含義）在每個人的生命中可能不同（如：有人去非洲宣教，有人在職場作見證）。這種「一般性含義」與「個人化具體呼召」之間的區別，將是下一課探討「聖靈在引導中的角色」時的重點。
+
+## 第八課：釋經學詞彙（上） (Lesson 8: Vocabulary for Interpretation (Part 1))
+
+> **大綱對照：**
+> 本次課程內容並未嚴格遵循所提供的教學大綱。課程錄音內容主要聚焦於「意義」（Meaning）的定義以及「含義」（Implications）的界定與應用，而非大綱中所列的釋經學概論或語法分析。因此，以下解釋將完全依照講師在課堂中實際講授的邏輯順序進行編排。
+
+
+
+### 意義的定義：作者的意志與符號
+
+在進入釋經的實務之前，我們必須先為「意義」（Meaning）建立一個精確的定義。請你們務必背誦這個定義，因為這是我們一切詮釋工作的基石。
+
+我對「意義」的定義是：**「意義」是指作者藉由其所使用的文字或可共享的符號，所意欲傳達的意義模式（pattern of meaning）。**
+
+這裡我必須請你們加上一個關鍵詞：**「有意識地」（consciously）**。意義是作者「有意識地」意欲傳達的模式。為什麼要加上「有意識地」？因為在詮釋學中，有些人會試圖挖掘作者潛意識中的含義，甚至將作者本人完全未曾察覺的觀點強加於文本之上。為了排除這種主觀臆測，我們必須堅持「作者的意識」是意義的邊界。
+
+請注意，這裡有三個實體同時存在：**作者（Author）、文本（Text）、讀者（Reader）**。文本是由「可共享的符號」（shareable symbols）構成的，這使得作者與讀者之間能夠產生連結。作者可能並未意識到他所寫下的模式中包含的所有細節，但只要這些內容是他「有意識地」意欲傳達的，它們就屬於該文本的意義。
+
+### 含義（Implications）：意義的延伸
+
+理解了「意義」後，我們必須區分另一個重要概念：**「含義」（Implications）**。
+
+「含義」是指：**文本中那些作者本人或許未曾直接意識到，但卻合法地落在他所意欲傳達的意義模式之內的意義。**
+
+簡單來說，意義是作者的「核心意圖」，而含義則是從這個核心意圖中自然流露出的「應用」或「延伸」。作者控制了這些含義的範圍，因為含義必須源自他所設定的意義模式。
+
+#### 案例分析：加拉太書 5:2 與馬丁路德
+保羅在加拉太書 5:2 警告那些尋求割禮以求救恩的人，指出這等於是拒絕基督的恩典。保羅當時的「核心意義」是反對「基督加行為」的救恩論。
+
+馬丁路德後來將此文本應用於「贖罪券」的爭議上。如果我們問保羅：「你反對購買贖罪券嗎？」保羅或許會說：「我當時沒聽過贖罪券，但這完全符合我所傳達的『唯獨恩典』的原則。」這就是「含義」——保羅雖未直接提及贖罪券，但贖罪券的錯誤完全落在保羅所建立的「唯獨因信稱義」的意義模式內。
+
+#### 案例分析：申命記 22:8 與現代安全責任
+申命記 22:8 要求在屋頂建造欄杆，以防有人跌落。這條律法的「核心意義」是保護他人的生命安全。
+雖然現代建築結構不同，但這條律法的「含義」延伸到了現代生活：如果你有游泳池、有具攻擊性的狗，你是否有責任保護他人免受傷害？這就是從古代律法中抽離出的「原則」（Paradigm），其含義跨越了文化與時代。
+
+### 處理文化差異：哥林多前書 16:20 的「聖潔的親嘴」
+
+在處理含義時，我們必須區分「表達形式」與「核心原則」。保羅在哥林多前書 16:20 說：「你們要親嘴問安，彼此務要聖潔。」
+
+如果我們執著於「親嘴」這個動作，在某些文化中會顯得極度不適當甚至冒犯。然而，這裡的「意義」是基督徒之間應有的「溫暖與關懷」。在不同文化中，這種溫暖可以透過握手、鞠躬或擁抱來表達。重點不在於「親嘴」這個動作本身，而在於「表達基督徒彼此間的愛」。我們必須區分什麼是隨文化變動的「形式」，什麼是永恆不變的「原則」。
+
+### 關於崇拜的原則：詩篇 150 篇
+
+同樣地，當我們讀到詩篇 150 篇中提到的樂器（號角、琴、瑟、鼓、弦、管、鈸），我們是否該認為只有這些樂器才能在敬拜中使用？
+
+這並非文本的本意。這裡的原則是「讓一切有氣息的都讚美耶和華」。這意味著我們應當運用所有可用的資源來讚美神。因此，在現代教會中使用管風琴、交響樂團，甚至其他樂器，都是這段經文在現代的合法「含義」。我們不應將古代的樂器清單視為現代敬拜的唯一準則。
+
+### 總結：作者的控制權
+
+最後，我要強調：**作者控制了含義的流向。** 
+
+以「橡樹真美」這句話為例：
+* 如果是一個正在爬樹的小男孩說的，含義是「爬樹的樂趣」。
+* 如果是一個木匠說的，含義是「木材的品質」。
+* 如果是一個水利工程師說的，含義是「水土保持」。
+
+這句話本身沒有無限的含義，它的含義取決於「說話的人」。同樣地，聖經文本的含義並非由讀者隨意賦予，而是由聖靈默示的作者所設定的意義模式所界定的。當我們在解經時，我們是在尋求作者的意圖，並從中找出那些對我們生命產生真實影響的含義。這就是我們釋經工作的核心。
 
 
 ## Lesson 9: 詮釋學詞彙（下） (Vocabulary for Interpretation (Part 2))
 
 > **大綱對照：**
-> 本課程並未嚴格遵循所提供的書面大綱進行教學。講師在課堂上採取了更為靈活的結構，重點在於定義詮釋學中的關鍵術語（如：意義、含義、重要性、理解、解釋等），並透過 C.S. Lewis 的文章探討「作者心理活動」的不可知性。因此，下文將完全依照講師在課堂上的實際教學順序進行深度解析。
+> 本次課程內容並未嚴格遵循所提供的「大綱」。課堂實際教學重點在於定義詮釋學中的關鍵術語（如意義、意涵、主旨、理解、詮釋、心理活動、語言規範等），並透過對 C.S. Lewis 文章的分析來探討作者意圖的不可知性。提供的「大綱」更像是一個概括性的課程主題列表，而非本次具體授課內容的結構映射。因此，以下說明將完全依照課堂實際講授的邏輯順序進行。
 
 
 
-### 意義 (Meaning)、含義 (Implications) 與重要性 (Significance)
+### 意義 (Meaning) 與意涵 (Implications) 的區分
+在進入詮釋學的具體操作前，我們必須先釐清幾個核心概念。首先是「意義」(Meaning) 與「意涵」(Implications) 的區別。這兩者皆由作者所主導，我們作為讀者，任務是「發現」這些內容，這是一種心智上的活動。
 
-講師首先釐清了詮釋學中三個極易混淆的概念。在改革宗詮釋學的視角下，區分這些概念對於防止「讀者中心論」（Reader-response criticism）的偏差至關重要。
+然而，「重要性」(Significance) 則完全不同。重要性是指讀者如何回應文本的意義。在這裡，讀者才是主人。這不僅僅是心智上的運作，更是意志上的決定——這關乎你的「心」。當你面對福音信息時，悔改的「意義」對每個人來說或許是一致的，但「重要性」在於你是否願意順服。這是一個「要」或「不要」的決定，是關於順服與否的意志抉擇。我們必須清楚，我們無法掌控作者的意義，但我們對文本如何影響我們的生命（重要性）負有完全的責任。
 
-*   **意義 (Meaning)** 與 **含義 (Implications)**：這兩者皆由作者主導。意義是作者透過文字符號所傳達的核心意圖；含義則是這些意義所延伸出的邏輯推論。這兩者是客觀存在的，讀者的任務是透過理性的「心智活動」去發現它們。
-*   **重要性 (Significance)**：這是讀者作為「主人」的領域。它不再僅是心智的認知，而是意志的決斷。當我們面對聖經的意義時，重要性涉及的是「我該如何回應？」這是一個「要或不要」、「順服或不順服」的意志抉擇。
+### 主旨 (Subject Matter) 與描述 (Description) vs. 處方 (Prescription)
+「主旨」(Subject Matter) 指的是文本中談論的「素材」。聖經是一個廣大的世界，充滿了歷史、地理、軍事戰術、婚姻習俗等素材。許多人研究聖經時，其實是在研究這些素材，而非尋求作者的「意義」。
 
-**教學重點**：若將「重要性」與「意義」混為一談，讀者容易將自己的主觀感受強加於經文之上。講師強調，我們對福音的理解（意義）或許因人而異，但面對福音呼召時的「順服與否」（重要性），則是我們必須負責任的領域。
+當你想要挖掘意義時，你必須問：「作者為什麼要告訴我這些事？」例如，研究耶穌生平的歷史細節是主旨，但問「作者為何記錄這段關於耶穌的敘事」才是探討意義。這裡有一個極大的陷阱：將「描述」(Description) 當作「處方」(Prescription)。聖經中記載了許多古代的婚姻習俗或人物行為（如參孫的故事），這些是作者對當時情況的描述，並不代表作者在「處方」式地教導我們必須效法這些行為。我們必須謹慎區分：哪些是聖經單純的歷史陳述，哪些是神對我們生命的誡命。
 
-### 主題 (Subject Matter) 與描述 (Description) vs. 處方 (Prescription)
+### 理解 (Understanding) 與詮釋 (Interpretation)
+我將「理解」(Understanding) 定義為對作者原意的「正確心智掌握」。如果你我對同一段經文有正確的理解，那麼我們的理解本質上是相同的。理解是內在的、心智的；一旦它離開了心智，轉化為語言或文字，它就變成了「詮釋」(Interpretation)。
 
-「主題」指的是經文所談論的「事物」（stuff）。聖經包含了豐富的歷史、地理、軍事戰術、婚姻習俗等素材。
-
-*   **研究主題的陷阱**：許多人研究聖經僅停留在「主題」層面（例如：研究古代婚姻習俗），卻忽略了作者寫下這些素材的「目的」。
-*   **如何轉向意義**：要從研究「主題」轉向研究「意義」，關鍵在於問：「作者為什麼要告訴我這些關於婚姻或耶穌的事？」透過「我告訴你這些是因為……」的句型，能幫助讀者從單純的資訊蒐集，進入對作者意圖的探討。
-*   **描述與處方**：這是詮釋學的基礎區分。聖經中許多內容是「描述性」（Descriptive）的，例如參孫的生平或古代的婚姻習俗，這些並不必然等同於「處方性」（Prescriptive）的教導。讀者必須謹慎分辨，經文是在記錄歷史事實，還是在設立道德規範。
-
-### 理解 (Understanding) 與解釋 (Interpretation)
-
-講師對這兩個詞彙做了精確的區分：
-
-*   **理解 (Understanding)**：這是對作者原意的「正確心智掌握」。若兩位讀者都正確理解了作者的意圖，那麼他們的「理解」在本質上是相同的，即便深度有所差異。這是一個內在的、心智的過程。
-*   **解釋 (Interpretation)**：這是將「理解」轉化為「語言或文字表達」的過程。一旦理解離開了心智並被表達出來，它就變成了「解釋」。解釋是會變動的，因為不同的語言、不同的表達方式（如：逐字翻譯 vs. 意譯）會產生不同的解釋，但它們可能指向同一個正確的理解。
+詮釋是我們對理解的「表達」。這就是為什麼兩個人對經文的理解可能完全一致，但詮釋方式卻大相逕庭。就像翻譯團隊，即便對原文的理解相同，一個團隊可能採取「意譯」(thought-for-thought)，另一個採取「直譯」(word-for-word)。詮釋是會變動的，但理解的目標是精確掌握作者的意圖。
 
 ### 心理活動 (Mental Acts) 與 C.S. Lewis 的警示
+關於「心理活動」(Mental Acts)，即作者寫作時的內在經驗，我要求你們閱讀 C.S. Lewis 的《Fernseed and Elephants》。這篇文章對我影響深遠。Lewis 指出，評論家總喜歡建構作者寫作時的「心理歷史」，猜測作者當時的心境、動機或受到的影響。
 
-講師引用了 C.S. Lewis 的文章《Fernseed and Elephants》，探討「重建作者心理活動」的危險性。
-
-*   **評論家的謬誤**：Lewis 指出，評論家常自以為能重構作者寫作時的心理狀態、動機或環境，但這些重構往往是完全錯誤的。即便作者的朋友也無法精確重構作者的心理，更何況是兩三千年前的聖經作者。
-*   **詮釋的界線**：我們無法進入保羅或馬太的內心世界。詮釋的任務不是去猜測作者當時在想什麼（心理活動），而是去理解作者透過文字符號所傳達的意圖。若經文本身沒有明說，任何對作者心理的重構都是不可靠的。
+Lewis 透過自身經驗證明，這些猜測幾乎百分之百是錯誤的。如果連與作者同時代、同文化的朋友都無法準確重構作者的心理活動，我們憑什麼認為自己能重構兩三千年前聖經作者的心理狀態？我們無法進入保羅或馬太的內心。因此，我們的工作不是去猜測作者當時在想什麼，而是去理解他透過文字所傳達的「意義」。如果聖經文本沒有明說作者的心理狀態，我們就不要強加臆測。
 
 ### 語言規範 (Norms of Language) 與話語規範 (Norms of Utterance)
+「語言規範」(Norms of Language) 指的是詞彙在字典中所允許的意義範圍。例如「我妻子的愛」(The love of my wife)，這究竟是「我對妻子的愛」還是「妻子對我的愛」？語言規範允許這兩種可能性。
 
-這是從詞彙層面過渡到具體意義的關鍵：
+為了從多種可能性中鎖定作者的意圖，我們需要「話語規範」(Norms of Utterance)。這時，「上下文」(Context) 就至關重要。作者透過上下文（句子、段落、篇章）來縮小詞彙的意義範圍。如果你想研究某個詞，字典（語言規範）告訴你所有可能性，而「彙編」(Concordance) 則能幫助你觀察該作者在其他地方如何使用該詞，進而幫助你確認他在當下語境中的特定意圖。
 
-*   **語言規範 (Norms of Language)**：指詞彙在字典中所允許的所有可能意義。例如「我的妻子的愛」（The love of my wife），在語言規範上既可以是「我對妻子的愛」，也可以是「妻子對我的愛」。
-*   **話語規範 (Norms of Utterance)**：指作者在特定語境下所選定的唯一意義。
-*   **工具的運用**：字典（Lexicon）幫助我們掌握「語言規範」（所有的可能性）；而「上下文」（Context）與「彙編」（Concordance，查看作者如何使用該詞）則幫助我們鎖定「話語規範」（作者的特定意圖）。
+### 關於意義的定義：與學者的對話
+最後，我們討論了 Klein, Blomberg 和 Hubbard 對「意義」的看法。他們認為詮釋的目標是「聽見原初受眾所聽到的信息」。這與我們的定義略有不同，但核心一致。我們強調作者使用「可共享的符號」(shareable symbols) 來溝通，因此，若我們能理解原初受眾如何解讀這些符號，這將極大程度地幫助我們掌握作者的意圖。
 
-### 結論：關於「意義」的定義
-
-課程最後討論了 Klein, Blomberg, and Hubbard 等學者的觀點。講師指出，雖然有些學者傾向將意義定義為「原始受眾所理解的內容」，但我們必須將其修正為「原始受眾**應該**理解的內容」。
-
-**總結**：意義並非讀者主觀的感受，而是作者透過「可共享的符號」（shareable symbols）所刻意傳達的意圖。詮釋學的目標，就是透過對語法、上下文及文學類型的嚴謹研究，恢復作者當初意圖傳達的那個「意義」。
+然而，我們必須修正一點：不是「原初受眾如何理解」（因為他們有時也會誤解保羅），而是「原初受眾應該如何理解」。我們追求的是作者透過語言結構所揭示的意圖，這才是我們在整個學期中要堅持的詮釋學核心。
 
 
 ## Lesson 10: 聖靈的角色（上） (Role of the Holy Spirit (Part 1))
 
 > **大綱對照：**
-> 本次課程內容並未嚴格遵循所提供的教學大綱。講師主要集中探討「聖靈在釋經學中的角色」這一核心議題，特別是針對「非信徒是否能理解聖經意義」這一爭議點進行了深入的聖經與神學分析。大綱中的歷史背景（舊約/新約引用）與聖靈位格等細節並未在本次錄音中展開，因此以下說明將完全依照講師實際教學的邏輯順序進行編排。
+> 本次課程內容並未嚴格遵循所提供的大綱。講者將重點集中於「聖靈在釋經學中的角色」這一核心議題，特別是針對「非信徒是否能理解聖經」以及「聖靈的啟示（Illumination）與客觀意義（Objective Meaning）」之間的區別進行了深入探討。因此，下文將根據講者實際的教學順序與邏輯進行梳理，而非強行套用該大綱。
 
 
 
-### 釋經學中聖靈角色的核心爭議
-在過去的課程中，我們確立了釋經學的三大要素：作者、讀者與文本。我們強調「作者」是意義的決定者，釋經者的任務是透過作者使用的符號與文字，還原其原本欲傳達的意圖。然而，一個關鍵問題尚未解決：聖靈在這一過程中扮演什麼角色？
+### 釋經學中的聖靈：我們遺漏了什麼？
 
-許多神學家（如 J. Robertson McQuilken）認為，聖經的理解不僅是智力活動，更涉及屬靈層面。McQuilken 指出，沒有聖靈的幫助，人無法「完全理解」聖經，因為聖經的真理是屬靈的，需要屬靈的洞察力。Millard Erickson 在其系統神學中則提出「客觀的書面聖經」與「主觀的聖靈光照」雙重維度。他認為，僅有聖經而無聖靈會導致信仰枯竭（dry up）；僅有聖靈而無聖經則會導致狂熱（blow up）；唯有兩者結合，信徒才能在真理中成長（grow up）。
+在過去的課程中，我們建立了釋經學（Hermeneutics）的基礎架構，強調作者（Author）、讀者（Reader）與文本（Text）三者之間的關係。我曾反覆強調，意義的決定權在於作者，而我們作為釋經者的任務，就是透過作者所使用的符號與文字，去挖掘他當初想要傳達的訊息。然而，我們至今尚未觸及一個關鍵問題：聖靈（The Holy Spirit）在整個釋經過程中究竟扮演什麼角色？
 
-### 區分「正確的心理掌握」與「屬靈的認信」
-講師提出了一個極具挑戰性的問題：非信徒是否能理解聖經的意義？為了釐清這一點，我們必須區分「正確的心理掌握」（correct mental grasp）與「屬靈的接受」（saving understanding/acceptance）。
+我們必須承認，有時我們的釋經過程顯得過於「理性」或「學術化」，彷彿只要掌握了語言學工具，就能完全解讀上帝的話語。但這是否意味著聖靈在釋經中是缺席的呢？許多神學家，如 J. Robertson McQuilken 和 Millard Erickson，都對此提出了深刻的見解。他們提醒我們，聖經不僅是客觀的文字，更需要聖靈的「內在啟示」（Inner Illumination）與「確信」（Conviction）。
 
-講師透過一個假設性實驗說明：若讓一群非信徒與一群基督徒同時修習釋經學，並針對保羅的《羅馬書》進行分析，兩組人在學術層面上的表現可能並無顯著差異。非信徒完全有能力理解聖經的字面意義、邏輯結構，甚至能精準地總結福音的核心教義。這證明了「理解」（understanding）在釋經學的技術層面上，指的是對作者意圖的智性掌握，而非對真理的救贖性認信。
+### 聖靈的啟示與確信：客觀與主觀的平衡
 
-### 重新審視哥林多前書 2:14
-許多人引用《哥林多前書》2:14 作為「非信徒無法理解聖經」的證據：「然而，屬血氣的人不領會神聖靈的事，反倒以為愚拙，並且不能知道，因為這些事惟有屬靈的人才能看透。」
+McQuilken 在《理解與應用聖經》（*Understanding and Applying the Bible*）中明確指出，沒有聖靈，我們對上帝話語的理解註定失敗。他援引《哥林多前書》2:6-16，強調「屬血氣的人」無法領會聖靈的事。這裡的關鍵在於，聖靈不僅是作者，更是偉大的「解釋者」（The Great Interpreter）。
 
-講師透過詞彙對照法（concordance study）指出，保羅在此處使用的「愚拙」（foolishness, *mōria*）並非指「無法理解其內容」，而是一種「價值判斷」。在《哥林多前書》1:20 與 3:19 中，保羅同樣使用此詞，意指神將世人的智慧視為愚拙。當一個人說某事是「愚拙」時，他必須先理解該事物的內容，才能做出「這很荒謬」的價值判斷。
+Millard Erickson 在其系統神學著作中提出了一個非常實用的架構：
+*   **客觀基礎（Objective Basis）：** 即正確解釋後的書面聖經。
+*   **主觀維度（Subjective Dimension）：** 即聖靈內在的啟示與勸服（Conviction/Persuading）。
 
-因此，非信徒並非「無法掌握聖經的字面意義」，而是他們在價值判斷上將其視為「愚拙」。這與《馬可福音》9:32 中門徒對耶穌受難預言的反應相似：門徒聽懂了耶穌說的話，但他們拒絕接受這件事的屬靈意義與必然性。
+這兩者缺一不可。如果只有聖經而沒有聖靈，我們的信仰會變得乾枯（Dry up）；如果只有聖靈而沒有聖經，我們則容易陷入狂熱與偏差（Blow up）。正如一位牧者所言，只有兩者結合，我們才能在信仰中「成長」（Grow up）。這正是我們所追求的「冷靜的頭腦與火熱的心」（A cool head and a warm heart）。
 
-### 意義（Meaning）與重要性（Significance）的區別
-為了整合上述觀點，講師引入了一個重要的區分：
-1. **意義（Meaning）**：指作者透過文字所要傳達的特定意圖，這是釋經學的客觀目標，非信徒與信徒皆可透過正確的釋經方法達到「正確的心理掌握」。
-2. **重要性（Significance）**：指真理對讀者生命的價值與影響。聖靈的工作主要發生在這一層面。聖靈的「光照」（illumination）與「確信」（conviction/persuading）工作，是讓讀者不僅在智力上理解聖經，更在心靈上感受到其權威與價值。
+### 警惕：當「聖靈的啟示」被濫用
 
-### 結論：聖靈的必要性
-講師最後提醒，我們必須警惕那些宣稱聖靈會揭示「作者未曾意圖之意義」的觀點（如 James DeYoung 等人的主張），因為這會導致釋經的主觀化，使人將自己的想法強加於聖經之上。
+在探討聖靈的角色時，我們必須極度謹慎。有些學者（如 James DeYoung 與 Sarah Hurty）主張，因為聖靈是聖經的終極作者，所以我們可以透過聖靈的直接啟示，發現人類作者「未曾意圖」的意義。
 
-真正的屬靈釋經並非否定智力分析，而是承認：雖然非信徒能透過正確的釋經方法獲得「正確的心理掌握」，但唯有聖靈能使人跨越「理智上的理解」進入「生命中的認信」。正如講師所言，區別不在於頭腦是否掌握了資訊，而在於心靈是否被真理所折服。對於基督徒而言，聖靈的工作是將客觀的聖經真理，轉化為生命中不可抗拒的屬靈現實。
+對此，我必須表達強烈的保留態度。這是一個危險的斜坡。如果我們宣稱可以發現作者未曾意圖的意義，那麼我們如何區分這究竟是「聖靈的啟示」，還是我們將自己的主觀想法強加於經文之上（Eisegesis）？釋經學的客觀性在於我們必須回到作者的意圖，而非訴諸於無法驗證的「新啟示」。
+
+### 非信徒能理解聖經嗎？
+
+這是一個極具爭議的問題。如果聖靈是理解聖經的必要條件，那麼非信徒是否完全無法理解聖經？
+
+讓我們做一個思想實驗：假設我在路易斯維爾大學（University of Louisville）開設同樣的釋經學課程，班上的研究生與你們的智商相同。我們同時閱讀《羅馬書》4:1-5，並要求雙方撰寫論文分析保羅的意圖。你們認為這兩個班級的成績會有顯著差異嗎？我認為不會。
+
+我曾有過一次慘痛的教訓。在葛理翰佈道大會（Billy Graham Crusade）期間，我招募了一些非信徒作為輔導員，並給予他們明確的訓練：如何解釋罪、如何解釋基督的救贖、如何帶領決志禱告。這些非信徒完全能夠理解我所教導的內容，甚至能精確地向他人傳達福音的核心。
+
+這說明了什麼？這說明我們必須區分「正確的心理掌握」（Correct Mental Grasp）與「屬靈的領受」（Saving Understanding）。
+
+### 重新定義「理解」：哥林多前書 2:14 的啟示
+
+許多人引用《哥林多前書》2:14 來證明非信徒無法理解聖經，經文說：「屬血氣的人不領會神聖靈的事，反倒以為愚拙，並且不能知道，因為這些事惟有屬靈的人才能看透。」
+
+但我們必須細究這裡的「愚拙」（Foolishness）與「不能知道」（Understand）。透過查考原文與保羅在其他章節（如林前 1:20, 3:19）的用法，我們發現「愚拙」其實是一種「價值判斷」（Value Judgment），而非「認知能力」的缺陷。當一個人說某事是「愚拙」時，他首先必須先理解該事物，才能對其做出評價。
+
+同樣地，在《馬可福音》9:32 中，門徒「不明白」耶穌關於受難的預言，並非他們聽不懂耶穌在說什麼，而是他們「拒絕接受」這個事實。這就是關鍵所在：非信徒可以擁有對聖經內容的正確心理掌握（Head Knowledge），他們能準確複述福音的邏輯，但他們對此持有價值判斷，認為這是愚拙的，並拒絕接受其屬靈的「意義」（Significance）。
+
+### 結論：意義與重要性的區別
+
+我們在釋經學中定義的「意義」，是指作者想要傳達的內容。非信徒完全有能力掌握這種客觀意義。然而，聖靈的工作是在「重要性」（Significance）的層面上運作。聖靈的工作是透過「勸服」（Persuading），讓我們不僅在頭腦上知道這是真的，更在心靈上承認其價值，並願意悔改信靠。
+
+正如那個關於「Kupdissen 教授」的故事：教授對保羅神學有極深的研究，但他不信；而他的妻子雖然不懂神學，但聽到福音時卻會流淚。兩者對經文的「心理掌握」不同，但對經文「重要性」的領受卻天差地遠。作為釋經者，我們追求的是正確的心理掌握，但我們同時祈求聖靈，讓這客觀的真理在我們心中產生屬靈的確信。
 
 
 ## Lesson 11: 聖靈的角色（下） (Role of the Holy Spirit (Part 2))
 
 > **大綱對照：**
-> 本次課程內容並未嚴格遵循所提供的大綱。講師的教學重點集中於「聖靈在釋經中的角色」，特別是區分「認知（Cognition）」、「意義（Significance）」與「應用（Application）」之間的關係，並探討了信徒與非信徒在理解聖經時的差異。因此，以下解釋將依照講師實際的教學順序進行編排。
+> 本次課程內容並未嚴格遵循所提供的大綱。講者將重點集中於「聖靈在釋經中的角色」，特別是區分「認知（Cognition）」、「個人含義（Personal Implications）」與「意義（Significance）」之間的差異，並探討了「啟示（Illumination）」與「確信（Conviction）」的神學內涵。因此，下文將直接按照講者的教學邏輯進行梳理。
 
 
 
-### 罪對釋經的影響：雙向的障礙
-講師首先指出，罪（sin）對人的影響是普遍且雙向的。在釋經過程中，無論是未信者還是基督徒，都可能因為內心的偏見或既定立場而產生「釋經障礙」。
+### 聖靈與釋經：認知與確信的區別
 
-對於未信者而言，他們可能因為對福音的抗拒（例如對羅馬書第一章關於同性戀經文的排斥），而缺乏意願去客觀理解經文的本意。然而，基督徒同樣無法免疫。若基督徒對某種解釋體系過於固執，甚至到了「需要一把斧頭才能敲開其心智」的地步，那麼聖經文本也無法對其產生影響。這提醒我們，釋經不僅是智力活動，更是心靈狀態的展現。因此，當我們為未信者禱告時，我們不應僅僅祈求他們「理解」福音的字面意義，而是祈求聖靈帶來「知罪（conviction）」並開啟他們的心竅，使他們能領受福音。
+我們在探討聖靈在讀經中的角色時，必須先釐清一個核心問題：未信者是否能「理解」聖經？這往往取決於我們如何定義「理解（Understand）」。如果我們將理解定義為「正確的心理掌握（Correct mental grasp）」，那麼答案是肯定的。未信者完全可以透過語法、歷史背景和詞典工具，準確地掌握經文的字面意義。
 
-### 區分「理解」與「意義」：認知與應用
-講師提出了一個關鍵的釋經架構，用以釐清聖靈的工作：
-1.  **認知（Cognition / Understanding）：** 指的是對文本正確的心理掌握（correct mental grasp）。這是一種客觀的智力活動，即使是非信徒，只要具備足夠的語言工具與研究方法，也能達到這種層次的理解。
-2.  **意義（Significance）：** 指的是對真理真實性的確信，以及該真理如何與個人生命產生連結。
-3.  **應用（Application）：** 將上述兩者結合，轉化為具體的生命回應。
+然而，聖經所說的「理解」往往包含更深層的維度。當我們談論聖靈的工作時，我們必須區分「認知（Cognition）」與「確信（Conviction）」。認知是理性的運作，而確信則是聖靈在人心中的工作，使人不僅知道經文的內容，更感受到其真理性與對個人生命的權柄。
 
-講師以「瑪門（mammon）」一詞為例：若有一群人透過字典查考，能正確定義瑪門為「財物」，這屬於「認知」層面；但若要將此真理應用於生命，意識到自己生命中哪些偶像阻礙了對神的侍奉，這便需要聖靈的介入。聖靈的工作特別在於將一般性的經文意義，轉化為「個人的具體應用（personal implications）」。
+### 聖靈的工作：從一般意義到個人應用
 
-### 聖靈的「光照（Illumination）」與「知罪（Conviction）」
-關於「光照（illumination）」這一神學術語，講師表達了對其定義模糊性的擔憂。許多學者（如 Millard Erickson）常將光照與「理解」或「確信」混為一談。講師主張，若我們將「理解」定義為「正確的心理掌握」，那麼非信徒確實可以理解聖經的字面意義。
+為了說明這一點，我們可以用「瑪門（Mammon）」這個詞為例。假設我們分為兩組：一組是極度屬靈、不斷禱告尋求聖靈啟示的群體；另一組則是坐在冰淇淋店裡，只查閱聖經辭典的群體。當兩組人都查出「瑪門」在亞蘭文中意指「財物或擁有物」時，兩組人在「認知」層面上是完全一樣的。
 
-為了支持這一論點，講師引用了馬丁·路德（Martin Luther）在《論意志的束縛》（*De Servo Arbitrio*）中致伊拉斯謨的信。路德區分了兩種清晰性：
-*   **外在的清晰性（External clarity）：** 聖經的文字是公開且明確的，任何人都能讀懂其關於救恩與道德的基本教導。
-*   **內在的清晰性（Internal clarity）：** 這是心靈層面的領悟，若沒有聖靈，人即便能背誦經文，也無法真正「領會」其內在真理。
+但聖靈的工作並非停留在辭典定義上。當我們在禱告中尋求聖靈時，聖靈會將這些客觀的知識轉化為「個人含義（Personal implications）」與「意義（Significance）」。祂會光照我們，讓我們看見這些財物如何成為我們生命中的偶像，如何阻礙我們全心事奉神。這種「將真理應用於個人生命」的過程，正是聖靈獨特的工作。未信者可以知道「瑪門」是什麼，但唯有聖靈能使人因著這真理而悔改，並將其從生命中除去。
 
-這意味著，聖靈的工作並非提供額外的「數據」或「新啟示」，而是帶來對真理的「確信」與「順服的意願」。
+### 關於「啟示（Illumination）」的神學反思
 
-### 實例分析：約翰福音 3:16 的個人化
-講師分享了他在大學時期的一個經歷，作為聖靈工作的最佳註腳。在研讀約翰福音 3:16 時，他原本在認知層面上完全理解這節經文的普遍意義（神愛世人）。然而，當聖靈在行走間將此真理「帶入」他的心中時，他獲得了一種全新的確信——「神真的愛鮑伯·斯坦（Bob Stein）」。
+在改革宗神學中，我們常提到聖靈的「光照（Illumination）」。然而，這個詞在當代神學討論中常顯得模糊。我曾與米拉德·艾瑞克森（Millard Erickson）討論此概念，發現許多人將「光照」與「確信」或「意義」混為一談。
 
-這種經歷並非智力上的新發現，而是將已知的教義轉化為深度的個人確信。這正是聖靈在釋經中不可或缺的角色：祂不一定會改變我們對字句的定義（那可以透過字典完成），但祂會將真理從「客觀知識」轉化為「生命動力」，使我們在確信中產生悔改與順服。
+如果我們堅持「光照」必須包含「救贖性的理解」，那麼我們就必須在「理解」一詞前加上各種限定詞，例如「真正地理解」、「完全地理解」或「救贖性地理解」。但這反而暗示了未信者在沒有聖靈的情況下，對經文完全一無所知。事實上，正如馬丁·路德在寫給伊拉斯謨（Erasmus）的信中所言，聖經有其「外在的清晰性（External clarity）」，這對所有人都是公開的；但唯有聖靈能帶來「內在的清晰性（Internal clarity）」，使人心不再黑暗，從而真正領受經文的真理。
 
-### 總結：釋經中的聖靈論
-講師最後總結，雖然學者們（如 Klein, Blomberg, and Hubbard）在論述中偶爾會出現看似矛盾的觀點，但核心一致：若缺乏聖靈，人會錯失聖經的「屬靈維度」。真正的理解不僅是智力上的掌握，更包含對真理真實性的確信以及對生命影響的領受。因此，基督徒在研讀聖經前，禱告的重點應在於祈求聖靈幫助我們看見經文如何具體地應用在我們個人的生命中，而不僅僅是停留在學術性的解釋上。
+### 聖經學者的觀點與我們的立場
+
+我們參考了 Klein, Blomberg, 和 Hubbard 的著作，他們指出：「若不信靠神，就無法真正理解神的話。」這句話看似與「未信者也能理解經文」的觀點矛盾，但關鍵在於他們區分了「認知（Cognition）」與「意志（Volition）」。
+
+他們認為，未信者與信徒在認知上可能得出相同的結論，但由於信仰承諾的不同，只有信徒能感知到經文的「真實意義（True significance）」並願意順服。這與我的觀點一致：聖靈的工作並不提供新的數據或額外的啟示，而是使我們能夠「同化（Assimilate）」經文的內容，將其轉化為生命的動力。
+
+### 個人的見證：約翰福音 3:16 的光照
+
+我曾在大學時期有過這樣的經歷。當時我對約翰福音 3:16 的認知非常清楚：我知道神愛世人，也知道我包含在「世人」之中。這在認知上是正確的。但在某個午後，當我走在校園中，聖靈將這節經文「帶回家」了。那不僅僅是理性的認同，而是一種深沉的確信——我確信神「個人性地」愛著鮑勃·斯坦（Bob Stein）。
+
+在那一刻，天空變得更藍，陽光變得更金黃。這並非因為經文的字面意思改變了，而是聖靈將這段經文的「個人含義」深深烙印在我的心中。這就是聖靈在釋經中最重要的工作：祂不僅讓我們讀懂字句，更讓我們在心靈深處被真理所征服，從而產生真實的悔改與對神的愛。這正是我們在研讀聖經時，必須時刻祈求聖靈引導的原因。
 
 
-## Lesson 12: 聖經中的神蹟 (The Miraculous in Scripture)
+## 第12課：聖經中的神蹟 (Lesson 12: The Miraculous in Scripture)
 
 > **大綱對照：**
-> 本文內容完全遵循所提供的課程大綱。教師在講解過程中，先系統性地分析了三種對待聖經神蹟的進路，隨後透過 Eugene B. Borowitz 與 Rudolph Bultmann 的觀點，深入探討了這些進路背後的「預設」（presuppositions）問題。本文將依照此教學順序進行詳細闡述。
+> 本文內容完全遵循所提供的大綱結構，並在各個部分進行了深入的擴充與神學闡釋。
 
 
 
-### 一、 對待神蹟的三種進路
+### 三種解經進路：面對神蹟的態度
 
-在詮釋聖經時，如何看待「神蹟」（the miraculous）是決定解經方向的關鍵分水嶺。教師將歷史上與學術界對神蹟的態度歸納為三種主要進路：超自然進路、理性主義進路與神話進路。
+當我們研讀聖經時，如何處理其中的「神蹟」（the miraculous）是一個關鍵的詮釋學問題。這不僅僅是關於歷史事實的爭論，更是關於我們如何看待上帝與受造界關係的根本立場。在歷史與學術界中，主要存在三種處理神蹟的進路。
 
 #### 1. 超自然進路 (The Supernatural Approach)
-這是基督教數百年來的傳統進路。其核心在於承認聖經所記載的神蹟是歷史中真實發生的事件，且發生過程與聖經描述完全一致。
+這是基督教幾個世紀以來的傳統進路。其核心信念是：聖經所記載的神蹟是真實發生的歷史事件。如果你當時在場，你所看到的景象將與聖經的描述完全一致。
 
-*   **神學本質**：此進路強調神蹟是「神聖事件」（divine event），而非自然界的偶然。既然是神親自介入，那麼試圖在自然界中尋找解釋（如將耶利哥城牆倒塌歸因於地震）不僅是多餘的，更是對神主權的否定。
-*   **歷史觀**：此進路拒絕「封閉的因果連續體」（closed continuum of cause and effect）。它主張歷史是向神開放的，神作為創造主，有權隨時介入祂所造的世界，這並不構成對自然律的「破壞」，而是主權者的作為。
-*   **作者意圖**：此進路最能忠實維護聖經作者的意圖。當作者寫下神蹟時，他們確實意在宣告神的大能與榮耀；若我們堅持神蹟的真實性，我們便與作者站在同一陣線。
+*   **神聖事件的本質**：我們必須承認，聖經中的神蹟不是自然界正常運作的結果，而是「神聖事件」（divine event）。既然是上帝親自介入並施行作為，那麼試圖尋找「自然原因」來解釋神蹟，在本質上就是無意義的。
+*   **對封閉系統的拒絕**：這種進路否定了「歷史是一個封閉的因果連續體」（a closed continuum of cause and effect）的觀點。相反地，它主張歷史對上帝的作為是開放的。當上帝介入時，祂並沒有「違反」自然律，因為自然律本身就是祂所設立的。祂只是以主宰者的身份，行使祂創造主權的自由。
+*   **作者原意的維護**：這條進路最重要的一點，在於它完全尊重聖經作者的意圖。作者寫下這些神蹟，就是為了見證上帝的榮耀與大能，而這種進路正是與作者的寫作目的保持一致。
+
+我曾讀過一本辯護學書籍，試圖用「地震」來解釋耶利哥城的倒塌，認為這是上帝利用自然現象來達成目的。但請你們思考：如果上帝施行神蹟，我們為何非要強加一個自然原因？如果耶利哥的城牆倒塌是因為地震，那為何偏偏在祭司吹角、百姓繞城的那個特定時刻發生？當我們試圖用自然律來「解釋」神蹟時，我們實際上是在限制上帝。神蹟之所以為神蹟，就在於它超越了我們的理解能力。
 
 #### 2. 理性主義進路 (The Rationalist Approach)
-此進路盛行於 18 世紀至 19 世紀中葉，其核心預設是：「神蹟不可能發生」。
+理性主義進路從一個預設出發：神蹟不可能發生。因此，聖經中記載的神蹟必然不是真實發生的，或者說，其發生的過程與聖經記載的截然不同。
 
-*   **歷史觀**：它堅持歷史是一個封閉的系統，完全排斥超自然介入。因此，面對聖經中的神蹟，理性主義者認為「一定發生了什麼事」，但絕非聖經所記載的那樣。
-*   **解經策略**：他們試圖在神蹟背後尋找「自然原因」。例如，將五餅二魚的神蹟解釋為「小男孩的分享感動了眾人，引發了連鎖反應，最後大家都有得吃」。這種解釋完全否定了神蹟的本質，並徹底扭曲了作者原本想要見證神蹟的意圖。
+*   **尋找背後的自然原因**：理性主義者認為，雖然聖經記載了神蹟，但背後一定隱藏著一個「自然事件」。例如，在五千人吃飽的神蹟中，他們會解釋說：這其實是一個分享的奇蹟。當小男孩獻出午餐時，感動了周圍的人，大家紛紛拿出自己私藏的食物分享，最後大家都吃飽了。
+*   **歷史的封閉性**：這種進路堅持歷史是一個封閉的因果系統，完全排除了超自然介入的可能性。
+*   **作者原意的背離**：這種進路徹底否定了作者的意圖。聖經作者明確地想要傳達上帝施行了超自然的神蹟，但理性主義者卻將其改寫為一個自然現象，這無疑是將作者的見證棄之如敝屣。
 
 #### 3. 神話進路 (The Mythical Approach)
-神話進路（以大衛·史特勞斯 David F. Strauss 為代表）是對理性主義的反動。它同意理性主義的預設——神蹟不可能發生，但也批評理性主義試圖用自然解釋來「合理化」神蹟是荒謬的。
+神話進路（Mythical Approach）結合了前兩者的某些特徵，由大衛·史特勞斯（David F. Strauss）在1835年的著作《耶穌傳》（*The Life of Jesus*）中系統化。
 
-*   **神話的定義**：此進路認為，聖經作者確實是在宣告一個「神聖事件」，但這並非歷史事實，而是一種「神話」。神話既無自然原因，也無神蹟事實，它反映的是作者潛意識中湧現的宗教情感。
-*   **作者意圖的轉移**：與前兩者不同，神話進路試圖挖掘作者「潛意識」中的深層意圖。然而，這對歸正神學而言是危險的，因為這將解經的焦點從「作者有意識寫下的文字」轉移到了「作者未察覺的心理狀態」，導致聖經意義的徹底主觀化。
+*   **神話的定義**：與理性主義者一樣，他們預設神蹟不可能發生；但與超自然主義者一樣，他們承認聖經確實是在宣稱一個「神聖事件」。既然既沒有自然原因（因為那是神蹟），又沒有神聖原因（因為他們不信神蹟），那麼結論就是：這是一個「神話」。
+*   **潛意識的意圖**：神話進路不尋求作者「有意識」的意圖，而是轉向作者的「潛意識」。他們認為這些神話是作者靈魂深處湧現的表達，反映了當時群體的信仰需求，而非歷史事實。
 
----
+### 認識預設（Presuppositions）：認識論的衝突
 
-### 二、 預設（Presuppositions）與知識論的衝突
+在詮釋聖經時，我們無法擺脫「預設」。正如魯道夫·布特曼（Rudolf Bultmann）所言，我們不可能在沒有任何預設的情況下進行釋經。關鍵在於，我們必須誠實地面對這些預設。
 
-課程後半段透過 Eugene B. Borowitz 與 Rudolph Bultmann 的觀點，揭示了保守派與自由派之間衝突的本質：這不是證據的問題，而是「知識論」（epistemology）的問題。
+#### 尤金·波羅維茲（Eugene B. Borowitz）的洞見
+波羅維茲是一位自由派猶太學者，他精準地指出了保守派（傳統主義者）與自由派之間的分歧，這本質上是一個「認識論」（epistemology）的問題。
 
-#### 1. Borowitz 的洞見： epistemological disagreement
-Borowitz 指出，傳統派（保守派）與自由派之間的爭論，核心在於「如何得知真理」。
-*   **保守派**：認為宗教是神所啟示的，真理來自於神。
-*   **自由派**：認為宗教是人類的創造，真理來自於現代科學、人類經驗與理性。
-Borowitz 強調，當兩者對話時，若不先處理「預設」問題，對話將毫無意義。例如，若一個人預設「神蹟絕不可能發生」，那麼無論你提供多少歷史證據，他都不會接受復活的事實。因此，我們在護教時，不應只停留在證據層面，而應轉向探討對方的「預設」。
+*   **權威的來源**：保守派認為宗教是上帝啟示的，權威來自於天上的神；自由派則認為宗教是人類經驗、科學與知識的產物。
+*   **無法對話的困境**：當保守派與自由派討論復活時，這根本不是一場宗教對話，因為自由派在討論開始前，就已經預設了「復活不可能發生」。如果你試圖用歷史證據說服一個預設「神蹟不可能」的人，這注定是徒勞的。我們必須先回到「我們如何認識真理」這個層次進行對話。
 
-#### 2. Bultmann 與歷史批判法
-Rudolph Bultmann 是神話進路的代表人物，他明確主張「歷史批判法」（Historical Method）必須包含一個預設：歷史是一個封閉的因果連續體。
-*   **預設的必然性**：Bultmann 承認解經不可能沒有預設。但他所堅持的預設是「歷史封閉論」。
-*   **護教的啟示**：教師透過 Peter Stuhlmacher 與 Ernst Kaseman 的例子說明，當一個人堅持「歷史封閉」的預設時，他已經關上了通往神蹟的大門。作為福音派基督徒，我們應當意識到，我們所持守的「歷史開放論」（即神可以介入歷史）本身就是一種更為開放、更符合歷史真實性的態度，因為我們願意客觀地審視證據，而非預先排除可能性。
+#### 布特曼的「歷史方法」與我們的回應
+布特曼主張「歷史方法」（Historical Method）必須包含一個預設：歷史是一個封閉的因果連續體，不能被超自然力量干擾。這正是現代自由派神學的基石。
 
-### 總結
-這堂課提醒我們，解經不僅是技術問題，更是立場問題。我們必須警惕那些將「歷史封閉論」包裝成「科學客觀性」的學術進路。作為歸正神學的學習者，我們應當堅定地持守聖經的超自然性，並在對話中敏銳地指出對方隱藏的預設，將討論帶回真理的根基。
+作為改革宗的信徒，我們必須建立正確的預設：
+1.  **上帝存在**。
+2.  **語言是可理解的**，聖經的記載是真實的歷史事件。
+3.  **作者原意（Author's intended meaning）**是我們詮釋的終極目標。
+
+當我們面對像保羅引用「不可籠住牛的嘴」來論證牧者應得工價（林前9:9）時，布特曼嘲笑這是在曲解經文，認為保羅只是在談論牛。但我們看見的是，上帝的話語具有超越性的意義與應用。我們拒絕將歷史封閉起來，我們選擇持守對上帝作為的開放態度。這不僅是學術上的選擇，更是我們對上帝主權的敬畏與順服。
 
 
-## Lesson 13: 體裁的含義 (Implications of Genre)
+## Lesson 13: 文體對釋經的含義 (Implications of Genre)
 
 > **大綱對照：**
-> 本文內容大致遵循所提供的大綱。講師首先引用 G.B. Caird 的著作來建立詮釋學的基礎，隨後轉入「箴言」這一文體（Genre）的具體分析，並以約伯記作為反面教材，說明如何正確處理箴言的普遍性與例外性。
+> 本文內容大致遵循所提供的教學大綱，但在論述 G.B. Caird 的觀點時，我根據課堂實際講授的重點進行了更深入的解釋，並在探討箴言（Proverbs）時，將重點放在如何正確應用這些「一般性真理」而非僅僅列舉經文。
 
 
 
-### 詮釋學的基礎：G.B. Caird 與意義的區分
+### G.B. Caird 與意義的維度
 
-在探討聖經體裁（Genre）之前，講師引入了 G.B. Caird 的著作《聖經的語言與意象》（*The Language and Imagery of the Bible*）。Caird 的核心貢獻在於幫助讀者釐清「意義」（Meaning）的多重維度，避免在解經時將不同層次的含義混為一談。
+在進入文體（Genre）的具體討論前，我們必須先處理語言學上的基礎工具。G.B. Caird 在其著作《聖經的語言與意象》（*The Language and Imagery of the Bible*）中，為我們提供了一套區分「意義」的方法。作為釋經者，我們常被「意義」這個詞搞得暈頭轉向，因為它涵蓋了太多層面。Caird 建議我們在「意義」一詞後加上不同的後綴，以區分其細微差別：
 
-Caird 將意義細分為五個面向，並以不同的字母作為標記，這對於嚴謹的釋經至關重要：
-*   **Referent（指涉物/指涉對象）**：指語言所指向的具體內容、事件或主題。
-*   **Value（價值/意義）**：指該內容對讀者或作者的「重要性」（Significance）。
-*   **Entailment（蘊含）**：指某個詞彙或語句所帶出的邏輯推論（Implication）。
-*   **Sense（語義/意義本身）**：指詞彙或語句最直接的字面意義。
-*   **Intention（意圖）**：指作者在表達時的真實目的。
+*   **指涉意義（Meaning with respect to referent）：** 即「指涉對象」（Referent），也就是作者在談論的題材、內容或歷史事件。
+*   **價值意義（Meaning with respect to value）：** 即「意義」（Significance），當我們探討一段經文對我們有何重要性時，我們是在談論其價值。
+*   **蘊含意義（Meaning with respect to entailment）：** 即「含義」（Implication），指該語句所引申出的邏輯推論。
+*   **語義意義（Meaning with respect to sense）：** 即「字面意義」（Sense），這是語言本身最基礎的表達。
+*   **意圖意義（Meaning with respect to intension）：** 即「作者意圖」（Intention），前提是作者必須是一位具備溝通能力的作者。
 
-講師特別強調，許多學者常混淆「指涉物」與「意義」，導致解經混亂。此外，Caird 區分了「語言的公共意義」（Public meaning）與「說話者的意圖」（User’s meaning）。我們能透過語言的常規理解文本，但要探究作者「為什麼」要這樣說，往往涉及作者內心的動機，這有時是我們無法完全觸及的。因此，解經的原則應當是：如果作者是一位稱職的溝通者，他會考慮受眾的理解能力，我們應透過當時受眾如何理解這些詞彙，來推敲作者的意圖。
+為什麼這些區分如此重要？因為許多學者在討論聖經時，常混淆了「指涉對象」與「意義」。Caird 提醒我們，區分「語義」（Sense）與「指涉對象」（Referent）是釋經者不可或缺的素養。若我們忽略了這一點，就會陷入「意圖謬誤」（Intentional Fallacy）——即假設作者的意思與他實際寫下的文字不同。我們無法直接進入保羅或耶利米的內心，我們唯一能接觸到的，是他們留下的文字。若我們試圖在文字證據之外，去挖掘所謂「更深層的、更終極的意義」，那其實不是作者的意義，也不是上帝的意義，而是我們自己強加的意義。
 
-#### 避免「意圖謬誤」（Intentional Fallacy）
-講師引用 Caird 的警告，提醒讀者要警惕「意圖謬誤」。這是一種錯誤的假設，認為作者的意思「超越」了他所寫下的文字。在改革宗神學的脈絡下，我們相信聖經是神所默示的，但神透過人的語言傳達祂的旨意。因此，我們沒有權利在沒有證據的情況下，宣稱自己掌握了比作者原意更「深層」的含義。若我們試圖越過文字本身去尋找所謂的「終極意義」，那往往只是我們自己的意義，而非神或作者的本意。
+### 區分「語言的公共意義」與「言談的用戶意義」
 
-### 箴言的文體規則：普遍真理與例外
+Caird 還提出了一個關鍵區分：我們必須分辨「語言的公共意義」（Public meaning, characteristic of language）與「言談的用戶意義」（User’s meaning, characteristic of speech）。
 
-在確立了語言與意義的基礎後，講師轉向具體的文體分析——「箴言」（Proverbs）。他以「玩遊戲必須遵守規則」為喻：若不了解某種文體的規則，就無法正確詮釋該文體。
+簡單來說，這是「語言規範」與「話語意圖」的差別。我們能輕易理解聖經作者在「說什麼」（What he is saying），但對於他們「為什麼要這麼說」（Why he is saying it），我們往往只能猜測。除非作者明確寫出原因，否則我們不應過度解讀作者的心理狀態。作為釋經者，我們能做的最可靠的事，就是根據作者所使用的「共享語言」（Shareable words），去推敲當時的讀者會如何理解這些文字。這就是我們通往作者意圖的線索。
 
-#### 箴言的定義
-箴言是一種「簡短、精煉的格言」，旨在表達一種「普遍真理」（General truth）。關鍵在於：**箴言並非絕對的定律，它允許例外存在。**
+### 箴言的本質：一般性真理而非絕對律法
 
-講師以箴言 22:6 為例：「教養孩童，使他走當行的道，就是到老他也不偏離。」他嚴厲批評了那種將此句視為「絕對保證」的教導方式。若將箴言視為絕對定律，當敬虔的父母發現孩子走入歧途時，不僅會承受巨大的心理創傷，還會被錯誤的教導施加額外的罪惡感。事實上，聖經中如以利（Eli）這樣的敬虔人，其兒子依然作惡，這證明了箴言描述的是一種「常態」或「普遍規律」，而非無一例外的因果律。
+現在，讓我們轉向具體的文體——箴言（Proverbs）。我常說，釋經就像玩遊戲，你必須先了解遊戲規則，否則就會鬧笑話。箴言的規則是什麼？它是一種「簡短、精闢、表達一般性真理的格言」。
 
-#### 箴言的普遍性與例外
-講師透過多處經文（如箴言 3:9-10、10:3-4、15:1；馬太福音 6:21、26:52；哥林多前書 15:33）展示了箴言的特質：
-*   **箴言 10:3-4**：勤勞者致富，懶惰者貧窮。這是一般性的社會規律，儘管現實中有勤勞卻依然貧困的例外，但這並不否定「勤勞通常帶來好結果」這一原則。
-*   **馬太福音 26:52**：「凡動刀的，必死在刀下。」這同樣是普遍真理。雖然歷史上有少數動刀者未遭報應，但這句話揭示了暴力循環的本質，是智慧的觀察。
+這裡的關鍵在於「一般性真理」（General truth）。箴言並非絕對的預言或保證，它允許例外。例如箴言 22:6：「教養孩童，使他走當行的道，就是到老他也不偏離。」這是一句箴言，不是一份「保證書」。如果我們將其視為絕對律法，就會造成嚴重的牧養災難。我見過許多敬虔的父母，他們盡心竭力教養子女，孩子卻成了浪子，這時若用這句經文去責備他們，不僅是錯誤的釋經，更是殘忍的心理打擊。
 
-這些箴言反映了智慧人對世界的觀察，並透過神所賜的過濾器（Filter）來審視現實。這也是聖經箴言與世俗箴言的區別：聖經作者是在神啟示的框架下觀察世界，因此其智慧更為精準。
+我們看箴言 3:9-10 關於奉獻與豐收的應許，或是 10:3-4 關於勤勞與貧窮的對比，這些都是人生智慧的觀察。勤勞的人通常比懶惰的人過得好，這是一般規律，但這並不排除世上有勤勞卻仍遭遇不幸的義人。箴言教導的是智慧的「常規」，而非上帝必須履行的「契約」。
 
-### 約伯記：箴言被誤用的反面教材
+### 箴言的應用：如何避免「約伯的三友」式的謬誤
 
-講師最後以約伯記為例，說明將箴言「絕對化」的危險。約伯的三個朋友（以利法、比勒達等）所引用的箴言本身都是正確的（如約伯記 4:7-9），他們所說的「義人不會滅亡」、「惡人必遭報」在一般情況下確實是真理。
+在約伯記中，約伯的三友（如以利法、比勒達）正是犯了「將箴言絕對化」的錯誤。他們引用的箴言本身並沒有錯，例如「誰無辜滅亡呢？」（約伯記 4:7），這在一般情況下是正確的觀察。但問題在於，他們將這些「一般性真理」強加在約伯這個「例外」身上。
 
-然而，他們的錯誤在於**將「普遍真理」強加於「特殊個案」**。當他們將箴言當作棍棒去攻擊約伯時，他們忽略了約伯正是那個「例外」。約伯記的教訓在於：當我們面對苦難者時，不應機械式地引用箴言來指責對方，而應理解箴言的本質是智慧的指引，而非定罪的工具。
+當你面對一個孩子偏離正道的家庭時，不要用箴言去「鞭打」他們。相反地，你要提醒他們：他們已經給了孩子最寶貴的東西——回家的路。他們教導過孩子認識主，這份記憶是孩子永遠無法抹滅的。箴言的正確用法，是作為生活的智慧指引，而非定罪的工具。
 
-總結而言，正確處理箴言的關鍵在於：承認它是智慧的觀察，是教導人如何過敬虔生活的普遍原則，但同時要保持謙卑，承認在墮落的世界中，神的主權允許例外發生。我們應當使用箴言來引導人歸向神，而非用它來加重受苦者的負擔。
+最後，聖經中的箴言與世俗智慧（如埃及或希臘的箴言）有何不同？我認為，聖經作者是透過「聖經的濾鏡」來觀察世界。他們帶著上帝賦予的現實感，去觀察生活中的規律。正如索忍尼辛（Alexander Solzhenitsyn）所言，面對「寧可紅也不要死」的口號，他反駁道：「我們俄國也有句諺語：『寧可死也不要當無賴』。」這就是被上帝真理過濾後的智慧，它比單純的世俗觀察更深刻、更符合真實的生命價值。
 
 
 ## Lesson 14: 先知書釋經學（上） (Hermeneutics for Prophecy (Part 1))
 
 > **大綱對照：**
-> 本文完全遵循所提供的大綱結構進行詳細闡述。講師在課堂中提出的論點與大綱的邏輯順序一致，本文將其內容進行了深化與系統化整理。
+> 本文完全遵循所提供的大綱結構，並按照授課順序詳細展開各個論點與聖經例證。
 
 
 
 ### 一、 審判預言的釋經原則
 
-在研讀先知文學（Prophetic literature）時，我們常會遇到一個棘手的問題：當先知宣告審判時，若該審判最終並未發生，我們是否應將該先知視為「假先知」？講師透過《約拿書》的案例，為我們揭示了先知預言中一項關鍵的隱含規則。
+我們現在進入一個較為敏感的領域，即「先知文學」（Prophetic literature）。要正確解讀先知書，我們必須掌握其獨特的規則。我多年來喜歡從《約拿書》入手，因為它清晰地揭示了審判預言運作的一項核心法則。
 
-#### A. 審判預言的隱含條件
-審判預言（Judgment prophecy）的核心規則在於：**即便預言中未明確列出條件，審判預言本質上都隱含了「除非悔改」的條件。** 換言之，當上帝透過先知宣告審判時，其目的往往是為了發出警告，而非單純的命定預測。如果聽眾在審判臨到前轉離惡行，上帝便會撤回祂所宣告的災禍。
+#### 審判預言的隱含條件
+我們常誤以為先知宣告的審判是絕對且無條件的，但事實並非如此。請記住這條規則：**即使沒有明說，審判預言通常都隱含一個前提——如果百姓悔改，審判就不會臨到。**
 
-#### B. 聖經案例分析
-1. **《約拿書》3:4, 10**：約拿宣告「再等四十日，尼尼微必傾覆了」。然而，當尼尼微人悔改後，上帝便沒有降下災禍。約拿之所以起初逃往他施，正是因為他深知上帝「是有恩典、有憐憫的上帝，不輕易發怒，有豐盛的慈愛，並且後悔不降所說的災」（約拿書 4:2）。約拿並非擔心預言失敗，而是他極度厭惡尼尼微人，他不希望他們因悔改而免受審判。
-2. **《耶利米書》18:7-10**：這段經文直接闡明了上述規則。上帝以窯匠手中的泥土為喻，明確指出若祂宣告要拔出、拆毀一個國家，該國若轉離惡行，祂必「後悔」（relent / change His mind），不將災禍降與他們。這證實了審判預言的條件性（conditional nature）。
-3. **《彌迦書》3:12 與《列王紀上》21:20-29**：這些經文進一步佐證了審判的條件性。例如亞哈王在聽到審判後謙卑悔改，上帝便延遲了災禍的降臨。這顯示出上帝的公義與慈愛並行，審判預言的終極目標是呼喚人悔改。
+這正是《約拿書》3章4節中，約拿宣告「再等四十日，尼尼微必傾覆了！」時，尼尼微人所理解的邏輯。到了第10節，當神看見他們的悔改，神就「後悔」（relent/changed his mind），沒有降下災禍。如果這是一個絕對的預言，約拿就是假先知，我們就該用石頭打死他。但約拿之所以逃往他施，正是因為他深知神是「有恩典、有憐憫、不輕易發怒」的神（約拿書 4:2），他知道只要尼尼微人悔改，神就不會降災。他當時不想去，是因為他希望這些殘暴的亞述人（當時的「納粹」）受到神的審判。
 
-#### C. 釋經學觀點：預測 vs. 警告
-引用 G. B. Caird 的觀點，讀者常因過度關注《約拿書》中的「大魚」等生物學問題，而忽略了更重要的神學難題。Caird 指出，我們必須決定預言是「預測」（prediction）還是「警告」（warning）。若視為絕對的預測，則預言顯然落空；但若視為警告，則其隱含了「除非你們悔改」的條件。這種「絕對語氣表達隱含條件」是閃米特語言（Semitic style）的修辭特徵，聽者需自行補足其中的條件性。
+#### 聖經中的明確教導
+這不是我的臆測，在《耶利米書》18章5-10節中，神藉著窯匠的比喻明確闡述了這條原則：當神宣告要毀滅一國，若該國轉意離開惡行，神就必「後悔」，不將災禍降與他們。這說明了審判預言在本質上是一種「警告」，而非單純的「預測」。正如學者 G.B. Caird 所言，許多事情被預言出來，正是為了讓它們「不要發生」。我們必須區分「預測」（prediction，絕對事實）與「警告」（warning，帶有隱含條件）。
 
----
+此外，這類例子在聖經中比比皆是：
+*   **《彌迦書》3章12節**：預言錫安必被耕種像一塊田，耶路撒冷變為亂堆。這後來因希西家王的悔改而暫緩（參見《耶利米書》26章16-19節）。
+*   **《列王紀上》21章21-29節**：亞哈王聽到以利亞宣告審判後，因謙卑禁食，神便決定不在他有生之日降禍。
 
-### 二、 先知預言的語言：宇宙性術語
+因此，當你讀到審判預言時，請務必意識到：神是在呼喚悔改。雖然神全知，祂知道百姓是否會悔改，但從我們人類的視角來看，這就是神對悔改的回應。
 
-除了審判的條件性，先知文學的另一大特色在於其獨特的語言風格，特別是關於「宇宙性術語」（cosmic terminology）的使用。
+### 二、 先知語言的特徵：宇宙性術語
 
-#### A. 詩歌語言的象徵性
-先知在宣告審判時，常使用極具震撼力的宇宙性語言，如「日頭變黑」、「月亮不放光」、「星辰墜落」。現代讀者若以字面意義（literal interpretation）解讀，常會誤以為這是指「世界末日」或物理宇宙的毀滅。然而，講師強調，這些語言在先知文學中是**詩歌體（poetry）**，是用來象徵上帝介入歷史、施行審判的威嚴與恐怖。
+接下來，我們要探討先知書中另一種常見的語言現象，這常讓現代讀者感到困惑，那就是「宇宙性術語」（cosmic terminology）。
 
-#### B. 聖經案例與上下文脈絡
-講師透過多處經文展示了這種語言的慣用手法：
-1. **《以賽亞書》13:9-11**：雖然描述了星辰不發光、日頭變黑等末世景象，但上下文明確指出這是針對「巴比倫」的審判。這證明了宇宙性語言是為了形容巴比倫帝國傾覆時的慘烈，而非指物理世界的終結。
-2. **《耶利米書》4:23-28 與 15:9**：耶利米在預言耶路撒冷被毀時，同樣使用了天地變黑、山嶺震動的語言。這顯示出先知習慣以「宇宙的崩解」來類比「國家或城市的毀滅」。
-3. **《以西結書》32:7-8**：這段經文描述對埃及法老的審判，同樣使用了遮蔽星辰、使太陽變黑的語言。這再次印證了這種語言是為了強調審判的徹底性與神聖性。
-4. **《阿摩司書》8:9 與《哈巴谷書》3:11**：這些經文中的日頭落下、月亮停住，皆是詩意的表達，旨在描繪上帝在歷史中施行審判時，自然界彷彿也為之震顫的敬畏感。
+#### 詩歌語言與象徵意義
+請聽這段《以賽亞書》13章9-11節的描述：「天上的眾星群宿都不發光，日頭一出，就變黑暗；月亮也不放光。」許多現代讀者讀到這裡，直覺會認為這是指「世界末日」。然而，如果你看上下文，第1節明確指出這是關於「巴比倫」的默示，第17-18節提到瑪代人要攻擊巴比倫。這顯然是指歷史中巴比倫帝國的覆亡，而非地球物理意義上的毀滅。
 
-#### C. 釋經總結
-當先知使用這些宇宙性術語時，他們並非在撰寫天文學報告，而是在宣告：**那位掌管星辰、太陽與月亮的上帝，即將在歷史中採取行動。** 這種語言的「真理核心」在於「上帝必施行審判」，而其「描述外殼」則是詩意的、象徵性的。理解這一點，能幫助我們避免將先知文學誤讀為僵化的末世預言，並能更準確地掌握先知所傳達的歷史性審判信息。
+為什麼先知要使用這種「天崩地裂」的語言？因為先知是詩人，他們使用的是「先知詩歌」（prophetic poetry）。當他們描述神對某個國家的審判時，他們會使用宇宙性的象徵，來表達神作為天地的主宰，祂的介入是何等震撼。
+
+#### 聖經中的一致性用法
+當我翻閱協調經文（concordance）時，我發現這種語言在舊約中是常態，而非特例：
+*   **《耶利米書》4章23-28節**：描述耶路撒冷被毀，同樣使用了「地變為空虛混沌」、「天不發光」、「山嶺震動」等語言。
+*   **《以西結書》32章7-8節**：在審判埃及法老時，神說：「我遮蔽你的時候，要使諸天黑暗，使眾星昏暗，使日頭用雲遮掩，月亮也不放光。」
+*   **《阿摩司書》8章9節**與**《哈巴谷書》3章11節**：同樣使用了日頭、月亮、山嶺在神審判面前變色或震動的意象。
+
+#### 總結：如何解讀
+當先知使用這些語言時，他們並非在撰寫天文學報告。他們是在宣告：**那位掌管日、月、星辰的神，現在要介入歷史，對列國施行審判。**
+
+這種語言的重點不在於物理現象的字面發生，而在於其背後的真理：神的審判是真實且可怕的。我們在釋經時，必須將這種「宇宙性語言」理解為詩意的象徵，用以強調神審判的嚴肅性與神聖性。理解了這一點，你就不會再將每一處提到「日頭變黑」的經文都強行解釋為現代意義上的世界末日，而是能更精準地捕捉到先知所要傳達的神學信息。
 
 
 ## Lesson 15: 預言的釋經學（下） (Hermeneutics for Prophecy (Part 2))
 
 > **大綱對照：**
-> 本文內容大致遵循所提供的大綱，但在教學過程中，講師將各個經文段落（如以賽亞書、啟示錄、路加福音與馬太福音）串聯成關於「預言中的象徵與比喻語言」的整體論述，因此解釋內容依據講師的教學邏輯進行了整合與深化。
+> 本文內容大致遵循所提供的大綱，但針對課堂中討論的具體經文與釋經原則進行了更為詳盡的擴展與整合。
 
 
 
-### 預言中的象徵語言與「字面意義」
+### 預言中的「宇宙性語言」與文學體裁
 
-在探討預言時，一個常見的誤區是將「字面意義」（literal sense）與「木訥的字面主義」（wooden literalism）混為一談。改革宗釋經學強調，所謂「字面意義」，是指**作者原意**（what the author meant）。當先知使用象徵性語言時，我們必須「字面地」理解作者想要表達的「非字面」意涵。
+在進入預言的具體經文之前，我們必須先釐清一個核心觀念：當我們談論預言時，我們面對的是一種特殊的文學體裁。很多人會問：「我們是否不應該按字面意思（literally）來理解這些經文？」
 
-例如，當聖經提到「地的四角」（four corners of the earth）時，這並非在進行科學地理的陳述，而是使用比喻來表達「全世界」或「四面八方」。若我們強行以現代科學的精確度去解讀，反而會扭曲作者的本意。講師提醒，現代人習慣了科學與技術性的精確語言，這使得我們在閱讀充滿詩意、情感與象徵的古代預言時感到困難。我們必須學會像詩人一樣閱讀，理解這些語言旨在訴諸情感，並描繪上帝在歷史中的作為。
+這裡我們必須回到改革宗（Reformed）對「字面意義」（literal sense）的定義。對宗教改革者而言，所謂的「字面意義」是指**作者原本想要表達的意思**。如果作者使用象徵、隱喻或詩歌體裁，那麼「字面意思」就是指這些象徵所指向的真實內涵。例如，當聖經說上帝對列國施行審判時，這是一個必須「按字面」接受的事實，但這並不代表審判的過程必須完全符合我們現代科學對物理現象的描述。
 
-### 以賽亞書中的和平異象：多重意象的統一性
+我們常犯的錯誤是「木頭式的字面主義」（wooden literalism），即強行將詩歌或預言中的意象視為科學報告。請記住，聖經作者並非在撰寫現代科學論文，他們是在使用當時文學中常見的「宇宙性語言」（cosmic language）來描述上帝在歷史中的作為。這種語言是「情感性語言」（affective language），旨在觸動讀者的心靈，而非僅僅傳遞冷冰冰的「參考性資訊」（referential language）。如果你試圖用純科學的術語來描述愛情，你會發現那樣的表達毫無生命力；同樣地，預言家使用誇張、詩意的語言，正是為了表達上帝介入歷史時那種震撼人心的真實性。
 
-講師以以賽亞書 11:1-9、35:1-2, 8-10 以及 65:25 為例，探討先知如何描述末世的和平。這些段落呈現了不同的畫面：
-*   **以賽亞書 11 章**：猛獸（狼、獅子）與家畜（羊、牛）和平共處，猛獸被馴化。
-*   **以賽亞書 35 章**：猛獸完全從聖道上消失，強調環境的純淨與安全。
-*   **以賽亞書 65 章**：猛獸再次出現並被馴化。
+### 以賽亞書中的預言意象：多重描繪，同一真理
 
-**釋經重點**：這些描述並非互相衝突的歷史紀錄，而是同一「和平異象」的不同藝術表達。作者（或編纂者）明白這些畫面共同指向同一個現實：上帝國度中的極致平安。我們不應將其視為對未來動物生態的科學預測，而應視為對「上帝統治下，殺戮與恐懼終結」這一屬靈現實的描繪。
+我們來看以賽亞書中關於末世和平的三段經文：以賽亞書 11:1-9、35:1-2, 8-10 以及 65:25。
+
+在第 11 章，先知描述狼與羊同居、獅子吃草，這是一個動物被「馴化」的意象；在第 35 章，先知則描述荒漠開花，且沒有野獸出現；到了第 65 章，我們又看到了狼與羊同食的景象。有人可能會質疑，這是否代表不同作者對天堂的想像有衝突？
+
+絕對不是。我們必須將這些視為「印象派畫作」。每一幅畫都在描繪同一個現實：上帝國度中的和平與安息。作者透過不同的意象來傳達同一個核心真理——在上帝的統治下，死亡與殺戮將徹底終結。這些意象本身並非要我們去爭論天堂裡到底有沒有獅子，而是要我們領受那種「和平至極」的屬靈現實。
 
 ### 啟示錄的象徵與安全感
 
-啟示錄 21 章描述的新耶路撒冷充滿了幾何式的象徵：
-*   **城牆的厚度**：144 肘（約 230 英尺）的城牆象徵絕對的「安全」。
-*   **敞開的城門**：城門永不關閉，這在軍事戰略上看似脆弱，但在象徵意義上卻進一步強化了「無需防備」的極致安全。
+同樣的原則也適用於啟示錄。當啟示錄 21 章描述新耶路撒冷城時，提到城牆厚達 144 肘（約 230 英尺），這在軍事上是極其堅固的防禦。然而，經文隨後又說城門永遠敞開。如果你用軍事戰略家的眼光看，這簡直是矛盾的；但如果你理解作者的意圖，就會發現這兩者都在傳達同一個真理：上帝的城是絕對安全的。厚牆代表防禦，敞開的門則代表完全的和平與無懼。
 
-這些意象若以工程師的思維解讀會顯得矛盾，但若以釋經學的角度看，它們是多重意象共同指向同一個真理：在上帝的同在中，我們是完全安全的。講師特別提到，許多受迫害的基督徒（如衣索比亞的教會）偏愛啟示錄與但以理書，並非為了繪製末世時間表，而是因為這些書卷傳遞了一個核心信息：**上帝最終得勝**。
+我曾與一位在衣索比亞經歷逼迫的宣教士交流，他告訴我，當地教會最喜歡的兩卷書是《但以理書》和《啟示錄》。為什麼？因為他們在逼迫中學到了一個核心功課：**上帝最終得勝**。這不是要我們去畫複雜的末世圖表，而是要我們在患難中看見上帝的掌權。
 
-### 使徒行傳與路加福音中的「宇宙性語言」
+### 使徒行傳與路加福音：預言的應驗
 
-在使徒行傳 2 章，彼得引用約珥書描述聖靈澆灌時，提到了「日頭變為黑暗」、「月亮變為血」等宇宙性異象。講師指出，這並非意味著部分預言在五旬節應驗，而另一部分要等到遙遠的未來。這些「宇宙性語言」（cosmic language）是聖經中常見的修辭，用來標誌「救贖歷史中的重大轉折」。當上帝在歷史中採取關鍵行動（如新約時代的開啟）時，先知常用宇宙性的變動來形容這種震撼性。
+在使徒行傳 2 章，彼得引用約珥書來解釋五旬節的現象。有些人試圖將約珥書的預言拆解，認為 17-18 節在五旬節應驗了，而 19-20 節關於宇宙性的異象（如月亮變血）則要留待未來。但彼得的論點是：「這正是（This is what...）」——他宣告五旬節發生的事，就是約珥書預言的實現。那些宇宙性的描述，是為了強調上帝在救贖歷史中開啟了一個全新的紀元。
 
-在路加福音 3:4-6 與 4:18-21 中，施洗約翰與耶穌的宣告也使用了類似的修辭：
-*   **填平山谷、削平高山**：這不是地理改造，而是象徵「世界被翻轉」——謙卑者被高舉，驕傲者被降卑。
-*   **釋放被擄的**：透過對比路加福音其他章節（如 1:77, 3:3, 24:47），此處的「釋放」明確指涉「罪得赦免」。
+在路加福音 3:4-6 中，施洗約翰引用以賽亞書說「山窪都要填滿，大小山岡都要削平」。這並非地理改造，而是文學上的「路徑平坦化」。路加福音隨後多次使用「升高」與「降卑」的對比（如 14:11, 18:14），這顯示了上帝國度對世俗價值觀的顛覆：謙卑的人被升高，自高的人被降卑。這就是詩意語言的力量，它比平鋪直敘的文字更能深刻地刻畫出上帝國度臨到時的震撼。
 
-這些比喻性語言比直白的陳述更具力量，能深刻地觸動人心，描述上帝救恩的臨到。
+### 結論：從「寓意」到「含義」
 
-### 馬太福音與何西阿書：預言的「含義延伸」（Implication）
+最後，我們談到馬太福音 2:15 引用何西阿書 11:1「我從埃及召出我的兒子來」。何西阿書原本是指以色列民族的出埃及，馬太卻將其應用在耶穌身上。這並非隨意的靈意解經，而是馬太看見了上帝救贖計畫中的「模式」（pattern）。如果上帝對以色列的應許包含「從埃及呼召出來」，那麼作為彌賽亞的耶穌，祂的經歷必然會更深地體現這個模式。
 
-關於馬太福音 2:15 引用何西阿書 11:1「從埃及召出我的兒子」，這原是指以色列民族的出埃及。馬太如何將其應用於耶穌？
-
-講師提出「含義延伸」的解釋路徑：馬太看見了上帝對以色列應許中的「模式」。既然上帝曾應許以色列人會從埃及歸回，那麼當上帝的獨生子耶穌為了躲避希律王而進入埃及時，祂必然也會被召回。這是一種基於神學模式的推論，類似於哥林多前書 9:9 引用「不可籠住牛的嘴」來推論傳福音者應得工價。這種釋經方式並非隨意解讀，而是基於聖經中上帝對其子民一貫的救贖模式（Pattern of Meaning），將舊約預言的屬靈原則應用於基督的生平。
+這就是我們學習釋經的目標：不要成為只會死守字句的工程師，而要成為能讀懂先知與詩人語言的讀者。理解作者的意圖，掌握象徵背後的屬靈真理，這才是我們研讀預言時應有的態度。
 
 
-## Lesson 16: 先知預言的釋經學（第三部分） (Hermeneutics for Prophecy (Part 3))
+## Lesson 16: 預言的釋經學（第三部分） (Hermeneutics for Prophecy (Part 3))
 
 > **大綱對照：**
-> 本文內容大致遵循所提供的大綱，但在處理 Mark 13 的細節時，教師根據教學流程進行了更為深入的經文解讀與神學反思，本文皆已完整涵蓋。
+> 本次課程的講解嚴格遵循了所提供的大綱結構，並在最後加入了關於術語定義的補充討論，與課堂實際教學流程完全一致。
 
 
 
 ### 一、 關於「更豐滿的意義」（Sensus Plenior）
 
-在釋經學中，「更豐滿的意義」（*sensus plenior*）是指聖經經文可能存在一種作者本人（先知）在寫作時並未意識到，但後來由新約作者揭示的「更深層意義」。針對此觀點，教師提出了兩個關鍵的反駁與修正：
+在探討預言時，我們常會遇到一個概念，稱為「更豐滿的意義」（*sensus plenior*）。這指的是聖經預言中可能存在一種「更深層的含義」，是當時的先知本人所未曾意識到的，但後來的新約作者卻能領悟並揭示出來。
 
-首先，即便新約受感作者確實揭示了舊約經文的深層含義，這也是「事後」的啟示。對於我們這些沒有靈感（inspiration）的現代讀者而言，試圖模仿這種釋經方式是徒勞的。如果沒有新約作者的引導，我們絕不可能憑藉自己的能力得出同樣的結論。因此，這給我們一個警示：不要試圖在沒有新約明文支持的情況下，自行發明所謂的「更豐滿意義」。
+對於這個概念，我有兩點重要的回應。首先，即便我們承認新約作者在聖靈的默示下可能看見了這種深意，這對我們而言依然是「事後諸葛」。我們並非受默示的作者，若沒有新約作者的指引，我們絕不可能憑己力得出同樣的解釋。因此，試圖模仿這種釋經方式是極其危險的，因為我們缺乏那種權威性。
 
-其次，教師認為更重要的反駁在於邏輯的一致性。以《使徒行傳》第 2 章彼得引用約珥書為例：如果我們承認約珥書中關於宇宙性徵兆的描述，在某種程度上也適用於五旬節當下的聖靈降臨，那麼我們根本不需要「更豐滿意義」這個概念來作為「救生圈」。所謂的 *sensus plenior* 通常是用來解決「經文表面看來不適用於當下」的問題；一旦我們承認經文在某種意義上確實指向了當下，那麼該經文的意義就已經完整了，不需要再強加一個「隱藏的、未來的」第二層意義。
+其次，更關鍵的一點是：如果你認為某段經文（例如使徒行傳第2章中對約珥書的引用）不僅指涉當時發生的事（如聖靈降臨），還隱含了末世的宇宙性徵兆，那麼你必須承認，這些徵兆在某種程度上也必須與當時的處境（五旬節）相關聯。一旦你承認該預言在某種程度上適用於五旬節，你就不再需要「更豐滿的意義」這個概念來作為救命稻草。通常人們使用 *sensus plenior* 是為了強行解釋「這段經文看起來不適用於當時」，但若我們能看見經文與當下的關聯，這種釋經上的「補丁」就顯得毫無必要了。
 
-### 二、 先知預言中「宇宙性語言」的性質
+### 二、 預言為何使用此類語言？
 
-教師透過一個關於二戰時期漢堡大轟炸（Firestorm in Hamburg）的個人故事，解釋了先知預言中為何常出現「日頭變黑、月亮變血」等恐怖的宇宙性語言。在經歷過那場毀滅性轟炸的倖存者口中，由於城市燃燒的煙霧遮蔽了天空，他們有兩週時間沒見過太陽。
+我們常困惑於預言中那些誇張的宇宙性描述，例如「太陽變黑」、「月亮變血」。這是否意味著我們必須將其視為科學事實？
 
-這啟發我們：先知預言中的宇宙性語言，可能並非科學性的描述，而是「印象派」（impressionistic）的藝術手法。先知並非使用精確的「柯達 35mm 相機」來記錄歷史，而是透過這種極具情感衝擊力的語言，來描繪神對罪惡施行審判時的恐怖與徹底。當我們閱讀這些經文時，重點不在於尋找天文學上的字面發生，而在於理解神在歷史中介入審判的真實性。
+我曾與一位經歷過二戰漢堡大轟炸的女士交談。當時城市經歷了前所未有的「火風暴」，連續七天，日夜轟炸。她告訴我：「你知道嗎？有兩個星期，我們連太陽都看不見。」這讓我意識到，當先知描述審判時，他們是在使用一種「印象派」的語言。就像 16 世紀的精細繪畫與 19 世紀印象派畫作的區別：前者追求攝影般的精確，後者則透過色塊傳達整體的震撼與真實。預言更接近後者，它用極具情感張力的語言來描述上帝審判的恐怖與真實，而非提供一份科學報告。
 
-### 三、 先知預言與《馬可福音》第 13 章的解讀
+### 三、 預言與馬可福音第 13 章的初步討論
 
-教師將《馬可福音》第 13 章視為理解先知預言語言的關鍵案例，並將其分為幾個部分進行分析：
+我們在處理馬可福音 13 章時，必須謹慎區分「末世論」與「耶路撒冷的毀滅」。
 
 #### A. 馬可福音 13:7-12
-耶穌在此處警告門徒，戰爭、地震、飢荒等現象只是「產難的開始」。這與現代許多人將「戰爭謠言」視為末日臨近的徵兆恰恰相反。耶穌強調這些事必然發生，但「結局還沒有到」。這提醒我們，不要將日常的歷史動盪與末日審判混為一談。
+耶穌警告門徒，戰爭、地震、飢荒只是「產難的開始」。這裡的重點是：不要因為聽到戰爭謠言就驚慌，以為末日即刻來到。這些是門徒在跟隨基督的過程中必然會面對的常態。
 
 #### B. 馬可福音 13:14-23
-關於「行毀壞可憎的」（desolating sacrilege），這在歷史上曾應驗於安提阿古四世（Antiochus Epiphanes）對聖殿的褻瀆。耶穌在此處的教導，很可能是指公元 70 年耶路撒冷的毀滅。教師特別指出，經文中關於「逃往山上」、「不要回頭取衣」的指示，若是指向世界末日則顯得不合邏輯，但若是指向羅馬軍隊對耶路撒冷的圍城，則非常具體且切合實際。
+當耶穌提到「那行毀壞可憎的」時，這明顯指向公元前 167 年安提阿古四世對聖殿的褻瀆，同時也預示了公元 70 年耶路撒冷的毀滅。耶穌吩咐人「逃到山上」，這與末日基督再來時的情況不同——當主再來時，逃跑是無意義的。這裡描述的是羅馬軍隊如「壓路機」般推進的恐怖景象，約瑟夫（Josephus）在《猶太戰記》中記錄的慘狀（如飢荒導致的極端行為）印證了這種語言的有效性，而非科學精確性。
 
 #### C. 馬可福音 13:24-27
-這是全章最難解的部分。這裡出現了典型的「末日語言」（日頭變黑、星辰墜落）。教師承認，這裡的語言與舊約中描述巴比倫傾覆或法老軍隊被毀時的語言極為相似。如果我們堅持舊約的這些語言是「印象派」的審判描述，那麼我們也必須對此處保持一致，考慮這是否同樣是在描述公元 70 年耶路撒冷毀滅的慘狀，而非僅僅指向基督的第二次降臨。
+這幾節經文最為困難，因為它看起來像是在描述基督的第二次降臨。然而，若我們回顧舊約中描述巴比倫傾覆或埃及軍隊毀滅時所用的相同語言，我們必須思考：這是否依然是那種「印象派」的語言，用來描述上帝在歷史中介入審判的威嚴？我傾向於認為，我們不應將其轉化為科學技術語言，而應視其為上帝彰顯主權的象徵。
 
-#### D. 馬可福音 13:28-31 與總結
-耶穌提到「這世代還沒有過去，這些事都要成就」，這強烈暗示了 14-23 節所描述的災難（耶路撒冷的毀滅）將在當時的世代發生。教師總結道，我們必須回到當時聽眾的思維模式中。古代聽眾比現代人更習慣於「比喻性」的語言，他們理解這些語言所傳達的「神正在行動」的真理，而不像現代人那樣執著於科學式的字面精確度。
+#### D. 馬可福音 13:28-31
+耶穌提到「這世代還沒有過去」，這強烈指向公元 70 年耶路撒冷的毀滅。這段經文將焦點拉回了當時的歷史事件。
 
-### 四、 釋經術語的釐清
+#### E. 總結與反思
+我們必須回到當時聽眾的思維模式。他們不像 19 世紀以後的我們那樣追求科學精確。對他們而言，預言的重點在於「上帝正在行動」這一真理。當我們閱讀這些經文時，我們應當承認：雖然我們無法完全掌握所有細節（如號角是否為實體、星辰是否真的墜落），但我們確信上帝的審判與救贖是絕對真實的。
 
-在課程最後，教師透過練習釐清了幾個關鍵術語：
-*   **解釋（Interpretation）**：指作者對當時讀者所要傳達的意思。
-*   **含義（Implication）**：指經文對今日讀者的延伸應用，而非作者當初的本意。
-*   **主題（Subject Matter）**：指經文所談論的事件或事實本身。
-*   **體裁（Genre）**：指文學形式（如神話、歷史敘事）。
-*   **意義（Meaning）**：指作者使用這些詞彙時所要表達的中心思想。
+### 四、 術語定義練習
 
-教師最後強調，學習預言釋經學的目的，不是為了給每一節難解的經文提供標準答案，而是要掌握先知預言的「體裁」與「語言習慣」。預言的核心在於揭示神對罪的憎惡與對公義的審判，我們應當在尊重其文學特徵的前提下，領受神藉此傳達的永恆真理。
+在課程最後，我們區分了幾個釋經學術語：
+*   **解釋（Interpretation）**：探討作者在當時對原讀者所要傳達的意義。
+*   **含義（Implication）**：探討經文對今日讀者的應用與推論。
+*   **主題（Subject Matter）**：指經文所談論的事件本身，而非作者的教導。
+*   **類型（Genre）**：指文學形式（如神話、歷史敘事）。
+
+理解這些術語的區別，能幫助我們在面對預言時，不至於將「含義」誤當作「解釋」，從而避免許多釋經上的混亂。我們學習預言，不是為了成為預言專家，而是為了掌握這種文學類型的「感覺」，理解先知如何透過詩意、誇張的語言，向我們揭示那位掌管歷史的上帝。
 
 
 ## Lesson 17: 詩歌釋經學（上） (Hermeneutics for Poetry (Part 1))
 
 > **大綱對照：**
-> 本文完全遵循所提供的大綱結構，並按照授課內容的順序進行了深入的解析與擴展。
+> 本課的講解完全遵循所提供的大綱結構。我將依序探討散文與詩歌的區別，並透過大綱中列舉的聖經案例，深入分析如何運用「詩意許可」（poetic license）來正確解讀這些經文。
 
 
 
-### 一、 散文與詩歌的區別及舊約實例
+### 散文與詩歌的區別
 
-在研讀聖經時，區分「散文」（prose，即敘事體）與「詩歌」（poetry）是釋經學中至關重要的一步。散文通常以直白、敘事的方式記錄歷史事件，而詩歌則運用豐富的修辭、誇張與節奏感來表達情感與神學真理。若將詩歌當作散文來讀，或將散文當作詩歌來解讀，都會導致嚴重的誤解。
+我們在進入詩歌文學的釋經時，首先要建立一個核心觀念：詩歌與散文（prose）在表達目的與語言結構上有顯著差異。散文通常是敘事性的，語言傾向於直接、平實，旨在傳達歷史事實或軍事報告般的準確性；而詩歌則是一種「民謠」（ballad），它不僅是為了敘述事件，更是為了抒發情感、讚美上帝，並在節奏與韻律的限制下，使用高度的「比喻性語言」（figurative language）。
 
-#### 1. 判斷文體的線索
-如何辨別一段經文是詩歌還是散文？
-*   **譯本的排版**：現代譯本通常會將詩歌部分以「縮排」或「分行」呈現，這為讀者提供了直觀的線索。
-*   **語言特徵**：希伯來文詩歌常使用特定的助詞，且其詩節（stanzas）長度往往具有規律性。
-*   **文體標記**：聖經作者有時會明確標註，例如「於是底波拉和亞比挪安的兒子巴拉作歌說」（士師記 5:1）。當看到「作歌」或「唱詩」時，讀者就應調整心態，準備進入一個允許使用誇張與比喻的文學空間。
+當我們閱讀聖經時，必須留意譯本的排版。現代譯本通常會將詩歌部分以「斷行」呈現，而散文則以「實心塊狀」呈現。這種排版上的差異，正是譯者給我們的第一個線索，提醒我們在進入詩歌段落時，必須調整我們的閱讀期待——我們不再是在讀一份軍事報告，而是在讀一首讚美詩。
 
-#### 2. 士師記 4 章與 5 章的對照
-這是理解文體差異的絕佳範例。第 4 章是敘事體（散文），記錄了底波拉與巴拉擊敗西西拉的歷史過程。這段文字讀起來非常直觀、寫實，沒有明顯的誇張。然而，第 5 章是同一事件的詩歌版（底波拉之歌）。
+### 舊約與新約中的詩歌案例
 
-在詩歌中，作者使用了強烈的擬人與誇張手法：
-*   **地震與山崩**：詩中提到「地震動，天漏下，雲也落雨，山見耶和華的面就震動」（士 5:4-5）。在第 4 章的敘事中並未提到地震。這並非矛盾，而是詩人透過「地震」這一意象，表達神與祂的百姓同在時，那種威嚴與不可阻擋的屬靈確據。
-*   **星宿爭戰**：詩中提到「星宿從天上爭戰」（士 5:20）。若以 17 世紀某些註釋家的觀點，會將其解釋為「流星雨」等物理現象，這就是誤將詩歌當作散文解讀的結果。其實，這句話的意義是「神從天上為祂的百姓爭戰」。
+#### 1. 士師記第 4 章與第 5 章：敘事與詩歌的對照
+為了幫助你們理解兩者的差異，聖經中有一組極佳的對照：士師記第 4 章（散文）與第 5 章（詩歌）。第 4 章以平實的敘事記錄了底波拉與巴拉擊敗西西拉的過程，這是一份寫實的歷史紀錄。然而，第 5 章則是底波拉與巴拉所唱的「歌」。
 
-### 二、 詩歌中的「詩意許可」與神學表達
+在第 5 章中，詩人描述上帝帶領百姓爭戰時，說「大地震動，諸天滴水，山嶺見耶和華的面而震動」（士 5:4-5）。如果我們用讀散文的方式去讀這些經文，可能會困惑為什麼第 4 章沒提到地震。但請記住，這是詩歌！詩人運用地震與山崩的意象，是為了表達上帝與祂的百姓同在時那種「不可抗拒的威嚴與確定性」。如果我們強行要求詩人寫出「上帝將箭矢的準確度提高了 12.86%」，那不僅荒謬，更喪失了詩歌傳達神學真理的力量。
 
-#### 1. 詩意許可（Poetic License）的必要性
-詩歌為了節奏、押韻或情感張力，往往會使用「詩意許可」。這意味著作者可能選擇並非最精確的詞彙，或使用誇張的修辭。例如，聖誕詩歌中提到耶穌降生是「榮耀的神話」（glorious myth），這並非否定童貞女懷孕的歷史真實性，而是為了配合詩歌的韻律與節奏。我們不能因為詩歌中出現了「神話」一詞，就指控作者否定歷史。
+#### 2. 出埃及記第 14 章與第 15 章：紅海的審判
+同樣地，出埃及記第 14 章記錄了過紅海的歷史事實，而第 15 章則是摩西與以色列人的讚美詩。詩中提到上帝「用鼻孔的氣使水聚起」（出 15:8），並說敵軍「像碎秸被燒滅」（出 15:7）。這裡的「燒滅」是比喻性的審判意象，即便他們實際上是被淹死的。我們不能因為它是詩歌，就否定其真理的真實性；相反地，我們必須承認，詩歌透過強烈的意象，精準地捕捉了上帝施行審判的本質。
 
-#### 2. 出埃及記 14 章與 15 章
-同樣地，出埃及記 14 章是過紅海的歷史敘事，而 15 章是摩西的凱旋之歌。
-*   **審判的意象**：詩中提到神將敵人「像碎秸被火燒滅」（出 15:7）。事實上，埃及軍隊是被淹死的，而非被火燒死。這裡的「火燒碎秸」是一個比喻，用來描繪神對敵人的徹底審判。我們不應在歷史細節上糾結於「火」與「水」的矛盾，而應領會其神學核心：神對敵人的審判是絕對且徹底的。
+#### 3. 歌羅西書第 1 章：詩歌節奏與神學表達
+在新約中，我們也面臨類似挑戰。歌羅西書 1:15-20 是一首古老的讚美詩。當經文說基督要「與萬有和好」時，有人會誤以為這是「普救論」（universalism）。但我們必須理解，這是一首具有高度節奏感的詩歌。為了維持詩歌中「萬有」（all things）的對稱與節奏，作者使用了重複的修辭。我們不能將這種詩歌中的節奏性用語，與保羅在其他書信中嚴謹的神學教導對立起來。詩歌的節奏有時會限制用詞的精確度，我們應當以聖經整體的一貫教導來平衡這些詩意表達。
 
-#### 3. 新約中的詩歌：歌羅西書 1:15-20
-保羅在歌羅西書中引用了一首早期的基督論讚美詩。這段經文多次使用「萬有」（all things）一詞。若將其當作嚴謹的邏輯論證，可能會導向「普救論」（Universalism）。然而，這是一首讚美詩，其節奏與對稱結構要求使用「萬有」來展現基督作為創造主與救贖主的至高地位。我們必須將這段詩歌放在保羅書信整體神學的框架下解讀，而非孤立地解讀詩歌中的每一個詞。
+#### 4. 哥林多前書 15:22 與羅馬書第 5 章：對稱的平衡
+保羅在哥林多前書 15:22 寫道：「在亞當裡眾人都死了；照樣，在基督裡眾人也都要復活。」這裡的對稱結構（rhythmic balance）是為了強調基督的救贖與亞當的墮落之間的對應關係。同樣地，在羅馬書第 5 章，保羅運用了類似的平衡句式。我們不能因為這種對稱的修辭，就強行推導出普救論的結論。這些經文的重點在於「對應的範疇」，而非對每一個體得救與否的技術性定義。
 
-#### 4. 哥林多前書 15:22 與羅馬書 5:18
-保羅在論述亞當與基督的對比時，使用了高度平衡的句式：「在亞當裡眾人都死了；照樣，在基督裡眾人也都要復活。」（林前 15:22）。這種對稱的詩意結構是為了強調「代表性」的對比。我們不能因為句式對稱，就強行推論出「所有人最終都會得救」。保羅在其他非詩意、邏輯嚴密的段落中，清楚教導了審判與揀選的真理。
+#### 5. 詩篇第 18 章：詩意的讚美
+詩篇 18 章是詩歌釋經的典範。大衛用「磐石」、「山寨」、「盾牌」、「角」來形容上帝（詩 18:2）。這些詞彙若按字面解釋會顯得滑稽，但作為詩歌，它們極其有力地表達了上帝在大衛生命中的保護。當詩人描述上帝「從鼻孔冒煙，口中發火」（詩 18:8）時，這是在用極致的意象描繪上帝的憤怒與介入。這是詩歌的魅力，也是我們釋經時必須給予的「詩意許可」。
 
-### 三、 詩歌的文學力量：詩篇 18 篇與撒母耳記下 1 章
+#### 6. 撒母耳記下第 1 章：英雄的輓歌
+最後，大衛為掃羅與約拿單作的輓歌（撒下 1:19-27）更是詩歌的極致。大衛稱他們「比鷹更快，比獅子還強」（撒下 1:23）。如果有人在葬禮上用「他們臥推可以舉起 275 磅」來稱讚死者，那是非常不合時宜的。大衛使用詩歌，是因為只有詩歌的誇張與意象，才能承載他對英雄的敬意與哀傷。
 
-#### 1. 詩篇 18 篇：大衛的讚美
-大衛在詩篇 18 篇中描述神如何拯救他。他使用了極其宏大的意象：「祂使天下垂，親自降臨……祂坐著基路伯飛行……」（詩 18:9-10）。這不是在記錄一次具體的氣象觀測，而是在表達大衛對神拯救之恩的深切感受。詩歌的力量在於它能將抽象的神學（神是拯救者）轉化為具體的感官體驗。
-
-#### 2. 撒母耳記下 1 章：哀歌
-大衛為掃羅與約拿單作的哀歌中，稱他們「比鷹更快，比獅子還強」（撒下 1:23）。這同樣是詩意的表達，用來讚揚英雄的勇氣與力量。如果我們要求大衛提供具體的體能數據（如臥推重量或跑步速度），就完全錯失了哀歌的文學目的。
-
-### 總結
-解讀聖經詩歌的關鍵在於：
-1.  **承認文學體裁**：區分敘事與詩歌。
-2.  **理解修辭目的**：詩歌的核心在於表達情感、讚美與神學確據，而非提供技術性的歷史報告。
-3.  **以經解經**：當詩歌中的語言看似與其他教義衝突時，應以聖經中邏輯清晰、敘事明確的段落作為解釋的基礎，而非強行將詩歌中的修辭「字面化」。
+### 總結：如何運用詩意許可
+當我們面對這些經文時，請記住：**「詩意許可」（poetic license）並非為了逃避真理，而是為了更深地進入作者想要傳達的真理核心。** 我們不應為了追求字面上的精確，而扼殺了詩歌所蘊含的神學情感與力量。只要我們掌握了詩歌的體裁特性，並以聖經整體的教導作為平衡，我們就能在這些優美的文學作品中，聽見上帝對我們說話的聲音。
 
 
-## Lesson 18: 詩歌釋經學（下） (Hermeneutics for Poetry (Part 2))
+## Lesson 18: 聖經詩歌釋經學（下） (Hermeneutics for Poetry (Part 2))
 
 > **大綱對照：**
-> 本文內容完全遵循所提供的大綱結構，並依序對各個要點進行了詳細的解說與神學擴充。
+> 本次說明完全遵循所提供的課程大綱，並依序深入探討聖經詩歌的四種平行體裁以及慣用語（Idioms）的釋經原則。
 
 
 
-### 一、 聖經中的詩歌類型
+### 一、 聖經詩歌的四種平行體裁
 
-在聖經釋經學中，理解詩歌的結構至關重要。詩歌的核心不在於「押韻」（rhyme），而在於「節奏」（rhythm）與「平行體」（parallelism）。這種平行結構不僅是文學修辭，更是理解經文原意的關鍵鑰匙。
+在研讀聖經詩歌時，我們必須掌握的核心概念是「平行法」（Parallelism）。這並非我們現代習慣的押韻（Rhyme），而是節奏（Rhythm）與思想的重複。對當時的聽眾而言，這種形式極易記憶，是口傳文化中傳遞真理的關鍵工具。
 
-#### A. 同義平行體 (Synonymous Parallelism)
-同義平行體是指用不同的詞彙重複表達同一個思想。這種結構在希伯來詩歌中極為常見，即便在翻譯成希臘文或中文後，其節奏感依然存在。
+#### A. 同義平行法（Synonymous Parallelism）
+這是一種重複相同思想的詩體。我們常犯的錯誤是將這些重複的語句視為「層層遞進」的三個不同階段，但實際上，它們是在用不同的方式表達同一個真理。
 
-*   **馬太福音 7:7-8**：耶穌教導關於祈禱的經文常被誤解為「祈禱的三個階段」（祈求、尋找、叩門）。然而，從詩歌結構來看，這三者是同義的，意指同一個核心思想：恆切地向神祈求。若將其拆解為三個遞進的屬靈階段，反而偏離了作者的原意。
-*   **路加福音 6:27-28**：這段關於愛仇敵的教導，透過四行平行句來定義「愛」的具體行動：愛、行善、祝福、禱告。這表明聖經中的「愛」並非僅是情感上的「感受」（emote），而是具體的行動。
-*   **主禱文**：馬太福音中的「願人都尊你的名為聖」、「願你的國降臨」、「願你的旨意行在地上」是同義平行體。這三者共同指向神國度的完全實現，即歷史的終結與基督的再臨（Maranatha）。
+*   **馬太福音 7:7-8**：很多人將「祈求、尋找、叩門」視為禱告的三個深淺層次，這其實誤解了詩歌的本質。這三者在詩意上是同義的，意指同一個行動。若你理解其中一行，就能理解整段詩歌的含義。
+*   **路加福音 6:27-28**：這裡的四行詩句（愛仇敵、善待恨你的人、祝福咒詛你的人、為凌辱你的人禱告）並非四種不同的命令，而是透過四個具體行動來定義什麼是「愛仇敵」。愛不是一種情緒，而是具體的善行。
+*   **主禱文**：「願人都尊你的名為聖」、「願你的國降臨」、「願你的旨意行在地上」。這三句是同義平行，它們都在祈求歷史的終局，即耶穌的再來，讓神的國度與旨意在地上如同在天上一般完全實現。
 
-#### B. 反義平行體 (Antithetic Parallelism)
-這種結構透過對比來強化真理，通常由兩行組成，第二行是第一行的反面。
+#### B. 反義平行法（Antithetic Parallelism）
+這種體裁透過對比來強化真理，通常由兩行組成，第二行是第一行的反面。
+*   **馬太福音 7:17-18 與 路加福音 16:10**：這些經文透過「好樹與壞樹」、「忠心與不義」的對比，將真理刻畫得更為鮮明。
+*   **箴言**：箴言書 10-15 章大量運用此法。這種對比式結構是智慧文學的特徵，讓我們在閱讀時能迅速掌握道德選擇的兩極。
 
-*   **馬太福音 7:17-18 與 路加福音 16:10**：透過「好樹/壞樹」、「忠心/不忠」的對比，清晰地界定了屬靈原則。
-*   **箴言**：箴言書第 10 至 15 章大量使用此結構。反義平行體不僅是文學形式，更是智慧文學中用來區分義人與惡人、智慧與愚昧的標準工具。
+#### C. 漸進/頂真平行法（Step/Climactic Parallelism）
+與前兩者不同，這種體裁的第二行並非重複或對比第一行，而是將思想「向上推升」一個層次。
+*   **馬太福音 11:40**：接待門徒即是接待耶穌，接待耶穌即是接待差遣祂的父。這是一個邏輯上的階梯，將接待的對象從人提升到神。
+*   **馬太福音 5:17**：耶穌強調祂來不是要廢掉律法，而是要「成全」。這不僅是重複，而是將律法的地位提升到一個新的高度。
 
-#### C. 階梯式/漸進式平行體 (Step/Climactic Parallelism)
-這種結構中，第二行並非重複或對比第一行，而是將思想向上推進一個層次。
-
-*   **馬太福音 11:40 與 5:17**：例如「接待門徒即是接待基督，接待基督即是接待父神」，思想層層遞進，將讀者的視角從地上的門徒引向天上的父。
-
-#### D. 交錯平行體 (Chiasmic Parallelism)
-這是一種 A-B-B-A 的結構，透過倒裝來強調核心。
-
-*   **馬太福音 23:12 與 馬可福音 8:35**：如「保存生命者將失去，失去生命者將保存」。這種結構不僅具備節奏感，更具有強烈的記憶點，幫助當時口傳文化下的聽眾牢記教導。
-
-### 二、 為何使用詩歌語言？
-
-耶穌與聖經作者使用詩歌形式，主要目的是為了「易於記憶」（memorizable）。在一個識字率極低的文化中，節奏感是傳承教導的最佳媒介。詩歌形式讓真理在群體中得以保存，即便在沒有書寫工具的情況下，信徒也能透過節奏將神的道銘刻在心中。
-
-### 三、 慣用語 (Idioms) 的釋經
-
-慣用語是指那些若按字面意思翻譯，會完全失去原意或產生荒謬感的表達方式。
-
-#### A. 慣用語的檢測與原則
-1.  **頻率與上下文**：若一個表達方式在經文中多次出現，且按字面解釋在邏輯上不通（如「閉塞心腸」直譯為「閉塞腸子」），則極有可能是慣用語。
-2.  **作者意圖**：釋經的核心不在於「文本本身」（text），而在於「作者透過文本所要表達的意思」（what the author means）。慣用語是證明「字面主義」（literalism）不足以解釋聖經的強力證據。
-
-#### B. 關鍵範例：「愛與恨」
-聖經中出現的「恨」（hate），在希伯來慣用語中，往往意指「愛得較少」（to love less）。
-*   **瑪拉基書 1:2-3 與 羅馬書 9:13**：「雅各我愛，以掃我惡（恨）」。這並非指神對以掃有情感上的憎惡，而是指神在揀選上的主權與優先次序。
-*   **創世記 29:31 與 申命記 21:15-17**：經文提到雅各「恨」利亞，對照上下文，這其實是指雅各「愛拉結勝過利亞」。
-*   **路加福音 14:26**：耶穌說要「恨」自己的父母才能跟從祂。這並非教導信徒去憎恨家人，而是強調對基督的愛必須超越一切世俗關係，這是一種典型的希伯來式誇張慣用語。
-
-#### C. 釋經建議
-對於這類慣用語，現代譯本（如 NRSV）常會根據其意義進行「意譯」（thought-for-thought translation），例如將「恨」譯為「不喜歡」或「愛得較少」。雖然這會失去原文的文學色彩，但能有效避免讀者因誤解慣用語而產生神學上的混亂。釋經者應當在尊重原文結構的同時，優先確保讀者能準確理解作者的本意。
-
-
-## Lesson 19: 誇張法的釋經學（上） (Hermeneutics for Exaggeration (Part 1))
-
-> **大綱對照：**
-> 本文完全遵循所提供的課程大綱結構，並針對大綱中的五個論點進行了深入的釋經學分析與擴充。
-
-
-
-### 導論：理解「誇張法」的必要性
-
-在研讀聖經時，我們必須謹慎處理語言的表達形式。許多讀者對於耶穌使用「誇張」（exaggeration）感到不安，因為在現代語境中，誇張常與「不誠實」或「缺乏真理」掛鉤。然而，在文學與修辭學中，誇張是一種強有力的溝通工具。
-
-講師區分了「過度陳述」（overstatement）與「誇張法」（hyperbole）：
-*   **過度陳述（Overstatement）：** 雖然誇大，但理論上仍可能發生。
-*   **誇張法（Hyperbole）：** 字面上是不可能的（literally impossible）。
-
-這兩者皆非欺騙，因為當說話者與聽話者雙方都理解這是一種修辭手法時，它便成為了一種極具感染力的「承諾性語言」（commissive language）。若我們強行將所有語言都解讀為字面意義，反而會失去耶穌教導中那種震撼人心的力量。
+#### D. 交錯平行法（Chiasmic Parallelism）
+這是一種 A-B-B-A 的結構，透過順序的倒置來強調核心。
+*   **馬太福音 23:12**：凡自高的（A），必降為卑（B）；凡自卑的（B），必升為高（A）。
+*   **馬可福音 8:35**：救自己生命的（A），必喪掉生命（B）；為我喪掉生命的（B），必救自己生命（A）。這種結構在希伯來文學中非常優美，能幫助聽眾在記憶中鎖定重點。
 
 ---
 
-### 一、 如何辨識耶穌教導中的誇張法
+### 二、 為何耶穌使用詩歌體裁？
 
-講師提出了一套系統性的方法，幫助讀者判斷何時該將經文視為誇張修辭，而非字面指令。
+我們必須意識到，耶穌面對的是一個基本上「文盲」的社會。詩歌的節奏感（Rhythm）是極佳的記憶輔助工具。就像我們能輕易背誦詩歌歌詞一樣，耶穌將教導編織成詩歌，讓門徒在沒有文字記錄的情況下，也能完整保存並傳承祂的教導。這不僅是文學修辭，更是神學教育的實用策略。
 
-#### A. 字面上的不可能（Hyperbolic - literally impossible）
-當經文描述的情境在物理或現實中無法達成時，這就是最明顯的誇張法。
-*   **例子：馬太福音 7:3-5（眼中刺與樑木）**
-    耶穌問道：「為什麼看見你弟兄眼中有刺，卻不想自己眼中有樑木呢？」在現實中，人不可能將一根「樑木」（log）塞進眼睛裡。若試圖將其視覺化，會發現這在藝術表現上是荒謬的。然而，這句話的修辭力量極強：它揭示了人性的盲點——我們總是輕易看見別人的小過失，卻對自己巨大的罪惡視而不見。這種誇張法比平鋪直敘的教導更具警示性。
-*   **例子：馬太福音 6:3（左手與右手）**
-    「不要叫左手知道右手所做的。」這在生理上是不可能的，因為手沒有獨立的意識。耶穌藉此強調施捨應當是私下、純粹地對神負責，而非為了博取人的稱讚。
-*   **例子：馬太福音 23:24（濾出蠓蟲，吞下駱駝）**
-    法利賽人對律法細節（如薄荷、茴香、芹菜的十分之一）極度執著，卻忽略了公義、憐憫與信實。耶穌用「吞下駱駝」這種極端誇張的對比，諷刺他們在宗教瑣事上吹毛求疵，卻在核心道德上犯下大錯。
+---
 
-#### B. 與耶穌的其他教導衝突
-當某段經文若按字面解釋，會與耶穌在其他場合的教導產生明顯矛盾時，這便是誇張法的訊號。
-*   **例子：路加福音 14:26（恨惡父母）**
-    耶穌說：「人到我這裡來，若不愛我勝過愛自己的父母、妻子、兒女……就不能作我的門徒。」（註：原文常譯為「恨」，此處指愛之程度的比較）。若按字面解釋，這違反了耶穌在馬太福音 15 章中對法利賽人廢棄「孝敬父母」誡命的責備，也與耶穌教導要「愛仇敵」的原則衝突。因此，這必須理解為一種誇張修辭，強調對基督的效忠必須超越一切人間最親密的關係。
+### 三、 慣用語（Idioms）的釋經原則
 
-#### C. 與耶穌的行為與行動衝突
-有時，耶穌的實際行動本身就否定了對某段經文進行字面解讀的可能性。
-*   **例子：馬太福音 6:6（進入內屋禱告）**
-    耶穌教導要進入內屋禱告，但祂自己也曾公開禱告（如主禱文是團體禱告）。這表明耶穌並非禁止公開禱告，而是反對「為了表演而禱告」的虛偽心態。
-*   **例子：馬太福音 10:34（帶刀而非和平）**
-    耶穌自稱帶來的是「刀」而非「和平」，這與祂被稱為「和平之君」以及祂在八福中稱「使人和睦的人有福了」的教導衝突。這同樣是為了強調跟隨祂將面臨巨大的衝突與代價，而非字面上的暴力。
+慣用語是釋經學中的一大挑戰。慣用語的定義是：若按字面意思翻譯，它通常毫無意義或產生誤導。
 
-#### D. 與舊約聖經的教導衝突
-耶穌來不是要廢掉律法，而是要成全。因此，若某段經文若按字面解釋會直接推翻舊約的道德律，那它必然是誇張法。
-*   **例子：馬太福音 5:33-37（不可起誓）**
-    耶穌教導「什麼誓都不可起」。然而，舊約中神自己也曾起誓（希伯來書 6:13），且耶穌在受審時，面對大祭司要求祂「指著永生神起誓」時，祂選擇了回應（馬太福音 26:63-64）。這表明耶穌的教導核心在於「誠實的品格」，即一個人的話語應當可靠到不需要起誓來背書。
+#### 1. 如何偵測慣用語？
+當你發現一段經文若按字面解釋會顯得荒謬，或者該表達方式在當時文化中頻繁出現，那它極可能就是慣用語。例如「打破一條腿」（Break a leg）在戲劇界意指「祝你好運」，而非真的要傷害對方。
 
-#### E. 與新約聖經的教導衝突
-最後，我們必須參考其他新約作者的理解。
-*   **例子：馬太福音 5:42（給予所有求你的人）**
-    若按字面解釋，這似乎與帖撒羅尼迦後書 3:10 保羅的教導「若有人不肯做工，就不可吃飯」衝突。耶穌的教導並非要我們盲目地資助懶惰或濫用資源的人，而是要展現一種「慷慨的生命態度」。我們應當預期自己的慷慨會被濫用，但這正是基督徒捨己的一種表現。若我們要求耶穌列出所有例外清單，反而會削弱這段經文在挑戰我們貪婪心態上的修辭力量。
+#### 2. 關於「愛與恨」的慣用語
+這是聖經中最常被誤解的慣用語之一。在瑪拉基書 1:2-3 與羅馬書 9:13 中，神說「雅各是我所愛的，以掃是我所惡的」。若按現代字面理解，這會引發嚴重的神學問題。
+然而，對照創世記 29:30-31，我們發現雅各「愛」拉結而「恨」利亞，這其實是指他「更愛」拉結，「較少愛」利亞。在希伯來語境中，「恨」是「愛得較少」的慣用語。同樣的，路加福音 14:26 耶穌說要「恨」自己的父母，對照馬太福音的平行經文，意思就是「若愛父母過於愛我」。
+
+#### 3. 釋經者的責任
+我們必須承認，意義是由作者決定的，而非由文字本身決定。當我們翻譯聖經時，若堅持「逐字翻譯」（Word-for-word），往往會保留慣用語的字面含義，導致讀者困惑；若採用「意譯」（Thought-for-thought），雖然能傳達原意，卻可能失去原文的文學色彩。身為釋經者，我們的目標是確保讀者能正確理解作者的原意，而不被字面上的慣用語所誤導。
+
+最後，請記住：**上下文永遠是判斷慣用語的最終決定者。** 不要因為個人的情緒或現代的語言習慣，強行將字面意思套入聖經，而要謙卑地進入當時的文化語境中，去聆聽作者真正想表達的聲音。
 
 
-## Lesson 20: 誇張修辭的釋經學（下） (Hermeneutics for Exaggeration (Part 2))
+## Lesson 19: 誇張修辭的釋經學（上） (Hermeneutics for Exaggeration (Part 1))
 
 > **大綱對照：**
-> 本文內容與所提供的大綱結構高度吻合。解釋內容依循大綱的邏輯順序，並針對教師在課堂中提出的各項論點進行了深入的擴充與神學背景說明。
+> 本文完全遵循所提供的課程大綱結構。我將依序探討如何辨識耶穌教導中的誇張修辭，並詳細闡述各項辨識準則及其神學意義。
 
 
 
-### 一、 識別耶穌教導中的誇張修辭（續）
+在研讀聖經時，我們必須非常謹慎地處理語言的表達方式。當我們說「耶穌在誇張」時，許多人會感到不安，因為在現代語境中，「誇張」（exaggeration）常與「不誠實」或「缺乏真理」劃上等號。然而，我必須區分「誇張」與「虛假」。如果雙方都知道這是誇張的修辭，那麼這是一種合法且極具力量的表達方式；反之，若只有說話者知道，而聽者被誤導，那才是欺騙。
 
-在釋經學中，識別「誇張法」（Hyperbole）是正確理解耶穌教導的關鍵。耶穌作為一位偉大的教師，經常使用這種修辭手法來震撼聽眾，使真理刻骨銘心。以下是識別誇張修辭的幾個重要準則：
+為了精確起見，我將這些修辭分為「過度陳述」（overstatement）與「誇張法」（hyperbole）。「誇張法」指的是字面上完全不可能發生的事，而「過度陳述」則是將某種程度的誇張以字面方式表達出來。這兩者都是為了傳達強烈的情感與真理，而非為了誤導。
+
+### 一、 辨識耶穌教導中的誇張修辭
+
+我們如何判斷一段經文是否使用了誇張修辭？以下是幾個關鍵的辨識準則：
+
+#### A. 誇張法：字面上的不可能 (Hyperbolic - literally impossible)
+當經文描述的事情在物理或邏輯上完全不可能發生時，我們就知道這必然是誇張法。例如在《馬太福音》7章3-5節，耶穌提到「眼中有樑木」。試想，人的眼睛怎麼可能容納一根木頭（log）？這在藝術描繪上是荒謬的，但在修辭上卻極其有力。耶穌並非要我們進行眼科手術，而是要我們反思：為什麼我們總是對他人眼中的「刺」（speck）如此敏銳，卻對自己生命中巨大的罪惡視而不見？這種強烈的對比，比平鋪直敘的道德勸說更具震撼力。
+
+同樣地，在《馬太福音》6章3節提到「不要叫左手知道右手所做的」，這在生理上是不可能的，因為手沒有意識。耶穌的用意是強調：施捨應當是神與你之間的事，不應為了博取他人的讚賞而大張旗鼓。再如《馬太福音》23章24節的「蠓蟲與駱駝」，這兩者都是不潔淨的動物，耶穌用這種極端的對比來諷刺法利賽人：他們在宗教儀式細節上斤斤計較，卻忽略了律法中更重要的公義、憐憫與信實。
+
+#### B. 與耶穌的其他教導衝突 (Conflicts with what Jesus says elsewhere)
+當一段經文若按字面解釋，會與耶穌的其他教導產生矛盾時，這就是誇張修辭的訊號。例如《路加福音》14章26節：「人到我這裡來，若不愛我勝過愛自己的父母、妻子、兒女……就不能作我的門徒。」這裡的「恨」（hate）若按字面理解，將與耶穌教導的「愛仇敵」以及「孝敬父母」的律法完全衝突。耶穌的意思是，對祂的委身必須超越人類最崇高的情感。這是一種比較性的修辭，而非要求我們真的去憎恨家人。
+
+#### C. 與耶穌的行為與舉止衝突 (Conflicts with Jesus' behavior and actions elsewhere)
+有時，經文的字面要求與耶穌自己的行動不符。例如《馬太福音》6章6節教導禱告要進入內室關上門，但耶穌自己也曾公開禱告（如主禱文是團體禱告）。再者，耶穌在十字架上仍掛念母親的安置，這證明祂並非真的要人斷絕親情。若我們將這些教導視為絕對的字面命令，就會陷入邏輯困境。
+
+#### D. 與舊約聖經的教導衝突 (Conflicts with teachings of the Old Testament)
+耶穌來不是要廢掉律法，而是要成全律法。因此，若某段經文似乎直接違背了十誡（如孝敬父母），我們就必須意識到這是誇張修辭。當時的聽眾並沒有因為這些話而感到困惑或抗議，這正說明他們理解耶穌是在使用一種常見的、強有力的修辭手法，而非在推翻舊約的道德基礎。
+
+#### E. 與新約聖經的教導衝突 (Conflicts with teachings of the New Testament)
+最後，我們也要參照新約其他作者的理解。例如關於「不可起誓」的教導（馬太福音5:33-37），若按字面解釋為絕對禁止，則與《希伯來書》中提到神起誓，以及保羅在書信中呼求神作見證的行為產生衝突。耶穌的重點不在於禁止一切誓言，而在於強調門徒應具備極高的誠信，以至於不需要透過誓言來證明自己說的是實話。
+
+當我們面對《馬太福音》5章42節「求你的，就給他」這類看似絕對的命令時，我們必須運用屬靈的智慧。這並非要求我們盲目地給予，導致助長懶惰或傷害他人（如保羅在《帖撒羅尼迦後書》3章10節所言：若有人不肯做工，就不可吃飯）。耶穌使用誇張修辭是為了建立一種慷慨的生命態度，而非制定一套僵化的法律條文。作為基督徒，我們應當預備好被濫用，但同時也要運用神給我們的常識，去分辨何時給予是真正的愛，何時則是愚昧的縱容。
+
+
+## Lesson 20: 誇張法的釋經學（下） (Hermeneutics for Exaggeration (Part 2))
+
+> **大綱對照：**
+> 本文內容與所提供的大綱結構高度吻合。我將依照大綱的邏輯順序，深入探討耶穌教導中「誇張法」（Exaggeration）的釋經原則，並結合課堂中的具體案例進行詳細說明。
+
+
+
+### 一、 識別耶穌教導中的誇張法（續）
+
+在研讀福音書時，我們必須意識到耶穌經常使用「誇張法」來傳遞屬靈真理。這種修辭手法並非要我們在字面上鑽牛角尖，而是為了強調某個核心原則。當我們遇到以下幾種情況時，就應當警覺到這可能是誇張的修辭：
 
 #### A. 由福音書作者以非字面方式詮釋
-有時，不同的福音書作者會對耶穌的同一句話採取不同的記錄方式。例如路加福音 14:26 記載耶穌說「恨」自己的父母，而馬太福音則將其解釋為「不能愛父母過於愛我」。路加傾向於保留耶穌原始的語氣（字面上的強烈對比），而馬太則將其轉化為「意譯」（thought-for-thought），幫助讀者理解其核心含義。這種對比提醒我們，當耶穌使用極端語言時，其目的是為了強調優先次序，而非要求信徒在情感上真的去「恨」親人。
+有時，不同的福音書作者會以不同的方式處理同一段教導。以路加福音 14:26 為例，耶穌說「人若不恨自己的父母……就不能作我的門徒」。但在馬太福音中，同樣的教導被轉述為「愛父母過於愛我的，不配作我的門徒」。路加保留了較為「逐字」（word for word）的翻譯，而馬太則提供了「意譯」（thought for thought）的解釋。這告訴我們，耶穌的本意並非要我們真的去「恨」父母，而是透過誇張的對比，強調對祂的委身必須超越一切人倫關係。
+
+關於離婚的教導也是如此。馬可福音與路加福音記載耶穌禁止離婚，沒有給出例外；但馬太福音在兩處經文中都加上了「除非為淫亂的緣故」（except for *porneia*，即不道德的性行為）。保羅在哥林多前書 7:10-11 也引用了主的話，並補充了「不信者離去」的例外。我們應當理解，耶穌並非在制定一套法律條文，而是在強調神對婚姻神聖性的心意——神恨惡離婚。馬太加入例外，是因為他明白耶穌的原話是一種「誇張法」，旨在強調婚姻的不可拆散性。我們不應為了尋找「離婚的合法理由」而削弱了耶穌對婚姻委身的強烈呼籲。
 
 #### B. 在實踐中並非總是字面實現
-關於離婚的教導（馬可福音 10:11；路加福音 16:18；馬太福音 5:32, 19:9），馬可與路加並未提及例外情況，而馬太則加入了「除非為淫亂的緣故」（except for *porneia*）。*Porneia* 一詞在希臘文中指涉廣泛的性不道德行為。教師認為，馬太的例外並非為了否定耶穌的教導，而是為了說明耶穌的原則是「誇張的絕對性」。耶穌強調的是神對婚姻神聖性的恨惡，祂不希望聽眾將焦點放在「什麼情況下可以離婚」的法律條文中，而是要人看見離婚本身就是神創造目的的失敗。保羅在哥林多前書 7:10-15 中也處理了類似問題，並在「不信的一方離去」時給予了另一種例外，這證實了在早期教會的實踐中，這些教導被理解為原則性的指導，而非僵化的絕對律法。
+有些經文若強求字面實現，會忽略其背後的歷史與修辭背景。例如馬可福音 13:2 耶穌預言聖殿「沒有一塊石頭留在石頭上，不被拆毀了」。有人會質疑，現今耶路撒冷的西牆（哭牆）仍有石頭存在，是否耶穌的預言落空了？這其實是誤解了誇張法的力度。在公元 70 年聖殿被毀時，整個山谷都被廢墟填平，當時的人絕對會認為耶穌的預言完全應驗了。這就像我說「下週這棟大樓將夷為平地，連兩塊磚頭都不會連在一起」，若有人在廢墟中找到兩塊黏在一起的磚頭就說我說謊，這顯然是錯失了語言表達的重點。
 
-#### C. 字面實現無法達成預期目標
-耶穌在馬太福音 5:29-30 中提到，若眼睛或手使人跌倒，就應將其剜出或砍下。如果我們將其字面化，會發現這根本無法解決問題——因為即使剜出眼睛，人依然能透過大腦進行淫亂的思考。耶穌使用這種極端、甚至令人震驚的語言，是為了傳達一個核心真理：沒有任何罪值得讓人失去永恆的生命。這種「誇張」的目的是為了強調悔改的急迫性與罪的嚴重性。
+#### C. 字面實現無法達到預期目標
+有些教導若按字面執行，反而會失去其屬靈意義。例如馬太福音 5:29-30 提到「若右眼叫你跌倒，就剜出來丟掉」。如果我們真的剜出右眼，左眼依然會看見，大腦依然會思想，這根本無法解決「心裡的淫念」。耶穌使用這種極端的誇張，是要傳達一個震撼的真理：沒有任何罪值得讓你下地獄，為了對付罪，必須有壯士斷腕的決心。
 
-#### D. 語句使用了易於誇張的特定文學形式
-耶穌經常使用預言、詩歌或諺語，這些文體本身就帶有高度的隱喻性。例如「信心移山」並非指物理上的地質變動，而是指對神大能的絕對信靠。若將這些文學形式強行「字面化」，反而會扭曲耶穌原本要傳達的屬靈深度。
+#### D. 經文使用了易於誇張的特定形式
+這類經文通常帶有強烈的修辭色彩，例如「求就必得著，尋找就必尋見」（馬太福音 7:7-8）。如果我們把這當作「有求必應」的自動販賣機條款，就會陷入困境。當我祈求上帝賜我兩千萬美金去向富人傳福音卻未得應允時，這並非上帝失信，而是我誤解了這段經文的本質。耶穌是要鼓勵門徒禱告，並強調神樂意垂聽，而非提供一個機械式的應許。我們必須運用常識，明白這類教導中隱含的例外，而不需要耶穌一一列舉。
 
 #### E. 使用了不再具備字面意義的慣用語
-聖經中常見的「哀哭切齒」（gnashing of teeth）是表達極度恐懼與痛苦的慣用語，而非指涉生理上的牙齒結構。同樣地，耶穌說祂來「不是帶和平，乃是帶刀」（馬太福音 10:34），這是指福音會帶來家庭內部的屬靈分裂，而非指耶穌要發動政治革命。理解這些慣用語（Idioms）需要對當時的文化背景有敏銳的感知。
+聖經中有些慣用語（Idioms）不能按字面解讀。例如「哀哭切齒」（gnashing of teeth）是表達極度痛苦與恐懼的慣用語，而非真的在討論牙齒的生理結構。同樣地，若我們將「移山」的信心（馬太福音 17:20）視為物理上的搬運工程，就錯失了耶穌強調「極大信心」的修辭意圖。
 
-#### F. 使用了全包容與普遍性的語言
-耶穌常使用「凡」、「一切」等普遍性語言，例如「凡祈求的，就得著」（馬太福音 7:7-8）。教師以自己想去摩納哥向富人傳福音卻未獲資助的幽默例子，說明這類經文並非「有求必應的自動販賣機條款」。若我們在這些經文後加上一長串的「例外清單」，反而會削弱耶穌鼓勵信徒禱告的熱情。這些普遍性語言的目的是為了建立信徒對神慈愛的信心，而非提供法律上的保證。
+#### F. 使用了全稱與普遍性語言
+當耶穌使用「凡」、「一切」（all things）等全稱語言時，往往是為了增強語氣。例如馬太福音 9:23 說「在信的人，凡事都能」，這比說「很多事都能」更有力量。我們必須在整本聖經的框架下理解這些普遍性語言，而非將其視為絕對的數學公式。
 
-### 二、 為何使用誇張修辭？
+### 二、 為什麼要使用誇張法？
 
-教師強調，當我們發現耶穌使用誇張修辭時，不應僅止於「這不是字面意思」的結論，而應反思：**為什麼祂要這樣說？**
+我們可能會問：既然誇張法容易引起誤解，為什麼耶穌還要使用它？
 
-1.  **重要性的標記**：耶穌使用誇張法，正是因為該主題對祂而言極其重要。這是一種「情感的刻度」，用來標示出哪些教導是祂心跳的中心。
-2.  **記憶的輔助**：在沒有錄音機與筆記的古代，誇張的語言具有極強的傳播力，能像烙印一樣刻在聽眾的腦海中，確保真理不會隨時間而腐化。
-3.  **溝通的藝術**：誇張法是一種有效的溝通工具，能引發聽眾的共鳴，並迫使他們在生活中尋求聖靈的引導，而非僅僅尋找規條。
+首先，**誇張法是為了強調重要性**。當你發現耶穌使用了誇張的語言，這是一個強烈的訊號，告訴你：「這件事非常重要，請務必專注！」這比平鋪直敘的語言更能觸及耶穌的心跳。
 
-最後，教師以「駱駝穿過針的眼」（馬可福音 10:25）為例，駁斥了將其解釋為「耶路撒冷某個狹窄城門」的說法。這種解釋是後世人為了減輕經文衝擊力而發明的。事實上，耶穌就是要用這種「不可能」的誇張對比，來震撼聽眾，讓他們深刻體會到富人進入神國的巨大困難。這正是誇張修辭的威力所在——它不給人留退路，而是將人直接帶到神的主權與恩典面前。
+其次，**誇張法具有極佳的傳播力**。在沒有錄音機與筆記的時代，門徒需要容易記憶的教導。誇張的語言像烙印一樣刻在聽眾心中，使其難以忘懷，且不易在口傳過程中被扭曲。
+
+最後，以「駱駝穿過針的眼」（馬太福音 19:24）為例，這不是要我們去尋找耶路撒冷是否有個叫「針眼」的城門。這是一個極度誇張的修辭，目的是要讓聽眾感受到富人進入天國的極大困難。當我們面對這類經文時，不要試圖去「解釋掉」它的難度，而要讓這種誇張帶來的震撼感，真實地在我們心中發揮作用。
 
 
 ## Lesson 21: 比喻的釋經學（上） (Hermeneutics for Parables (Part 1))
 
 > **大綱對照：**
-> 本文內容完全遵循所提供的大綱結構，並按照授課順序詳細展開，對各個歷史人物的觀點進行了深入的解析與神學背景說明。
+> 本課解釋內容完全遵循所提供的大綱結構，從定義入手，隨後詳細梳理了從早期教會、中世紀到宗教改革時期對「好撒馬利亞人比喻」的歷史詮釋演變。
 
 
 
-### 比喻的定義與本質 (Introduction and Definition)
+### 引言：比喻的定義與本質
 
-在探討比喻（Parable）的釋經學時，首先必須釐清「比喻」一詞在聖經中的廣泛性。在舊約中，希伯來文 *mshal*（箴言、比喻）是一個範圍極廣的詞彙，不僅指代故事，也包含格言或隱喻。例如，耶穌提到的「醫生，醫治你自己吧」（路加福音 4:23），在原文中使用的詞彙正是 *parabolē*（比喻）。這提醒我們，比喻不一定都是長篇故事，它本質上是一種「比較」或「隱喻」，透過簡短或延展的敘事來傳遞真理。
+在開始探討比喻（Parables）的釋經原則前，我們必須先釐清「比喻」這個詞在聖經中的廣度。在舊約中，希伯來文 *mshal*（比喻/箴言）是一個涵蓋範圍極廣的詞彙。我年輕時曾被教導說：「比喻就是一個帶有屬天真理的世俗故事。」但這並不完全準確，因為並非所有的比喻都是故事。
 
-我們在研讀比喻時，必須避免將其簡化為「塵世的故事加上天上的真理」這種過於簡單的定義。相反，我們應當以新約聖經對比喻的運用為準，並透過歷史的鏡子，檢視教會傳統如何處理這些經文，從中歸納出正確的釋經原則。
+例如，在路加福音中，耶穌引用了當時的諺語：「醫生，醫治你自己吧！」（Physician, heal yourself）。這在原文中也被稱為 *parabole*（比喻）。因此，我們不能將比喻狹隘地定義為「故事」，它更準確地說是一種比較（comparison）或隱喻（metaphor），有時是長篇故事，有時則是簡短精闢的格言。我們必須以新約聖經對比喻的廣泛使用為準，而不僅僅侷限於敘事性的比喻。
 
-### 歷史中的比喻詮釋 (Historical Interpretations)
+### 歷史詮釋的演變：從寓意解經到改革宗的轉向
 
-在教會歷史中，比喻的詮釋長期受到「寓意解經」（Allegorical Interpretation）的統治。這種方法的核心在於：將比喻中的每一個細節都賦予獨立的象徵意義。
+為了掌握正確的釋經原則，我們將以《好撒馬利亞人的比喻》（路加福音 10:30-35）為案例，觀察歷史上教會如何詮釋它。我們在審視前人時，可能會覺得他們的解經顯得荒謬，但請務必謹慎，不要輕易嘲笑這些神學巨人（如奧古斯丁、加爾文等）。他們往往是其時代環境的產物，我們今日能看見這些錯誤，是因為我們站在巨人的肩膀上。
 
-#### 早期教會與寓意解經的興起
-*   **馬吉安 (Marcion, 140 A.D.)**：作為最早提到好撒馬利亞人比喻的人，馬吉安是一位諾斯底主義（Gnosticism）異端。諾斯底主義認為物質是邪惡的，因此基督不可能真正道成肉身（這被稱為「幻影說」，Docetism，源自希臘文 *dokeo*，意為「看起來像」）。馬吉安主張耶穌並非出生，而是直接以「好撒馬利亞人」的身份出現在歷史中。這是典型的寓意解經，將比喻中的人物直接等同於基督，以服務其異端神學。
-*   **亞歷山大的革利免 (Clement of Alexandria, 180 A.D.)**：他將比喻中的細節系統化，例如將「油」解釋為上帝的憐憫，「酒」解釋為大衛之苗（基督的血）。
-*   **俄利根 (Origen)**：他將寓意解經推向了「偽科學」的高度。他基於帖撒羅尼迦前書 5:23 對人性的「靈、魂、體」三分法，主張聖經經文也具備三層意義：字面意義（體）、道德意義（魂）、屬靈意義（靈）。他認為透過寓意解經才能抵達最深層的屬靈意義。在他的詮釋下，好撒馬利亞人比喻中的每一項細節——從耶路撒冷到耶利哥的道路、強盜、傷口、客店、兩枚銀錢——都被賦予了救贖歷史的對應物。
-*   **聖奧古斯丁 (St. Augustine)**：作為早期教會最偉大的神學家，他也未能脫離寓意解經的框架。他運用語言學上的巧合（如希伯來文「耶利哥」與「月亮」發音相似），將比喻解釋為亞當墮落與救贖的宏大敘事。
+#### 1. 早期教會的寓意解經（Allegorical Interpretation）
 
-#### 中世紀的四重解經法
-*   **約翰·卡西安 (John Cassian)**：他在中世紀將解經法擴展為四重：字面、道德、屬靈、天國意義。例如「耶路撒冷」一詞，在字面上指地理城市，在道德上指靈魂，在屬靈上指教會，在天國意義上指新耶路撒冷。
-*   **托馬斯·阿奎那 (Thomas Aquinas)**：他甚至試圖用「東西南北」四個方位來為這種四重解經法提供辯護，顯示出當時教會對此方法的深信不疑。
+所謂「寓意解經」，就是試圖在比喻的每一個細節中尋找隱藏的屬靈意義。
 
-#### 宗教改革時期的轉折
-*   **馬丁·路德 (Martin Luther)**：路德對寓意解經極為反感，稱其為「猴戲」（*affenspiel*）。然而，路德在處理比喻時，仍未完全擺脫寓意解經的慣性，只是將其內容替換為路德宗的神學重點（如將油解釋為福音）。
-*   **約翰·加爾文 (John Calvin)**：加爾文是歷史上第一位明確拒絕將好撒馬利亞人比喻視為寓言的學者。他痛斥這種隨意扭曲經文的行為，認為這是不敬畏上帝的表現。他堅持「解經」（Exegesis，從經文中讀出原意）而非「釋經」（Eisegesis，將主觀想法讀入經文）。
+*   **馬吉安（Marcion, 140 A.D.）：** 作為一名諾斯底主義（Gnostic）異端，他認為物質是邪惡的。為了否認耶穌擁有真實肉身（即「幻影說」Docetism，源自希臘文 *dokeo*，意為「看起來」），他宣稱耶穌從未出生，而是直接以「好撒馬利亞人」的身份出現在歷史中。這是已知最早對此比喻的寓意解釋。
+*   **亞歷山大的革利免（Clement of Alexandria, 180 A.D.）：** 他將比喻完全符號化：撒馬利亞人是基督，強盜是黑暗勢力，傷口是人的慾望與恐懼，酒是基督的血，油是父神的憐憫。
+*   **俄利根（Origen）：** 他將寓意解經發展為一種「偽科學」。他援引帖撒羅尼迦前書 5:23，認為人有「靈、魂、體」三部分，因此聖經也應有三層意義：字面意義（體）、道德意義（魂）、屬靈意義（靈）。他將好撒馬利亞人的比喻細化到極致：耶路撒冷是天堂，耶利哥是世界，強盜是魔鬼，兩枚銀錢是父神與聖子的知識等。
+*   **聖奧古斯丁（St. Augustine）：** 作為保羅與改革者之間最偉大的神學家，他的解釋極具影響力。他甚至利用希伯來文的諧音，將「耶利哥」與「月亮」連結，象徵人的必死性（因月亮有盈虧）。他將比喻中的每一個元素都對應到救贖歷史的細節中。
 
-### 釋經原則的反思 (Reflections on Hermeneutics)
+**為何寓意解經曾如此盛行？**
+第一，教會誤將耶穌對「四種土地比喻」的解釋當作所有比喻的「通用範本」，認為既然耶穌解釋了那個比喻，其他比喻也應照此辦理。第二，這在古代世界是一種處理困難文本的通用手段，就像希臘人處理奧林帕斯諸神的醜聞時，會將其寓意化為對美德的追求，而非字面上的不道德行為。
 
-為什麼寓意解經會統治教會長達 1500 年？主要原因有二：
-1.  **錯誤的榜樣**：早期教會誤將耶穌對「撒種比喻」的解釋視為所有比喻的詮釋範本，認為所有比喻都應當被寓意化。
-2.  **文化背景**：古代世界（包括希臘哲學與猶太教）習慣透過寓意來處理困難的經典（如希臘神話中神祇的不道德行為），教會將此方法移植到了聖經詮釋中。
+#### 2. 中世紀的發展：四重意義法
 
-加爾文的突破在於他意識到，若我們隨意「變形」經文的意義，我們就成了上帝話語的假見證人。對於現代傳道人而言，這是一個嚴肅的警告：我們必須先掌握經文的「意義模式」（Pattern of meaning），再尋求應用。若我們不尊重經文的原意，僅僅為了應用而強解，我們就是在將聖經當作「橡皮泥」，這在上帝面前是極其危險的。真正的釋經學，應當是謙卑地聆聽上帝透過作者所說的話，而非將自己的神學體系強加於經文之上。
+中世紀的釋經學進一步複雜化。約翰·卡西安（John Cassian）提出了四重意義法：字面、道德、屬靈、天國。例如，「耶路撒冷」一詞在字面上指地理城市，在道德上指人的靈魂，在屬靈上指教會，在天國意義上指新耶路撒冷。連托馬斯·阿奎那（Thomas Aquinas）也支持這種方法，甚至荒謬地以「東西南北四個方向」來論證聖經必須有四層意義。
+
+#### 3. 宗教改革時期的突破
+
+宗教改革帶來了巨大的轉變。馬丁·路德（Martin Luther）對寓意解經極度反感，稱其為「猴子戲」（*affenspiel*），認為這是在戲弄聖經。改革宗的核心原則是 **唯獨聖經（Sola Scriptura）**，既然廢除了教皇與傳統作為權威，就必須建立嚴謹的釋經學（Exegesis），而非隨意讀入意義（Eisegesis）。
+
+然而，路德本人在處理比喻時仍保留了部分寓意色彩。真正徹底打破這一傳統的是**約翰·加爾文（John Calvin）**。加爾文在註釋中嚴厲批評了這種將比喻隨意「變形」的做法，他指出，若我們將撒馬利亞人強解為基督，將旅店強解為教會，這完全是脫離了基督的原意。他是歷史上第一位公開反對將此比喻視為寓言的學者。
+
+### 結語：釋經者的責任
+
+儘管改革者打破了寓意解經的鎖鏈，但比喻的寓意化在隨後的幾個世紀（如 19 世紀的 R.C. Trench）依然存在。作為教導者，我們必須警惕：聖經不是「橡皮泥」，不能任由我們捏造成想要的形狀。我們若隨意解釋聖經，就是在神面前作假見證。我們應當追求的是：先理解比喻原本的模式與意義，再尋求與當代處境相符的應用，而非將自己的臆想強加於神的話語之上。
 
 
 ## Lesson 22: 比喻的釋經學（下） (Hermeneutics for Parables (Part 2))
 
 > **大綱對照：**
-> 本文內容與所提供的課程大綱完全吻合。課程首先介紹了歷史背景，接著闡述了詮釋比喻的四項核心原則，最後以「好撒馬利亞人」的比喻作為案例，逐一應用這些原則。
+> 本次教學內容完全遵循所提供的課程大綱，並依序展開各項原則的詳細解釋與實際應用。
 
 
 
 ### 一、 歷史背景：阿道夫·尤利赫（Adolf Jülicher）的貢獻
 
-在比喻詮釋的歷史中，1888年是一個重要的轉折點。德國學者阿道夫·尤利赫（Adolf Jülicher）發表了《耶穌的比喻講論》（*Die Gleichnisreden Jesu*），這部著作徹底改變了學界對比喻的理解。
+在我們進入釋經原則之前，必須先認識一位關鍵人物——阿道夫·尤利赫（Adolf Jülicher）。他在 1888 年出版了《耶穌的比喻講道》（*Die Gleichnisreden Jesu*）一書，這標誌著比喻研究的一個重要轉折點。
 
-尤利赫最核心的貢獻在於區分了「比喻」（Parable）與「寓意」（Allegory）。在寓意解經中，作者賦予故事中的每一個細節特定的象徵意義（例如約翰·本仁的《天路歷程》），讀者必須解開每個細節的密碼才能理解全貌。然而，尤利赫主張比喻並非寓意。比喻本質上是一種「比較」（comparison），其目的是為了傳達一個核心的真理，故事中的細節往往只是為了讓敘事生動有趣，而非每個細節都隱含神學意義。若強行將非寓意的比喻進行寓意化解讀，往往會導致解經上的錯誤。
+尤利赫最核心的貢獻，在於他明確區分了「比喻」（Parable）與「寓意」（Allegory）。在寓意解經中，作者賦予每一個細節特定的象徵意義，讀者必須從這些細節中挖掘出隱藏的真理。你們可能都讀過約翰·班揚（John Bunyan）的《天路歷程》（*The Pilgrim's Progress*），這是英語世界最著名的寓言。在書中，每一個角色（如「世俗智慧先生」Mr. Worldly-wise、「福音使者」Mr. Evangelist）和每一個情節細節，都必須被賦予特定的神學或道德意義，否則你就無法理解作者的意圖。
 
-### 二、 詮釋比喻的四項原則
+然而，尤利赫指出，耶穌的比喻並非寓言。比喻的核心在於「比較」（comparison），通常只有一個主要的對比點，而其他的細節僅是為了讓故事生動、有趣，並非每個細節都隱含深意。我們在解經時，若將非寓言的文本強行進行寓意化解釋，往往會偏離耶穌的本意。
 
-為了正確理解比喻，課程提出了四項關鍵的釋經原則，這些原則構成了現代比喻研究的基礎：
+### 二、 比喻釋經的四大原則
 
-#### 1. 比喻通常只教導一個核心重點
-比喻的核心在於「比較」。如同我們說「神像一位慈愛的父親」，這是一個完美的類比，但如果我們過度推敲細節（例如：「那祂的妻子是誰？」），這個類比就會崩潰。因此，在研讀比喻時，應當滿足於找出那一個核心重點，不要強求每個細節都具備寓意。
+為了正確理解比喻，我為你們整理了四條核心原則。這些原則並非學術上的堆砌，而是為了幫助我們回到耶穌教導的初衷。
 
-#### 2. 設身處地理解第一世紀的聽眾
-C.H. Dodd 在1935年的著作《國度的比喻》（*The Parables of the Kingdom*）中強調，耶穌並非對20世紀的基督徒說話，而是對第一世紀的猶太人說話。我們必須問：「當時的聽眾如何理解這個比喻？」這能幫助我們避免將現代人的預設強加於經文之上。
+#### 1. 比喻通常只教導一個主要觀點
+正如尤利赫所言，比喻本質上是一個比較。當我們說「神就像一位慈愛的父親」時，這是一個完美的類比；但如果你過度推敲細節（例如：「那祂的妻子是誰？」），這個類比就會崩潰。所有的比較最終都會在細節上失效，因為比喻的目的是為了傳達那「一個」核心真理。因此，在研讀比喻時，請滿足於找出那一個主要觀點，不要強行在細節中尋找寓意。
 
-#### 3. 考量福音書作者的寫作意圖（編修批判）
-福音書的作者（馬太、馬可、路加、約翰）不僅是記錄者，更是受聖靈感動的詮釋者。我們需要思考：編修者在記錄這個比喻時，想要強調什麼？這與我們在講道時尋求聖靈帶領去應用經文的原則是一致的，但我們必須尊重作者原有的神學重點。
+#### 2. 設身處地：回到第一世紀的聽眾視角
+這是 C.H. Dodd 在 1935 年的著作《天國的比喻》（*The Parables of the Kingdom*）中提出的關鍵洞見。耶穌並不是對 21 世紀的我們說話，祂是對第一世紀的猶太人說話。我們必須問：當時的聽眾——那些在加利利山坡上聽耶穌講道的亞伯拉罕與撒拉們——是如何理解這個故事的？如果我們忽略了當時的文化背景與社會氛圍，我們就無法感受到比喻的震撼力。
 
-#### 4. 應用於當下的處境
-最後，我們必須問：「神透過這個比喻，現在要我做什麼？」若缺乏應用，學術上的分析將失去屬靈的生命力。
+#### 3. 考量福音書作者的意圖（Redaction Criticism）
+到了 1950 年代，學者們開始意識到，馬太、馬可、路加等福音書作者並非只是機械式地記錄耶穌的言論。他們是受聖靈感動的「詮釋者」。我們需要思考：福音書作者在編纂這些比喻時，想要強調什麼？他們透過這些比喻，想要對當時的教會傳達什麼樣的教導？
 
-### 三、 案例分析：好撒馬利亞人的比喻
+#### 4. 應用：神要我做什麼？
+如果我們只停留在學術分析，卻忽略了應用，那這些知識就毫無意義。最後一步，我們必須回到自身：神透過這個比喻，要求我採取什麼行動？這才是釋經的終極目的。
 
-課程以路加福音10章的「好撒馬利亞人」為例，展示了上述原則的應用：
+### 三、 實踐應用：以「好撒馬利亞人」為例
 
-#### 拒絕寓意解經的陷阱
-奧古斯丁等教父曾將此比喻寓意化，認為受傷的人是亞當，耶路撒冷是天堂，耶利哥是世界，撒馬利亞人是基督，旅店是教會等。然而，這種解讀雖在神學上正確（如：基督是救主），卻並非該比喻本身要教導的重點。若我們看上下文，耶穌講述此比喻是為了回答律法師的提問：「誰是我的鄰舍？」因此，比喻的主題是「鄰舍的定義」，而非救贖論的細節。
+讓我們運用上述原則來剖析「好撒馬利亞人」的比喻。
 
-#### 第一世紀聽眾的視角
-對當時的猶太聽眾而言，「好撒馬利亞人」是一個極具衝擊性的概念，甚至像是在說「好惡魔」或「圓形的方塊」。猶太人與撒馬利亞人有長達千年的仇恨，且祭司與利未人在當時的社會地位中被視為宗教領袖。耶穌將「英雄」設定為撒馬利亞人，將「反派」設定為祭司，這是一種強烈的社會與宗教批判，旨在打破聽眾的優越感。
+#### 挑戰傳統的寓意解經
+奧古斯丁（Augustine）曾將此比喻寓意化：受傷的人是亞當，耶路撒冷是天堂，耶利哥是世界，撒馬利亞人是耶穌，油與酒是恩典與教導。雖然這些神學觀點本身是正確的（例如：只有耶穌能救人），但問題在於：**這個比喻本身真的在教導這些嗎？**
 
-#### 現代應用：賦予比喻生命力
-為了說明比喻的震撼力，講師引用了克拉倫斯·喬丹（Clarence Jordan）的《棉花地版新約》（*The Cotton Patch Version*），將場景置換為美國民權運動時期的種族衝突。當我們將「撒馬利亞人」替換為聽眾心中最受歧視的群體時，比喻便不再是溫馨的故事，而是一場對社會偏見的「戰爭」。
+當我們看上下文（路加福音 10:25-37），耶穌講述此比喻是為了回應律法師的問題：「誰是我的鄰舍？」如果我們忽略了這個上下文，而將其解釋為「耶穌是好撒馬利亞人」，我們就錯失了耶穌原本要挑戰聽眾的重點。
 
-#### 結論
-比喻是耶穌手中的「武器」。當我們正確地運用這些釋經原則，不再強求細節的寓意，而是回到第一世紀的歷史情境，並連結福音書作者的意圖，這些比喻將不再是平淡的道德故事，而是能挑戰我們生命、揭露我們罪性並呼召我們行動的強大真理。
+#### 感受第一世紀的文化衝擊
+在第一世紀的猶太人耳中，「好撒馬利亞人」這個詞就像「圓的方形」一樣荒謬。猶太人與撒馬利亞人有長達千年的仇恨，從所羅門王死後的王國分裂，到被亞述擄掠後的混血，雙方視彼此為叛徒與外邦人。
+
+當耶穌說「一個撒馬利亞人動了慈心」時，這對當時的聽眾而言是極大的冒犯。這不是一個溫馨的道德故事，而是一個對社會、種族與宗教優越感的強烈控訴。這就像是在種族隔離時期，講述一個被社會鄙視的邊緣人，反而成為了那個展現上帝之愛的英雄。
+
+#### 現代應用：賦予比喻生命
+為了讓你們體會這種震撼，我們可以試著將其轉譯到現代情境。例如，在種族隔離的美國南方，將主角換成白人牧師與黑人；或者在納粹德國時期，將主角換成納粹警察與猶太人。當你這樣做時，你會發現比喻不再是平淡的道德教訓，而是像「戰爭武器」一樣，直接刺入聽眾的良心，挑戰他們對「鄰舍」的定義。
+
+這就是比喻的力量。當我們不再強行寓意化，而是回到耶穌的初衷，並將其應用於我們當下的處境時，神的話語就會在我們心中活過來，帶出真實的悔改與行動。
 
 
 ## Lesson 23: 比喻的釋經學（第三部分） (Hermeneutics for Parables (Part 3))
 
 > **大綱對照：**
-> 本文內容完全遵循所提供的大綱結構，並依序對各個比喻進行了深入的釋經學分析。
+> 本文完全遵循所提供的課程大綱，並依序探討了馬太福音 13 章、25 章、路加福音 16 章以及路加福音 15 章與馬太福音 18 章的對照。
 
 
 
-### 比喻釋經的四項核心原則
+在進入具體的比喻之前，我必須再次強調我們在釋經時應遵循的四項核心原則：第一，比喻不是寓言（allegory），它們通常只教導一個核心重點，除非必要，否則不要過度解讀細節；第二，試圖理解耶穌在當時語境下的原意；第三，試圖理解福音書作者（Evangelist）在寫作時的意圖；第四，思考這些教導對我們個人的意義與應用。請記住，比喻本質上是一種簡短或延伸的「比較」（comparison），不要被複雜的分類所困擾。
 
-在進入具體比喻的分析之前，Stein 博士重申了比喻釋經的四項基本準則，這些準則構成了理解耶穌教導的基石：
+### 一、 比喻的具體應用與分析
 
-1.  **比喻不是寓言（Allegory）：** 比喻通常旨在傳達一個核心重點（one main point）。我們不應過度解讀細節（don’t press the details），除非該細節對於理解核心信息至關重要。
-2.  **理解耶穌的原意（Jesus’ intent）：** 探究耶穌在當時的歷史情境下，對聽眾說這番話的初衷是什麼。
-3.  **理解福音書作者的意圖（Evangelist’s intent）：** 每一位福音書作者在編纂比喻時，都有其特定的神學重點與讀者群，這會影響他們呈現比喻的方式。
-4.  **應用與意義（Implications and significance）：** 思考這些教導對當代信徒的實際意義，以及神藉此對我們個人的啟示。
+#### A. 隱藏的寶藏（馬太福音 13:44）
+當我們讀到「天國好像寶貝藏在地裡」這個比喻時，有些人會糾結於那個人的道德問題：他發現了寶藏，卻隱瞞起來並買下土地，這算不算欺詐？如果你這樣想，你就犯了「過度解讀細節」的錯誤。
 
-### 比喻的討論與分析
-
-#### A. 藏寶的比喻（馬太福音 13:44）
-
-這個比喻極為簡短，屬於「明喻」（similitude）。Stein 博士強調，我們不應在比喻中強求道德上的完美。例如，有人可能會質疑那個發現寶藏的人，為了佔有寶藏而欺瞞地主，這在道德上是否正當？
-
-博士指出，這類細節完全不重要。比喻的重點在於「天國的價值」：天國是世上最寶貴的財富，為了獲得它，人應當願意變賣一切。如果我們過度糾結於主角的道德品格，反而會錯失耶穌想要傳達的關於「天國優先性」的核心信息。
+在這個比喻中，那個人的品格完全不重要。耶穌的目的不是要我們去評斷這個人的商業手段，而是要強調天國的價值。天國是這世上最寶貴的財富，為了得到它，你應當願意付出一切代價。如果你能抓住這個核心重點，那個人的品格問題就顯得無關緊要了。
 
 #### B. 十個童女的比喻（馬太福音 25:1-13）
+這個比喻常被錯誤地解讀為「基督徒應該分享神的恩典」。我曾聽過一位講員在講道中批評那些不願分享油的聰明童女，這完全是本末倒置。
 
-這個比喻常被誤讀。博士分享了一個親身經歷：一位牧師在講道中，竟然教導信徒要像那五個聰明的童女一樣「分享油」，這與比喻的原意背道而馳。
-
-*   **錯誤的解讀：** 專注於細節（如：油是否應該分享），導致忽略了比喻的整體性。
-*   **正確的解讀：** 比喻的核心是「警醒預備」（be ready）。五個聰明的童女預備了油，五個愚拙的沒有。重點在於面對主再來時，你是否處於預備好的狀態。至於「油」具體代表什麼，應結合馬太福音前 24 章的上下文來理解，而非在比喻的細節中尋找答案。
+請注意，比喻中的「聰明」童女之所以聰明，是因為她們「預備好了」。比喻的核心重點只有一個：要時刻警醒預備，因為你不知道主回來的日子和時辰。那些童女是否分享油並非重點，重點在於五個預備好了，五個沒有。如果你過度關注細節，試圖從「分享油」這個動作中擠出神學教訓，你就會像那位講員一樣，錯失了耶穌關於「末世預備」的嚴肅警告。
 
 #### C. 不義管家的比喻（路加福音 16:1-8）
+這是最容易讓釋經者陷入混亂的比喻之一。許多註釋書試圖為這個管家辯護，說他其實是在幫主人省去非法利息，所以主人稱讚他。這完全是為了讓故事「合理化」而編造出來的臆測。
 
-這是釋經學上最令人困擾的比喻之一。許多註釋書試圖透過「管家其實是在幫主人免除高利貸」等複雜的解釋來為管家辯護，以解決「為何主人稱讚一個騙子」的矛盾。
+我們必須回到比喻的本質：主人稱讚管家，不是因為他的誠實，而是因為他的「精明」（shrewdness）。管家面臨即將被解僱的審判，他展現了極高的危機意識，為自己的未來預作準備。耶穌的教導是：既然連一個不義的管家都知道在審判臨到前為自己預備，那麼你們這些聽見天國福音的人，是否也同樣有智慧去預備面對那即將到來的審判？這是一個關於「忠心管家職分」的呼召，提醒我們在世上的財富終將消逝，我們必須為永恆的歸宿做好準備。
 
-博士認為，這些解釋都是多餘的。耶穌的重點在於：這個管家在面臨被解僱的危機時，展現了極高的「精明」（shrewdness）來為自己的未來做打算。耶穌並非稱讚他的不義，而是挑戰聽眾：既然一個不義之徒都知道為即將到來的審判做準備，那麼聽聞天國福音的你們，是否也同樣精明地為永恆做好了準備？
+#### D. 迷失的羊（路加福音 15:3-7 與 馬太福音 18:12-14）
+這兩個段落展示了福音書作者如何根據各自的寫作對象，帶出比喻的不同應用。
 
-#### D. 迷羊的比喻（路加福音 15:3-7 與 馬太福音 18:12-14）
+在路加福音中，耶穌是在為自己與稅吏和罪人吃飯辯護，重點在於神對「迷失者」（lost）的尋找。但在馬太福音中，馬太將其應用在教會群體中，稱羊為「走迷」（straying）的，並強調神不願讓任何一個「小子」（little ones，指信徒）滅亡。
 
-這是探討福音書作者如何根據不同讀者群，對同一比喻進行不同側重（Implication）的絕佳案例。
+這裡並沒有矛盾，而是同一真理的不同層面。馬太作為耶穌的「大使」，在聖靈的引導下，將耶穌的原意應用在當時教會面臨的挑戰上——即如何挽回那些在信仰道路上逐漸漂流的弟兄姊妹。
 
-*   **路加福音的背景：** 耶穌當時是在為自己與稅吏、罪人同席辯護。重點在於神對「失喪者」（lost）的尋找與救贖。
-*   **馬太福音的背景：** 馬太寫作的對象是教會。他將「迷羊」描述為「走迷」（straying）的羊，並將「小子」定義為教會中軟弱、流失的信徒。
-*   **神學意義：** 這並非矛盾，而是同一真理在不同情境下的應用。馬太作為耶穌的「大使」，在聖靈的引導下，將耶穌教導的原則應用於教會牧養：我們不應輕看那些離開教會的弟兄姊妹，而應主動去尋回他們。
+### 二、 關於「耶穌的原話」與「聖經無誤」的省思
+你們可能會問：「如果福音書的記載有差異，我們還能說這是耶穌的原話嗎？」
 
-### 釋經學與無誤論的省思
+首先，耶穌說的是亞蘭語（Aramaic），而新約是用希臘語（Greek）寫成的。我們所讀到的，本質上已經是聖靈引導下的「翻譯」與「詮釋」。當我們談論「聖經無誤」（inerrancy）時，我們指的是聖經作者在聖靈引導下所要傳達的真理是無誤的。
 
-在討論過程中，學生提出了關於「聖經無誤論」（Inerrancy）與「耶穌原話」的挑戰。Stein 博士解釋道：
-
-1.  **翻譯的本質：** 耶穌說的是亞蘭語，福音書寫的是希臘語。我們所讀的是受聖靈默示的福音書作者，將耶穌的教導轉譯並應用於當時的教會。
-2.  **無誤的定義：** 所謂「無誤」，是指聖經作者在聖靈引導下，所要傳達的信息是準確無誤的。福音書作者對比喻的詮釋，是基於他們對基督心意的領受，這本身就是神話語的一部分。
-3.  **講道的智慧：** 作為牧者，在講台上不需要強迫會眾去處理這些複雜的釋經學問題，而是要傳講比喻的核心信息。例如，在講迷羊比喻時，重點應是「教會對流失信徒的責任」，而非糾結於路加與馬太在文字上的細微差異。
+福音書作者並非僅僅是錄音機，他們是受聖靈感召的見證人，將耶穌的教導應用在各自的讀者群中。我們不需要為了這些差異而感到焦慮，因為這些不同的角度反而讓我們更全面地看見神的心意。作為傳道人，我們在講台上傳講時，應當傳講經文在該處境下的核心信息，而不必強迫會眾去處理那些複雜的學術性調和問題。我們的工作是忠實地傳達比喻的重點：神愛罪人，神也看重祂子民的持續跟隨。
 
 
-## Lesson 24: 比喻的釋經學（四） (Hermeneutics for Parables (Part 4))
+## Lesson 24: 寓言的釋經學（第四部分） (Hermeneutics for Parables (Part 4))
 
 > **大綱對照：**
-> 本文內容完全遵循所提供的大綱結構，並依序深入探討了馬太福音 20 章的「葡萄園工人」比喻與路加福音 15 章的「浪子回頭」比喻，同時詳述了老師所提出的比喻詮釋法則。
+> 本次解釋完全遵循所提供的大綱結構，並按照課堂講授的順序進行了詳細的擴充與深化。
 
 
 
 ### 葡萄園工人的比喻（馬太福音 20:1-16）
 
-老師以馬太福音 20 章 1-16 節為例，探討如何正確找出比喻的核心信息。這個比喻描述一位家主在不同時段僱用工人，最終卻給予所有人相同的工資（一錢銀子）。從人的角度看，這似乎極不公平，因為早晨就開始工作的工人承受了整日的勞苦與酷熱，卻與最後一小時才加入的人領取相同報酬。
+在進入具體的釋經規則之前，我們必須先面對這個比喻帶給我們的直覺衝擊。當我閱讀這段經文時，我常感到一種不平——那些在清晨就開始工作的工人，在烈日下勞動了一整天，最後拿到的工資卻與那些只工作了一小時的人完全相同。這種「不公平」感，其實正是我們進入這段經文的關鍵入口。
 
-老師首先指出，歷史上許多釋經家傾向使用「寓意解經」（Allegorical Interpretation），例如愛任紐（Irenaeus）和奧利金（Origen）將不同時段的工人對應到救贖歷史中的不同時期（如從創造到挪亞、挪亞到亞伯拉罕等）。這種解經法將比喻中的每一個細節都賦予特定的神學符號，但老師認為這往往會偏離比喻原本的教導重點。
+#### 寓意解經（Allegorical Interpretation）的陷阱
+歷史上，許多解經家（如 Irenaeus 和 Origen）傾向於使用「寓意解經」（Allegorical interpretation），試圖將比喻中的每一個細節都對應到救贖歷史的特定階段。例如，他們將不同的工作時間（第一、三、六、九、十一小時）分別對應到從創造到挪亞、從挪亞到亞伯拉罕等歷史時期。
 
-#### 詮釋比喻的子法則（Sub-rules for arriving at the main point）
+然而，這種解經方式存在嚴重的問題。如果我們將每一個細節都賦予神學意義，我們就忽略了比喻作為一個整體所要傳達的單一核心信息。這種做法往往會導致荒謬的結論，例如暗示有些人是靠恩典得救，有些人是靠行為得救，有些人則是兩者的混合。我們必須謹記：比喻的「圖畫」（picture）是為了服務於「重點」（point），而非將圖畫中的每個元素都變成獨立的教義符號。
 
-為了避免陷入過度寓意化的陷阱，老師提出了幾項關鍵的釋經法則：
+### 詮釋比喻的次級規則（Sub-rules）
 
-1.  **確定主要角色（Determine the main characters）：** 在比喻中，並非所有角色都具有同等重要性。在此比喻中，第三、六、九小時的工人並未出現在發工資的對話中，這意味著他們並非比喻的重點。真正核心的角色是「家主」與「第一批（早晨）工人」。
-2.  **結尾強調法則（Rule of End Stress）：** 好的說書人會將最重要的信息放在結尾。老師透過改寫比喻的結尾（將抱怨改為讚美）來演示：如果耶穌的目的是要教導「因信稱義」或「神的恩典」，祂會安排一個正面的結尾。然而，耶穌卻以工人的「抱怨」作為結尾，這正是祂要引導聽眾關注的焦點。
-3.  **篇幅分配法則（What gets the most press）：** 觀察文本中對話的分配。比喻中沒有家主與中間時段工人的對話，反而將大量的篇幅用於家主與第一批工人之間的爭辯（第 10-15 節）。這顯示出比喻的焦點在於家主對那群「自以為應得更多」的工人的回應。
+為了精確地捕捉比喻的核心，我為你們整理了幾條重要的釋經規則。這些規則能幫助我們過濾掉無關的細節，直擊經文的靶心。
 
-#### 比喻的應用與神學意涵
-這個比喻的核心問題在於：「你因為我作好人就紅了眼嗎？」（第 15 節）。在耶穌的時代，法利賽人和文士正是那群「第一批工人」，他們對於稅吏和罪人進入神的國感到憤憤不平。他們認為自己長期服事神，理應獲得優先地位，卻無法理解神主權的恩典。老師提醒，我們若對神的恩典感到「牙癢癢」（grudging），其實就是陷入了法利賽人的心態。
+#### 1. 確定主要角色
+在一個比喻中，儘管可能出現多個角色，但通常只有兩到三個是關鍵的。在葡萄園的比喻中，第三、六、九小時的工人完全沒有出現在結算工資的場景中，這說明他們並非比喻的核心。真正推動故事發展、引發衝突的是「家主」與「第一小時的工人」。
 
----
+#### 2. 結尾強調原則（Rule of End Stress）
+這是一個非常實用的規則。好的說書人會將最重要的信息放在故事的結尾。如果我們觀察這個比喻的結尾，會發現耶穌並沒有談論救恩的公平性，而是談論了工人的「抱怨」。如果耶穌的目的是要教導「因信稱義」，祂大可以安排一個不同的結尾，例如讓第一小時的工人稱讚家主的恩慈。但事實是，比喻停留在抱怨與家主的反問上：「你因為我作好人就紅了眼嗎？」（直譯：你因為我的慷慨而心懷不滿嗎？）這才是耶穌想要我們關注的焦點。
 
-### 浪子回頭的比喻（路加福音 15:11-32）
+#### 3. 誰佔據了最多的篇幅（What gets the most press）
+觀察經文的結構，你會發現關於第十一小時工人的描述僅有一節（第 9 節），而隨後關於家主與第一小時工人之間的對話卻佔據了整整六節（第 10-15 節）。在直接引語（Direct discourse）中，大量的篇幅用於記錄第一小時工人的抱怨與家主的辯護。這明確地告訴我們，比喻的焦點在於那些自以為義、對神的恩典感到不滿的人，而非那些最後才進入葡萄園的人。
 
-在探討「浪子回頭」的比喻時，老師強調必須區分「圖畫部分」（Picture，即故事本身）與「現實部分」（Reality，即比喻要傳達的教導）。
+### 應用：誰是那個抱怨的工人？
 
-#### 結構與焦點分析
-同樣運用上述的釋經法則：
-*   **主要角色：** 父親與兩個兒子。
-*   **結尾與對話：** 比喻的結尾聚焦於大兒子與父親的對話。大兒子拒絕稱呼弟弟為「兄弟」，而稱其為「你這個兒子」（第 30 節），這反映了當時法利賽人對罪人的排斥態度。
-*   **歷史背景：** 路加福音 15 章的開頭提到，稅吏和罪人都來聽耶穌講道，而法利賽人則在私下議論。因此，這個比喻是針對那群「大兒子型」的法利賽人所說的，目的是邀請他們進入與神同樂的筵席。
+當我們將這個比喻置於耶穌的歷史處境中，對象顯然是那些法利賽人和文士。他們對耶穌與稅吏、罪人一同吃飯感到憤怒，因為他們認為自己是「勞苦一天」的宗教精英，而那些罪人卻輕易地領受了救恩。
 
-#### 寓意解經的危險
-老師再次批評了特土良（Tertullian）將比喻中的細節（如袍子代表原義、戒指代表洗禮、肥牛犢代表聖餐）進行寓意化的做法。他強調，耶穌的聽眾不可能在當時就將這些細節與尚未設立的聖禮連結起來。這種解經法是將後來的神學強加於文本之上，而非從文本中提取原意。
+作為現代讀者，我們必須誠實面對自己：我們是否也像那些第一小時的工人一樣，對神的恩典感到「牙癢癢」？我們是否在心裡衡量著誰「配得」神的恩典，誰「不配」？當我們讀到這個比喻感到不舒服時，這正是聖靈在挑戰我們那顆法利賽人的心。
 
-#### 故事的警示
-老師最後分享了一個關於牧師與浪子的故事，提醒我們：雖然比喻中的父親是慈愛的典範，但現實生活中的人際關係往往充滿了破碎與不寬容。這個故事不僅說明了比喻的教導力，也提醒我們，理解比喻的重點在於認識神那種超越人類功利主義的恩典，而非將故事中的每一個元素都視為神學符號。
+### 浪子回頭的比喻（The Prodigal Son）
+
+同樣地，在浪子回頭的比喻中，我們也看到了類似的結構。這個比喻的核心並非那些細節（如袍子、戒指、肥牛犢的具體象徵），而是父親對兩個兒子的態度。
+
+#### 父親與大兒子的衝突
+透過「結尾強調原則」，我們看到故事的後半段聚焦於大兒子與父親的對話。大兒子拒絕稱呼那人為「我的弟弟」，而稱之為「你這個兒子」。這反映了法利賽人對罪人的排斥心態。
+
+#### 關於「寓意解經」的再次警示
+同樣地，若有人試圖解釋戒指代表洗禮、肥牛犢代表聖餐，這在當時聽眾的耳中是完全無法理解的。耶穌的聽眾會關注的是那個「跑去擁抱兒子」的父親，這在當時的文化中是極具震撼力的——因為這打破了尊嚴的界限。
+
+最後，請記住那個關於北達科他州年輕人的故事。雖然我們渴望像比喻中的父親那樣恩慈，但現實生活中的人際關係往往充滿破碎。然而，比喻的重點不在於地上的父親是否完美，而在於那位天上的父，祂如何看待那些回轉的罪人，以及祂如何呼籲那些自以為義的「大兒子」進入祂的筵席，一同歡喜快樂。
 
 
 ## Lesson 25: 比喻中的寓言（上） (Allegory in Parables (Part 1))
 
 > **大綱對照：**
-> 本文內容與所提供的大綱高度吻合。教學內容依序探討了比喻（Parables）與寓言（Allegory）的區別，並透過兩個具體的聖經案例（園戶的比喻與大筵席的比喻），詳細說明了如何偵測比喻中隱含的寓言性質。
+> 本次教學內容完全遵循所提供的大綱。我們首先回顧了比喻（Parables）解釋的基本原則，隨後進入本課的核心主題：如何辨識比喻中的寓言成分（Allegory），並透過《馬可福音》第12章的「園戶的比喻」與《路加福音》第14章的「大筵席的比喻」作為實例進行深度解析。
 
 
 
-### 比喻與寓言的區別：重申原則
+### 回顧：比喻解釋的基礎原則
 
-在進入如何偵測「寓言」（Allegory）的細節之前，我們必須先回顧先前建立的釋經原則。比喻（Parable）與寓言（Allegory）在性質上有本質的差異：比喻通常旨在傳達一個核心重點（the main point），因此我們不應過度解讀（press the details）其中的每一個細節；相反地，寓言的每一個細節往往都具有特定的象徵意義，需要被逐一解碼。
+在進入如何辨識寓言（Allegory）之前，我們必須先鞏固上週建立的解釋框架。請務必記住，比喻與寓言在文學本質上是不同的。寓言的每一個細節通常都隱含特定的象徵意義，需要逐一解讀；然而，比喻（Parable）的核心在於傳達「一個主要觀點」（the main point）。
 
-若我們對一般的比喻採取「寓言式」的解讀，往往會陷入混亂，將原本清晰的教導扭曲。然而，這並不代表比喻中絕對不存在寓言成分。本課的核心任務在於建立一套「偵測機制」，判斷何時我們應該將比喻中的細節視為具有特定指涉的符號。
+當我們面對比喻時，切忌「過度解讀」（don't press the parable）。如果你試圖將比喻中的每一個細節都強行賦予神學意義，往往會導致解釋上的混亂與謬誤。我們應當滿足於那一個核心信息。此外，我們必須考量：
+1. **原作者的意圖**：耶穌在當時的歷史情境下，究竟想對聽眾說什麼？
+2. **福音書作者的視角**：福音書作者（如馬可、路加）作為詮釋者，他們在編寫時希望讀者領受什麼教導？
+3. **當代的應用**：上帝今日透過這段經文對我們說什麼？
 
-### 偵測寓言的兩大核心規則
+為了精準抓取主要觀點，我們運用了四個輔助規則：鎖定兩個主要角色、觀察結局的轉折（Rule of End-Stress）、注意直接引語（direct discourse）的內容，以及分析誰或什麼事物佔據了最多的篇幅。
 
-要判斷一個比喻是否帶有寓言性質，我們必須審視當時的聽眾背景：
+### 如何偵測比喻中的寓言成分
 
-1.  **耶穌的原始聽眾是否會將細節視為有意義？** 我們必須問：在耶穌說出比喻的當下，聽眾是否能從文化或舊約背景中，立即聯想到這些細節所代表的特定事物？
-2.  **福音書作者的讀者是否會將細節視為有意義？** 福音書作者（如馬可、路加）在記錄這些比喻時，其受眾是否能從當時的教會背景中，解讀出這些細節的象徵意義？
+雖然大多數比喻只需抓取一個核心，但有些比喻確實帶有寓言性質，其中的細節具有重要的象徵意義。我們該如何判斷？關鍵在於：**當時的聽眾（耶穌的聽眾或福音書作者的聽眾）是否會自然地將這些細節視為象徵？**
 
-如果這兩個問題的答案皆為「是」，那麼該比喻就具有寓言的特質，我們便有責任去探討這些細節所承載的深層意義。
+如果聽眾在聽到某些細節時，腦中會立刻浮現舊約背景或特定的神學意象，那麼這些細節就是「寓言式」的。
 
-### 案例一：園戶的比喻（The Parable of the Tenants, 馬可福音 12:1-12）
+#### 實例一：園戶的比喻（The Parable of the Tenants, Mark 12:1-12）
 
-為了說明上述規則，我們必須參考舊約《以賽亞書》5:1-7。在該處，先知以賽亞將以色列比作上帝的葡萄園，上帝在其中築籬笆、挖酒醡、蓋樓台，卻只得到野葡萄。當耶穌在馬可福音 12 章講述園戶的比喻時，祂的聽眾對以賽亞書非常熟悉，他們會立即意識到「葡萄園」象徵著以色列國。
+當耶穌講述這段比喻時，祂引用了《以賽亞書》5:1-7 的背景。在以賽亞的預言中，葡萄園明確象徵了以色列家。當耶穌提到「園主」、「籬笆」、「酒醡」、「守望樓」時，祂的聽眾——那些熟讀舊約的猶太人——會立刻意識到這是在談論以色列國。
 
-#### 細節的象徵意義
-*   **葡萄園與園戶：** 園戶的比喻不僅僅是關於一個農場的故事，它是一個關於神與以色列關係的寓言。
-*   **僕人與兒子：** 耶穌提到園主先後派遣僕人（象徵舊約中的先知）去收果子，卻遭到毆打與殺害。最後，園主派遣了他「親愛的兒子」。這裡展現了強烈的「基督論」（Christological）視角：耶穌並非僅僅是另一位先知，祂是上帝獨一的兒子，與先知們有著本質上的不同。
-*   **馬可、馬太與路加的差異：** 在馬可福音中，園戶將兒子殺死後丟出葡萄園；而在馬太與路加福音中，園戶是先將兒子丟出葡萄園再殺死。這種細節的調整，反映了福音書作者對耶穌受難地點（耶路撒冷城外）的寓言式理解，這與《希伯來書》中「在營外受苦」的神學觀點相呼應。
+*   **細節的象徵意義**：
+    *   **僕人**：代表上帝差遣到以色列的眾先知。
+    *   **愛子**：這是一個強烈的基督論（Christological）宣告。耶穌在此區分了「僕人」與「兒子」的關係，強調祂作為上帝獨生子的獨特性。這不僅僅是比喻，更是一個寓言，因為每一個角色都對應了救贖歷史中的特定對象。
+*   **福音書作者的編輯意圖**：
+    比較《馬可福音》與《馬太福音》21:39 及《路加福音》20:15，你會發現一個有趣的差異：在馬可的記載中，園戶殺了兒子後才將他拋出葡萄園；但在馬太與路加的記載中，他們是先將兒子「拋出」葡萄園才殺了他。這並非矛盾，而是作者為了強調耶穌是在耶路撒冷「城外」受難（參照《希伯來書》關於「城外」的論述）。這證明了福音書作者將這些細節視為具有神學意義的象徵。
 
-這顯示出，當細節被賦予了歷史與神學的對應時，我們必須承認這是一個寓言，且細節是為了傳達特定信息而存在的。
+#### 實例二：大筵席的比喻（The Parable of the Great Banquet, Luke 14:15-24）
 
-### 案例二：大筵席的比喻（The Parable of the Great Banquet, 路加福音 14:15-24）
+在《路加福音》中，這個比喻同樣帶有濃厚的寓言色彩。當時的聽眾認為「在上帝國裡吃飯」是未來的福分，但耶穌宣告「筵席已經預備好了」，這意味著彌賽亞的筵席已經臨到。
 
-在路加福音 14 章中，耶穌講述了一個關於拒絕受邀與替補賓客的比喻。這個比喻同樣具有寓言色彩，特別是在「兩次差遣僕人」的細節上。
+*   **兩次差遣的寓意**：
+    *   **第一次差遣**：邀請那些原本被預期會參加的人（以色列的宗教領袖、法利賽人），但他們拒絕了。
+    *   **第二次差遣**：主人轉向街上的貧窮人、殘廢的、瞎眼的。這象徵著福音從以色列的邊緣群體擴展到外邦人。
+*   **路加的讀者**：路加的讀者（如提阿非羅）多為外邦背景的「敬畏上帝者」（God-fearers）。他們在猶太會堂中被吸引，卻因割禮等律法要求而未完全歸信。當他們聽到這個比喻時，會明白上帝的國度已向他們敞開，而那些自以為有資格的宗教領袖反而被排除在外。
 
-#### 寓言的社會與救贖背景
-*   **第一次邀請：** 象徵著以色列中那些被認為理應進入神國的人（如法利賽人與文士），他們卻以世俗事務（買地、買牛、娶妻）為由拒絕了邀請。
-*   **第二次邀請：** 主人命令僕人去街上帶進貧窮的、殘廢的、瞎眼的、瘸腿的。這象徵著福音從以色列的邊緣人（稅吏與罪人）擴展至外邦人（Goyim）。
-*   **路加的受眾：** 路加的讀者（如提阿非羅）多為外邦背景的「敬畏神者」（God-fearers）。他們在猶太會堂中被吸引，卻因割禮與飲食規條而無法完全融入猶太教。基督教的出現，讓這些人能在不需遵守猶太律法規條的情況下進入神國。因此，這個比喻對路加的受眾而言，是一個關於「神國筵席向外邦人開放」的明確寓言。
+### 總結
 
-### 結論：何時該停止過度解讀？
-
-儘管上述兩個例子屬於「寓言式比喻」，但我們必須謹記：這屬於例外情況。大多數的比喻依然遵循「單一重點」原則。我們之所以在這些案例中深入挖掘細節，是因為當時的聽眾與福音書的受眾，在文化與神學背景下，必然會將這些細節視為符號。若我們在其他比喻中強行套用這種「細節解碼法」，反而會破壞耶穌比喻原有的簡潔與震撼力。釋經者的智慧，在於分辨何時該「停留在重點」，何時該「解開寓言」。
+我們必須謹慎：並非所有比喻都是寓言。大多數情況下，我們應堅持「一個比喻，一個重點」的原則。然而，當經文的歷史背景（如以賽亞書對葡萄園的象徵）或福音書作者的敘事手法明確指向細節的象徵意義時，我們就應該深入挖掘這些細節的寓言含義。這兩者之間的平衡，正是我們解經時需要時刻保持的敏銳度。
 
 
 ## Lesson 26: 比喻中的寓意（下） (Allegory in Parables (Part 2))
 
 > **大綱對照：**
-> 本文內容完全遵循所提供的大綱結構，依序探討了馬太福音 25 章的綿羊與山羊的比喻，以及路加福音 16 章財主與拉撒路的比喻。
+> 本文完全遵循所提供的大綱結構，依序探討馬太福音 25 章的綿羊與山羊的比喻，以及路加福音 16 章財主與拉撒路的比喻。
 
 
 
-### 一、關於比喻的最終詮釋性討論
+### 一、末日審判的比喻（馬太福音 25:31-46）
 
-在本課中，講師延續了對比喻中寓意（Allegory）的探討，並透過兩個極具代表性的經文段落，示範如何正確解讀比喻的中心思想，避免陷入將比喻細節過度寓意化或誤解其核心對象的陷阱。
+我們現在要來看馬太福音 25 章 31-46 節，這段關於綿羊與山羊的比喻。這段經文常被視為「同義平行體」（synonymous parallelism），即透過不同的語句重複表達同一個核心思想，藉此加強語氣。經文中六次提到對飢餓者、口渴者、陌生人、赤身露體者、病人及囚犯的照顧，這種四重重複的結構，強烈地暗示了這些行為的重要性。
 
-#### A. 最後的審判（馬太福音 25:31-46）
+#### 1. 「最小的弟兄」是誰？
+在解釋這個比喻時，最關鍵的問題在於第 40 節提到的「這些弟兄中最小的一個」（the least of these my brethren）究竟是指誰？這決定了整個比喻的詮釋方向。
 
-馬太福音 25 章關於綿羊與山羊的審判，常被現代讀者簡化為「食物救濟」的呼籲。雖然憐憫貧窮是基督徒的重要見證，但講師強調，若將此比喻僅僅解讀為社會福利或慈善活動，則完全忽略了比喻的核心關鍵詞：**「這些最小的弟兄」（the least of these my brethren）**。
+許多人將此比喻簡化為「食物救濟」的呼籲，認為我們應當救濟世上所有貧窮飢餓的人。雖然關懷貧困者是基督徒應有的見證，但這並非此比喻的本意。若我們查考馬太福音中「弟兄」（希臘文：*adelphois*）一詞的用法，就會發現它並非泛指所有人類。
 
-##### 1. 關鍵詞的定義：誰是「弟兄」？
-要正確理解此比喻，必須先定義「弟兄」（希臘文：*adelphois*）。在馬太福音的語境中，該詞若非指血緣上的兄弟，則具有明確的隱喻意義。透過查考馬太福音 23:8（「你們都是弟兄」）與 28:10（「去告訴我的弟兄」），我們可以明確看出，耶穌將「弟兄」一詞專指為祂的**門徒（disciples）**。
+*   **馬太福音 23:8**：「但你們不要受拉比的稱呼，因為只有一位是你們的夫子，你們都是弟兄。」這裡的「弟兄」是指耶穌的門徒。
+*   **馬太福音 28:10**：「耶穌對她們說：『不要害怕！你們去告訴我的弟兄，叫他們往加利利去，在那裡必見我。』」這裡同樣是指門徒。
+*   **馬太福音 12:46-50**：當耶穌的肉身親屬在門外找祂時，祂指著門徒說：「凡遵行我天父旨意的人，就是我的弟兄姊妹和母親了。」
 
-因此，經文中的「這些最小的弟兄」並非泛指世界上所有受苦的人，而是指**代表基督去傳揚福音的門徒與使者**。這與馬太福音 10:40 的原則相呼應：「人接待你們，就是接待我；接待我，就是接待那差我來的。」這是一種「接待者與被接待者」的連帶關係：當世人對待基督的門徒時，他們對待門徒的態度，直接反映了他們對基督本人的態度。
+由此可見，在馬太福音的語境中，「弟兄」一詞常被用來指代耶穌的門徒或跟隨者。再對照馬太福音 10:40：「人接待你們就是接待我；接待我就是接待那差我來的。」這與 25 章的邏輯完全吻合：**你如何對待耶穌的門徒（傳道者），就是如何對待耶穌。**
 
-##### 2. 歷史背景與應用
-在耶穌的時代，巡迴傳道的使者來到村莊，人們對這些使者的接待與否，直接揭示了他們對福音的立場。講師以使徒行傳 16 章「腓立比禁卒」的故事為例：禁卒在悔改前對保羅和西拉施以鞭打與囚禁（敵對的態度），但在悔改後，他立即為他們洗傷、供奉食物（接待的態度）。這種態度的劇烈轉變，證明了「對待門徒的態度」是檢驗一個人是否真正歸屬於神的試金石。
+#### 2. 實踐意義：對待神僕人的態度
+這個比喻並非關於一般的慈善救濟，而是關於我們對「基督的使者」的態度。在耶穌的時代，有許多巡迴傳道的門徒，他們代表基督傳講福音。當你接待這些門徒，就是接待基督；若你輕慢他們，就是輕慢基督。
 
-因此，這個比喻並非單純的慈善指南，而是一個關於「審判」的嚴肅議題：人如何對待基督的使者，決定了他們在末日審判中的地位。這與「天國與地獄」的永恆命運直接掛鉤。
+我以使徒行傳 16 章腓立比禁卒的故事為例：在禁卒信主之前，他將保羅和西拉毒打並關進監牢；但在他悔改信主後，他的態度產生了劇變，他為他們洗傷、帶他們回家並擺設飯食。這種對門徒態度的轉變，正是他內心歸向基督的明證。因此，在綿羊與山羊的比喻中，人們對門徒的態度，揭示了他們與基督真實的關係，這是一場關於永生與永刑的嚴肅審判。
 
-#### B. 財主與拉撒路（路加福音 16:19-31）
+### 二、財主與拉撒路的比喻（路加福音 16:19-31）
 
-關於財主與拉撒路的比喻，常見的爭議在於這是否為一個「真實故事」。有些人認為，因為比喻中出現了具體的名字（拉撒路），所以這必然是歷史事件。然而，講師指出這種觀點在釋經學上是站不住腳的。
+接下來我們討論路加福音 16 章 19-31 節。有些人爭論這是否為一個真實故事，因為這是聖經中唯一一個給予劇中人物名字（拉撒路）的比喻。然而，從路加福音的寫作手法來看，這無疑是一個比喻。
 
-##### 1. 形式批判與文學特徵
-路加福音中有多處以「有一個人」（希臘文：*tis*）開頭的比喻（如路加福音 10:30, 14:16, 15:11, 16:1）。這些段落無一例外都是比喻，而非歷史報導。路加使用 *tis* 來引出故事，正是為了提醒讀者（如提阿非羅）這是一個具有教導性質的虛構敘事。
+#### 1. 為什麼這是比喻而非真實故事？
+路加福音中許多比喻都以「有一個人」（希臘文：*tis*）作為開場，例如「有一個人從耶路撒冷下耶利哥去」（路 10:30）、「有一個財主」（路 16:1）。這是一個標準的敘事引導，表明這是一個虛構的教導故事。
 
-此外，比喻的內容包含了現實中不可能發生的情節，例如地獄中的人與天堂中的亞伯拉罕進行對話，以及兩者之間存在巨大的鴻溝。這些超現實的文學手法，正是比喻（Parable）而非歷史（History）的典型特徵。
+此外，比喻的性質允許我們使用象徵手法，例如財主在陰間（Hades）與遠處的亞伯拉罕對話。在現實歷史中，這是不可能發生的，但作為比喻，它能有效地傳達屬靈真理。關於拉撒路名字的出現，這只是比喻敘事中的一個細節，並不改變其比喻的本質。
 
-##### 2. 比喻的核心教訓：對神話語的順服
-此比喻的重點不在於對死後世界的細節描寫，而在於結尾處關於「摩西和先知」的對話。財主請求亞伯拉罕差遣拉撒路去警告他的兄弟，但亞伯拉罕回答：「若不聽從摩西和先知的話，就是有一個從死裡復活的，他們也是不聽勸。」
+#### 2. 比喻的核心教訓：對神話語的順服
+這個比喻的結尾非常深刻：財主請求亞伯拉罕派拉撒路去警告他那五個兄弟，但亞伯拉罕回答：「若不聽從摩西和先知的話，就是有一個從死裡復活的，他們也是不聽勸。」（路 16:31）
 
-這段經文揭示了信仰的本質：**信心並非建立在神蹟奇事上，而是建立在神的話語（聖經）之上。** 即使有人從死裡復活（這在約翰福音 11 章的拉撒路事件中確實發生了），那些心硬的人依然會選擇拒絕。講師藉此提醒，如果一個人的心不對，即便親眼看見神蹟，也會將其歸因於魔鬼或巧合；唯有透過神的話語，人的心才能被引導至真正的信心。這與前面提到的「接待門徒」原則一致：對神話語的態度，決定了人對神的態度。
+這揭示了一個重要的真理：**信心並非建立在神蹟奇事之上，而是建立在對神話語的順服上。** 許多人認為「如果神顯一個神蹟給我看，我就會信」，但事實上，如果一個人的心剛硬，即使看見死人復活（正如約翰福音中拉撒路真的復活了，但當時的宗教領袖卻反而想殺他），他依然不會相信。
+
+如果你的心是正確的，聖經中已有的啟示（摩西和先知，即舊約聖經）足以引導你進入信心；如果你的心不對，即便神蹟發生在眼前，你總能找到藉口將其歸因於其他事物。這段教導提醒我們，要檢視自己的心，是否真正敬畏神的話語，而非尋求感官上的奇蹟。
 
 
 ## Lesson 27: 歷史敘事的釋經學（上） (Hermeneutics for Historical Narrative (Part 1))
 
 > **大綱對照：**
-> 本文內容與所提供的大綱結構大致吻合。大綱將重點放在「歷史敘事」、「1700 年代的觀點轉變」以及「聖經意義的探討（作者原意與歷史評估）」，這些均為課堂講授的核心脈絡。以下說明將依據講課順序，深入解析這些概念。
+> 本文內容緊隨所提供的大綱結構，並根據課堂講授的邏輯順序進行了深入的擴展與闡釋。
 
 
 
-### 歷史敘事與文體（Genre）的重要性
+### 歷史敘事與體裁（Genre）的關鍵性
 
-在探討聖經中的歷史敘事（Historical Narrative）時，我們首先必須處理一個核心問題：讀者如何判斷聖經中的某段文字是真實發生的歷史事件？在宗教改革（Reformation）之前，基督徒對此問題的處理方式並非基於現代的科學考證，而是基於對「文體」（Genre）的直覺認知。
+在我們進入歷史敘事（Historical Narrative）的領域時，首先要處理一個核心問題：我們如何判斷聖經中的一段文字是否為「歷史事實」？在宗教改革（Reformation）之前，基督徒處理這個問題的方式與現代人截然不同。當時的人們並不會將「作者的本意」（what the author meant）與「歷史事實」（what really happened）視為兩個獨立的範疇。
 
-文體決定了我們對文本的預期。當我們閱讀一段文字時，我們內心會根據其文體調整解讀方式：若讀到「從前有座山」，我們預期的是虛構故事；若讀到「6 月 6 日諾曼第登陸」，我們預期的是歷史紀錄。在古代教會的傳統中，歷史敘事這一文體本身就被視為對真實歷史事件的記載。這種認知並非源於對每一節經文進行科學驗證，而是源於對聖經作為神聖啟示的整體性信靠。
+對古人而言，判斷一段經文是否真實，關鍵在於「體裁」（Genre）。當你讀到「從前有座山」時，你知道這是虛構故事；當你讀到「6月6日諾曼第登陸」時，你知道這是歷史紀錄。在聖經中，我們同樣運用這種體裁識別：比喻（Parable）是虛構的教學故事，詩歌（Poetry）使用誇張手法，而歷史敘事則被視為真實事件的紀錄。因此，在啟蒙運動之前，人們讀到歷史敘事時，會直接接受其歷史真實性，因為這就是該體裁的本質。
 
-### 1700 年代的轉折：歷史與敘事的脫節
+### 18世紀的轉折：事實與意義的斷裂
 
-講者引用了漢斯·弗萊（Hans Frei）在其著作《聖經敘事的消蝕》（*The Eclipse of Biblical Narrative*）中的觀點，指出 18 世紀是一個關鍵的分水嶺。在 18 世紀之前，對於基督徒而言，「作者的意圖」（Literal/Authorial meaning）與「事件的真實性」（Factual accuracy）是完全統一的。當時的人若讀到馬可福音中癱子被縋下屋頂的故事，他們不會將「文本描述」與「歷史事實」分開來看；對他們而言，文本即歷史，歷史即文本。
+然而，到了18世紀，這種「作者意圖」與「歷史事實」合而為一的傳統觀念開始崩解。正如漢斯·弗萊（Hans Frei）在《聖經敘事的式微》（*The Eclipse of Biblical Narrative*）一書中所指出的，在啟蒙運動之前，人們認為經文的「字面意義」（literal meaning，即作者的本意）與「宗教意義」（significance/meaningfulness）是完全統一的。
 
-然而，隨著啟蒙運動（Enlightenment）的興起，理性主義開始滲透神學界。人們開始以一種「證明給我看」（prove it to me）的懷疑態度審視聖經。當人們開始質疑聖經中的神蹟（如斧頭浮在水面上），並試圖用自然主義的觀點解釋這些事件時，一個嚴重的問題產生了：如果文本所描述的內容與歷史事實不符，那麼「意義」該從何而來？
+但隨著理性主義（Rationalism）興起，人們開始以一種「證明給我看」的懷疑態度審視聖經。當人們開始質疑聖經中的神蹟（例如斧頭浮在水面上），並試圖用非超自然的方式解釋時，一個嚴重的問題便產生了：如果我們不再相信作者所描述的事件是真實發生的，那麼我們該如何從這段經文中找到「意義」？
 
-### 意義的尋求：作者原意與歷史評估
+這導致了釋經學上的一種極端分化：
+1. **超自然主義者（Supernaturalists）**：堅持作者的字面意圖與歷史事實是統一的。
+2. **歷史批判者**：認為經文受到歷史條件的限制，作者的字面意圖並不等同於歷史事實。他們被迫在「不相信作者所寫的真實性」的前提下，去尋找經文的「意義」。
 
-當「文本所說的」與「實際發生的」不再被視為同一件事時，釋經學被迫分裂為兩個階段：
+### 歷史評估與釋經的界線
 
-1.  **第一階段：字義或文法意義（Literal or Grammatical Sense）**
-    這是釋經學的本質，即探討「作者原意」（Authorial meaning）。對於改革宗神學而言，這是釋經的核心，目標是理解作者透過文字想要傳達的教導。
-2.  **第二階段：歷史評估（Historical Assessment）**
-    這是啟蒙運動後產生的新需求。由於人們不再無條件相信文本的歷史真實性，他們必須額外進行「歷史評估」，試圖透過考古學、古代近東文獻（Ancient Near Eastern literature）來驗證聖經事件是否真實發生。
+這種轉變導致了釋經過程的「兩階段化」。在德國的學術傳統中，釋經不再僅僅是理解作者的意圖，還必須包含對「歷史事實」的評估（Historical Assessment）。
 
-講者強調，這兩者在現代釋經中常被混為一談，但在嚴謹的釋經學定義下，它們是截然不同的。**釋經（Hermeneutics）應當僅限於理解作者的意圖**。一旦進入「歷史評估」，我們就已經離開了釋經的範疇，轉而進入了「意義性」（Significance）的探討。
+我必須強調，這對我們而言是一個危險的混淆。對我來說，**釋經（Hermeneutics）的定義就是：理解作者透過文字所要表達的本意。** 這是一個完整的過程。然而，19世紀以來的學術界卻將「歷史評估」強加在釋經之上。他們認為，如果一段經文談論的是神蹟，而你認為神蹟不可能發生，你就必須在「作者說的」與「實際發生的」之間尋找一個解釋。
 
-### 意義的來源：作者、文本，還是讀者？
+這產生了一個悲劇性的結果：許多自由派學者在講道時，必須面對「這故事根本沒發生過，但我卻要從中找出意義」的困境。這對講道者而言是極其痛苦的，因為他們在宣講一個自己並不相信其真實性的事件。
 
-當歷史真實性受到質疑，但人們仍希望從聖經中獲得「意義」（Meaningfulness）時，他們轉向了不同的尋求方向。在溝通的過程中，通常包含三個要素：作者（Author）、文本（Text）、讀者（Reader）。
+### 尋找意義的來源：作者、文本與讀者
 
-*   **歷史的錯誤傾向**：許多現代講道者忽略了聖經作者本身就是受聖靈啟示的「意義賦予者」。他們跳過作者的意圖，直接將焦點放在「事件本身」（Subject matter/Ostensive meaning），並由講道者自己來詮釋該事件的意義。這種做法實際上是將「講道者」置於「受啟示的作者」之上。
-*   **悲劇性的後果**：講者以復活節講道為例，指出若一位牧師在講台上宣講復活的故事，內心卻不相信這是歷史事實，這是一種極大的悲劇。這種將「文本」與「歷史事實」割裂的釋經方式，不僅削弱了信仰的根基，也使得講道失去了其神聖的權威性。
+當「文本內容」（subject matter）與「作者意圖」（authorial meaning）脫鉤後，人們開始焦慮地尋找「意義」（meaningfulness）的來源。在溝通的三要素——作者、文本、讀者——之中，18、19世紀的學者們從未想過從「讀者」身上找意義（那是20世紀才出現的現象）。
 
-總結來說，釋經學的挑戰在於如何堅守「作者原意」作為意義的唯一來源，同時在面對歷史敘事時，承認聖經作者所記錄的事件，其真實性本身就是神學意義的一部分，而非可以隨意剝離的附屬品。
+因此，他們只剩下兩個選擇：
+1. **從「歷史事件」（Subject Matter）中找意義**：這也是今天許多講道的問題所在。許多傳道人跳過了聖經作者受聖靈啟示所賦予的解釋，直接對聽眾說：「這件事發生了，而我來告訴你們這件事對你們有什麼意義。」
+2. **從「作者意圖」中找意義**：這才是我們應當回歸的路。
+
+我們必須警惕，不要讓「歷史評估」取代了「釋經」。當我們讀到聖經中的歷史敘事時，我們應當專注於理解作者透過這些事件想要教導我們的真理。如果我們將釋經的重心從「作者意圖」轉移到「我們對歷史事件的客觀評估」，我們就失去了聖經作為神話語的權威性，並陷入了主觀主義的泥沼。
 
 
 ## Lesson 28: 歷史敘事的釋經學（下） (Hermeneutics for Historical Narrative (Part 2))
 
 > **大綱對照：**
-> 本文大致遵循了所提供的教學大綱，但在論述過程中，針對「釋經方法」與「敘事解讀線索」進行了更深入的細節補充與神學分析，以符合學習指南的深度要求。
+> 本次課程的解釋完全遵循所提供的大綱結構，並在各個部分進行了深入的擴展與神學分析。
 
 
 
-### 歷史敘事中的釋經方法：意義的定位
+### 一、 歷史敘事的詮釋方法
 
-在解讀聖經中的歷史敘事（Historical Narrative）時，學界存在著不同的詮釋路徑。這些路徑的核心分歧在於：意義究竟存在於「事件本身」（Event），還是存在於「作者的意圖」（Author’s Meaning）之中？
+在我們探討如何解讀聖經中的歷史敘事（historical narrative）時，必須先釐清幾種主要的詮釋路徑。我們首先要區分的是「超自然主義者」（supernaturalists）與「自然主義者」（naturalists，亦稱理性主義者）之間的根本分歧。
 
-#### 超自然主義者（Supernaturalists）與自然主義者（Naturalists）
-超自然主義者承認聖經中的神蹟事件是真實發生的，並試圖從這些事件中提取教訓。然而，這種方法往往忽略了聖經作者的「自覺意圖」（Conscious-willed meaning）。他們將意義鎖定在事件本身，而非作者透過敘事所要傳達的特定神學信息。
+#### 1. 超自然主義者與自然主義者的分歧
+超自然主義者相信聖經所記載的事件是真實發生的，他們承認神蹟的存在。然而，即便如此，他們在詮釋時仍常犯一個錯誤：他們將意義僅僅鎖定在「事件本身」上，而非作者原本想要傳達的「作者原意」（author’s meaning）。當他們解釋神蹟時，往往是在談論神蹟的意義，卻忽略了聖經作者寫下這些故事時，究竟想要教導什麼。這與我們強調的「作者意識下的原意」（conscious-willed meaning）有著本質的區別。
 
-相比之下，自然主義者（或稱理性主義者）則拒絕神蹟的可能性。他們試圖「重構」歷史，將神蹟解釋為自然現象或道德寓言。例如，在餵飽五千人的神蹟中，他們會將其解釋為群眾被小男孩的慷慨所感動，進而紛紛拿出私藏食物分享的「社會心理現象」。這種詮釋不僅否定了神蹟的超自然本質，更將聖經作者貶低為編造故事的說書人。
+相比之下，自然主義者（或稱理性主義者）根本不相信神蹟。為了處理聖經中的神蹟敘事，他們發展出幾種極端的解釋策略：
 
-#### 妥協論（Accommodation）與神話論（Mythical Approach）
-為了處理「作者為何要寫下這些神蹟」的問題，出現了兩種極端的理論：
+*   **理性主義的重構（Rationalist reconstruction）：** 他們試圖將神蹟「還原」為自然事件。例如，在「五餅二魚」的神蹟中，他們會編造一個故事：當眾人看到一個小男孩願意分享午餐時，這股分享的風氣感染了周圍的人，大家紛紛拿出自己隱藏的食物，最終每個人都吃飽了。這種解釋完全否定了神蹟的超自然本質，將其降格為一個關於「分享」的道德寓言。這不僅扭曲了經文，更將聖經作者置於一種「為了傳達道德而編造故事」的尷尬境地。
+*   **適應論（Accommodation theory）：** 這種觀點認為聖經作者深知神蹟並未發生，但為了教導當時相信神蹟的讀者，他們刻意將道德教訓包裝在神蹟故事中。這種理論的問題在於，它將聖經作者描繪成一群「滿口謊言的騙子」，卻又同時要求我們從這些人的筆下學習偉大的道德，這在邏輯上是自相矛盾的。
+*   **神話論（Mythical approach）：** 由大衛·史特勞斯（David Strauss）等人推廣，這種觀點認為神蹟故事源於早期信徒群體內心的渴望與夢想。他們認為作者是真誠的，但卻是「愚鈍的」，他們並不理解自己寫下的內容其實只是神話。這種「去神話化」（de-mythologizing）的過程，試圖從故事中挖掘所謂的「存在主義真理」，卻徹底拋棄了歷史真實性。
 
-1.  **妥協論（Accommodation）**：認為聖經作者深知神蹟並未發生，但為了教導崇高的道德價值，他們選擇「妥協」於當時群眾對神蹟的迷信，將道德教訓包裝在神蹟故事中。這種觀點面臨嚴重的道德困境：若聖經作者是刻意說謊的騙子，我們如何能從他們筆下獲得真正的道德教導？
-2.  **神話論（Mythical Approach）**：由大衛·史特勞斯（David Strauss）等人推廣，認為這些故事並非作者蓄意欺騙，而是「信仰群體」在渴望永生與希望的潛意識驅動下，自然產生的神話。這種觀點將聖經作者視為誠實但無知的信徒。
+### 二、 解讀歷史敘事的關鍵線索
 
-這兩種觀點都無法解釋聖經作者的真實意圖。在歸正神學的視角下，我們堅持聖經作者是在聖靈默示下，真實地記錄神在歷史中的作為，其意義在於作者所表達的「自覺意圖」，而非讀者主觀重構的歷史或神話。
-
-### 解讀歷史敘事的實用線索
-
-要正確解讀歷史敘事，不能斷章取義，必須掌握作者留下的結構性線索。
+我們作為讀者，必須回到「作者原意」的框架下。要準確解讀歷史敘事，我們不能只盯著單一事件，而必須掌握以下幾個關鍵線索：
 
 #### 1. 敘事脈絡（Context）
-單一的敘事片段如同拼圖的一塊，必須放在整卷書的「全景」中才能看清其功能。例如，在福音書中，某個神蹟故事的意義，必須置於該福音書整體的敘事架構中來理解。若脫離了整卷書的脈絡，我們就無法理解該片段在作者整體神學論證中的位置。
+將單一敘事視為「拼圖的一塊」。如果你只有一塊拼圖，你很難看出全貌；但當你將其餘九百九十九塊拼圖拼好，那一塊的位置就顯而易見了。同樣地，福音書中的一個神蹟故事，必須放在整卷福音書的脈絡中去理解。作者將這個故事放在這裡，是為了呼應全書的主題，而非孤立地存在。
 
 #### 2. 作者的評論（Authorial Comments）
-聖經作者有時會中斷敘事，插入編輯性的評論（Editorial comments）。這些評論是理解作者意圖的「金鑰」。
-*   **例子**：在《列王紀上》15:5，作者在描述大衛的生平時，特別註明他除了烏利亞的事外，行耶和華眼中看為正的事。這種明確的插入語，幫助讀者界定大衛作為君王的評價標準。
-*   **操作建議**：閱讀一卷書時，可以先將這些編輯性的評論標記出來，單獨閱讀這些評論，往往能迅速掌握該書卷的核心主題與作者的強調重點。
+聖經作者有時會直接介入敘事，提供解釋性的評論。這是我們解讀意圖的「金鑰匙」。
+*   **《列王紀上》15:5 與 22:43：** 作者在敘述大衛或亞撒王的生平時，會插入評論，指出他們雖然行耶和華眼中看為正的事，但仍有瑕疵（如烏利亞事件，或未廢去邱壇）。這些評論不是故事的一部分，而是編輯者對歷史的「神學註釋」。
+*   **《列王紀下》14:24：** 編輯者反覆評論耶羅波安二世「行耶和華眼中看為惡的事」，這揭示了作者評斷君王的標準——即是否忠於耶和華的律法。
 
-#### 3. 重複與主題陳述（Repetition and Thematic Statements）
-重複是聖經作者強調重點的常用手法。
-*   **模式重複**：如《士師記》中不斷出現的循環模式：以色列人行惡、受懲罰、哀求、神興起拯救者。這種重複揭示了神在歷史中的公義與慈愛。
-*   **主題陳述**：如《使徒行傳》1:8 的大使命，為整卷書勾勒了從耶路撒冷、猶太全地、撒馬利亞直到地極的地理擴展藍圖。透過這個藍圖，我們能理解為何彼得的記載集中在前期，而保羅的記載集中在後期——這不是人物傳記，而是神國福音擴展的歷史。
-*   **關鍵句重複**：《士師記》中多次出現「那時以色列中沒有王，各人任意而行」，這不僅是歷史描述，更是作者對大衛王朝建立之必要性的神學辯護。
+#### 3. 重複與主題（Repetition and Themes）
+重複是作者強調重點的方式。
+*   **《士師記》的循環模式：** 我們看到「以色列人行惡—神發怒懲罰—以色列人悔改—神興起拯救者」的循環。這種重複出現的模式，正是作者要傳達的核心神學。
+*   **《士師記》中「沒有王」的重複：** 經文中多次提到「那時以色列中沒有王，各人任意而行」（17:6, 18:1, 19:1, 21:25）。這不僅是歷史描述，更是一種神學立場，暗示以色列需要大衛王朝的建立來終結混亂。
+*   **《使徒行傳》的地理擴展：** 《使徒行傳》1:8 提供了全書的藍圖（耶路撒冷、猶太全地、撒馬利亞、直到地極）。透過書中多次出現的總結性評論（如 6:7, 9:31），我們能看到福音如何按照這個藍圖擴展。這解釋了為什麼作者在完成彼得的使命後，就將焦點轉向保羅——因為保羅是將福音帶到「地極」的關鍵人物。
 
-### 總結：歷史敘事的獨特性
-雖然有人嘗試將福音書視為獨特的文學類型，但從歷史角度看，它們與當時的歷史傳記（Historical Biography）有著密切的關聯。我們不需要將聖經敘事神祕化或過度解構。相反地，透過關注作者的編輯評論、重複的主題以及整體的敘事脈絡，我們能夠在聖靈的引導下，精確地捕捉聖經作者在歷史敘事中想要傳達的永恆真理。
-
-
-## Lesson 29: 書信的釋經學（上） (Hermeneutics for Epistles (Part 1))
-
-> **大綱對照：**
-> 本文內容與所提供的大綱結構高度吻合。教學內容依序探討了如何辨識關鍵詞、詞源學（Etymology）的陷阱，以及從「語言規範」過渡到「話語規範」的詮釋學路徑。
+### 總結建議
+當你們在研讀歷史敘事時，我建議你們先通讀全書，標記出所有「編輯者的評論」。將這些評論單獨列出來閱讀，你就會發現作者不斷重複強調的神學重點。隨後，再將每一個單一故事放入這個脈絡中檢視。這樣，你就不會迷失在瑣碎的細節裡，而是能精準地掌握聖經作者透過歷史所要傳達的永恆真理。
 
 
-
-### 語言規範與話語規範的區別
-
-在研讀保羅書信及新約其他書信時，我們面對的是充滿嚴謹論證的文體。要正確解讀這些文本，首要任務是區分「語言規範」（norms of language）與「話語規範」（norms of the utterance）。
-
-所謂「語言規範」，是指詞彙在字典中所列出的各種可能性。字典的功能並非給出該詞在特定情境下的唯一含義，而是提供該詞在歷史與語言使用中所有可能的意義範圍。無論是希伯來文詞典、希臘文詞典，或是針對不同英文譯本（如 KJV 的 17 世紀英語與現代英語）的字典，它們都只負責界定「可能性」。
-
-然而，釋經者的目標是找出「話語規範」，即該詞在特定作者、特定句子、特定論證脈絡下所指的「具體含義」。從語言的廣泛可能性縮小到具體的語境意義，正是釋經學的核心工作。
-
-### 如何辨識關鍵詞
-
-我們無法對聖經中的每一個字都進行詳盡的詞彙研究（word study），因為「詞彙並不等於思想」。單字本身只是符號，其意義取決於它如何被組合進思想的脈絡中。因此，我們必須有策略地選擇需要深入研究的詞彙，老師提出了三個判斷標準：
-
-1.  **頻率（Frequency）：** 如果一個詞在某段經文中反覆出現，它必然是理解該段落的關鍵。例如《羅馬書》第 4 章中，動詞 *logidzomai*（計算、歸算）出現了 11 次。由於該詞在前三章未曾出現，且在第四章密集使用，這強烈暗示該詞是保羅論證「因信稱義」的核心，必須精確掌握。
-2.  **句法地位（Role in the sentence）：** 有些詞彙是句子的支柱。例如「你們得救是本乎恩，也因著信」（以弗所書 2:8），「恩」（grace）一詞決定了整句話的意義。若不理解「恩」在該處的具體神學內涵，整句經文的邏輯就會崩塌。
-3.  **作者定義（Author definition）：** 有時作者會親自解釋詞彙。如《哥林多前書》15:3，保羅提到「福音」，隨即在後文定義了這福音的內容：「基督照聖經所說，為我們的罪死了，而且埋葬了，又照聖經所說，第三天復活了」。當作者給出定義時，這是最權威的參考。
-
-### 詞源學（Etymology）的迷思與陷阱
-
-許多講道者熱衷於探討詞彙的「詞源」或「字根意義」，認為這能挖掘出深層的真理。然而，老師指出，現代語言的使用者在說話時，根本不會考慮詞彙的歷史演變。
-
-*   **共時性（Synchronic）與歷時性（Diachronic）：** 詞源學研究的是詞彙從古至今的演變，屬於「歷時性」研究。但釋經學關注的是「共時性」研究，即：在該文本寫作的當下，受眾是如何理解這個詞的？
-*   **詞義的變遷：** 詞彙意義會隨時間劇烈改變。例如英文的 "let" 在 1611 年的 KJV 譯本中意為「阻礙」，現代則為「允許」。若執著於詞源或舊義，會導致嚴重的誤讀。
-*   **絕望中的最後手段：** 為什麼學者仍常討論詞源？因為在面對某些古老、罕見的詞彙（如主禱文中的 *epiousios*，每日的/必需的）時，由於缺乏足夠的文獻對照，詞源學往往成為釋經者在「黑暗中摸索」的最後手段。這並非首選，而是無奈之舉。
-
-### 案例研究：新約中的「酒」（Oinos）
-
-老師以「酒」為例，說明如何從語言規範過渡到話語規範。現代美國文化中的「酒」通常指酒精濃度約 11-12% 的發酵飲料，且常被視為獨立飲品。然而，透過考察古典希臘文獻與猶太傳統（如《米示拿》中的《逾越節篇》），我們發現當時的「酒」（*oinos*）在日常生活中幾乎總是與水混合的。
-
-*   **文化脈絡：** 古希臘人認為不摻水的酒是「野蠻人」的喝法，會導致瘋狂或身體崩潰。當時的混合比例常為 2:1 或 3:1（水比酒）。
-*   **釋經應用：** 當《啟示錄》14:10 提到「神大怒的酒，斟在神忿怒的杯中，是純一不雜的」（unmixed），這裡的「純一不雜」正是為了強調其強烈與致命，因為當時的常態是「混合」。
-*   **結論：** 若我們將現代對酒的理解強加於新約文本，就會產生誤解。釋經者必須進入當時的「話語規範」，理解當時的人如何看待這種飲料——它是餐桌上的食物，而非現代酒吧文化中為了追求醉酒而存在的烈酒。
-
-老師以此提醒，釋經學的目的不是為了展現學術上的博學，而是為了幫助信徒更準確地理解神的話語。我們是牧者，而非單純的知識傳遞者。在處理如飲酒這類具爭議的議題時，應保持謙卑，並以愛心與常識為導向，幫助信徒在現代情境中實踐聖經的原則。
-
-
-## Lesson 30: 書信釋經學（下） (Hermeneutics for Epistles (Part 2))
+## Lesson 29: 書信釋經學（上） (Hermeneutics for Epistles (Part 1))
 
 > **大綱對照：**
-> 本文內容完全遵循所提供的大綱結構，並根據講課內容進行了深入的擴充與解釋。
+> 本文內容完全遵循所提供的大綱結構，並依序深入探討了書信釋經學中關於詞彙研究的原則與實踐。
 
 
 
-### 釋經的漏斗：從語言規範到語意脈絡
+在研讀新約書信時，我們面對的是充滿細膩論證的文體。要正確解讀這些書信，我們必須掌握一個核心原則：從「語言規範」（norms of language）進步到「話語規範」（norms of the utterance）。這不僅是學術上的區分，更是我們避免誤解聖經的關鍵。
 
-在釋經學中，我們常面臨一個問題：如何準確理解聖經作者所使用的詞彙？我們不能僅憑個人的直覺，而必須建立一套嚴謹的「漏斗式」篩選機制。這個漏斗的頂端是廣泛的希臘古典文學，而底部則是作者在特定語境下的精確用法。
+### 一、詞彙的使用：從語言規範到話語規範
 
-#### 希臘古典文學與早期教父
-許多人認為，要理解新約希臘文，必須大量閱讀柏拉圖（Plato）或亞里斯多德（Aristotle）等古典作家的著作。然而，這些古典希臘文與新約希臘文在思維模式上有顯著差異。相比之下，早期教會教父（Early Church Fathers）的著作雖然也使用希臘文，但他們在神學思維與屬靈洞見上，與新約作者更為接近。因此，相較於古典文學，教父著作更能幫助我們捕捉新約作者的語意。
+當我們談到「語言規範」時，我們指的是詞彙在詞典中呈現的「可能性範圍」。字典的職責不是告訴你某個詞在特定經文中的確切意義，而是列出該詞在歷史上可能擁有的所有含義。無論是希伯來文詞典、希臘文詞典，還是針對不同時代英語（如 17 世紀的 King James Version）的字典，它們提供的都是潛在意義的清單。
 
-#### 七十士譯本（LXX）與聖經作者的思維
-更進一步，我們必須提到《七十士譯本》（Septuagint，簡稱 LXX）。雖然關於七十位譯者獨立翻譯且字字吻合的傳說並不可信，但這部譯本對新約作者的影響極深。新約作者的詞彙、語法結構與神學思維，深受這部舊約希臘文譯本的浸潤。因此，若要尋找與保羅或彼得思維最接近的文獻，LXX 往往比教父著作更具參考價值。
+然而，我們真正的目標是「話語規範」，即該詞在特定語境下被作者使用的唯一確切含義。我們不能將字典中的每一個定義都套用到經文中，因為詞彙本身並不等同於思想。我們必須透過觀察詞彙在語句中的用法，以及語句在論證中的位置，來縮小意義的範圍。
 
-### 保羅是保羅最好的詮釋者
+#### 1. 如何篩選重要的詞彙
+我們不可能對聖經中的每一個詞都進行深入研究，那既不切實際也無必要。那麼，我們該如何決定哪些詞值得深究呢？
 
-當我們試圖理解保羅書信中的特定詞彙時，最權威的詮釋者其實就是保羅本人。與其去翻閱成千上萬頁的古典希臘文獻，不如觀察保羅在其他書信中如何使用該詞。
+*   **頻率（Frequency）：** 當一個詞在一段經文中反覆出現時，它必然是理解該段落的關鍵。例如，在《羅馬書》第 4 章中，動詞 *logizomai*（計算、歸算）出現了 11 次，而前三章卻未曾出現。這強烈暗示我們，若要理解保羅在第 4 章的論證，就必須精確掌握 *logizomai* 在此處的含義。
+*   **句中的角色（Role in the sentence）：** 有些詞是句子的核心支柱。例如「你們得救是本乎恩，也因著信」（弗 2:8），「恩」（grace）這個詞就是整句話的基礎，若不理解它的具體內涵，整句經文的意義就會崩塌。
+*   **作者的定義（Author definition）：** 有時作者會親自定義詞彙。例如在《哥林多前書》15:3，保羅提到「福音」，隨後立即解釋「基督照聖經所說，為我們的罪死了，而且埋葬了，又照聖經所說，第三天復活了」。這裡，保羅透過後續的陳述直接定義了「福音」的內容。
 
-#### 案例分析：腓立比書 1:29 的「恩賜」
-在腓立比書 1:29 中，保羅提到信徒不僅要信基督，還要為祂受苦。和合本與許多譯本將希臘文動詞 *echaristhe*（源自 *charizomai*，名詞為 *charis*，即「恩典」）譯為「蒙恩」或「賜給」。
+#### 2. 詞源學（Etymology）的問題
+許多人對「詞源學」或「字根意義」有一種迷思，認為挖掘一個詞的原始詞根就能找到最深層的真理。但請你們思考：當你們今天說話時，會去考慮每個詞的詞源嗎？當然不會。我們關心的是「現在」人們如何理解這個詞。
 
-若我們僅將「受苦」視為一種必須咬牙忍受的苦難，就誤解了保羅的本意。保羅使用 *charizomai* 這個詞，意味著他將「為基督受苦」視為上帝的一種「恩典的特權」。這與殉道者坡旅甲（Polycarp）的心境不謀而合——他視進入競技場殉道為一種喜樂的恩典。保羅在其他書信中一致地將此詞與「恩典」連結，這證明了我們對受苦的態度應從「苦難」轉向「恩典的特權」。
+詞源學研究的是「歷時性」（diachronic）的演變，即詞彙在漫長歷史中的變化。但釋經學關注的是「共時性」（synchronic）的理解，即在作者寫作的那一刻，該詞對當時的讀者意味著什麼。例如，「let」在 1611 年的 KJV 聖經中意為「阻礙」（hinder），但現代英語中卻意為「允許」。如果我們執著於詞源或舊有的含義，就會完全誤解經文。
 
-#### 案例分析：腓立比書 2:12 的「做成」
-保羅在 2:12 勸勉信徒「當恐懼戰兢做成（*katergazomai*）你們得救的工夫」。年輕的基督徒常對此感到困惑，認為這是否與「因信稱義」矛盾。然而，若我們觀察保羅在羅馬書 15:18 或哥林多後書 12:12 使用同一個動詞，會發現該詞並非指「賺取」或「贏得」，而是指「彰顯」、「成就」或「實踐」。保羅從未使用這個動詞來指稱靠行為賺取救恩（他描述賺取救恩時會使用不同的動詞 *ergazomai*）。因此，這節經文的意義是：將你們已經領受的救恩，在生活中具體地彰顯出來。
+事實上，當我們訴諸詞源學時，往往是因為我們對該詞在當時的確切用法感到「絕望」，手邊缺乏足夠的平行文獻，只好在黑暗中摸索。詞源學通常是我們在無計可施時的最後手段，而非首選的釋經工具。
 
-### 處理聖經作者間的表面衝突：保羅與雅各
+### 二、從語言規範到話語規範的實踐：以「酒」為例
 
-釋經學中常見的難題是保羅（因信稱義）與雅各（因行為稱義）之間的表面衝突。馬丁路德甚至曾因不理解雅各書的立場，而稱其為「草木禾秸的書信」。
+為了說明如何將「語言規範」縮小至「話語規範」，我們來看「酒」（*oinos*）這個詞。在美國現代文化中，酒通常指酒精濃度 11-12% 的飲料。但在新約時代的希臘羅馬世界，*oinos* 幾乎總是意味著「水與酒的混合物」。
 
-#### 語意範圍（Semantic Range）的差異
-要解決此衝突，必須理解「信心」（*pistis*）與「行為」（*ergon*）在不同語境下的語意範圍：
+考古發現的「混酒器」（kraters）證明了當時的飲酒習慣：人們會將酒與水以 2:1、3:1 甚至 4:1 的比例混合。希臘文獻（如雅典的宴會記錄）顯示，飲用未經稀釋的酒被視為野蠻人的習俗。當《啟示錄》14:10 提到「神大怒的酒，斟在神憤怒的杯中，純一不雜」時，正是因為當時的酒通常是混合的，所以作者必須特別強調「純一不雜」（unmixed），才能傳達出那種未經稀釋、極度強烈的憤怒。
 
-1.  **信心的語意範圍：** 雅各在第 2 章所批判的「信心」，是指一種僅僅承認「神只有一位」的智性認同（Intellectual assent），甚至是連魔鬼都有的信心。這種信心不帶有順服與愛，因此是死的。而保羅所說的信心，是全人的信靠，是「藉著愛運作的信心」（加拉太書 5:6）。
-2.  **行為的語意範圍：** 雅各所強調的「行為」，是指愛心的具體行動（如餵養飢餓者、接待客旅）。而保羅所批判的「行為」，是指為了賺取功德、誇口於上帝面前的「律法之工」（如割禮、守節期）。
+這對我們的啟示是：當我們讀到新約中的「酒」時，若直接套用現代對烈酒的認知，就會產生嚴重的誤解。這並不是要討論現代基督徒是否應該飲酒，而是要提醒我們，釋經的第一步是回到當時的文化脈絡。
 
-#### 結論：兩者並不衝突
-當我們將保羅與雅各的語境區分開來，衝突便迎刃而解。保羅反對的是「靠律法功德稱義」，雅各反對的是「沒有愛心行動的死信心」。兩者其實是在共同維護一個真理：真正的救恩必然帶來生命的改變與愛心的實踐。
+##### 給學生的牧養建議
+作為傳道人，我們的職責不是炫耀學識，而是幫助信徒理解聖經。當我們面對像「酒」這樣具爭議的議題時，應當展現牧者的心腸。我個人建議採取禁絕酒精的生活方式，這在美國的文化語境下是智慧的選擇，但我不會將其強加為律法。我們應當教導信徒，聖經中的詞彙有其特定的歷史背景，我們必須謙卑地學習，並在愛中引導教會，而非在無謂的爭論中耗損肢體關係。我們是牧者，不是趕牛人，我們的目標是幫助弟兄姊妹在真理中成長，並在軟弱時扶持他們重新站起來。
 
-### 釋經的實踐順序
 
-在實際操作中，雖然邏輯上我們應從「最接近作者思維的文獻」開始，但考慮到時間成本，我們通常採取以下策略：
+## Lesson 30: 書信的釋經學（下） (Hermeneutics for Epistles (Part 2))
 
-1.  **最精確的範圍：** 從「同一句話」、「同一段落」、「同一章」、「同一卷書」開始。
-2.  **擴展範圍：** 接著參考該作者的其他書信。
-3.  **最後範圍：** 最後才參考其他新約作者、七十士譯本及早期教父。
+> **大綱對照：**
+> 本文內容完全遵循所提供的大綱結構，並根據課堂教學的邏輯順序，詳細闡述了從「語言規範」到「語境規範」的詮釋學路徑。
 
-這種由內而外的釋經法，能確保我們在有限的時間內，最大限度地貼近聖經作者的原意，避免將外來的哲學思維強加於聖經文本之上。
+
+
+### 從語言規範到語境規範：尋找詮釋的「漏斗」
+
+在研讀新約書信時，我們常面臨一個問題：當我們遇到一個詞彙，該如何準確掌握它的意義？我們不能漫無目的地閱讀所有希臘文獻。為了精確理解聖經作者的本意，我們需要建立一個「漏斗」式的篩選機制，從廣泛的希臘文學背景，逐漸收窄到作者本人的思想脈絡。
+
+#### 1. 希臘古典文學與早期教父 (Greek Classical Literature & Early Church Fathers)
+很多人認為閱讀柏拉圖（Plato）或亞里斯多德（Aristotle）的古典希臘文獻能幫助我們理解新約，但這其實有其限制。雖然他們使用古典希臘語，但他們的世界觀與保羅迥異。相比之下，「早期教父」（Early Church Fathers）雖然也用希臘文寫作，但他們在神學思考上更接近聖經作者。然而，即便如此，他們仍不是我們詮釋的第一站。
+
+#### 2. 七十士譯本 (The Septuagint, LXX)
+我們還有一群重要的參考對象，即舊約希伯來文的希臘語譯者，也就是「七十士譯本」（Septuagint，簡稱 LXX）。關於這七十位譯者是否在完全獨立的情況下翻譯出完全一致的譯本，這或許只是個傳說，但不可否認的是，這群譯者的詞彙與思維模式，比早期教父更貼近保羅、約翰或彼得。他們是我們理解新約背景的重要橋樑。
+
+#### 3. 同一作者的書信 (Letters Written by the Same Author)
+當我們試圖理解保羅在《腓立比書》中的某個詞彙時，最能幫助我們的人是誰？答案是：保羅自己。與其去翻閱所有希臘古典文學，不如看看保羅在其他書信中如何使用同一個詞。
+
+以《腓立比書》1:29 為例，保羅寫道：「因為你們蒙恩（*echaristhe*），不但得以信服基督，並要為他受苦。」這裡的動詞 *echaristhe* 源自名詞 *charis*（恩典）。傳統譯本常譯為「蒙恩」或「被賜予」，但若我們參考保羅在其他地方對「恩典」的使用，會發現保羅並非將受苦視為一種沉重的負擔，而是視為上帝賜下的「恩典特權」。早期教父波利卡普（Polycarp）在面對殉道時，正是抱持這種視受苦為榮耀特權的態度，這顯示他深刻理解了保羅的語境。
+
+#### 4. 同一書卷或段落的語境 (Use of the Word in the Same Letter or Passage)
+有時，我們甚至不需要離開同一本書，就能找到答案。例如《腓立比書》2:12 提到的「當恐懼戰兢作成（*katergadzo*）你們得救的工夫」。這句話常讓年輕基督徒困惑：我們不是靠恩典得救嗎？為何要「作成」？
+
+如果我們查考保羅在《羅馬書》15:18 或《哥林多後書》12:12 的用法，會發現 *katergadzo* 並非指「賺取」或「功德」，而是指「彰顯」、「成就」或「展示」。保羅從未用這個詞來指稱靠行為稱義。因此，這裡的含義是：將你們已經領受的救恩，在生活中具體地彰顯出來。
+
+同樣地，在《哥林多前書》2:14 提到未信者無法領受聖靈的事，因為這對他們是「愚拙」（*moria*）的。若我們對照《哥林多前書》3:19「世上的智慧在神看是愚拙」，就能明白這並非指「無法理解」，而是一個價值判斷——世人將屬靈的事判斷為愚蠢。
+
+#### 5. 比較不同作者的用法：信心與行為 (Comparing Faith and Works)
+詮釋學中最具挑戰性的議題之一，是保羅與雅各在「稱義」問題上的表象衝突。保羅說「人稱義是因著信，不在乎遵行律法」（羅 3:28），雅各卻說「人稱義是因著行為，不是單因著信」（雅 2:24）。
+
+要解決此矛盾，我們必須認識到詞彙的「語義範圍」（Semantic Range）。
+*   **信心（*pistis*）：** 在雅各書中，他所批評那種「不能救人的信心」，是指像鬼魔那樣僅僅在理智上承認「神只有一位」的認知，這與保羅所說那種「藉著愛運作的信心」完全不同。
+*   **行為（*ergon*）：** 保羅所反對的「行為」，是指那些為了在神面前誇口、讓神欠債的「律法主義行為」（如割禮、守節期）；而雅各所強調的「行為」，是指愛心的具體行動（如餵養飢餓者、接待客旅）。
+
+當我們將兩者的語境拆解開來，會發現他們並非在爭論同一個定義。保羅若讀到雅各書，很可能會說：「沒錯，靠割禮不能稱義，但那種藉著愛運作的信心，確實是真實的信心。」
+
+### 總結：詮釋的實踐原則
+在時間緊迫的講道準備中，我們無法窮盡所有文獻，因此我們應採取「漏斗式」的逆向操作：
+1.  **最優先：** 同一段落、同一章、同一書卷的用法。
+2.  **次優先：** 同一作者的其他書信。
+3.  **再者：** 其他新約作者的用法。
+4.  **最後：** 七十士譯本、早期教父及古典希臘文學。
+
+越往上層走，我們對作者原意的把握就越精確。保羅自己，永遠是詮釋保羅最好的導師。
 
 
 ## Lesson 31: 書信釋經學（第三部分） (Hermeneutics for Epistles (Part 3))
 
 > **大綱對照：**
-> 本文內容與所提供的大綱高度吻合。教師在講解「如何理解句子」時，正是透過分析「命題」（Propositions）以及「子句關係」（Clausal relationships）來展開，並特別深入探討了「手段」（Means）與「原因」（Cause）的區別，這正是大綱中 I.A.1 與 I.A.2 的核心內容。
+> 本文內容完全遵循所提供的大綱結構，並依序展開各項論點。
 
 
 
-### 理解句子與命題（Understanding Propositions）
+### 理解語句與命題（Understanding Propositions）
 
-在釋經的過程中，我們首先處理的是詞彙的具體意義（Lexical meaning），但詞彙並非孤立存在。當我們將詞彙組合起來，便構成了「命題」（Proposition）或陳述。理解命題的核心在於掌握語言的「語法」（Grammar）。如果說詞典（Lexicon）幫助我們理解詞彙的規範，那麼語法就是幫助我們理解語句如何運作的關鍵工具。
+當我們掌握了個別詞彙的定義後，下一步必須進入「語句」或「命題」（proposition）的層次。詞彙的意義並非孤立存在，我們在研究詞彙時，其實已經在與該詞在特定語境（context）下的功能搏鬥。然而，現在我們的焦點要從單詞轉向整個陳述。
 
-#### 語法結構的重要性
-不同語言的語法結構差異巨大。在英語中，詞序（Word order）決定了句意（例如 "Bob loves Joan" 與 "Joan loves Bob" 意義完全不同）。然而，在希臘語（Greek）中，詞序相對自由，句意的核心在於「詞尾變化」（Endings/Inflections）。希臘語透過格位（Case）系統來標示主詞與受詞，這意味著即便改變詞序，只要詞尾不變，句意便保持一致。對於釋經者而言，忽略這些語法細節，往往會導致對經文邏輯關係的誤讀。
+若說「詞典」（lexicon）是我們理解單詞意義的工具，那麼「語法」（grammar）就是我們理解語句的核心工具。語法規則因語言而異，這是釋經時必須具備的語言學敏感度。例如在英語中，語序（word order）決定了意義（如：Bob loves Joan 與 Joan loves Bob 意義完全不同）；但在希臘語中，詞尾變化（inflectional endings）才是決定句意的關鍵。希臘語的語序相對自由，這常讓初學者感到困惑，但我們必須學會透過詞尾來判斷主詞與受詞，而非依賴語序。
 
 ### 子句關係（Clausal Relationships）
 
-理解命題的下一步，是分析子句之間如何連結。英語使用者往往對這種精確的關係缺乏敏感度。教師舉了一個例子：「戰役失敗了——[關係詞]——將軍死了。」（The battle was lost [relationship] the general died.）
+理解語句的關鍵，在於辨識子句（clauses）之間如何連結。在英語中，我們往往忽略了這些連結詞的精確性，但在釋經時，我們必須精確區分這些關係，例如：時間（temporal）、因果（causal）、工具（instrumental）、條件（conditional）、讓步（concessive）、目的（purpose）與方式（manner）。
 
-透過填入不同的連接詞，句子的邏輯關係會產生質變：
-*   **時間關係（Temporal）**：如「在……之後」（after）、「當……時」（when/while）。這僅描述事實發生的先後或同時性，不一定有因果關聯。
-*   **結果關係（Result）**：如「以至於」（so that）。這表明戰役失敗是原因，將軍之死是結果。
-*   **因果關係（Causal）**：如「因為」（because）、「由於」（for）。這將戰役失敗歸因於將軍之死。
-*   **條件關係（Conditional）**：如「如果」（if）。這將戰役的結果繫於將軍的生死。
+請看這組範例：「戰役失敗了——[連結詞]——將軍死了。」（The battle was lost [ ] the general died.）
+*   若填入「在……之後」（after），這僅是時間上的先後，不必然有因果關係。
+*   若填入「因為」（because），則將軍之死成為戰役失敗的直接原因。
+*   若填入「以便」（so that），則戰役失敗導致了將軍的死亡。
+*   若填入「如果」（if），則將軍之死變成了一個假設性的決定因素。
 
-釋經者若不能精確辨識這些關係，就無法掌握作者的論證邏輯。
+這些連結詞（conjunctions/particles）決定了命題的邏輯結構。在書信體（epistles）中，這類邏輯關係極為關鍵，我們必須透過原文語法來精確解讀。
 
-### 區分「手段」（Means）與「原因」（Cause）：以以弗所書 2:8-9 為例
+### 區分「工具」與「原因」（Distinguishing between Means and Cause）
 
-教師以《以弗所書》2:8-9 為例，深入探討了「因果」與「手段」的區別，這在歸正神學（Reformed Theology）中是極為關鍵的教義區分。
+以《以弗所書》2:8-9 為例，保羅寫道：「你們得救是本乎恩，也因著信。」（For by grace you have been saved through faith）。這裡的語法關係至關重要：
 
-#### 恩典與信心的關係
-經文提到：「你們得救是本乎恩，也因著信。」（For by grace you have been saved through faith.）
-*   **恩典（Grace）是原因（Cause）**：這裡使用的是工具格（Instrumental case），指明救恩的根源是上帝的恩典。救恩之所以發生，是因為上帝施恩。
-*   **信心（Faith）是手段（Means）**：這裡指的是藉由信心（Ablative of means）來領受救恩。
+1.  **「本乎恩」（by grace）：** 這裡的「恩」在希臘語中是工具格（instrumental case），在此處表達的是「原因」（cause）。恩典是救恩的源頭與原因。
+2.  **「因著信」（through faith）：** 這裡的「信」是奪格（ablative），表達的是「工具」（means）。信心是我們領受救恩的媒介。
 
-教師運用了一個生動的譬喻：當病人因肺炎瀕死時，青黴素（Ampicillin）是治癒的「原因」，而注射器（Hypodermic needle）則是將藥物引入體內的「手段」。如果我們誤將「信心」視為救恩的「原因」，就如同誤以為是注射器治好了病人，這在神學上是錯誤的，因為這將救恩的功勞轉移到了人的信心上。真正的救恩原因在於基督在十字架上的死與復活。
+我們常會聽到有人說：「我是因為我有信心才得救。」這在神學上是錯誤的。信心並非救恩的「原因」。如果我們將信心視為原因，就等於說救恩取決於我們信心的品質。事實上，救恩的唯一原因（cause）是基督在十字架上的死與復活。
 
-#### 「這」指代什麼？
-經文續稱：「這（touto）不是出於自己，乃是神所賜的。」關於「這」指代什麼，有人認為是「信心」。但從希臘文語法來看，「這」（touto）是中性詞，而「恩典」與「信心」在原文中是陰性詞。因此，「這」指的不是信心，而是指代「整個得救的過程」。這強調了救恩完全是上帝的恩賜，排除人的行為（Works），以致無人能誇口。
+我用一個比喻來說明：假設你患了肺炎，醫生給你一支裝有抗生素的針筒。抗生素是治癒你的「原因」，而針筒則是將藥物注入你體內的「工具」。你不會說「是針筒救了我」，針筒只是媒介。同樣地，信心是我們領受基督救恩的「工具」，而非救恩的「原因」。若我們強調信心是原因，其實是在貶低上帝的恩典。
 
-### 實踐中的釋經：羅馬書與腓立比書
+此外，保羅在第 8 節提到「這並不是出於自己，乃是神所賜的」（this is not your own doing; it is the gift of God）。這裡的「這」（touto，中性代名詞）並非指前面的「信」（陰性）或「恩」（陰性），而是指整個「得救」的過程。這再次確認了救恩完全是神的作為。
 
-#### 羅馬書 12:2：轉化與心意更新
-保羅勸勉信徒「不要效法這個世界，只要心意更新而變化」。教師指出，「不要效法」（Do not be conformed）是現在式否定命令語氣，意指「停止正在進行的效法行為」。在當代媒體環境下，信徒不斷被世界塑造，保羅要求我們停止這種被動的同化。而「轉化」（Metamorphosis）的途徑是「心意更新」。教師建議，要達成心意更新，必須有意識地用屬靈書籍（如宣教士傳記）來充實思想，這才是積極的轉化之道。
+### 應用：原文釋經的必要性
 
-#### 腓立比書 2:12-13：救恩的顯明
-保羅說要「恐懼戰兢做成（work out）你們得救的工夫」。這裡的「做成」並非指「賺取」（earn/merit），而是指「顯明」或「活出」（manifest/carry out）。第 13 節給出了理由：「因為你們立志行事，都是神在你們心裡運行。」這是一個重要的神學順序：我們並非為了贏得上帝的幫助而努力，而是因為上帝已經在我們裡面運行，我們才去顯明那救恩的果效。這是基於我們在基督裡的身份（Standing in Christ），而非為了達成身份。
+學習希臘語的目的，不是為了在講台上炫耀，而是為了獲得釋經的「信心」。當你直接閱讀原文時，你不需要透過翻譯者的濾鏡（即「翻譯的翻譯」），這能讓你對經文的邏輯關係有更深層的掌握。
 
-### 結論：語言工具的價值
-教師強調，學習原文（希臘文）能讓釋經者跳過翻譯者的過濾，直接與保羅的文字對話。這不僅是學術訓練，更是在講台上傳講神話語時，那份確信感（Confidence）的來源。對於無法使用原文的信徒，則需透過多種譯本與註釋書，謹慎地分析原文背後的邏輯關係，以確保對神話語的忠實解讀。
+#### 羅馬書 12:2 與心意更新
+保羅說：「不要效法這個世界，只要心意更新而變化。」（Do not be conformed to this world, but be transformed by the renewing of your minds）。這裡的「不要效法」是現在時態的否定命令，意指「停止你現在正在做的效法行為」。保羅敏銳地察覺到羅馬教會正受到世俗文化的塑造。在現代，我們被媒體、資訊轟炸，若不刻意「心意更新」，我們就會被世界同化。我建議各位，若要幫助會眾「心意更新」，可以鼓勵閱讀宣教士傳記等屬靈書籍，透過填充心靈的內容來改變思維模式。
+
+#### 腓立比書 2:12-13 與救恩的展現
+保羅勸勉信徒「當恐懼戰兢做成你們得救的工夫」（work out your own salvation）。這裡的「做成」（work out）並非「賺取」（earn/merit），而是「展現」或「實踐」。第 13 節是第 12 節的基礎：「因為你們立志行事，都是神在你們心裡運行。」（for it is God who is at work in you）。
+
+這是一個重要的邏輯順序：我們並非為了讓神在我們心裡運行而去行善；相反地，是因為神已經在我們心裡運行，我們才去展現救恩。所有的勸勉（exhortation）都建立在我們已經擁有的地位（standing in Christ）之上，而非為了達成那個地位。理解這種子句間的「因果」關係，能幫助我們正確地將神學應用於基督徒的生活中。
 
 
-## Lesson 32: 書信釋經學（第四部分） (Hermeneutics for Epistles (Part 4))
+## Lesson 32: 書信釋經學（四） (Hermeneutics for Epistles (Part 4))
 
 > **大綱對照：**
-> 本文完全遵循所提供的大綱結構，並根據講師在課堂中實際的教學順序與重點進行了詳細的擴充與解說。
+> 本次課程內容與所提供的大綱高度吻合。我將按照大綱的邏輯順序，先深入剖析羅馬書 13:1-7 的論證結構，隨後探討古代書信的文學形式及其釋經價值。
 
 
 
-### 一、 追蹤論證：以《羅馬書》13:1-7 為例
+### 一、 追蹤使徒保羅的論證（羅馬書 13:1-7）
 
-在書信釋經中，從理解單一命題（proposition）進階到追蹤完整論證（argument）是極為關鍵的技巧。保羅在《羅馬書》13:1-7 的教導是一個結構極其嚴謹的範例。這段經文的特色在於它相對獨立，不需過度依賴上下文即可理解其邏輯架構。
+在釋經的過程中，我們不僅要理解單一命題（proposition），更要學會追蹤作者的論證（argument）。羅馬書 13:1-7 是一個極佳的範例，因為這段經文結構嚴謹，且與前後文並無強烈的依賴關係，這使我們能專注於保羅如何層層推進他的論點。
 
-#### 1. 神學基礎與結果（13:1-2）
-保羅首先提出一個普遍性的勸勉：「在上有權柄的，人人當順服他。」隨即他給出了一個神學基礎（Theological ground）：因為沒有權柄不是出於神的，凡掌權的都是神所命的。
+#### 1. 神學基礎：權柄的來源
+保羅首先發出總體勸勉：「在上有權柄的，人人當順服他。」（13:1）。你們可能會問：「為什麼？我不喜歡這些掌權者，為什麼要順服？」保羅隨即給出了神學基礎（theological ground）：因為「沒有權柄不是出於神的，凡掌權的都是神所命的」。
 
-*   **神學意涵**：保羅將政府權柄視為「普遍恩典」（common grace）的一種形式，是神為了維護受造界的福祉而設立的。
-*   **邏輯推論**：保羅使用「因為」（for）來連接勸勉與基礎。若我們拒絕順服掌權者，實際上就是在抗拒神所設立的秩序。因此，抗拒者必自招審判（incur judgment）。這是一個因果明確的論證結構。
+在這裡，我們要理解「普遍恩惠」（common grace）的概念。政府的權柄是神賜給人類社會的一項恩賜，旨在維護受造界的福祉。當你們不喜歡某位總統或官員時，不能僅憑個人喜好就拒絕順服，因為這不僅是對人的反抗，更是對神所設立之秩序的反抗。保羅明確指出，抗拒掌權者就是抗拒神的任命，其結果必然是招致審判（13:2）。
 
-#### 2. 實踐層面的論證（13:3-4）
-保羅接著轉向實踐層面（Practical ground），解釋為什麼順服政府對信徒是有益的。
+#### 2. 實踐基礎：賞善罰惡的職責
+保羅接著轉向實踐層面（practical ground）。他指出掌權者並非行善者的恐懼，而是作惡者的恐懼（13:3-4）。這是政府存在的正當性理由：他們是神的僕人，為了你的益處而行事。
 
-*   **正面論證**：掌權者對行善者而言並非恐怖，而是保護。若你行善，就能得到稱讚，因為掌權者是神的用人，是為了你的益處。
-*   **負面論證與「劍」的意象**：若你作惡，就當懼怕。保羅提到「他不佩劍是枉然的」。在羅馬文化中，「劍」（the sword）象徵著對公民擁有生殺大權。保羅藉此強調政府有執行神憤怒（execute God's wrath）的職責，用以懲罰作惡者。這段經文常被視為支持死刑（capital punishment）的神學依據。
+這裡有一個關鍵意象：「他不佩劍是枉然的」。在羅馬文化中，「佩劍」（bearing the sword）象徵著對公民擁有生殺大權。當一位羅馬官員卸任並交出佩劍時，就代表他放棄了這種生殺大權。保羅以此說明，政府有權懲罰作惡者，這是神賦予他們的職責。如果有人問：「國家憑什麼懲罰人？」保羅的回答是：這是神命定他們要做的。這段經文也常被視為支持死刑（capital punishment）的聖經依據之一。
 
-#### 3. 良心與基督徒實踐（13:5-7）
-保羅在第5節使用了一個交錯對稱結構（Chiasmus，即 A-B-B-A 結構），將「神的憤怒」與「良心」（conscience）連結起來。
+#### 3. 良心與基督徒的實踐
+在 13:5，保羅引入了「良心」（conscience）的概念。這在之前的經文中未曾出現，但它與「神設立權柄」的論點緊密相連。因為你知道權柄源於神，若你抗拒，不僅是為了逃避刑罰，更是為了對得起自己的良心。
 
-*   **良心的角色**：保羅指出順服不只是為了避免懲罰，更是為了良心的緣故。因為信徒知道權柄源於神，若抗拒權柄，便是違背了對神旨意的認知，從而造成良心的不安。
-*   **納稅的實踐**：保羅將納稅視為基督徒的義務，這呼應了耶穌「該撒的物當歸給該撒」的教導。政府官員是神的僕人，專門負責維持秩序，因此納稅、納糧、敬畏、恭敬都是信徒應盡的責任。
+隨後，保羅將論點延伸至納稅（13:6-7）。你們可能會問，當時的基督徒為什麼要納稅？除了避免牢獄之災，更重要的是因為掌權者是「神的差役」。這呼應了耶穌關於「該撒的物當歸給該撒」的教導。保羅最後以一個總結性的勸勉作結，要求我們將當得的稅、糧、尊敬、榮耀，都歸給應得的人。
 
-#### 4. 歷史處境的應用：如何面對邪惡政府？
-講師特別提醒，在應用此段經文時，必須思考：保羅所指的「神所設立的政府」是否適用於所有情況？
+#### 4. 關於「不義政府」的思考
+你們可能會問：如果政府作惡，這段經文還適用嗎？這正是納粹德國時期的基督徒所面臨的掙扎。我認為，保羅所描述的權柄是有前提的：它是「神的僕人」，是為了「賞善罰惡」。如果一個政府反其道而行，懲罰行善者、獎勵作惡者，它就失去了神所賦予的合法性。
 
-*   **納粹德國的例子**：當時的基督徒面臨希特勒政府的壓迫。若政府不再是「行善者的稱讚，作惡者的懲罰」，而是反過來獎勵邪惡、懲罰良善，那麼它是否還具備神所賦予的合法權柄？
-*   **改革宗的觀點**：加爾文（Calvin）主張面對邪惡政府應「逃跑與禱告」；路德宗則傾向在極端情況下可以防衛；約翰·諾克斯（John Knox）甚至認為有義務推翻邪惡政權。
-*   **結論**：保羅的教導並非要求盲目順服。當政府背離了神設立其權柄的初衷（即維護公義），它便失去了作為「神僕人」的合法性。
+歷史上，加爾文（Calvin）主張面對惡政應「逃跑與禱告」；路德宗（Lutherans）則傾向於在必要時自衛；約翰·諾克斯（John Knox）甚至認為基督徒有義務推翻惡政。當我年輕時面對越戰爭議，我曾思考：羅馬帝國的政府遠非完美，甚至將稅收用於維持殘酷的軍事機器，但保羅仍要求順服。因此，除非政府完全背離了神賦予的職責，否則我們仍應履行公民義務。
 
 ---
 
-### 二、 古代書信的格式（The Form of an Ancient Letter）
+### 二、 古代書信的形式（The Form of an Ancient Letter）
 
-理解古代書信的標準格式，能幫助我們捕捉作者在寫作時的語氣與意圖。
+理解書信的文學形式（genre）是釋經的關鍵。古代書信通常遵循一套標準格式，保羅的書信也不例外。
 
-#### 1. 標準書信結構
-古代書信通常包含以下幾個部分：
-*   **問候語（Greeting/Salutation）**：通常是「A 致 B，問候」。基督徒書信將此基督教化，加入「恩惠與平安」（Grace and peace）。
-*   **感恩或禱告（Thanksgiving/Prayer）**：在問候之後，保羅通常會加入一段感恩或代禱，表達對收信人的關懷。
-*   **書信主體（Body）**：論述的核心內容。
-*   **勸勉與結論（Exhortation/Conclusion）**：包含具體的教導、問候、聖潔的親嘴、親筆簽名或祝福。
+#### 1. 標準結構
+*   **問候語（Greeting/Salutation）：** 通常是「A 致 B，問候」。保羅將世俗的問候轉化為基督徒的「恩惠與平安」（Grace and peace）。
+*   **感恩或代禱（Thanksgiving/Prayer）：** 緊接在問候之後，保羅通常會表達對收信人的感恩或為他們代禱。
+*   **書信主體（Body）：** 這是書信的核心內容。
+*   **勸勉與結論（Exhortation/Conclusion）：** 最後通常包含具體的指令、問安或祝福。
 
-#### 2. 透過格式洞察保羅的意圖
-保羅的書信格式並非一成不變，這些變動往往隱含著重要的神學訊息：
+#### 2. 形式背後的洞見
+保羅在書信開頭的長度往往暗示了他的寫作目的。例如，他在羅馬書 1:1-7 的開場白極其冗長，這是因為他未曾親自造訪羅馬教會。他必須透過這段引言，確立他作為外邦人使徒的權柄，並預告他將要論述的「信心的順服」（obedience of faith）。
 
-*   **冗長的引言（如《羅馬書》）**：保羅在《羅馬書》中寫下極長的引言（1:1-7），這反映出他並未親自建立羅馬教會。為了建立權柄並說明寫信動機，他必須在開頭就詳細闡述他的使徒職分與福音內容。
-*   **缺失的感恩（如《加拉太書》）**：這是最顯著的例外。在《加拉太書》中，保羅跳過了慣例的感恩與祝福，直接進入嚴厲的責備（「我希奇你們這麼快離開……」）。這種格式的缺失，強烈暗示了該教會正面臨嚴重的神學危機（異端入侵），保羅的憤怒與急迫感透過格式的破壞直接傳達給讀者。
+此外，形式的「缺失」同樣重要。在加拉太書中，保羅完全省略了慣例的「感恩與代禱」，直接進入對異端的嚴厲斥責。這種對標準格式的打破，強烈地傳達了當時教會正面臨嚴重的信仰危機。當你們讀到這種結構上的異常時，務必敏銳地意識到作者的情緒與寫作的緊迫性。
 
-#### 3. 釋經建議
-講師強調，雖然現代釋經學對於書信的類型（如護教書信、辯護書信）有許多細緻的分類討論，但我們不應將其過度複雜化。重點在於觀察保羅如何運用這些傳統格式，並透過格式的「常態」與「變異」，去捕捉他對不同教會所傳達的獨特情感與牧養負擔。
+最後，請記住，雖然我們在希臘文釋經中會探討各種語法細節（如工具格、方位格等），但這些是為了幫助你們更精確地理解經文的可能性，而非為了讓你們陷入枯燥的術語記憶中。釋經的終極目標，是透過這些工具，更深地領會神話語的豐富內涵。
 
 
-## Lesson 33: 聖約的體裁（上） (Genre of Covenant (Part 1))
+## Lesson 33: 聖約的文學類型（上） (Genre of Covenant (Part 1))
 
 > **大綱對照：**
-> 本文內容完全遵循所提供的大綱結構，並針對大綱中的各個要點進行了深入的解經與神學闡釋。
+> 本次課程內容與所提供的大綱高度吻合。我將依照大綱的邏輯順序，詳細拆解聖約（Covenant）的文學類型及其在聖經中的運作方式。
 
 
 
-### 一、 聖約的兩種類型 (Two Types of Covenants)
+### 聖約的兩種類型
 
-在探討聖經中的「聖約」(Covenant) 之前，我們必須先理解古代近東 (Ancient Near Eastern, A.N.E.) 文獻中的契約體裁。19 世紀末至 20 世紀初的「宗教史學派」(History of Religions school) 透過對古代文獻的研究，發現了聖經契約形式與當時近東文化背景的相似性。雖然該學派有時會陷入「平行狂熱」(parallelomania)——即過度解讀表面相似性而忽略本質差異（例如誤將米特拉教的十字架符號視為基督教十字架教義的來源，而忽略了那僅是為了方便分食麵包的實用設計）——但他們確實發現了赫梯人 (Hittites) 等古代民族的契約形式，與聖經中上帝與人立約的結構驚人地一致。
+在進入聖經文本之前，我們必須先理解「聖約」（Covenant）在古代近東（Ancient Near Eastern, A.N.E.）文學中的背景。歷史宗教學派（History of Religions school）在 19 世紀末至 20 世紀初，致力於尋找聖經與當時中東文獻的平行之處。雖然過程中曾出現過「平行狂熱」（parallelomania）——即過度解讀相似性，例如將基督教的十字架符號錯誤地連結到密特拉教（Mithraism）的麵包切割方式上——但這項研究確實幫助我們發現了古代近東文獻中一種特殊的契約形式，這與聖經中的聖約形式驚人地相似。
 
-#### A. 平等之約 (Parity Covenant)
-這是一種在「地位平等」的雙方之間所簽訂的契約。正如其名，這類契約如同高爾夫球中的「標準桿」(par)，雙方地位對等，共同協商並遵守約定。這類契約常見於現代社會的社區公約或商業協議，雙方在法律地位上是平等的，且通常涉及雙方共同的義務與權利。
+我們將聖約分為兩大類：
 
-#### B. 君王之約 (Suzerainty Covenant)
-這是聖經中上帝與人立約的核心體裁。「宗主權之約」(Suzerainty treaty) 是由一位擁有絕對權力的君王（Suzerain，宗主）單方面頒布給臣民的。這不是雙方協商的結果，而是君王賜予的恩典。對於臣民而言，這是一種「接受或拒絕」的關係，而非對等的談判。這種契約體現了「由上而下」的權威結構，正如教授與學生之間的關係——教授制定課程要求，學生若要修課，必須接受這些既定的規範。
+1. **對等之約（Parity Covenant）**：這是一種在地位平等者之間訂立的契約。就像我們在現代生活中簽訂的社區公約，或是高爾夫球術語中的「標準桿」（par），意指雙方處於對等地位。這類契約是雙方基於共同利益而協商達成的。
+2. **宗主之約（Suzerain Covenant）**：這是我們在聖經中看到的關鍵形式。「宗主」（Suzerain）指的是君王。這種契約並非在平等者之間簽訂，而是由上位者（君王）單方面頒布給下位者（百姓）。這是一種「恩典之約」，君王提供條款，百姓則選擇接受或拒絕。這就像我在課堂上制定的評分標準，不是由學生與我協商，而是由我作為教授單方面頒布，你們作為學生領受。
 
-### 二、 亞伯拉罕之約 (Abrahamic Covenant)
+### 亞伯拉罕之約（創世記 17 章）
 
-在創世記 17 章中，上帝與亞伯拉罕立約，這正是典型的「君王之約」。我們必須注意，這並非上帝與亞伯拉罕在「討價還價」。上帝單方面宣告：「我是全能的神……我要與你立約。」(創 17:1-2)。
+當我們談到聖經中的聖約，必須注意它與一般世俗契約的本質差異。以創世記 17 章神與亞伯拉罕立約為例，這絕非神與亞伯拉罕在「討價還價」。這是一個典型的宗主之約，由神單方面主導。神宣告：「我是全能的神；你當在我面前作完全人」（創 17:1），並賜下應許。
 
-這段經文揭示了聖約的本質：
-1. **恩典先行**：上帝主動介入歷史，選擇亞伯拉罕。
-2. **單方面頒布**：亞伯拉罕沒有參與條款的制定，他只能選擇順服或拒絕。
-3. **應許與責任**：上帝應許亞伯拉罕成為多國之父，並賜下土地；同時，上帝要求亞伯拉罕及其後裔遵守割禮作為立約的記號。這不是為了「換取」救恩，而是作為「立約子民」的標記。
+請注意，亞伯拉罕在其中的角色並非協商者，而是領受者。神單方面規定了割禮作為立約的記號（創 17:10-14）。這是一個「由上而下」（top-down）的恩典行動。神先給予應許，再要求回應。
 
-### 三、 聖經中的聖約語言 (Covenant Language in Scripture)
+### 聖經中的聖約語言
 
-聖約的概念貫穿了整本聖經，是理解救贖歷史的關鍵。
+聖約的概念貫穿了整本聖經，它是理解救贖歷史的核心：
 
-*   **出埃及記 (Exodus)**：以色列人在埃及受苦時，上帝「記念祂與亞伯拉罕、以撒、雅各所立的約」(出 2:24)。這說明了以色列的拯救並非偶然，而是上帝基於聖約的信實 (faithfulness) 所採取的行動。
-*   **馬可福音 14 章 (Mark 14)**：耶穌在最後晚餐中設立聖餐，稱杯為「我立約的血」(v. 24)。這將舊約的聖約概念直接連結到祂在十字架上的救贖工作。
-*   **使徒行傳 3 章 (Acts 3)**：彼得在聖殿講道時，明確指出耶穌的出現是為了成就上帝與亞伯拉罕所立的約，目的是為了「叫你們各人回轉，離開罪惡」(v. 26)。
-*   **哥林多前書 (Corinthians)**：保羅重申聖餐的意義，強調這是「新約」(New Covenant)。
+* **出埃及記**：當以色列人在埃及受苦時，神聽見他們的哀聲，並「記念祂與亞伯拉罕、以撒、雅各所立的約」（出 2:24）。這說明出埃及的救贖行動，正是基於神先前所立的聖約。
+* **馬可福音 14 章**：耶穌在設立聖餐時說：「這是我立約的血，為多人流出來的」（可 14:24）。這將舊約的聖約傳統直接連結到祂的救贖工作上。
+* **使徒行傳 3 章**：彼得在聖殿講道時，明確指出以色列人是「先知和神與你們祖宗所立之約的子孫」（徒 3:25）。
+* **哥林多前書**：保羅提到「這杯是用我的血所立的新約」（林前 11:25）。
 
-對於改革宗神學 (Reformed Theology) 而言，聖約不僅是歷史背景，更是救贖的架構。雖然浸信會傳統較少強調聖約神學，但從聖經整體敘事來看，上帝始終是一位「立約的神」，祂透過聖約將祂的恩典施加於祂的子民。
+這些經文顯示，聖經的核心訊息就是神單方面與祂的子民立約，並在歷史中不斷實踐這份約。
 
-### 四、 聖約的結構 (Parts of a Covenant)
+### 聖約的組成部分：以西奈之約為例
 
-透過出埃及記 20 章西奈山之約，我們可以清晰地看到古代近東君王之約的標準結構：
+當我們分析出埃及記 20 章神在西奈山頒布的律法時，會發現它完全符合古代近東「宗主之約」的結構：
 
-1.  **前言 (Preamble)**：立約者宣告自己的身份。上帝說：「我是耶和華——你的神」(出 20:2)。這裡的「耶和華」(Yahweh/Tetragrammaton) 是上帝啟示祂自己與立約子民的聖名。
-2.  **歷史序言 (Historical Prologue)**：上帝回顧祂對子民的恩典。祂提到「將你從埃及地為奴之家領出來」(出 20:2)。這段歷史證明了上帝的慈愛，且這恩典是在律法頒布之前就已經發生的。
-3.  **條款 (Stipulations)**：即「十誡」。這裡的神學重點在於：**條款不是為了「進入」聖約，而是為了「留在」聖約之中。** 上帝先拯救了他們（歷史序言），然後才頒布律法（條款）。因此，律法是聖約子民過聖潔生活的指南，而非獲取地位的條件。
-4.  **持續宣讀的規定 (Provision for continual reading)**：如出埃及記 24:7 所述，摩西將約書念給百姓聽。這提醒子民他們的身分與責任。
-5.  **見證 (Witnesses)**：雖然此處未詳述，但在古代契約中，通常會呼喚神明作為見證。在聖經中，上帝自己就是祂聖約的見證者與守護者。
+1. **序言（Preamble）**：契約制定者宣告自己的身份。「我是耶和華——你的神」（出 20:2）。這裡的「耶和華」（Yahweh）是神的神聖名字，即「我是自有永有的」。
+2. **歷史序幕（Historical Prologue）**：神敘述祂過去對百姓施行的恩典。「曾將你從埃及地為奴之家領出來」（出 20:2）。這段經文強調，神所做的一切是基於祂的恩典，百姓事先並無任何功績可言。
+3. **條款（Stipulations）**：即十誡。這裡有一個極為重要的神學觀點：**這些條款並非為了「進入」聖約，而是為了「留在」聖約之中。** 聖約關係在頒布律法之前就已經存在了。律法不是得救的條件，而是聖約子民保持忠誠、活在恩典中的生活準則。
+4. **持續宣讀的規定（Provision for continual reading）**：如出埃及記 24:7 所述，摩西將約書念給百姓聽，百姓回應「凡耶和華所說的，我們都必遵行」。這提醒百姓他們的身分以及聖約的內容。
 
-總結來說，聖約的結構告訴我們：上帝的救贖是主動且恩慈的，而人的順服則是對這份恩典的回應。我們不是靠守律法來贏得上帝的愛，而是因為已經在聖約之中，所以才藉著守律法來保持對上帝的忠誠。
+總結來說，理解聖約的文學類型，能幫助我們看清神與我們立約的性質：這是一份由神主動發起、基於恩典的關係，而我們所有的順服，都是對這份已經確立之恩典的回應。
 
 
-## Lesson 34: 盟約的文體（下） (Genre of Covenant (Part 2))
+## Lesson 34: 約的文體（下） (Genre of Covenant (Part 2))
 
 > **大綱對照：**
-> 本文內容與所提供的大綱結構高度吻合。教學內容依序探討了約書亞記 24 章中的盟約形式，以及舊約律法的三種分類，並在最後延伸討論了盟約與恩典的關係。
+> 本次解釋完全遵循所提供的大綱結構，並按照課堂講授的順序，深入探討了約的結構要素以及舊約律法的分類。
 
 
 
-### 盟約的結構：以約書亞記 24 章為例
+### 約的結構要素：以約書亞記 24 章為例
 
-在探討盟約（Covenant）的文體時，約書亞記 24 章提供了一個極佳的範例，展示了古代近東盟約形式的完整結構。這種結構不僅僅是歷史背景，更是理解上帝與祂子民關係的「釋經工具」（hermeneutical tool）。
+在上一堂課中，我們初步探討了聖經中「約」（Covenant）的文體結構。今天，我們要透過約書亞記 24 章這個更為詳盡的案例，來深入剖析這種文體如何運作。理解這種文體對於我們進行釋經學（Hermeneutics）至關重要，因為它能幫助我們釐清「律法」與「恩典」之間的正確關係，避免將舊約的誡命誤讀為「律法主義」（Legalism）。
 
-#### 1. 序言（Preamble）與歷史序言（Historical Prologue）
-約書亞記 24:1-2a 是典型的「序言」，明確指出立約的雙方：耶和華（Yahweh）作為立約的主體，以及祂的子民以色列。緊接著，2b-13 節是一段極為詳盡的「歷史序言」。這段經文回顧了上帝過去對以色列人所施行的恩典——從呼召亞伯拉罕、出埃及、過紅海，到擊敗亞摩利人並賜予他們未曾勞碌的土地。
+#### 1. 序言（Preamble）
+在約書亞記 24:1-2a 中，我們看到了典型的序言。約書亞召集了以色列的長老、首領、審判官和官長，並宣告：「耶和華——以色列的神如此說……」。這裡的「耶和華」（Yahweh）與「以色列的神」（Elohim of Israel）確立了立約雙方的身分，這是約的根基。
 
-這裡的關鍵在於：**上帝的恩典先於律法（Stipulations）**。以色列人之所以能回應「是的，這都是事實」，是因為他們已經領受了救贖。這段歷史序言的目的，是為了讓百姓意識到，隨後頒布的律法並非獲取恩典的「條件」，而是領受恩典後的「回應」。
+#### 2. 歷史序言（Historical Prologue）
+這是約文體中極為關鍵的部分，涵蓋了 24:2b-13。請注意，這段歷史敘事完全聚焦於過去，描述了神如何主動地、恩典地為以色列人行事——從呼召亞伯拉罕、帶領他們出埃及、過紅海，到擊敗亞摩利人並賜給他們未曾勞碌的土地。
 
-#### 2. 條款（Stipulations）與誓言（Oath）
-在 14-21 節中，約書亞提出了盟約的條款：要求百姓敬畏耶和華，除掉外邦神祇。這並非「二手車買賣」式的討價還價，而是一種基於恩典的呼召。當上帝已經為他們成就了如此偉大的救贖，拒絕這樣的盟約在邏輯上是不可思議的。百姓的回應（16-18 節）確認了他們對上帝救贖作為的記憶，並立誓效忠。
+你們必須明白，這些恩典的敘述是放在「立約條款」（Stipulations）之前的。這意味著：神對以色列人的恩典，並非建立在他們遵守律法的基礎上；相反地，是因為神已經先施恩了，所以他們才進入這份約。這完全排除了「靠行為稱義」的可能性。
 
-#### 3. 見證（Witnesses）與持續閱讀的規定（Provision for continuous reading）
-盟約的穩定性需要見證人。在 22-23 節，百姓親口作見證，確認自己選擇了耶和華。隨後在 26-27 節，約書亞立了一塊大石頭作為見證，這塊石頭象徵著盟約的永久性與公開性。同時，約書亞將這些話寫在神的律法書上，確保盟約的內容能被持續閱讀與傳承。
+#### 3. 條款（Stipulations）
+在 24:14-21 中，約書亞提出了要求。因為神已經行了上述的恩典，所以現在以色列人必須做出回應：「現在你們要敬畏耶和華，誠心實意地事奉他。」這裡的律法不是為了賺取救恩，而是作為約民在恩典關係中應有的生活準則。如果他們背棄約，就會失去約中的祝福。
+
+#### 4. 見證人（Witnesses）與持續閱讀的規定
+在 24:22-23 以及 26-27 節中，我們看到了見證人的設置。約書亞立了一塊大石頭作為見證，這石頭「聽見了」耶和華所說的一切話。這是一個具體的紀念物，提醒百姓他們曾公開承諾要事奉神。同時，約書亞將這些話寫在神的律法書上，確保約的內容能被持續閱讀與傳承。
 
 ### 舊約律法的分類與應用
 
-在神學探討中，改革宗傳統常將舊約律法分為三類，這有助於我們理解律法在基督徒生活中的持續性與終止性：
+當我們談到舊約的律法（Stipulations/Law）時，改革宗神學傳統通常會將其細分為三類。理解這些分類有助於我們處理「哪些律法在基督之後仍然適用」的問題。
 
 #### 1. 民事律（Civil Laws）
-這類律法處理的是以色列作為一個「神權國家」（Theocracy）的社會運作，例如逃城（Cities of Refuge）的設立、見證人的要求（兩三個見證人）以及對財產邊界的保護。雖然我們今日不再是神權國家，但這些律法背後的原則——如「懲罰應與罪行相稱」（懲罰的公正性）——對於任何現代社會的法律體系仍具有參考價值。
+這些是關於社會運作、司法審判的條例，例如「逃城」的設立（申命記 19 章）或關於鄰舍財產的保護（申命記 22 章）。雖然我們今天不是一個「神權政體」（Theocracy），但這些律法背後的原則——例如「懲罰應當與罪行相稱」（同態復仇原則的本質）——依然是現代社會建立公正法律體系的良好基礎。
 
 #### 2. 禮儀律（Cultic Laws）
-這類律法涉及祭祀制度、潔淨條例（如飲食禁忌）。耶穌在馬可福音 7 章的教導，宣告了「凡物都是潔淨的」，這標誌著禮儀律的終結。這並非因為上帝改變了標準，而是因為基督作為完美的祭物已經來到，舊約中指向基督的預表性禮儀已完成其歷史使命。因此，基督徒不再受限於這些飲食或祭祀規條。
+這類律法涉及祭祀制度、潔淨條例（如飲食禁忌）。在馬可福音 7 章，耶穌宣告「各樣的食物都是潔淨的」，這標誌著禮儀律的終結。彼得在異象中被告知「神所潔淨的，你不可當作俗物」，這進一步證實了在基督裡，這些外在的禮儀規條已經完成了它們的歷史任務。我們不再需要透過遵守這些飲食或祭祀規條來維持與神的關係，因為基督已經是一次獻上、永遠有效的祭物。
 
 #### 3. 道德律（Moral Laws）
-道德律（如十誡）反映了上帝的屬性，因此是永恆不變的。這並非隨意的規定，而是上帝聖潔本性的彰顯。無論在舊約還是新約，愛神與愛人如己的原則始終是基督徒生活的核心。
+道德律（如十誡）反映了神的屬性，因此它是永恆不變的。這不是隨意的規定，而是神聖潔本性的彰顯。當我們說「愛人如己」時，這正是道德律的核心。對於基督徒而言，道德律依然具有約束力，因為它指導我們如何以討神喜悅的方式生活。
 
-### 神學反思：恩典與律法的關係
+### 總結：恩典與律法的關係
 
-教學中特別強調，**盟約本質上就是恩典的體現**。上帝主動與人建立關係，這是祂的慈愛。若有人認為進入盟約後就可以無視上帝的誡命，那他可能根本未曾真正進入盟約。
+你們在研讀聖經時，必須警惕那些將律法視為「靠行為賺取救恩」的錯誤解讀。例如，司可福聖經（Scofield Bible）對出埃及記 19:8 的註釋，稱以色列人回答「凡耶和華所說的，我們都要遵行」是「最可怕的錯誤」，因為這被視為依賴行為。這是一個嚴重的誤解！以色列人當時的回應是正確的——在神已經施恩拯救之後，立志順服是約民理所當然的感恩回應。
 
-#### 關於「一次得救，永遠得救」的省思
-針對「聖徒永蒙保守」（Perseverance of the Saints）的教義，講師提醒學生，不要將系統神學當作「模具」去強行擠壓聖經文本。我們應當謹慎使用術語，強調「聖徒必然會堅持到底」，而不是簡化為「一次得救，永遠得救」的口號。若一個人的生命中完全沒有對耶穌基督的愛與順服，那麼他需要重新檢視自己是否真正進入了與上帝的盟約關係。
-
-#### 關於禱告與赦免
-基督徒在犯罪後向神求赦免，並非為了「重新得救」，而是為了修復與天父之間的「父子關係」。這就像一個孩子犯錯後向父親認錯，目的是為了恢復親密的交通，而非為了重新被收養。這種對盟約關係的理解，能幫助我們在恩典中成長，既不陷入律法主義的恐懼，也不陷入放縱的虛假安全感。
+律法是恩典的產物。正如一個深愛對方的人會渴望知道如何取悅對方，神賜下律法，是為了讓我們知道如何在這個恩典的關係中討祂喜悅。我們不是為了「進入」約而守律法，而是因為我們已經「身處」約中，所以我們藉由順服來維持與天父親密的團契。如果有人認為進入了約卻可以隨意違背神的誡命，那麼他可能根本沒有真正理解這份約的本質。
 
 
 ## Lesson 35: 詩篇的文體 (Genre of Psalms)
 
 > **大綱對照：**
-> 本文完全遵循所提供的大綱結構，並根據講員在課堂中實際的教學順序與內容深度進行了擴充與詳細說明。
+> 本文內容完全遵循所提供的大綱結構，並在各章節中補充了講課內容的深度解析與神學背景。
 
 
 
 ### 詩篇的結構 (Structure)
 
-詩篇（The Book of Psalms）是聖經中最長的一卷書，其編纂結構極具深意。全書被劃分為五卷（Five Books），每一卷的結尾都以一段「榮耀頌」（Doxology）作為結束，這不僅是為了區分段落，更是在提醒讀者，無論經歷何種境遇，最終的歸宿都是對神的讚美。
+詩篇（Psalms）不僅是聖經中最長的一卷書，它更像是一部精心編纂的「以色列讚美詩集」。這卷書被劃分為五個部分（卷），每一卷的結尾都以一段「榮耀頌」（Doxology）作為結束。這種五卷結構並非偶然，許多學者認為這是在模仿摩西五經（Pentateuch），將詩篇呈現為以色列人與神立約生活的詩歌回應。
 
-*   **第一卷（第1-41篇）：** 以「願耶和華以色列的神，從亙古直到永遠，是應當稱頌的。阿們，阿們。」作結。
-*   **第二卷（第42-72篇）：** 結尾強調神獨行奇事，並願祂的榮耀充滿全地。此處特別註明「耶西兒子大衛的祈禱完畢」，顯示了編纂者對大衛作品的整理。
-*   **第三卷（第73-89篇）：** 篇幅相對較短，同樣以「耶和華是應當稱頌的，直到永遠。阿們，阿們。」結束。
-*   **第四卷（第90-106篇）：** 結尾處不僅有榮耀頌，還加入了「願眾民都說：阿們！你們要讚美耶和華！」的呼籲。
-*   **第五卷（第107-150篇）：** 第150篇本身就是整卷書的終極榮耀頌，以極具感染力的樂器與讚美呼籲「凡有氣息的，都要讚美耶和華」。
+*   **第一卷（第1-41篇）：** 以「願耶和華以色列的神，從亙古直到永遠，是應當稱頌的。阿們，阿們。」（詩41:13）作為結尾。
+*   **第二卷（第42-72篇）：** 結尾強調神獨行奇事，並願祂的榮耀充滿全地（詩72:18-19）。值得注意的是，此處提到「耶西兒子大衛的祈禱已經完畢」。
+*   **第三卷（第73-89篇）：** 篇幅相對較短，以對神永遠的稱頌作結。
+*   **第四卷（第90-106篇）：** 結尾不僅有榮耀頌，還加上了「願百姓都說：阿們！你們要讚美耶和華！」（詩106:48）。
+*   **第五卷（第107-150篇）：** 第150篇本身就是一首宏大的榮耀頌，呼籲一切有氣息的都要讚美耶和華。
 
-講員強調，這些詩篇的編排並非隨意為之。儘管編纂者多為佚名，但我們應當相信，在神的默示（Inspiration）之下，這些編輯工作同樣具有神聖的權威。詩篇的排列順序與位置，對於我們理解詩篇的屬靈意義至關重要。
+我們必須理解，這些詩篇的編排並非隨機的。雖然許多詩篇的作者是未知的，但這些編輯者在聖靈的默示下，將詩篇編纂成目前的順序。這種編排本身就是神啟示的一部分，幫助我們在閱讀時能從整體的架構中，理解詩篇如何反映以色列人在不同歷史階段與神的關係。
 
 ### 作者與歸屬 (Authorship)
 
-在詩篇的作者群中，大衛（David）佔據了核心地位，約有73篇詩篇歸於他名下，幾乎佔了總數的一半。其次是亞薩（Asaph）的12篇，以及可拉後裔（Sons of Korah）的11篇。這三者加起來，涵蓋了約三分之二的詩篇。這種作者分佈顯示了詩篇不僅是個人的靈修紀錄，更是以色列集體敬拜與信仰歷史的結晶。
+在詩篇的作者群中，大衛（David）佔據了核心地位，他被歸屬的詩篇約有73篇，幾乎佔了總數的一半。其次是亞薩（Asaph）的12篇，以及可拉後裔（Sons of Korah）的11篇。這三者加起來，涵蓋了詩篇約三分之二的內容。這告訴我們，詩篇的寫作背景與以色列的敬拜中心、王室歷史以及聖殿侍奉有著密不可分的聯繫。
 
-### 詩篇的類別 (Categories of Psalms)
+### 詩篇的文體類別 (Categories of Psalms)
 
-詩篇並非單一文體，而是包含了多種表達形式，反映了信徒在不同生命階段與神互動的真實樣貌。
+詩篇並非單一文體，而是包含了多種文學形式。理解這些文體能幫助我們正確解讀經文的意圖與情感。
 
-#### 錫安詩 (Psalms of Zion)
-這類詩篇（如詩48, 46, 76, 87, 122）以錫安山為中心。錫安不僅是一個地理位置，更是神選擇立祂名的地方，是神同在的象徵。講員指出，當詩人讚美錫安時，實質上是在讚美神的榮耀。然而，這並非盲目的崇拜，即便在先知書中預言錫安將因百姓的悖逆而被毀，這些詩篇依然提醒我們神對這座城的特殊揀選。
+#### 1. 錫安詩 (Psalms of Zion)
+錫安詩（如詩46, 48, 76, 87, 122篇）的核心在於「神的居所」。當詩人提到錫安時，他不僅是在談論一個地理位置，更是在談論神與祂百姓同在的榮耀。錫安是神選擇立祂名的地方，因此，對錫安的熱愛其實是對神同在的渴望。即使在先知耶利米預言錫安將被毀滅時，百姓仍誤以為這座城是「護身符」，這顯示了錫安詩在當時的特殊地位——它是神榮耀的象徵，但絕不能被偶像化。
 
-#### 君王詩 (Royal Psalms)
-這類詩篇（如詩2, 21, 45, 72, 110）聚焦於以色列的君王。講員指出，這些詩篇最初是為大衛及其繼承人所寫，慶祝神所膏立的君王。然而，從救贖歷史的視角來看，這些詩篇在「大衛的子孫」——主耶穌基督身上得到了最終的應驗。新約作者常引用這些詩篇來指涉那位真正的「萬王之王」。
+#### 2. 君王詩 (Royal Psalms)
+君王詩（如詩2, 21, 45, 72, 110篇）聚焦於神所膏立的君王。例如詩篇第2篇，雖然最初是針對大衛王朝的繼承人，但我們在閱讀時必須看到其「預表性」（Typological）的意義。這些詩篇所描述的理想君王，最終指向了「大衛的子孫」——主耶穌基督。這類詩篇讚美神所設立的領袖，並表達對神國度掌權的確信。
 
-#### 智慧詩 (Wisdom Psalms)
-如詩1, 37, 73, 127篇，這類詩篇教導人如何敬畏神、過智慧的生活。例如詩篇127篇強調「若不是耶和華建造房屋，建造的人就枉然勞力」，這提醒信徒，一切成就皆源於神的恩典，而非人的焦慮與勞碌。
+#### 3. 智慧詩 (Wisdom Psalms)
+智慧詩（如詩1, 37, 127篇）教導我們如何在生活中敬畏神。例如詩篇127篇強調「若不是耶和華建造房屋，建造的人就枉然勞力」，這不僅是生活格言，更是對神主權的深刻體認。
 
-#### 懺悔詩 (Penitential Psalms)
-包括詩6, 32, 38, 51, 102, 130篇。這些詩篇深刻描繪了罪帶來的痛苦與神赦免後的釋放。以詩篇32篇為例，詩人描述在認罪前身體枯乾、神的手加重在身上的痛苦，這不僅是對罪的悔改，更是對神恩典的渴慕。
+#### 4. 懺悔詩 (Penitential Psalms)
+懺悔詩（如詩6, 32, 51篇）是信徒在罪中掙扎後的呼求。以詩篇32篇為例，詩人描述了隱瞞罪惡時身體的枯乾，以及承認罪後所獲得的赦免之樂。這類詩篇提醒我們，與神恢復關係的唯一途徑是誠實的認罪。
 
-#### 咒詛詩 (Imprecatory Psalms)
-這是最難理解的一類（如詩35, 58, 69, 83, 109, 137）。講員解釋，詩人並非出於私人的報復心，而是基於對神公義的熱愛。當面對極端的邪惡（如巴比倫的殘暴）時，詩人祈求神的公義彰顯，甚至祈求惡人的後代也受審判，這是為了徹底剷除邪惡的根源。這與神作為至高審判者的聖潔屬性相符，提醒我們在面對罪惡時，應當有對公義的渴求。
+#### 5. 咒詛詩 (Imprecatory Psalms)
+這是最難理解的類別（如詩35, 58, 69, 109, 137篇）。我們在閱讀詩篇137篇時，看到詩人祈求神懲罰巴比倫人。這並非出於個人的私怨，而是對「神公義」的極致呼求。當我們面對極大的邪惡（如納粹大屠殺）時，我們必須區分「個人的報復」與「神的公義」。神是審判全地的主，祂的公義要求罪惡必須被處理。咒詛詩是信徒將審判的主權完全交託給神，相信祂會為受害者伸冤。
 
-#### 讚美詩 (Hymns / Praise Psalms)
-這類詩篇（如詩100, 146）旨在頌揚神的屬性與作為。詩篇146篇展示了「包含結構」（Inclusio），即以相同的讚美語句開頭與結尾，將中間的教導包圍起來，強調讚美是信徒生命的基調。
+#### 6. 讚美詩 (Hymns / Praise Psalms)
+讚美詩（如詩100, 146篇）是信徒對神屬性與作為的直接回應。這些詩篇常使用「包含結構」（Inclusio），即開頭與結尾使用相同的讚美詞（如「你們要讚美耶和華」），將整首詩框在讚美的氛圍中。
 
-#### 哀歌詩 (Lament Psalms)
-這是詩篇中數量最多的一類（約佔1/3），其結構通常包含：
+#### 7. 哀歌 (Lament Psalms)
+哀歌佔了詩篇的三分之一，這顯示了在信仰生活中，哀哭與呼求是不可或缺的。典型的哀歌包含五個部分：
 1.  **呼求神 (Address to God)**
-2.  **陳述苦情 (Complaint/Description of need)**
+2.  **陳述苦情 (Complaint)**
 3.  **祈求幫助 (Prayer for help)**
 4.  **信心告白 (Confession of confidence)**
 5.  **讚美誓言 (Vow of praise)**
 
-講員特別指出，教會現代敬拜中常忽略哀歌，導致信徒在受苦時感到孤單，甚至懷疑自己的信心。事實上，哀歌是信徒在絕望中轉向神的真實表達。詩人即便在痛苦中，最終仍能因著對神信實的確信，發出讚美的誓言。這教導我們，哀歌並非絕望的終點，而是通往對神更深信靠的橋樑。
+哀歌的結尾通常會轉向信心與讚美，這不是因為詩人已經脫離了困境，而是因為他確信神必垂聽。我們在教會中往往缺乏哀歌的空間，導致信徒在痛苦時感到孤單。我們應當學習詩人，在最深的低谷中，依然向神發出真實的呼求，因為神不僅喜悅我們的讚美，也接納我們在苦難中的哀哭。
 
 
 ## Lesson 36: 釋經學與聖經正典（上） (Hermeneutics and the Canon of Scripture (Part 1))
 
 > **大綱對照：**
-> 本文完全遵循所提供的大綱結構，並根據授課內容進行了詳細的擴充與神學闡釋。
+> 本次課程內容與所提供的大綱高度吻合。我將依照大綱的邏輯順序，詳細闡述聖經正典（Canon of Scripture）形成的歷史過程與神學意義。
 
 
 
-### I. 背景資訊：耶穌時代與早期教會的聖經觀
+### 一、 背景資訊：耶穌時代與早期教會的聖經觀
 
-在探討正典（Canon）的形成時，我們必須先理解「正典」並非在某個時間點突然從天而降，而是經歷了長期的認受過程。在耶穌時代，猶太人的舊約聖經架構已大致底定，分為「律法書」（Law）、「先知書」（Prophets）與「聖卷」（Writings）。當時的猶太人對書卷的編號方式與現代不同，例如將十二小先知書視為一卷書，這使得當時的舊約書卷總數比現代聖經少。
+在我們探討新約正典的形成之前，必須先理解耶穌時代猶太人對「聖經」的認知。當時的舊約聖經結構已大致定型，分為「律法書」（Law）、「先知書」（Prophets）與「聖卷」（Writings）。你們需要注意，當時的書卷編號方式與今日不同。例如，猶太人將十二小先知書視為「一卷書」，而非十二卷獨立的書卷。因此，雖然內容相同，但當時的聖經卷數比我們現代的三十九卷要少。
 
-關於「次經」（Apocrypha），這是天主教與新教聖經的主要分歧點。新教立場認為，新約作者從未引用次經作為權威性的「經上寫著說」（As it is written），且次經中存在歷史錯誤與魔法迷信，與正典的品質有顯著差異。至於「雅麥尼亞會議」（Council of Jamnia, AD 90），老師特別澄清：這並非猶太教決定正典內容的會議，而是針對個別書卷（如《以斯帖記》中未提及上帝之名）的爭議進行討論。
+此外，我們必須區分「次經」（Apocrypha）。這些書卷雖然具有歷史價值，能幫助我們了解當時的猶太教虔誠與宗教生活，但它們並非聖經正典。例如《多比傳》（Tobit）雖然讀起來很有趣，但其中包含魔法與巫術的成分，甚至有歷史事實的錯誤。更重要的是，新約作者從未以「經上寫著說」（As it is written）來引用這些書卷。雖然新約偶爾會引用希臘詩人，但那與引用「聖經」的權威性截然不同。
 
-### II. 正典意識的興起：歷史催化因素
+關於「雅麥尼亞會議」（Council of Jamnia, AD 90），請務必修正一個常見的誤解：那並非猶太人「決定」舊約正典的時刻，而是當時的拉比在討論某些書卷（如《以斯帖記》，因書中未提及上帝之名）的地位。至於早期教會，從五旬節開始，他們就已經擁有舊約作為聖經，並伴隨著「耶穌傳統」（Jesus Traditions）——即關於耶穌言行的口傳教導，這些教導後來被記錄在四福音書中。
 
-教會開始嚴肅界定正典，並非因為缺乏聖經（早期教會從五旬節起就有舊約聖經與耶穌傳統），而是受到外部壓力與技術變革的推動：
+### 二、 正典形成的催化因素
 
-1.  **馬吉安異端（The Heresy of Marcion, AD 140）：** 馬吉安是一位諾斯底主義（Gnostic）異端，他編纂了一份極度刪減的「聖經」（僅含《路加福音》與十封保羅書信）。這種排他性的行為迫使正統教會必須明確界定：到底什麼才是真正的聖經？
-2.  **法典（Codex）的發明：** 早期使用卷軸（Scroll），容量有限。當「法典」（裝訂成冊的書）出現後，教會能將更多書卷合訂在一起。這引發了實質的篩選問題：若要將書卷與上帝的話語（如福音書）放在一起，必須確保其品質一致。
-3.  **大逼迫：** 當羅馬帝國試圖銷毀教會的聖經時，信徒被迫面對一個終極問題：哪些書卷是值得你為之殉道的？這促使教會對正典進行了嚴格的辨識。
+我們並非因為某個時刻突然「發明」了正典，而是因為歷史環境的壓力，促使教會必須明確界定哪些書卷具有權威。
 
-### III. 歷史發展：新約內部的見證與早期教父
+1. **馬吉安異端（The Heresy of Marcion, AD 140）：** 馬吉安是一位諾斯底主義者，他編纂了一份極其狹窄的「聖經」，只包含《路加福音》和十封保羅書信。當異端開始揮舞他們自己的「聖經」時，正統教會被迫思考：「我們的聖經到底是什麼？我們與他們有何不同？」這成為正典界定的重要動力。
+2. **抄本形式的演變（Codex Invention）：** 古代卷軸（Scroll）長度有限，但「冊子本」（Codex）的出現讓教會能將多卷書裝訂在一起。當你將馬太、馬可、路加、約翰福音放在一起時，你必須謹慎，確保旁邊沒有放入品質參差不齊的偽經。
+3. **教會受迫害：** 當羅馬帝國試圖銷毀教會的聖經時，信徒面臨一個生死攸關的問題：你願意為哪一卷書捨命？這迫使教會必須釐清哪些是真正神聖的著作。
 
-#### A. 新約內部的正典萌芽
-新約作者在書寫時，已隱約流露出將書信視為權威的意識：
-*   **書信的流通：** 在《歌羅西書》4:16 與《帖撒羅尼迦前書》5:27 中，保羅要求教會交換並公開朗讀他的書信。這顯示保羅的書信在當時已具備超越單一教會的權威。
-*   **彼得的見證：** 《彼得後書》3:16 是關鍵經文，彼得將保羅的書信與「其他的聖經」（the other Scriptures）並列，這是新約中極少數明確將保羅書信視為「聖經」的證據。
-*   **耶穌言論的權威：** 《提摩太前書》5:18 引用了「工人得工價是應當的」，這句話同時出現在《馬太福音》與《路加福音》中。雖然這可能源自口傳傳統（Oral Tradition），但保羅將其與舊約經文並列為「聖經」，顯示教會對耶穌言論的權威性與舊約同等看待。
+### 三、 新約內部的正典意識
 
-#### B. 早期教會著作與教父的見證
-隨著時間推移，教父們的著作提供了正典形成的軌跡：
-*   **帕皮亞（Papias, AD 135）：** 他對馬可與馬太福音的描述，顯示當時教會對福音書的準確性有極高的要求。
-*   **塔提安（Tatian）的《四福音合參》（Diatesseron）：** 他將四卷福音書編纂為一，證明到了 AD 170，教會已公認這四卷書為權威。
-*   **穆拉多利殘卷（Muratorian Canon）：** 這份二世紀末的殘卷列出了當時教會公認的書卷清單，雖然包含了一些後來未被納入的書卷（如《所羅門智慧書》），但其核心架構已與現代新約高度重合。
+新約聖經本身就記錄了這些書卷在教會間流傳與被視為權威的過程。
 
-#### C. 歸正神學視角下的分類：Homolegoumena 與 Antilegomena
-教父愛任紐（Irenaeus）及後來的歷史學家優西比烏（Eusebius）將書卷分為兩大類：
-1.  **公認書（Homolegoumena）：** 意為「眾人所承認的」。包括四福音、使徒行傳、保羅書信、約翰一書與彼得前書。這些書卷在教會中沒有爭議。
-2.  **爭議書（Antilegomena）：** 意為「眾人所反對/討論的」。這並不代表它們是假的，而是指在教會早期，針對《雅各書》、《猶大書》、《彼得後書》、《約翰二三書》、《希伯來書》與《啟示錄》，曾有部分地區或群體提出過質疑。
+* **書信的交換：** 在《歌羅西書》4:16，保羅要求將他的信在老底嘉教會誦讀，並閱讀來自老底嘉的信。這顯示保羅在世時，教會就已經開始收集並交換他的書信。同樣，《帖撒羅尼迦前書》5:27 也提到保羅要求將信讀給眾弟兄聽，這絕不僅限於單一教會。
+* **彼得的見證：** 《彼得後書》3:16 是關鍵經文。彼得提到保羅的書信，並將其與「別的經書」（the other Scriptures）相提並論。這是新約中唯一明確將保羅書信稱為「聖經」的經文。這意味著在當時，保羅的著作已具備與舊約同等的權威。
+* **耶穌言行的權威：** 在《提摩太前書》5:18，保羅引用「工人得工價是應當的」，這句話對應到《路加福音》10:7。無論這是否直接引用了書面福音書，它都顯示教會將耶穌的教導視為與舊約同等的「聖經」。
 
-### IV. 正典的澄清：優西比烏的總結
+### 四、 早期教會的發展與分類
 
-優西比烏在《教會史》（Ecclesiastical History）中系統化了這些分類。特別值得一提的是《啟示錄》，它在早期教會中呈現「極端化」的現象：要麼被視為極其神聖，要麼被視為異端（因孟他努派 Montanists 的濫用）。這種「非熱即冷」的態度，反映了早期教會在面對末世論教導時的謹慎與掙扎。透過這些歷史過程，我們可以看見聖靈如何帶領教會，在外部異端與內部爭議中，逐步確立了上帝默示的聖經正典。
+從西元二世紀開始，教父們的著作進一步證實了正典的成形。
+
+* **教父見證：** 克萊門（1st Clement）引用了保羅書信與路加、使徒行傳；《巴拿巴書信》甚至以「經上寫著說」來引用《馬太福音》。塔提安（Tatian）編纂的《四福音合參》（Diatesseron）更證明了當時教會已確立了四福音的權威。
+* **穆拉多利殘卷（Muratorian Canon）：** 這份二世紀末的殘卷列出了當時教會公認的書目，包括四福音、保羅書信、猶大書、約翰書信、啟示錄，甚至包含了一些次經（如《所羅門智訓》）。
+* **愛任紐與優西比烏的分類：** 為了處理書卷權威性的差異，教會發展出兩大概念：
+    1. **同受承認書（Homolegoumena）：** 指教會普遍承認、無人反對的書卷（如四福音、保羅書信、彼得前書、約翰一書）。
+    2. **爭議書（Antilegomena）：** 指大多數教會接受，但仍有少數人提出質疑的書卷（如雅各書、猶大書、彼得後書、希伯來書、啟示錄）。
+
+特別提到《啟示錄》，它在早期教會的地位非常兩極化。因為當時的「孟他努派」（Montanists）等末世狂熱份子過度濫用《啟示錄》，導致許多人對此書產生戒心。這不是因為書卷本身的問題，而是因為歷史背景中，人們對它的態度往往「非熱即冷」，缺乏中立的空間。
+
+總結來說，正典的形成並非教會強加的決定，而是教會在聖靈引導下，對上帝所賜之話語權威性的自然確認與回應。
 
 
 ## Lesson 37: 釋經學與聖經正典（下） (Hermeneutics and the Canon of Scripture (Part 2))
 
 > **大綱對照：**
-> 本文內容與所提供的大綱完全吻合。教學內容依序探討了正典（Canon）的確認過程、新教與天主教在正典觀點上的分歧、確認正典的準則、新約書卷的編排邏輯，以及關於啟示、無誤性與正典界限的進階神學問題。
+> 本文內容完全遵循所提供的大綱結構，並針對大綱中的各個要點進行了深入的擴充與神學闡釋。
 
 
 
-### 正典的確認與歷史發展
+### 一、 聖經正典的釐清
 
-在教會歷史中，新約正典的形成並非一蹴而就，也非從天而降的「金版」。史坦博士（Dr. Stein）指出，這是一個教會在聖靈引導下，對使徒著作進行「辨識」的過程。從優西比烏（Eusebius）對「公認書卷」（*homolegoumena*）與「爭議書卷」（*antilegomena*）的分類，到耶柔米（Jerome）與奧古斯丁（Augustine）的時代，再到希波（Hippo）與迦太基（Carthage）會議，教會逐漸確認了現今 27 卷書的地位。
+#### A. 對 27 卷新約書卷的確認
+我們在上一講中提到了優西比烏（Eusebius）對書卷的分類，即「公認書」（Homolegoumena）與「爭議書」（Antilegomena）。隨著時間推移，到了公元 400 年左右，教會歷史上兩位巨擘——當時最偉大的聖經學者耶柔米（Jerome）與最偉大的神學家奧古斯丁（Augustine）——在希波會議（Council of Hippo）與迦太基會議（Council of Carthage）中，正式確認了我們今天所擁有的這 27 卷書為新約正典。
 
-對於學生而言，這種歷史性的發展過程有時會造成困擾，但必須理解：這些書卷本就是使徒的著作，其權威性源於其使徒性，而非教會的「賦予」。教會的角色是「承認」（recognize）而非「製造」（make）權威。
+對於學生而言，看到正典形成的過程有時會感到不安，因為我們傾向於認為這些書卷應該像「金版」一樣從天而降，並立即被所有人承認。但事實上，這些書卷是由基督的使徒在不同地點寫成的，隨著教會的發展，這些書卷被匯集在一起。值得注意的是，新約聖經中絕大多數的書卷從未受到過任何質疑，這顯示了聖靈在教會歷史中的引導。
 
-### 新教與羅馬天主教的根本分歧
+#### B. 新教與羅馬天主教的爭論
+在正典問題上，新教（Protestantism）與羅馬天主教（Roman Catholicism）之間存在一個核心的神學分歧，可以用一個簡單的問題來概括：**「新約聖經是一個『具權威性的書卷集合』，還是一個『權威書卷的集合』？」**
 
-本課提出了一個關鍵的神學問題：新約是「權威書卷的集合」（a collection of authoritative books），還是「權威性的書卷集合」（an authoritative collection of books）？
+如果你認為它是前者，那麼權威的來源就在於「收集者」（即教會），是教會賦予了這些書卷權威。然而，改革宗（Reformed）的立場堅定地認為，這些書卷的權威直接來自上帝。教會所做的並非「製造」權威，而是「承認」這些書卷本身固有的權威。教會並不將權威傳遞給書卷，而是辨識出這些書卷原本就是上帝的話語。
 
-*   **羅馬天主教觀點**：傾向於後者，認為權威來自於「收集者」（即教會），教會透過其權柄賦予這些書卷正典地位。
-*   **改革宗（Protestant）觀點**：堅持前者，認為書卷的權威直接來自上帝。教會的職責是辨識這些書卷本身固有的神聖權威。這區別至關重要，因為它決定了我們對「神聖權威」的理解基礎——權威是內在於神所默示的文字，而非外加於教會的制度。
+### 二、 辨識權威書卷的因素
 
-### 確認正典的四項準則
+在教會確認哪些書卷具有權威的過程中，有幾個關鍵因素發揮了作用：
 
-在辨識哪些書卷具有權威時，教會主要依據以下四個因素：
+1.  **使徒性（Apostolic Authorship）：** 教會審視書卷是否由使徒所寫，或與使徒有直接關聯。例如，馬可（Mark）雖非使徒，但他被視為使徒彼得的左右手；路加（Luke）則是保羅的親密同工。這種與使徒的連結是教會認可書卷的重要依據。
+2.  **持續的使用（Continuous Usage）：** 正典書卷並非曇花一現的「流行讀物」。它們從一開始就在教會中被持續閱讀與使用。相比之下，像《黑馬牧人書》（Shepherd of Hermas）這類書卷，雖然在某些時期曾引起轟動，但因缺乏教會長期的持續使用，最終未被納入正典。
+3.  **合一性與一致性（Unity and Agreement）：** 新約書卷必須與已確認的聖經教導保持一致。如果一本書的內容與福音書或保羅書信的教導相衝突，教會就不會接受它。
+4.  **聖靈的督導（Superintendence of the Holy Spirit）：** 這是我深信不疑的一點。上帝既然差遣祂的兒子為世人的罪而死，並使祂從死裡復活，祂絕不會在歷史中對這些見證的記錄袖手旁觀。我相信上帝在歷史的護理中，引導祂的子民將這些見證寫下、保存並最終被教會辨識出來。這並非說教會的辨識過程是絕對無誤的，但上帝的靈在教會生活中的督導，保證了新約聖經與上帝所啟示的話語保持和諧。
 
-1.  **使徒性（Apostolic Authorship）**：書卷是否由使徒撰寫，或與使徒有直接關聯（如馬可與彼得、路加與保羅）。這確保了書卷與耶穌基督的直接見證相連。
-2.  **持續的使用（Continuous Usage）**：正典書卷並非「曇花一現」（Johnny-come-lately）。它們從一開始就在教會中被廣泛且持續地閱讀與教導。史坦博士以《黑馬牧人書》（*Shepherd of Hermas*）為例，說明該書雖曾短暫流行，但因缺乏持續的教會使用與使徒根基，最終未被納入正典。
-3.  **合一性與一致性（Unity and Agreement）**：書卷必須與已確認的聖經教義相符。任何與福音書或保羅書信相衝突的著作，均無法被視為神的話語。
-4.  **聖靈的監管（Superintendence of the Holy Spirit）**：這是最核心的保證。神既然差遣獨生子為世人死並使其復活，祂必然會透過聖靈在歷史中監管，確保這些見證被準確記錄、保存並被教會辨識出來。這是一種對神護理（Providence）的信心。
+### 三、 新約書卷的編排
 
-### 新約書卷的編排邏輯
+新約書卷的編排並非嚴格按照時間順序，而是基於邏輯順序：
+*   **福音書與使徒行傳：** 首先是四卷福音書，馬太、馬可、路加因內容相似而排列在一起，約翰福音則因其獨特性置於第四。接著是《使徒行傳》，它不僅是教會歷史的總覽，也與路加福音同為路加所著，因此緊接在後。
+*   **保羅書信：** 這些書信主要按篇幅大小排列（如羅馬書較大，腓利門書較小）。
+*   **大公書信（Catholic Epistles）：** 這裡的「大公」（Catholic）意指「普世性」，因為這些書信（雅各書至猶大書）並非寫給特定教會，而是寫給普世教會的。
+*   **啟示錄：** 作為歷史的終結，它是整本聖經最完美的結尾。
 
-新約的編排並非按時間順序，而是按「邏輯順序」：
-*   **福音書與使徒行傳**：先呈現耶穌的生平（馬太、馬可、路加、約翰），緊接著是路加所寫的教會歷史（使徒行傳）。
-*   **保羅書信**：主要按篇幅大小排列（從羅馬書到腓利門書），而非按寫作日期。
-*   **大公書信（Catholic Epistles）**：此處的「大公」（*catholic*）意指「普世性」，因為這些書信（雅各書至猶大書）並非寫給特定教會，而是寫給普世教會。
-*   **啟示錄**：作為歷史終局的預言，是整本聖經完美的結尾。
+### 四、 結語與反思
 
-### 啟示、無誤性與原始手稿
+#### A. 無誤性與啟示
+當我們談論聖經的無誤（Inerrancy）與啟示（Inspiration）時，我們必須明確：這指的是「原始手稿」（Original Autographs）。雖然我們目前的聖經版本在文本鑑別上已達到極高的準確度，但我們必須承認，只有原始手稿才是上帝直接默示的。
 
-關於「聖經無誤」，必須釐清我們所指的對象。我們所說的「無誤」是指「原始手稿」（original autographs）。雖然現今的聖經譯本已極度接近原文，但我們必須承認，抄寫過程中可能出現人為錯誤。因此，當我們談論權威時，是指神最初透過使徒所默示的內容。
+#### B. 保羅對其書信權威的認知
+有人會問，保羅在寫作時是否意識到他正在寫「聖經」？雖然我們不知道保羅是否預見 2000 年後的狀況，但從《帖撒羅尼迦前書》5:27、《帖撒羅尼迦後書》3:14 以及《哥林多前書》14:37 等經文可以看出，保羅確實要求他的書信在眾教會中被閱讀並被視為「主的命令」。他寫作時是以使徒的身份，帶著上帝賦予的權柄，這正是我們將其視為正典的原因。
 
-針對「保羅是否知道自己在寫聖經」的質疑，史坦博士引用了帖撒羅尼迦前書 5:27、帖撒羅尼迦後書 3:14 及哥林多前書 14:37 等經文。保羅明確要求他的信件要在眾教會中被宣讀，並要求信徒順服其中的教導。這顯示保羅在寫作時，深知自己是以使徒的身分傳達主的命令，其書寫具有與舊約同等的權威。
+#### C. 關於失落書信的假設
+若我們發現了保羅提到的「老底嘉書信」或「哥林多前書之前的書信」，它們會成為正典嗎？這是一個有趣的假設。但即便發現了這些書信，教會仍會透過「使徒性」與「聖靈的督導」來審視其內容是否與現有聖經教導一致。如果內容與羅馬書衝突，教會必然會拒絕。我們不必為此失眠，因為上帝在護理中已確保我們擁有祂認為必要的一切話語。
 
-### 關於「失落書信」與文本校勘的牧養建議
-
-針對保羅可能寫過但未被保存的書信（如「老底嘉書信」或「哥林多前書之前的書信」），史坦博士認為，若神認為這些書信對教會的救恩與信仰是必要的，祂必會透過聖靈的監管將其保存下來。
-
-最後，針對牧者如何處理文本問題（如約翰一書 5:7 的增補問題），史坦博士提醒：牧者應教導會眾關於聖經文本歷史的知識，而非迴避問題。我們不應為了維護某個傳統而添加不屬於聖經的內容，因為聖經本身就是神所默示的，其權威不依賴於後世的增補。牧者的責任是誠實地引導會眾認識聖經的形成過程，建立他們對神話語的堅定信心。
+最後，關於啟示的性質，我們應區分「啟示」與「日常瑣事」。保羅在寫作書信時是受聖靈引導的，但這並不代表他所說的每一句話（例如日常生活的瑣事）都具有同等的啟示權威。當他以使徒身份寫作時，他是在上帝的督導下無誤地傳達真理。作為牧者，我們應當教導會眾理解聖經的形成歷史，特別是面對如《約翰一書》5:7 這類後來被加入的經文，我們應誠實地處理，強調聖經的寶貴在於其原始的純淨，而非人為的增刪。
 
